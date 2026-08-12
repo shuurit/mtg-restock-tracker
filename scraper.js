@@ -165,7 +165,7 @@ async function run() {
   }
 
   if (!prevState) {
-    saveState({ items: currentItems, lastChecked: new Date().toISOString() });
+    saveState({ items: currentItems, pendingNew: {}, lastChecked: new Date().toISOString() });
     await postDiscord(
       `🟢 MTG Amazon tracker is live — baseline captured, ${Object.keys(currentItems).length} SKUs seen across Home/Preorder/New Releases.`
     );
@@ -173,15 +173,43 @@ async function run() {
     return;
   }
 
+  // The storefront's carousels don't reliably serve the same product set on
+  // every request (rotation/personalization on Amazon's side, not just a
+  // rendering timing issue) — a brand-new ASIN can appear once, vanish, then
+  // reappear hours later with nothing having actually changed on Amazon.
+  // So a first sighting is held as a "pending" candidate rather than
+  // alerted immediately; it only gets promoted to a real NEW alert once
+  // seen again on a later run. Candidates that never get re-seen just age
+  // out silently after PENDING_TTL_MS.
+  const prevPending = prevState.pendingNew || {};
+  const nextPending = {};
+  const now = Date.now();
+  const PENDING_TTL_MS = 24 * 60 * 60 * 1000;
+
   const newItems = [];
   const restocks = [];
 
   for (const [asin, item] of Object.entries(currentItems)) {
     const prev = prevItems[asin];
-    if (!prev) {
+    if (prev) {
+      if (!prev.available && item.available) restocks.push(item);
+      continue;
+    }
+    if (prevPending[asin]) {
+      // seen as a candidate before, and seen again now — confirmed.
       newItems.push(item);
-    } else if (!prev.available && item.available) {
-      restocks.push(item);
+    } else {
+      // first-ever sighting — hold it, don't alert yet.
+      nextPending[asin] = { item, firstSeenAt: now };
+    }
+  }
+
+  // Carry forward candidates not re-confirmed this run, as long as they're
+  // not stale (they may just not have rendered on this particular pass).
+  for (const [asin, pending] of Object.entries(prevPending)) {
+    if (currentItems[asin]) continue; // already promoted or already confirmed above
+    if (now - pending.firstSeenAt < PENDING_TTL_MS) {
+      nextPending[asin] = pending;
     }
   }
 
@@ -209,7 +237,7 @@ async function run() {
   }
 
   const mergedItems = { ...prevItems, ...currentItems };
-  saveState({ items: mergedItems, lastChecked: new Date().toISOString() });
+  saveState({ items: mergedItems, pendingNew: nextPending, lastChecked: new Date().toISOString() });
 }
 
 run().catch((err) => {
