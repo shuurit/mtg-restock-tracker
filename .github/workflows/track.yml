@@ -1,8 +1,6 @@
 name: MTG Storefront Tracker
 
 on:
-  schedule:
-    - cron: '17 * * * *'
   workflow_dispatch: {}
 
 permissions:
