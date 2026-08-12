@@ -1,0 +1,13 @@
+{
+  "name": "mtg-restock-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tracks the Magic: The Gathering Amazon storefront for new items and restocks, posts changes to Discord",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "dependencies": {
+    "playwright": "^1.47.0"
+  }
+}
