@@ -7,7 +7,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
@@ -38,7 +37,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
@@ -59,7 +57,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
@@ -90,7 +87,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
@@ -121,7 +117,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
@@ -152,7 +147,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
@@ -163,7 +157,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
@@ -204,7 +197,6 @@
       "available": false,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
@@ -245,7 +237,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
@@ -256,7 +247,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
@@ -277,7 +267,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
@@ -308,7 +297,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "new_releases"
       ]
     },
@@ -347,7 +335,7 @@
       "title": "Magic: The Gathering | Marvel Super Heroes Collector Booster | 1 Pack of 15 Cards | Collectible Trading Card Game",
       "price": "$44.78",
       "available": true,
-      "lowStockNote": "Only 2 left in stock",
+      "lowStockNote": null,
       "tabs": [
         "new_releases"
       ]
@@ -359,7 +347,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "new_releases"
       ]
     },
@@ -396,11 +383,10 @@
     "B0GF44MVBP": {
       "asin": "B0GF44MVBP",
       "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck Bundle - Includes All 4 Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
-      "price": "$199.98",
+      "price": "$199.99",
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "new_releases"
       ]
     },
@@ -409,7 +395,7 @@
       "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Avengers Assemble (100-Card Deck + Accessories)",
       "price": "$64.92",
       "available": true,
-      "lowStockNote": "Only 1 left in stock",
+      "lowStockNote": null,
       "tabs": [
         "new_releases"
       ]
@@ -437,7 +423,7 @@
     "B0G87C83NR": {
       "asin": "B0G87C83NR",
       "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Doom Prevails (100-Card Deck + Accessories)",
-      "price": "$73.96",
+      "price": "$73.93",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -447,7 +433,7 @@
     "B0G89MWJMC": {
       "asin": "B0G89MWJMC",
       "title": "Magic: The Gathering | Marvel Super Heroes Scene Box - Heroes United | 6 Foil Borderless Scene Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
-      "price": "$34.64",
+      "price": "$34.57",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -461,7 +447,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "new_releases"
       ]
     },
@@ -518,7 +503,7 @@
     "B0G87VXM5G": {
       "asin": "B0G87VXM5G",
       "title": "Magic: The Gathering Secrets of Strixhaven - Codex Bundle (2 Collector Boosters, 6 Play Boosters, 2 Foil Promo Cards, 20 Foil Lands, 1 Spindown)",
-      "price": "$148.40",
+      "price": "$148.37",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -686,5 +671,5 @@
       ]
     }
   },
-  "lastChecked": "2026-08-12T07:16:37.581Z"
+  "lastChecked": "2026-08-12T08:16:33.193Z"
 }
