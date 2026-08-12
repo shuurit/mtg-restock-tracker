@@ -13,7 +13,7 @@
     "B0GXC89N66": {
       "asin": "B0GXC89N66",
       "title": "Magic: The Gathering | The Hobbit Collector Booster Box | 12 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-      "price": "$860.00",
+      "price": "$859.95",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -63,7 +63,7 @@
     "B0GWRZF6HC": {
       "asin": "B0GWRZF6HC",
       "title": "Magic: The Gathering | The Hobbit Scene Box - Treasures of Smaug| 6 Foil Borderless Scene Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
-      "price": "$79.95",
+      "price": "$79.94",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -303,7 +303,7 @@
     "B0G87JWX8L": {
       "asin": "B0G87JWX8L",
       "title": "Magic: The Gathering | Marvel Super Heroes Beginner Box | 2-Player Card Game | Includes 2 Tutorial Decks, 8 Themed Half-Decks, 2 Playboards, 2 Spindowns, and More",
-      "price": "$24.42",
+      "price": "$24.11",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -345,7 +345,7 @@
       "title": "Magic: The Gathering | Marvel Super Heroes Bundle | Includes 9 Play Boosters, 30 Lands, 1 Foil Alt-Art Promo Card + Exclusive Accessories | Collectible Trading Card Game",
       "price": "$64.49",
       "available": true,
-      "lowStockNote": null,
+      "lowStockNote": "Only 16 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -395,7 +395,7 @@
       "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Avengers Assemble (100-Card Deck + Accessories)",
       "price": "$64.92",
       "available": true,
-      "lowStockNote": "Only 2 left in stock",
+      "lowStockNote": "Only 1 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -423,9 +423,9 @@
     "B0G87C83NR": {
       "asin": "B0G87C83NR",
       "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Doom Prevails (100-Card Deck + Accessories)",
-      "price": "$73.95",
+      "price": "$73.96",
       "available": true,
-      "lowStockNote": "Only 1 left in stock",
+      "lowStockNote": null,
       "tabs": [
         "new_releases"
       ]
@@ -433,7 +433,7 @@
     "B0G89MWJMC": {
       "asin": "B0G89MWJMC",
       "title": "Magic: The Gathering | Marvel Super Heroes Scene Box - Heroes United | 6 Foil Borderless Scene Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
-      "price": "$34.67",
+      "price": "$34.61",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -525,7 +525,7 @@
       "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Silverquill Influence (100-Card Deck, Deck Box + Accessories)",
       "price": "$51.99",
       "available": true,
-      "lowStockNote": "Only 8 left in stock",
+      "lowStockNote": null,
       "tabs": [
         "new_releases"
       ]
@@ -672,5 +672,5 @@
     }
   },
   "pendingNew": {},
-  "lastChecked": "2026-08-12T21:16:31.058Z"
+  "lastChecked": "2026-08-12T22:16:50.342Z"
 }
