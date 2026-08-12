@@ -193,8 +193,8 @@
     "B0H6H8KS14": {
       "asin": "B0H6H8KS14",
       "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
-      "price": "$99.99",
-      "available": true,
+      "price": null,
+      "available": false,
       "lowStockNote": null,
       "tabs": [
         "preorder"
@@ -293,7 +293,7 @@
     "B0GF4MXFPC": {
       "asin": "B0GF4MXFPC",
       "title": "Magic: The Gathering | Marvel Super Heroes Play Booster Box | 30 Packs | Collectible Trading Card Game",
-      "price": "$147.99",
+      "price": "$119.94",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -433,7 +433,7 @@
     "B0G89MWJMC": {
       "asin": "B0G89MWJMC",
       "title": "Magic: The Gathering | Marvel Super Heroes Scene Box - Heroes United | 6 Foil Borderless Scene Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
-      "price": "$34.83",
+      "price": "$34.82",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -661,5 +661,5 @@
       ]
     }
   },
-  "lastChecked": "2026-08-12T03:24:42.405Z"
+  "lastChecked": "2026-08-12T03:29:03.030Z"
 }
