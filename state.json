@@ -13,7 +13,7 @@
     "B0GXC89N66": {
       "asin": "B0GXC89N66",
       "title": "Magic: The Gathering | The Hobbit Collector Booster Box | 12 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-      "price": "$864.95",
+      "price": "$860.00",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -355,7 +355,7 @@
       "title": "Magic: The Gathering | Marvel Super Heroes - Bundle: Gift Edition (Deluxe Bundle with 1 Collector Booster, 9 Play Boosters, 30 Lands, 1 Alt-Art Card + Exclusive Accessories)",
       "price": "$98.99",
       "available": true,
-      "lowStockNote": "Only 2 left in stock",
+      "lowStockNote": "Only 3 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -363,9 +363,9 @@
     "B0GF4M5P4C": {
       "asin": "B0GF4M5P4C",
       "title": "Magic: The Gathering | Marvel Super Heroes Jumpstart Booster Box | 24 Packs | 2-Player Card Game",
-      "price": "$129.96",
+      "price": "$129.93",
       "available": true,
-      "lowStockNote": "Only 5 left in stock",
+      "lowStockNote": null,
       "tabs": [
         "new_releases"
       ]
@@ -385,7 +385,7 @@
       "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck Bundle - Includes All 4 Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
       "price": "$199.99",
       "available": true,
-      "lowStockNote": "Only 12 left in stock",
+      "lowStockNote": "Only 11 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -425,7 +425,7 @@
       "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Doom Prevails (100-Card Deck + Accessories)",
       "price": "$73.96",
       "available": true,
-      "lowStockNote": "Only 1 left in stock",
+      "lowStockNote": null,
       "tabs": [
         "new_releases"
       ]
@@ -433,7 +433,7 @@
     "B0G89MWJMC": {
       "asin": "B0G89MWJMC",
       "title": "Magic: The Gathering | Marvel Super Heroes Scene Box - Heroes United | 6 Foil Borderless Scene Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
-      "price": "$34.97",
+      "price": "$34.91",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -493,9 +493,9 @@
     "B0G866V9ZF": {
       "asin": "B0G866V9ZF",
       "title": "Magic: The Gathering Secrets of Strixhaven - Bundle (9 Play Boosters, 30 Lands, 1 Alt-Art Card + Exclusive Accessories)",
-      "price": "$50.00",
+      "price": "$50.45",
       "available": true,
-      "lowStockNote": null,
+      "lowStockNote": "Only 9 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -525,7 +525,7 @@
       "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Silverquill Influence (100-Card Deck, Deck Box + Accessories)",
       "price": "$51.99",
       "available": true,
-      "lowStockNote": null,
+      "lowStockNote": "Only 9 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -593,7 +593,7 @@
     "B0FR6W5K12": {
       "asin": "B0FR6W5K12",
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Play Booster Box | 30 Packs | Collectible Trading Card Game",
-      "price": "$138.00",
+      "price": "$129.95",
       "available": true,
       "lowStockNote": "Only 1 left in stock",
       "tabs": [
@@ -672,5 +672,5 @@
     }
   },
   "pendingNew": {},
-  "lastChecked": "2026-08-12T16:16:32.868Z"
+  "lastChecked": "2026-08-12T17:16:31.194Z"
 }
