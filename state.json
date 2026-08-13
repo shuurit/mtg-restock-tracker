@@ -303,7 +303,7 @@
     "B0G87JWX8L": {
       "asin": "B0G87JWX8L",
       "title": "Magic: The Gathering | Marvel Super Heroes Beginner Box | 2-Player Card Game | Includes 2 Tutorial Decks, 8 Themed Half-Decks, 2 Playboards, 2 Spindowns, and More",
-      "price": "$23.24",
+      "price": "$23.44",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -335,7 +335,7 @@
       "title": "Magic: The Gathering | Marvel Super Heroes Collector Booster | 1 Pack of 15 Cards | Collectible Trading Card Game",
       "price": "$44.78",
       "available": true,
-      "lowStockNote": "Only 2 left in stock",
+      "lowStockNote": null,
       "tabs": [
         "new_releases"
       ]
@@ -365,7 +365,7 @@
       "title": "Magic: The Gathering | Marvel Super Heroes Jumpstart Booster Box | 24 Packs | 2-Player Card Game",
       "price": "$129.89",
       "available": true,
-      "lowStockNote": "Only 4 left in stock",
+      "lowStockNote": "Only 8 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -385,7 +385,7 @@
       "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck Bundle - Includes All 4 Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
       "price": "$199.99",
       "available": true,
-      "lowStockNote": "Only 12 left in stock",
+      "lowStockNote": null,
       "tabs": [
         "new_releases"
       ]
@@ -423,9 +423,9 @@
     "B0G87C83NR": {
       "asin": "B0G87C83NR",
       "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Doom Prevails (100-Card Deck + Accessories)",
-      "price": "$73.92",
+      "price": "$73.91",
       "available": true,
-      "lowStockNote": "Only 1 left in stock",
+      "lowStockNote": null,
       "tabs": [
         "new_releases"
       ]
@@ -433,7 +433,7 @@
     "B0G89MWJMC": {
       "asin": "B0G89MWJMC",
       "title": "Magic: The Gathering | Marvel Super Heroes Scene Box - Heroes United | 6 Foil Borderless Scene Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
-      "price": "$34.65",
+      "price": "$34.58",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -615,7 +615,7 @@
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Bundle | 9 Play Boosters, 30 Lands, Foil Alt-Art Promo Card + Exclusive Accessories | Collectible Trading Card Game",
       "price": "$54.97",
       "available": true,
-      "lowStockNote": "Only 5 left in stock",
+      "lowStockNote": "Only 9 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -623,7 +623,7 @@
     "B0FR7G52PN": {
       "asin": "B0FR7G52PN",
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Pizza Bundle | Collectible Trading Card Game",
-      "price": "$99.83",
+      "price": "$99.80",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -672,5 +672,5 @@
     }
   },
   "pendingNew": {},
-  "lastChecked": "2026-08-13T05:16:38.038Z"
+  "lastChecked": "2026-08-13T06:16:31.338Z"
 }
