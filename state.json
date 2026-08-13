@@ -193,8 +193,8 @@
     "B0H6H8KS14": {
       "asin": "B0H6H8KS14",
       "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
-      "price": null,
-      "available": false,
+      "price": "$99.99",
+      "available": true,
       "lowStockNote": null,
       "tabs": [
         "preorder"
@@ -383,9 +383,9 @@
     "B0GF44MVBP": {
       "asin": "B0GF44MVBP",
       "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck Bundle - Includes All 4 Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
-      "price": "$199.99",
+      "price": "$184.95",
       "available": true,
-      "lowStockNote": "Only 4 left in stock",
+      "lowStockNote": "Only 3 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -423,9 +423,9 @@
     "B0G87C83NR": {
       "asin": "B0G87C83NR",
       "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Doom Prevails (100-Card Deck + Accessories)",
-      "price": "$73.55",
+      "price": "$73.52",
       "available": true,
-      "lowStockNote": null,
+      "lowStockNote": "Only 1 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -433,7 +433,7 @@
     "B0G89MWJMC": {
       "asin": "B0G89MWJMC",
       "title": "Magic: The Gathering | Marvel Super Heroes Scene Box - Heroes United | 6 Foil Borderless Scene Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
-      "price": "$34.62",
+      "price": "$34.57",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -495,7 +495,7 @@
       "title": "Magic: The Gathering Secrets of Strixhaven - Bundle (9 Play Boosters, 30 Lands, 1 Alt-Art Card + Exclusive Accessories)",
       "price": "$51.00",
       "available": true,
-      "lowStockNote": "Only 7 left in stock",
+      "lowStockNote": "Only 4 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -545,7 +545,7 @@
       "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Witherbloom Pestilence (100-Card Deck, Deck Box + Accessories)",
       "price": "$48.00",
       "available": true,
-      "lowStockNote": null,
+      "lowStockNote": "Only 1 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -672,5 +672,5 @@
     }
   },
   "pendingNew": {},
-  "lastChecked": "2026-08-13T22:16:36.831Z"
+  "lastChecked": "2026-08-13T23:16:39.235Z"
 }
