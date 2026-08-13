@@ -3,7 +3,7 @@
     "B0GXCBJG9L": {
       "asin": "B0GXCBJG9L",
       "title": "Magic: The Gathering | The Hobbit Play Booster Box | 30 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-      "price": "$189.99",
+      "price": "$209.99",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -303,7 +303,7 @@
     "B0G87JWX8L": {
       "asin": "B0G87JWX8L",
       "title": "Magic: The Gathering | Marvel Super Heroes Beginner Box | 2-Player Card Game | Includes 2 Tutorial Decks, 8 Themed Half-Decks, 2 Playboards, 2 Spindowns, and More",
-      "price": "$23.76",
+      "price": "$23.93",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -365,7 +365,7 @@
       "title": "Magic: The Gathering | Marvel Super Heroes Jumpstart Booster Box | 24 Packs | 2-Player Card Game",
       "price": "$129.89",
       "available": true,
-      "lowStockNote": "Only 4 left in stock",
+      "lowStockNote": "Only 12 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -385,7 +385,7 @@
       "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck Bundle - Includes All 4 Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
       "price": "$199.99",
       "available": true,
-      "lowStockNote": "Only 12 left in stock",
+      "lowStockNote": null,
       "tabs": [
         "new_releases"
       ]
@@ -425,7 +425,7 @@
       "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Doom Prevails (100-Card Deck + Accessories)",
       "price": "$73.96",
       "available": true,
-      "lowStockNote": null,
+      "lowStockNote": "Only 1 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -433,7 +433,7 @@
     "B0G89MWJMC": {
       "asin": "B0G89MWJMC",
       "title": "Magic: The Gathering | Marvel Super Heroes Scene Box - Heroes United | 6 Foil Borderless Scene Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
-      "price": "$34.81",
+      "price": "$34.75",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -475,7 +475,7 @@
       "title": "Magic: The Gathering Secrets of Strixhaven - Collector Booster Box (12 Packs)",
       "price": "$576.92",
       "available": true,
-      "lowStockNote": null,
+      "lowStockNote": "Only 5 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -672,5 +672,5 @@
     }
   },
   "pendingNew": {},
-  "lastChecked": "2026-08-13T00:16:42.708Z"
+  "lastChecked": "2026-08-13T01:16:30.097Z"
 }
