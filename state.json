@@ -193,8 +193,8 @@
     "B0H6H8KS14": {
       "asin": "B0H6H8KS14",
       "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
-      "price": null,
-      "available": false,
+      "price": "$99.99",
+      "available": true,
       "lowStockNote": null,
       "tabs": [
         "preorder"
@@ -303,7 +303,7 @@
     "B0G87JWX8L": {
       "asin": "B0G87JWX8L",
       "title": "Magic: The Gathering | Marvel Super Heroes Beginner Box | 2-Player Card Game | Includes 2 Tutorial Decks, 8 Themed Half-Decks, 2 Playboards, 2 Spindowns, and More",
-      "price": "$24.05",
+      "price": "$23.76",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -315,7 +315,7 @@
       "title": "Magic: The Gathering | Marvel Super Heroes - Draft Night (1 Collector Booster, 12 Play Boosters, 90 Lands)",
       "price": "$100.17",
       "available": true,
-      "lowStockNote": "Only 1 left in stock",
+      "lowStockNote": null,
       "tabs": [
         "new_releases"
       ]
@@ -385,7 +385,7 @@
       "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck Bundle - Includes All 4 Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
       "price": "$199.99",
       "available": true,
-      "lowStockNote": null,
+      "lowStockNote": "Only 12 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -433,7 +433,7 @@
     "B0G89MWJMC": {
       "asin": "B0G89MWJMC",
       "title": "Magic: The Gathering | Marvel Super Heroes Scene Box - Heroes United | 6 Foil Borderless Scene Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
-      "price": "$34.56",
+      "price": "$34.81",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -495,7 +495,7 @@
       "title": "Magic: The Gathering Secrets of Strixhaven - Bundle (9 Play Boosters, 30 Lands, 1 Alt-Art Card + Exclusive Accessories)",
       "price": "$50.99",
       "available": true,
-      "lowStockNote": "Only 5 left in stock",
+      "lowStockNote": "Only 4 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -503,9 +503,9 @@
     "B0G87VXM5G": {
       "asin": "B0G87VXM5G",
       "title": "Magic: The Gathering Secrets of Strixhaven - Codex Bundle (2 Collector Boosters, 6 Play Boosters, 2 Foil Promo Cards, 20 Foil Lands, 1 Spindown)",
-      "price": "$144.99",
+      "price": "$148.61",
       "available": true,
-      "lowStockNote": "Only 1 left in stock",
+      "lowStockNote": null,
       "tabs": [
         "new_releases"
       ]
@@ -525,7 +525,7 @@
       "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Silverquill Influence (100-Card Deck, Deck Box + Accessories)",
       "price": "$51.99",
       "available": true,
-      "lowStockNote": "Only 7 left in stock",
+      "lowStockNote": null,
       "tabs": [
         "new_releases"
       ]
@@ -672,5 +672,5 @@
     }
   },
   "pendingNew": {},
-  "lastChecked": "2026-08-12T23:16:32.848Z"
+  "lastChecked": "2026-08-13T00:16:42.708Z"
 }
