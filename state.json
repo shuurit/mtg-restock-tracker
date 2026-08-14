@@ -335,7 +335,7 @@
       "title": "Magic: The Gathering | Marvel Super Heroes Collector Booster | 1 Pack of 15 Cards | Collectible Trading Card Game",
       "price": "$44.77",
       "available": true,
-      "lowStockNote": "Only 1 left in stock",
+      "lowStockNote": null,
       "tabs": [
         "new_releases"
       ]
@@ -395,7 +395,7 @@
       "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Avengers Assemble (100-Card Deck + Accessories)",
       "price": "$64.92",
       "available": true,
-      "lowStockNote": "Only 1 left in stock",
+      "lowStockNote": "Only 2 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -643,7 +643,7 @@
     "B0FR6HPWJB": {
       "asin": "B0FR6HPWJB",
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Collector Booster Single Pack (1 Pack) | Collectible Trading Card Game",
-      "price": "$47.79",
+      "price": "$47.00",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -672,5 +672,5 @@
     }
   },
   "pendingNew": {},
-  "lastChecked": "2026-08-14T14:16:36.499Z"
+  "lastChecked": "2026-08-14T15:16:41.213Z"
 }
