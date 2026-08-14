@@ -73,7 +73,7 @@
     "B0GWS582CC": {
       "asin": "B0GWS582CC",
       "title": "Magic: The Gathering | The Hobbit Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens | Collectible Trading Card Game",
-      "price": "$176.95",
+      "price": "$160.92",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -333,9 +333,9 @@
     "B0G8836V29": {
       "asin": "B0G8836V29",
       "title": "Magic: The Gathering | Marvel Super Heroes Collector Booster | 1 Pack of 15 Cards | Collectible Trading Card Game",
-      "price": "$44.77",
+      "price": "$44.99",
       "available": true,
-      "lowStockNote": "Only 4 left in stock",
+      "lowStockNote": null,
       "tabs": [
         "new_releases"
       ]
@@ -385,7 +385,7 @@
       "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck Bundle - Includes All 4 Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
       "price": "$184.95",
       "available": true,
-      "lowStockNote": null,
+      "lowStockNote": "Only 4 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -423,9 +423,9 @@
     "B0G87C83NR": {
       "asin": "B0G87C83NR",
       "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Doom Prevails (100-Card Deck + Accessories)",
-      "price": "$73.90",
+      "price": "$73.88",
       "available": true,
-      "lowStockNote": "Only 1 left in stock",
+      "lowStockNote": null,
       "tabs": [
         "new_releases"
       ]
@@ -473,7 +473,7 @@
     "B0GFDD1RLS": {
       "asin": "B0GFDD1RLS",
       "title": "Magic: The Gathering Secrets of Strixhaven - Collector Booster Box (12 Packs)",
-      "price": "$599.00",
+      "price": "$576.92",
       "available": true,
       "lowStockNote": "Only 4 left in stock",
       "tabs": [
@@ -605,7 +605,7 @@
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Draft Night | Collectible Trading Card Game",
       "price": "$72.98",
       "available": true,
-      "lowStockNote": "Only 1 left in stock",
+      "lowStockNote": "Only 8 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -653,7 +653,7 @@
     "B0FR717633": {
       "asin": "B0FR717633",
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Commander Deck - Turtle Power! | Collectible Trading Card Game",
-      "price": "$49.99",
+      "price": "$65.00",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -672,5 +672,5 @@
     }
   },
   "pendingNew": {},
-  "lastChecked": "2026-08-14T09:16:30.466Z"
+  "lastChecked": "2026-08-14T10:16:44.613Z"
 }
