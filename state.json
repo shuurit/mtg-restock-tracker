@@ -3,18 +3,17 @@
     "B0GXCBJG9L": {
       "asin": "B0GXCBJG9L",
       "title": "Magic: The Gathering | The Hobbit Play Booster Box | 30 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-      "price": "$235.87",
+      "price": "$232.97",
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
     "B0GXC89N66": {
       "asin": "B0GXC89N66",
       "title": "Magic: The Gathering | The Hobbit Collector Booster Box | 12 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-      "price": "$859.45",
+      "price": "$858.95",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -24,7 +23,7 @@
     "B0GWS9J9VT": {
       "asin": "B0GWS9J9VT",
       "title": "Magic: The Gathering | The Hobbit Collector Booster | 1 Pack (15 Cards) | Collectible Trading Card Game",
-      "price": "$78.70",
+      "price": "$78.69",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -38,7 +37,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
@@ -59,7 +57,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
@@ -90,7 +87,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
@@ -121,7 +117,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
@@ -152,7 +147,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
@@ -163,7 +157,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
@@ -204,7 +197,6 @@
       "available": false,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
@@ -245,7 +237,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
@@ -256,7 +247,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
@@ -277,7 +267,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
@@ -406,7 +395,7 @@
       "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Avengers Assemble (100-Card Deck + Accessories)",
       "price": "$64.92",
       "available": true,
-      "lowStockNote": "Only 2 left in stock",
+      "lowStockNote": "Only 3 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -434,7 +423,7 @@
     "B0G87C83NR": {
       "asin": "B0G87C83NR",
       "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Doom Prevails (100-Card Deck + Accessories)",
-      "price": "$73.46",
+      "price": "$73.92",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -444,7 +433,7 @@
     "B0G89MWJMC": {
       "asin": "B0G89MWJMC",
       "title": "Magic: The Gathering | Marvel Super Heroes Scene Box - Heroes United | 6 Foil Borderless Scene Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
-      "price": "$34.49",
+      "price": "$34.48",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -506,7 +495,7 @@
       "title": "Magic: The Gathering Secrets of Strixhaven - Bundle (9 Play Boosters, 30 Lands, 1 Alt-Art Card + Exclusive Accessories)",
       "price": "$51.00",
       "available": true,
-      "lowStockNote": "Only 6 left in stock",
+      "lowStockNote": "Only 3 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -556,7 +545,7 @@
       "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Witherbloom Pestilence (100-Card Deck, Deck Box + Accessories)",
       "price": "$48.00",
       "available": true,
-      "lowStockNote": null,
+      "lowStockNote": "Only 1 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -683,5 +672,5 @@
     }
   },
   "pendingNew": {},
-  "lastChecked": "2026-08-14T02:16:43.486Z"
+  "lastChecked": "2026-08-14T03:16:43.650Z"
 }
