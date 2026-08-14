@@ -13,7 +13,7 @@
     "B0GXC89N66": {
       "asin": "B0GXC89N66",
       "title": "Magic: The Gathering | The Hobbit Collector Booster Box | 12 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-      "price": "$856.95",
+      "price": "$854.95",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -33,7 +33,7 @@
     "B0GWSB7V4T": {
       "asin": "B0GWSB7V4T",
       "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
-      "price": "$74.99",
+      "price": "$89.95",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -87,6 +87,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "preorder"
       ]
     },
@@ -117,6 +118,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "preorder"
       ]
     },
@@ -147,6 +149,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "preorder"
       ]
     },
@@ -157,6 +160,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "preorder"
       ]
     },
@@ -197,6 +201,7 @@
       "available": false,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "preorder"
       ]
     },
@@ -237,6 +242,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "preorder"
       ]
     },
@@ -247,6 +253,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "preorder"
       ]
     },
@@ -267,6 +274,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "preorder"
       ]
     },
@@ -297,6 +305,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "new_releases"
       ]
     },
@@ -347,6 +356,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "new_releases"
       ]
     },
@@ -387,6 +397,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "new_releases"
       ]
     },
@@ -447,6 +458,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "new_releases"
       ]
     },
@@ -672,5 +684,5 @@
     }
   },
   "pendingNew": {},
-  "lastChecked": "2026-08-14T22:16:39.837Z"
+  "lastChecked": "2026-08-14T23:16:35.296Z"
 }
