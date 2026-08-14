@@ -3,11 +3,11 @@
     "B0GXCBJG9L": {
       "asin": "B0GXCBJG9L",
       "title": "Magic: The Gathering | The Hobbit Play Booster Box | 30 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-      "price": "$232.97",
+      "price": "$235.85",
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "preorder"
+        "home"
       ]
     },
     "B0GXC89N66": {
@@ -37,7 +37,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "preorder"
+        "home"
       ]
     },
     "B0GWS8DC8C": {
@@ -57,7 +57,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "preorder"
+        "home"
       ]
     },
     "B0GWRZF6HC": {
@@ -87,7 +87,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "preorder"
+        "home"
       ]
     },
     "B0GXC667JV": {
@@ -117,7 +117,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "preorder"
+        "home"
       ]
     },
     "B0GXC9W89R": {
@@ -147,7 +147,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "preorder"
+        "home"
       ]
     },
     "B0H6H2D3JF": {
@@ -157,7 +157,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "preorder"
+        "home"
       ]
     },
     "B0H6H4TXPZ": {
@@ -197,7 +197,7 @@
       "available": false,
       "lowStockNote": null,
       "tabs": [
-        "preorder"
+        "home"
       ]
     },
     "B0H6H4PL4G": {
@@ -237,7 +237,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "preorder"
+        "home"
       ]
     },
     "B0GXCH6X4K": {
@@ -247,7 +247,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "preorder"
+        "home"
       ]
     },
     "B0GXCKJ5JH": {
@@ -267,7 +267,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "preorder"
+        "home"
       ]
     },
     "B0GXCBTVG4": {
@@ -297,7 +297,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "new_releases"
+        "home"
       ]
     },
     "B0G87JWX8L": {
@@ -347,7 +347,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "new_releases"
+        "home"
       ]
     },
     "B0G87RDQPV": {
@@ -385,9 +385,9 @@
       "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck Bundle - Includes All 4 Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
       "price": "$184.95",
       "available": true,
-      "lowStockNote": null,
+      "lowStockNote": "Only 19 left in stock",
       "tabs": [
-        "new_releases"
+        "home"
       ]
     },
     "B0G86YW5XX": {
@@ -447,7 +447,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "new_releases"
+        "home"
       ]
     },
     "B0GFDJ7GVL": {
@@ -672,5 +672,5 @@
     }
   },
   "pendingNew": {},
-  "lastChecked": "2026-08-14T03:16:43.650Z"
+  "lastChecked": "2026-08-14T04:16:48.267Z"
 }
