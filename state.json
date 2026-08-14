@@ -193,8 +193,8 @@
     "B0H6H8KS14": {
       "asin": "B0H6H8KS14",
       "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
-      "price": null,
-      "available": false,
+      "price": "$99.99",
+      "available": true,
       "lowStockNote": null,
       "tabs": [
         "preorder"
@@ -393,7 +393,7 @@
     "B0G86YW5XX": {
       "asin": "B0G86YW5XX",
       "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Avengers Assemble (100-Card Deck + Accessories)",
-      "price": "$64.91",
+      "price": "$64.90",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -503,7 +503,7 @@
     "B0G87VXM5G": {
       "asin": "B0G87VXM5G",
       "title": "Magic: The Gathering Secrets of Strixhaven - Codex Bundle (2 Collector Boosters, 6 Play Boosters, 2 Foil Promo Cards, 20 Foil Lands, 1 Spindown)",
-      "price": "$148.59",
+      "price": "$148.58",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -593,7 +593,7 @@
     "B0FR6W5K12": {
       "asin": "B0FR6W5K12",
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Play Booster Box | 30 Packs | Collectible Trading Card Game",
-      "price": "$112.94",
+      "price": "$117.99",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -615,7 +615,7 @@
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Bundle | 9 Play Boosters, 30 Lands, Foil Alt-Art Promo Card + Exclusive Accessories | Collectible Trading Card Game",
       "price": "$54.97",
       "available": true,
-      "lowStockNote": "Only 3 left in stock",
+      "lowStockNote": "Only 4 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -672,5 +672,5 @@
     }
   },
   "pendingNew": {},
-  "lastChecked": "2026-08-14T12:16:48.093Z"
+  "lastChecked": "2026-08-14T13:16:36.386Z"
 }
