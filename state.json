@@ -3,7 +3,7 @@
     "B0GXCBJG9L": {
       "asin": "B0GXCBJG9L",
       "title": "Magic: The Gathering | The Hobbit Play Booster Box | 30 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-      "price": "$219.99",
+      "price": "$229.95",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -13,7 +13,7 @@
     "B0GXC89N66": {
       "asin": "B0GXC89N66",
       "title": "Magic: The Gathering | The Hobbit Collector Booster Box | 12 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-      "price": "$858.94",
+      "price": "$857.00",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -53,7 +53,7 @@
     "B0GWS4ZRT8": {
       "asin": "B0GWS4ZRT8",
       "title": "Magic: The Gathering | The Hobbit Scene Box - Crack the Plates| 6 Foil Borderless Scene Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
-      "price": "$71.85",
+      "price": "$71.84",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -305,7 +305,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "new_releases"
       ]
     },
@@ -356,7 +355,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "new_releases"
       ]
     },
@@ -373,7 +371,7 @@
     "B0GF4M5P4C": {
       "asin": "B0GF4M5P4C",
       "title": "Magic: The Gathering | Marvel Super Heroes Jumpstart Booster Box | 24 Packs | 2-Player Card Game",
-      "price": "$129.41",
+      "price": "$126.99",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -397,7 +395,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "new_releases"
       ]
     },
@@ -414,7 +411,7 @@
     "B0G87FZZQQ": {
       "asin": "B0G87FZZQQ",
       "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Wakanda Forever (100-Card Deck + Accessories)",
-      "price": "$54.45",
+      "price": "$53.42",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -458,14 +455,13 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "new_releases"
       ]
     },
     "B0GFDJ7GVL": {
       "asin": "B0GFDJ7GVL",
       "title": "Magic: The Gathering Secrets of Strixhaven - Play Booster Box (30 Packs)",
-      "price": "$136.29",
+      "price": "$136.28",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -475,7 +471,7 @@
     "B0G86Z91GX": {
       "asin": "B0G86Z91GX",
       "title": "Magic: The Gathering Secrets of Strixhaven - Draft Night (1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Token Cards)",
-      "price": "$82.05",
+      "price": "$81.00",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -487,7 +483,7 @@
       "title": "Magic: The Gathering Secrets of Strixhaven - Collector Booster Box (12 Packs)",
       "price": "$576.92",
       "available": true,
-      "lowStockNote": "Only 5 left in stock",
+      "lowStockNote": "Only 4 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -605,7 +601,7 @@
     "B0FR6W5K12": {
       "asin": "B0FR6W5K12",
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Play Booster Box | 30 Packs | Collectible Trading Card Game",
-      "price": "$117.99",
+      "price": "$112.94",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -617,7 +613,7 @@
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Draft Night | Collectible Trading Card Game",
       "price": "$72.98",
       "available": true,
-      "lowStockNote": "Only 1 left in stock",
+      "lowStockNote": "Only 7 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -665,7 +661,7 @@
     "B0FR717633": {
       "asin": "B0FR717633",
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Commander Deck - Turtle Power! | Collectible Trading Card Game",
-      "price": "$63.99",
+      "price": "$64.97",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -684,5 +680,5 @@
     }
   },
   "pendingNew": {},
-  "lastChecked": "2026-08-14T17:26:16.022Z"
+  "lastChecked": "2026-08-14T18:16:47.758Z"
 }
