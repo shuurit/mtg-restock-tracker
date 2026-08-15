@@ -3,7 +3,7 @@
     "B0GXCBJG9L": {
       "asin": "B0GXCBJG9L",
       "title": "Magic: The Gathering | The Hobbit Play Booster Box | 30 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-      "price": "$229.88",
+      "price": "$229.94",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -33,9 +33,9 @@
     "B0GWSB7V4T": {
       "asin": "B0GWSB7V4T",
       "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
-      "price": "$89.23",
+      "price": "$89.26",
       "available": true,
-      "lowStockNote": null,
+      "lowStockNote": "Only 16 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -595,7 +595,7 @@
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Play Booster Box | 30 Packs | Collectible Trading Card Game",
       "price": "$112.94",
       "available": true,
-      "lowStockNote": null,
+      "lowStockNote": "Only 17 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -645,7 +645,7 @@
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Collector Booster Single Pack (1 Pack) | Collectible Trading Card Game",
       "price": "$39.95",
       "available": true,
-      "lowStockNote": "Only 17 left in stock",
+      "lowStockNote": "Only 16 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -672,5 +672,5 @@
     }
   },
   "pendingNew": {},
-  "lastChecked": "2026-08-15T03:16:52.086Z"
+  "lastChecked": "2026-08-15T05:16:52.091Z"
 }
