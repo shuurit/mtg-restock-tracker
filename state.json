@@ -3,7 +3,7 @@
     "B0GXCBJG9L": {
       "asin": "B0GXCBJG9L",
       "title": "Magic: The Gathering | The Hobbit Play Booster Box | 30 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-      "price": "$229.94",
+      "price": "$229.93",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -13,7 +13,7 @@
     "B0GXC89N66": {
       "asin": "B0GXC89N66",
       "title": "Magic: The Gathering | The Hobbit Collector Booster Box | 12 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-      "price": "$854.95",
+      "price": "$849.98",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -23,7 +23,7 @@
     "B0GWS9J9VT": {
       "asin": "B0GWS9J9VT",
       "title": "Magic: The Gathering | The Hobbit Collector Booster | 1 Pack (15 Cards) | Collectible Trading Card Game",
-      "price": "$37.99",
+      "price": "$78.69",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -193,8 +193,8 @@
     "B0H6H8KS14": {
       "asin": "B0H6H8KS14",
       "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
-      "price": "$99.99",
-      "available": true,
+      "price": null,
+      "available": false,
       "lowStockNote": null,
       "tabs": [
         "preorder"
@@ -395,7 +395,7 @@
       "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Avengers Assemble (100-Card Deck + Accessories)",
       "price": "$64.45",
       "available": true,
-      "lowStockNote": "Only 1 left in stock",
+      "lowStockNote": null,
       "tabs": [
         "new_releases"
       ]
@@ -463,7 +463,7 @@
     "B0G86Z91GX": {
       "asin": "B0G86Z91GX",
       "title": "Magic: The Gathering Secrets of Strixhaven - Draft Night (1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Token Cards)",
-      "price": "$81.00",
+      "price": "$81.10",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -483,7 +483,7 @@
     "B0G87BJ9F3": {
       "asin": "B0G87BJ9F3",
       "title": "Magic: The Gathering Secrets of Strixhaven Collector Booster (1 Pack of 15 Cards)",
-      "price": "$47.95",
+      "price": "$47.00",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -523,9 +523,9 @@
     "B0G8742ZNG": {
       "asin": "B0G8742ZNG",
       "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Silverquill Influence (100-Card Deck, Deck Box + Accessories)",
-      "price": "$51.99",
+      "price": "$51.95",
       "available": true,
-      "lowStockNote": null,
+      "lowStockNote": "Only 1 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -633,7 +633,7 @@
     "B0FR6HHZKB": {
       "asin": "B0FR6HHZKB",
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Collector Booster Box | 12 Packs | Collectible Trading Card Game",
-      "price": "$424.99",
+      "price": "$424.71",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -672,5 +672,5 @@
     }
   },
   "pendingNew": {},
-  "lastChecked": "2026-08-15T08:16:46.590Z"
+  "lastChecked": "2026-08-15T09:16:36.366Z"
 }
