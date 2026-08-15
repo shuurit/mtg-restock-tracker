@@ -3,7 +3,7 @@
     "B0GXCBJG9L": {
       "asin": "B0GXCBJG9L",
       "title": "Magic: The Gathering | The Hobbit Play Booster Box | 30 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-      "price": "$229.88",
+      "price": "$235.75",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -23,7 +23,7 @@
     "B0GWS9J9VT": {
       "asin": "B0GWS9J9VT",
       "title": "Magic: The Gathering | The Hobbit Collector Booster | 1 Pack (15 Cards) | Collectible Trading Card Game",
-      "price": "$84.95",
+      "price": "$84.75",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -33,7 +33,7 @@
     "B0GWSB7V4T": {
       "asin": "B0GWSB7V4T",
       "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
-      "price": "$85.17",
+      "price": "$89.62",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -87,6 +87,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "preorder"
       ]
     },
@@ -117,6 +118,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "preorder"
       ]
     },
@@ -147,6 +149,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "preorder"
       ]
     },
@@ -157,6 +160,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "preorder"
       ]
     },
@@ -193,10 +197,11 @@
     "B0H6H8KS14": {
       "asin": "B0H6H8KS14",
       "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
-      "price": null,
-      "available": false,
+      "price": "$99.99",
+      "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "preorder"
       ]
     },
@@ -237,6 +242,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "preorder"
       ]
     },
@@ -247,6 +253,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "preorder"
       ]
     },
@@ -267,6 +274,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "preorder"
       ]
     },
@@ -297,6 +305,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "new_releases"
       ]
     },
@@ -347,6 +356,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "new_releases"
       ]
     },
@@ -385,15 +395,16 @@
       "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck Bundle - Includes All 4 Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
       "price": "$184.95",
       "available": true,
-      "lowStockNote": null,
+      "lowStockNote": "Only 1 left in stock",
       "tabs": [
+        "home",
         "new_releases"
       ]
     },
     "B0G86YW5XX": {
       "asin": "B0G86YW5XX",
       "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Avengers Assemble (100-Card Deck + Accessories)",
-      "price": "$63.93",
+      "price": "$64.45",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -447,6 +458,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "new_releases"
       ]
     },
@@ -595,7 +607,7 @@
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Play Booster Box | 30 Packs | Collectible Trading Card Game",
       "price": "$112.94",
       "available": true,
-      "lowStockNote": "Only 6 left in stock",
+      "lowStockNote": "Only 3 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -615,7 +627,7 @@
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Bundle | 9 Play Boosters, 30 Lands, Foil Alt-Art Promo Card + Exclusive Accessories | Collectible Trading Card Game",
       "price": "$55.99",
       "available": true,
-      "lowStockNote": "Only 5 left in stock",
+      "lowStockNote": "Only 18 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -633,7 +645,7 @@
     "B0FR6HHZKB": {
       "asin": "B0FR6HHZKB",
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Collector Booster Box | 12 Packs | Collectible Trading Card Game",
-      "price": "$421.91",
+      "price": "$421.63",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -645,7 +657,7 @@
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Collector Booster Single Pack (1 Pack) | Collectible Trading Card Game",
       "price": "$39.95",
       "available": true,
-      "lowStockNote": "Only 15 left in stock",
+      "lowStockNote": "Only 14 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -653,7 +665,7 @@
     "B0FR717633": {
       "asin": "B0FR717633",
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Commander Deck - Turtle Power! | Collectible Trading Card Game",
-      "price": "$64.97",
+      "price": "$65.00",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -672,5 +684,5 @@
     }
   },
   "pendingNew": {},
-  "lastChecked": "2026-08-15T16:16:47.942Z"
+  "lastChecked": "2026-08-15T17:16:30.609Z"
 }
