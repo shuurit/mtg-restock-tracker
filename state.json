@@ -625,9 +625,9 @@
     "B0FR7KFXBB": {
       "asin": "B0FR7KFXBB",
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Bundle | 9 Play Boosters, 30 Lands, Foil Alt-Art Promo Card + Exclusive Accessories | Collectible Trading Card Game",
-      "price": "$54.97",
+      "price": "$55.99",
       "available": true,
-      "lowStockNote": "Only 2 left in stock",
+      "lowStockNote": null,
       "tabs": [
         "new_releases"
       ]
@@ -665,7 +665,7 @@
     "B0FR717633": {
       "asin": "B0FR717633",
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Commander Deck - Turtle Power! | Collectible Trading Card Game",
-      "price": "$59.85",
+      "price": "$64.97",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -684,5 +684,5 @@
     }
   },
   "pendingNew": {},
-  "lastChecked": "2026-08-14T23:16:35.296Z"
+  "lastChecked": "2026-08-15T00:16:21.563Z"
 }
