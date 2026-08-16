@@ -13,7 +13,7 @@
     "B0GXC89N66": {
       "asin": "B0GXC89N66",
       "title": "Magic: The Gathering | The Hobbit Collector Booster Box | 12 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-      "price": "$849.98",
+      "price": "$857.00",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -505,7 +505,7 @@
       "title": "Magic: The Gathering Secrets of Strixhaven - Codex Bundle (2 Collector Boosters, 6 Play Boosters, 2 Foil Promo Cards, 20 Foil Lands, 1 Spindown)",
       "price": "$147.45",
       "available": true,
-      "lowStockNote": "Only 20 left in stock",
+      "lowStockNote": "Only 16 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -633,7 +633,7 @@
     "B0FR6HHZKB": {
       "asin": "B0FR6HHZKB",
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Collector Booster Box | 12 Packs | Collectible Trading Card Game",
-      "price": "$393.39",
+      "price": "$391.99",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -672,5 +672,5 @@
     }
   },
   "pendingNew": {},
-  "lastChecked": "2026-08-16T19:16:34.970Z"
+  "lastChecked": "2026-08-16T20:16:34.094Z"
 }
