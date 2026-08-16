@@ -525,7 +525,7 @@
       "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Silverquill Influence (100-Card Deck, Deck Box + Accessories)",
       "price": "$51.99",
       "available": true,
-      "lowStockNote": null,
+      "lowStockNote": "Only 1 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -615,7 +615,7 @@
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Bundle | 9 Play Boosters, 30 Lands, Foil Alt-Art Promo Card + Exclusive Accessories | Collectible Trading Card Game",
       "price": "$55.99",
       "available": true,
-      "lowStockNote": "Only 1 left in stock",
+      "lowStockNote": null,
       "tabs": [
         "new_releases"
       ]
@@ -633,7 +633,7 @@
     "B0FR6HHZKB": {
       "asin": "B0FR6HHZKB",
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Collector Booster Box | 12 Packs | Collectible Trading Card Game",
-      "price": "$394.79",
+      "price": "$394.09",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -645,7 +645,7 @@
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Collector Booster Single Pack (1 Pack) | Collectible Trading Card Game",
       "price": "$39.95",
       "available": true,
-      "lowStockNote": "Only 13 left in stock",
+      "lowStockNote": "Only 12 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -672,5 +672,5 @@
     }
   },
   "pendingNew": {},
-  "lastChecked": "2026-08-16T17:16:31.350Z"
+  "lastChecked": "2026-08-16T18:16:33.585Z"
 }
