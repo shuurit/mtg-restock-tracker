@@ -385,7 +385,7 @@
       "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck Bundle - Includes All 4 Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
       "price": "$184.95",
       "available": true,
-      "lowStockNote": "Only 4 left in stock",
+      "lowStockNote": "Only 1 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -505,7 +505,7 @@
       "title": "Magic: The Gathering Secrets of Strixhaven - Codex Bundle (2 Collector Boosters, 6 Play Boosters, 2 Foil Promo Cards, 20 Foil Lands, 1 Spindown)",
       "price": "$147.45",
       "available": true,
-      "lowStockNote": "Only 10 left in stock",
+      "lowStockNote": "Only 7 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -523,9 +523,9 @@
     "B0G8742ZNG": {
       "asin": "B0G8742ZNG",
       "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Silverquill Influence (100-Card Deck, Deck Box + Accessories)",
-      "price": "$51.99",
+      "price": "$54.45",
       "available": true,
-      "lowStockNote": "Only 1 left in stock",
+      "lowStockNote": null,
       "tabs": [
         "new_releases"
       ]
@@ -672,5 +672,5 @@
     }
   },
   "pendingNew": {},
-  "lastChecked": "2026-08-16T23:16:35.075Z"
+  "lastChecked": "2026-08-17T00:16:44.375Z"
 }
