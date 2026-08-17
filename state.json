@@ -87,7 +87,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
@@ -118,7 +117,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
@@ -149,7 +147,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
@@ -160,7 +157,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
@@ -201,15 +197,14 @@
       "available": false,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
     "B0H6H4PL4G": {
       "asin": "B0H6H4PL4G",
       "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
-      "price": "$224.97",
-      "available": true,
+      "price": null,
+      "available": false,
       "lowStockNote": null,
       "tabs": [
         "preorder"
@@ -242,7 +237,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
@@ -253,7 +247,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
@@ -274,7 +267,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
@@ -305,7 +297,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "new_releases"
       ]
     },
@@ -344,7 +335,7 @@
       "title": "Magic: The Gathering | Marvel Super Heroes Collector Booster | 1 Pack of 15 Cards | Collectible Trading Card Game",
       "price": "$44.77",
       "available": true,
-      "lowStockNote": "Only 1 left in stock",
+      "lowStockNote": null,
       "tabs": [
         "new_releases"
       ]
@@ -356,7 +347,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "new_releases"
       ]
     },
@@ -395,9 +385,8 @@
       "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck Bundle - Includes All 4 Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
       "price": "$184.95",
       "available": true,
-      "lowStockNote": "Only 2 left in stock",
+      "lowStockNote": null,
       "tabs": [
-        "home",
         "new_releases"
       ]
     },
@@ -458,7 +447,6 @@
       "available": true,
       "lowStockNote": "Only 16 left in stock",
       "tabs": [
-        "home",
         "new_releases"
       ]
     },
@@ -615,9 +603,9 @@
     "B0FR7JTZT5": {
       "asin": "B0FR7JTZT5",
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Draft Night | Collectible Trading Card Game",
-      "price": "$72.98",
+      "price": "$85.00",
       "available": true,
-      "lowStockNote": "Only 3 left in stock",
+      "lowStockNote": null,
       "tabs": [
         "new_releases"
       ]
@@ -627,7 +615,7 @@
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Bundle | 9 Play Boosters, 30 Lands, Foil Alt-Art Promo Card + Exclusive Accessories | Collectible Trading Card Game",
       "price": "$54.00",
       "available": true,
-      "lowStockNote": "Only 2 left in stock",
+      "lowStockNote": "Only 1 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -635,7 +623,7 @@
     "B0FR7G52PN": {
       "asin": "B0FR7G52PN",
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Pizza Bundle | Collectible Trading Card Game",
-      "price": "$99.86",
+      "price": "$99.94",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -655,7 +643,7 @@
     "B0FR6HPWJB": {
       "asin": "B0FR6HPWJB",
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Collector Booster Single Pack (1 Pack) | Collectible Trading Card Game",
-      "price": "$47.47",
+      "price": "$47.80",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -684,5 +672,5 @@
     }
   },
   "pendingNew": {},
-  "lastChecked": "2026-08-17T19:16:28.419Z"
+  "lastChecked": "2026-08-17T20:16:44.592Z"
 }
