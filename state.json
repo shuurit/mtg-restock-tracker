@@ -193,8 +193,8 @@
     "B0H6H8KS14": {
       "asin": "B0H6H8KS14",
       "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
-      "price": "$99.99",
-      "available": true,
+      "price": null,
+      "available": false,
       "lowStockNote": null,
       "tabs": [
         "preorder"
@@ -203,8 +203,8 @@
     "B0H6H4PL4G": {
       "asin": "B0H6H4PL4G",
       "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
-      "price": null,
-      "available": false,
+      "price": "$224.97",
+      "available": true,
       "lowStockNote": null,
       "tabs": [
         "preorder"
@@ -353,7 +353,7 @@
     "B0G87RDQPV": {
       "asin": "B0G87RDQPV",
       "title": "Magic: The Gathering | Marvel Super Heroes - Bundle: Gift Edition (Deluxe Bundle with 1 Collector Booster, 9 Play Boosters, 30 Lands, 1 Alt-Art Card + Exclusive Accessories)",
-      "price": "$88.37",
+      "price": "$89.99",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -385,7 +385,7 @@
       "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck Bundle - Includes All 4 Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
       "price": "$184.95",
       "available": true,
-      "lowStockNote": "Only 2 left in stock",
+      "lowStockNote": "Only 1 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -672,5 +672,5 @@
     }
   },
   "pendingNew": {},
-  "lastChecked": "2026-08-17T07:16:51.404Z"
+  "lastChecked": "2026-08-17T08:16:37.544Z"
 }
