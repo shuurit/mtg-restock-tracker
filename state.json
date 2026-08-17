@@ -385,7 +385,7 @@
       "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck Bundle - Includes All 4 Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
       "price": "$184.95",
       "available": true,
-      "lowStockNote": "Only 2 left in stock",
+      "lowStockNote": null,
       "tabs": [
         "new_releases"
       ]
@@ -615,7 +615,7 @@
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Bundle | 9 Play Boosters, 30 Lands, Foil Alt-Art Promo Card + Exclusive Accessories | Collectible Trading Card Game",
       "price": "$55.99",
       "available": true,
-      "lowStockNote": "Only 1 left in stock",
+      "lowStockNote": null,
       "tabs": [
         "new_releases"
       ]
@@ -633,7 +633,7 @@
     "B0FR6HHZKB": {
       "asin": "B0FR6HHZKB",
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Collector Booster Box | 12 Packs | Collectible Trading Card Game",
-      "price": "$391.24",
+      "price": "$394.08",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -672,5 +672,5 @@
     }
   },
   "pendingNew": {},
-  "lastChecked": "2026-08-17T09:16:47.146Z"
+  "lastChecked": "2026-08-17T10:16:54.650Z"
 }
