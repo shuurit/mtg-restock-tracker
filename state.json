@@ -53,7 +53,7 @@
     "B0GWS4ZRT8": {
       "asin": "B0GWS4ZRT8",
       "title": "Magic: The Gathering | The Hobbit Scene Box - Crack the Plates| 6 Foil Borderless Scene Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
-      "price": "$67.94",
+      "price": "$65.94",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -63,7 +63,7 @@
     "B0GWRZF6HC": {
       "asin": "B0GWRZF6HC",
       "title": "Magic: The Gathering | The Hobbit Scene Box - Treasures of Smaug| 6 Foil Borderless Scene Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
-      "price": "$75.96",
+      "price": "$73.96",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -213,8 +213,8 @@
     "B0H6GPSGC2": {
       "asin": "B0H6GPSGC2",
       "title": "Magic: The Gathering | Star Trek Collector's Edition Commander Deck Bundle",
-      "price": "$639.96",
-      "available": true,
+      "price": null,
+      "available": false,
       "lowStockNote": null,
       "tabs": [
         "preorder"
@@ -445,7 +445,7 @@
       "title": "Magic: The Gathering | Marvel Super Heroes Scene Box - Villains Unleashed | 6 Foil Borderless Scene Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
       "price": "$33.41",
       "available": true,
-      "lowStockNote": null,
+      "lowStockNote": "Only 1 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -473,9 +473,9 @@
     "B0GFDD1RLS": {
       "asin": "B0GFDD1RLS",
       "title": "Magic: The Gathering Secrets of Strixhaven - Collector Booster Box (12 Packs)",
-      "price": "$584.14",
+      "price": "$599.00",
       "available": true,
-      "lowStockNote": "Only 2 left in stock",
+      "lowStockNote": null,
       "tabs": [
         "new_releases"
       ]
@@ -543,7 +543,7 @@
     "B0G86Z17Y8": {
       "asin": "B0G86Z17Y8",
       "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Witherbloom Pestilence (100-Card Deck, Deck Box + Accessories)",
-      "price": "$43.70",
+      "price": "$48.00",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -613,9 +613,9 @@
     "B0FR7KFXBB": {
       "asin": "B0FR7KFXBB",
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Bundle | 9 Play Boosters, 30 Lands, Foil Alt-Art Promo Card + Exclusive Accessories | Collectible Trading Card Game",
-      "price": "$55.98",
+      "price": "$55.93",
       "available": true,
-      "lowStockNote": null,
+      "lowStockNote": "Only 2 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -643,7 +643,7 @@
     "B0FR6HPWJB": {
       "asin": "B0FR6HPWJB",
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Collector Booster Single Pack (1 Pack) | Collectible Trading Card Game",
-      "price": "$47.80",
+      "price": "$47.79",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -653,9 +653,9 @@
     "B0FR717633": {
       "asin": "B0FR717633",
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Commander Deck - Turtle Power! | Collectible Trading Card Game",
-      "price": "$64.97",
+      "price": "$64.96",
       "available": true,
-      "lowStockNote": "Only 1 left in stock",
+      "lowStockNote": "Only 8 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -672,5 +672,5 @@
     }
   },
   "pendingNew": {},
-  "lastChecked": "2026-08-18T22:16:35.506Z"
+  "lastChecked": "2026-08-18T23:16:38.367Z"
 }
