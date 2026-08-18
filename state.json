@@ -87,6 +87,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "preorder"
       ]
     },
@@ -117,6 +118,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "preorder"
       ]
     },
@@ -147,6 +149,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "preorder"
       ]
     },
@@ -157,6 +160,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "preorder"
       ]
     },
@@ -193,10 +197,11 @@
     "B0H6H8KS14": {
       "asin": "B0H6H8KS14",
       "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
-      "price": "$99.99",
-      "available": true,
+      "price": null,
+      "available": false,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "preorder"
       ]
     },
@@ -237,6 +242,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "preorder"
       ]
     },
@@ -247,6 +253,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "preorder"
       ]
     },
@@ -267,6 +274,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "preorder"
       ]
     },
@@ -297,6 +305,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "new_releases"
       ]
     },
@@ -347,13 +356,14 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "new_releases"
       ]
     },
     "B0G87RDQPV": {
       "asin": "B0G87RDQPV",
       "title": "Magic: The Gathering | Marvel Super Heroes - Bundle: Gift Edition (Deluxe Bundle with 1 Collector Booster, 9 Play Boosters, 30 Lands, 1 Alt-Art Card + Exclusive Accessories)",
-      "price": "$88.37",
+      "price": "$87.85",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -385,8 +395,9 @@
       "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck Bundle - Includes All 4 Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
       "price": "$184.95",
       "available": true,
-      "lowStockNote": "Only 1 left in stock",
+      "lowStockNote": null,
       "tabs": [
+        "home",
         "new_releases"
       ]
     },
@@ -447,6 +458,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "new_releases"
       ]
     },
@@ -503,7 +515,7 @@
     "B0G87VXM5G": {
       "asin": "B0G87VXM5G",
       "title": "Magic: The Gathering Secrets of Strixhaven - Codex Bundle (2 Collector Boosters, 6 Play Boosters, 2 Foil Promo Cards, 20 Foil Lands, 1 Spindown)",
-      "price": "$154.44",
+      "price": "$154.43",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -543,7 +555,7 @@
     "B0G86Z17Y8": {
       "asin": "B0G86Z17Y8",
       "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Witherbloom Pestilence (100-Card Deck, Deck Box + Accessories)",
-      "price": "$42.99",
+      "price": "$48.00",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -623,7 +635,7 @@
     "B0FR7G52PN": {
       "asin": "B0FR7G52PN",
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Pizza Bundle | Collectible Trading Card Game",
-      "price": "$99.94",
+      "price": "$99.92",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -672,5 +684,5 @@
     }
   },
   "pendingNew": {},
-  "lastChecked": "2026-08-18T07:16:42.286Z"
+  "lastChecked": "2026-08-18T08:16:28.676Z"
 }
