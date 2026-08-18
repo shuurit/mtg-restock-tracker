@@ -333,9 +333,9 @@
     "B0G8836V29": {
       "asin": "B0G8836V29",
       "title": "Magic: The Gathering | Marvel Super Heroes Collector Booster | 1 Pack of 15 Cards | Collectible Trading Card Game",
-      "price": "$44.77",
+      "price": "$46.90",
       "available": true,
-      "lowStockNote": "Only 1 left in stock",
+      "lowStockNote": null,
       "tabs": [
         "new_releases"
       ]
@@ -353,7 +353,7 @@
     "B0G87RDQPV": {
       "asin": "B0G87RDQPV",
       "title": "Magic: The Gathering | Marvel Super Heroes - Bundle: Gift Edition (Deluxe Bundle with 1 Collector Booster, 9 Play Boosters, 30 Lands, 1 Alt-Art Card + Exclusive Accessories)",
-      "price": "$87.85",
+      "price": "$88.37",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -603,7 +603,7 @@
     "B0FR7JTZT5": {
       "asin": "B0FR7JTZT5",
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Draft Night | Collectible Trading Card Game",
-      "price": "$72.98",
+      "price": "$85.00",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -672,5 +672,5 @@
     }
   },
   "pendingNew": {},
-  "lastChecked": "2026-08-18T12:16:38.522Z"
+  "lastChecked": "2026-08-18T14:16:44.887Z"
 }
