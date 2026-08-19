@@ -13,7 +13,7 @@
     "B0GXC89N66": {
       "asin": "B0GXC89N66",
       "title": "Magic: The Gathering | The Hobbit Collector Booster Box | 12 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-      "price": "$849.92",
+      "price": "$849.88",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -203,8 +203,8 @@
     "B0H6H4PL4G": {
       "asin": "B0H6H4PL4G",
       "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
-      "price": "$224.97",
-      "available": true,
+      "price": null,
+      "available": false,
       "lowStockNote": null,
       "tabs": [
         "preorder"
@@ -333,7 +333,7 @@
     "B0G8836V29": {
       "asin": "B0G8836V29",
       "title": "Magic: The Gathering | Marvel Super Heroes Collector Booster | 1 Pack of 15 Cards | Collectible Trading Card Game",
-      "price": "$46.90",
+      "price": "$46.88",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -605,7 +605,7 @@
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Draft Night | Collectible Trading Card Game",
       "price": "$72.98",
       "available": true,
-      "lowStockNote": "Only 2 left in stock",
+      "lowStockNote": "Only 3 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -643,7 +643,7 @@
     "B0FR6HPWJB": {
       "asin": "B0FR6HPWJB",
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Collector Booster Single Pack (1 Pack) | Collectible Trading Card Game",
-      "price": "$47.46",
+      "price": "$47.43",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -672,5 +672,5 @@
     }
   },
   "pendingNew": {},
-  "lastChecked": "2026-08-19T18:16:46.324Z"
+  "lastChecked": "2026-08-19T19:19:34.626Z"
 }
