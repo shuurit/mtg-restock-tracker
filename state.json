@@ -7,13 +7,14 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "new_releases"
       ]
     },
     "B0GXC89N66": {
       "asin": "B0GXC89N66",
       "title": "Magic: The Gathering | The Hobbit Collector Booster Box | 12 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-      "price": "$849.92",
+      "price": "$819.99",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -37,6 +38,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "new_releases"
       ]
     },
@@ -77,6 +79,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "new_releases"
       ]
     },
@@ -87,14 +90,15 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "preorder"
       ]
     },
     "B0GXC667JV": {
       "asin": "B0GXC667JV",
       "title": "Magic: The Gathering Reality Fracture Collector Booster Box | 12 Packs",
-      "price": null,
-      "available": false,
+      "price": "$323.88",
+      "available": true,
       "lowStockNote": null,
       "tabs": [
         "preorder"
@@ -117,6 +121,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "preorder"
       ]
     },
@@ -147,6 +152,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "preorder"
       ]
     },
@@ -157,6 +163,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "preorder"
       ]
     },
@@ -187,6 +194,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "preorder"
       ]
     },
@@ -237,6 +245,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "preorder"
       ]
     },
@@ -247,6 +256,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "preorder"
       ]
     },
@@ -267,6 +277,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "preorder"
       ]
     },
@@ -297,6 +308,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "new_releases"
       ]
     },
@@ -317,6 +329,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "new_releases"
       ]
     },
@@ -347,6 +360,7 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
+        "home",
         "new_releases"
       ]
     },
@@ -525,7 +539,7 @@
       "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Silverquill Influence (100-Card Deck, Deck Box + Accessories)",
       "price": "$51.99",
       "available": true,
-      "lowStockNote": "Only 2 left in stock",
+      "lowStockNote": null,
       "tabs": [
         "new_releases"
       ]
@@ -543,7 +557,7 @@
     "B0G86Z17Y8": {
       "asin": "B0G86Z17Y8",
       "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Witherbloom Pestilence (100-Card Deck, Deck Box + Accessories)",
-      "price": "$48.03",
+      "price": "$51.44",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -643,7 +657,7 @@
     "B0FR6HPWJB": {
       "asin": "B0FR6HPWJB",
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Collector Booster Single Pack (1 Pack) | Collectible Trading Card Game",
-      "price": "$47.79",
+      "price": "$47.00",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -672,5 +686,5 @@
     }
   },
   "pendingNew": {},
-  "lastChecked": "2026-08-19T16:17:51.206Z"
+  "lastChecked": "2026-08-19T17:16:32.684Z"
 }
