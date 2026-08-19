@@ -193,8 +193,8 @@
     "B0H6H8KS14": {
       "asin": "B0H6H8KS14",
       "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
-      "price": null,
-      "available": false,
+      "price": "$99.99",
+      "available": true,
       "lowStockNote": null,
       "tabs": [
         "preorder"
@@ -203,8 +203,8 @@
     "B0H6H4PL4G": {
       "asin": "B0H6H4PL4G",
       "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
-      "price": null,
-      "available": false,
+      "price": "$224.97",
+      "available": true,
       "lowStockNote": null,
       "tabs": [
         "preorder"
@@ -393,7 +393,7 @@
     "B0G86YW5XX": {
       "asin": "B0G86YW5XX",
       "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Avengers Assemble (100-Card Deck + Accessories)",
-      "price": "$64.44",
+      "price": "$63.93",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -543,7 +543,7 @@
     "B0G86Z17Y8": {
       "asin": "B0G86Z17Y8",
       "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Witherbloom Pestilence (100-Card Deck, Deck Box + Accessories)",
-      "price": "$48.03",
+      "price": "$51.44",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -603,9 +603,9 @@
     "B0FR7JTZT5": {
       "asin": "B0FR7JTZT5",
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Draft Night | Collectible Trading Card Game",
-      "price": "$72.98",
+      "price": "$85.00",
       "available": true,
-      "lowStockNote": "Only 3 left in stock",
+      "lowStockNote": null,
       "tabs": [
         "new_releases"
       ]
@@ -643,7 +643,7 @@
     "B0FR6HPWJB": {
       "asin": "B0FR6HPWJB",
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Collector Booster Single Pack (1 Pack) | Collectible Trading Card Game",
-      "price": "$47.43",
+      "price": "$47.40",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -672,5 +672,5 @@
     }
   },
   "pendingNew": {},
-  "lastChecked": "2026-08-19T19:19:34.626Z"
+  "lastChecked": "2026-08-19T20:18:12.133Z"
 }
