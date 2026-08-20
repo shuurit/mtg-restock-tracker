@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-20T19:02:19.628Z",
+  "lastChecked": "2026-08-20T19:09:08.866Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -593,7 +593,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Silverquill Influence (100-Card Deck, Deck Box + Accessories)",
         "price": "$51.99",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": "Only 5 left in stock",
         "url": "https://www.amazon.com/dp/B0G8742ZNG",
         "tabs": [
           "new_releases"
@@ -679,9 +679,9 @@
       "B0FR7JTZT5": {
         "key": "B0FR7JTZT5",
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Draft Night | Collectible Trading Card Game",
-        "price": "$72.98",
+        "price": "$85.00",
         "available": true,
-        "lowStockNote": "Only 4 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0FR7JTZT5",
         "tabs": [
           "new_releases"
@@ -762,7 +762,7 @@
         "key": "6539370",
         "title": "Wizards of The Coast - Magic: The Gathering The Lord of The Rings: Tales of Middle Earth Draft Booster Multipack",
         "price": "$15.99",
-        "available": false,
+        "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-lord-of-the-rings-tales-of-middle-earth-draft-booster-multipack/JJ8VP79CF6/sku/6539370"
       },
       "6550336": {
@@ -771,6 +771,13 @@
         "price": "$174.99",
         "available": false,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-wilds-of-eldraine-set-booster-box-30-packs/JJ8VP76Z5Q/sku/6550336"
+      },
+      "6568462": {
+        "key": "6568462",
+        "title": "Wizards of The Coast - Magic: The Gathering Fallout Commander Deck - Mutant Menace",
+        "price": "$59.99",
+        "available": false,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-fallout-commander-deck-mutant-menace/JJ8VP7R7SZ/sku/6568462"
       },
       "6577580": {
         "key": "6577580",
@@ -785,6 +792,41 @@
         "price": "$145.99",
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-assassins-creed-beyond-booster-box-24-packs/JJ8VP7QTVG/sku/6577585"
+      },
+      "6588324": {
+        "key": "6588324",
+        "title": "Wizards of The Coast - Magic: The Gathering Duskmourn: House of Horror Collector Booster",
+        "price": "$26.99",
+        "available": false,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-duskmourn-house-of-horror-collector-booster/JJ8VP7QRSF/sku/6588324"
+      },
+      "6612942": {
+        "key": "6612942",
+        "title": "Wizards of The Coast - Magic: The Gathering Aetherdrift Play Booster Sleeve",
+        "price": "$4.99",
+        "available": false,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-aetherdrift-play-booster-sleeve/JJ8VP7H5SR/sku/6612942"
+      },
+      "6619413": {
+        "key": "6619413",
+        "title": "Wizards of The Coast - Magic: The Gathering Final Fantasy X Commander Deck - Counter Blitz",
+        "price": "$48.99",
+        "available": false,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-x-commander-deck-counter-blitz/JJ8VP7HWXY/sku/6619413"
+      },
+      "6619414": {
+        "key": "6619414",
+        "title": "Wizards of The Coast - Magic: The Gathering Final Fantasy XIV Commander Deck - Scions & Spellcraft",
+        "price": "$48.99",
+        "available": false,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-xiv-commander-deck-scions-spellcraft/JJ8VP7HWXH/sku/6619414"
+      },
+      "6619415": {
+        "key": "6619415",
+        "title": "Wizards of The Coast - Magic: The Gathering Final Fantasy VI Commander Deck - Revival Trance",
+        "price": "$48.99",
+        "available": false,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-vi-commander-deck-revival-trance/JJ8VP7HWC4/sku/6619415"
       },
       "6620417": {
         "key": "6620417",
@@ -920,6 +962,67 @@
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-beam-me-up-bundle/JJ8VP7ZYF7/sku/6686939"
       }
     },
-    "pendingNew": {}
+    "pendingNew": {
+      "6568462": {
+        "item": {
+          "key": "6568462",
+          "title": "Wizards of The Coast - Magic: The Gathering Fallout Commander Deck - Mutant Menace",
+          "price": "$59.99",
+          "available": false,
+          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-fallout-commander-deck-mutant-menace/JJ8VP7R7SZ/sku/6568462"
+        },
+        "firstSeenAt": 1787252948866
+      },
+      "6588324": {
+        "item": {
+          "key": "6588324",
+          "title": "Wizards of The Coast - Magic: The Gathering Duskmourn: House of Horror Collector Booster",
+          "price": "$26.99",
+          "available": false,
+          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-duskmourn-house-of-horror-collector-booster/JJ8VP7QRSF/sku/6588324"
+        },
+        "firstSeenAt": 1787252948866
+      },
+      "6612942": {
+        "item": {
+          "key": "6612942",
+          "title": "Wizards of The Coast - Magic: The Gathering Aetherdrift Play Booster Sleeve",
+          "price": "$4.99",
+          "available": false,
+          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-aetherdrift-play-booster-sleeve/JJ8VP7H5SR/sku/6612942"
+        },
+        "firstSeenAt": 1787252948866
+      },
+      "6619413": {
+        "item": {
+          "key": "6619413",
+          "title": "Wizards of The Coast - Magic: The Gathering Final Fantasy X Commander Deck - Counter Blitz",
+          "price": "$48.99",
+          "available": false,
+          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-x-commander-deck-counter-blitz/JJ8VP7HWXY/sku/6619413"
+        },
+        "firstSeenAt": 1787252948866
+      },
+      "6619414": {
+        "item": {
+          "key": "6619414",
+          "title": "Wizards of The Coast - Magic: The Gathering Final Fantasy XIV Commander Deck - Scions & Spellcraft",
+          "price": "$48.99",
+          "available": false,
+          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-xiv-commander-deck-scions-spellcraft/JJ8VP7HWXH/sku/6619414"
+        },
+        "firstSeenAt": 1787252948866
+      },
+      "6619415": {
+        "item": {
+          "key": "6619415",
+          "title": "Wizards of The Coast - Magic: The Gathering Final Fantasy VI Commander Deck - Revival Trance",
+          "price": "$48.99",
+          "available": false,
+          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-vi-commander-deck-revival-trance/JJ8VP7HWC4/sku/6619415"
+        },
+        "firstSeenAt": 1787252948866
+      }
+    }
   }
 }
