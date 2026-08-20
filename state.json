@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-20T21:19:02.558Z",
+  "lastChecked": "2026-08-20T22:18:45.130Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -10,6 +10,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBJG9L",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -43,6 +44,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -71,7 +73,7 @@
       "B0GWRZF6HC": {
         "key": "B0GWRZF6HC",
         "title": "Magic: The Gathering | The Hobbit Scene Box - Treasures of Smaug| 6 Foil Borderless Scene Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
-        "price": "$79.94",
+        "price": "$79.00",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWRZF6HC",
@@ -87,6 +89,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS582CC",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -98,6 +101,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCHBRTC",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -131,6 +135,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -164,6 +169,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9JFZY",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -175,6 +181,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H2D3JF",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -208,6 +215,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H1XTK6",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -225,7 +233,7 @@
       "B0H6H4PL4G": {
         "key": "B0H6H4PL4G",
         "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
-        "price": null,
+        "price": "$224.97",
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H4PL4G",
@@ -263,6 +271,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBW828",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -274,6 +283,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCH6X4K",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -296,6 +306,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC5T8LG",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -329,6 +340,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -351,6 +363,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G867CCWN",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -384,6 +397,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -434,7 +448,7 @@
       "B0G86YW5XX": {
         "key": "B0G86YW5XX",
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Avengers Assemble (100-Card Deck + Accessories)",
-        "price": "$63.90",
+        "price": "$63.88",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G86YW5XX",
@@ -555,7 +569,7 @@
       "B0G87VXM5G": {
         "key": "B0G87VXM5G",
         "title": "Magic: The Gathering Secrets of Strixhaven - Codex Bundle (2 Collector Boosters, 6 Play Boosters, 2 Foil Promo Cards, 20 Foil Lands, 1 Spindown)",
-        "price": "$154.44",
+        "price": "$149.98",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87VXM5G",
@@ -579,7 +593,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Silverquill Influence (100-Card Deck, Deck Box + Accessories)",
         "price": "$51.99",
         "available": true,
-        "lowStockNote": "Only 4 left in stock",
+        "lowStockNote": "Only 2 left in stock",
         "url": "https://www.amazon.com/dp/B0G8742ZNG",
         "tabs": [
           "new_releases"
@@ -665,9 +679,9 @@
       "B0FR7JTZT5": {
         "key": "B0FR7JTZT5",
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Draft Night | Collectible Trading Card Game",
-        "price": "$85.00",
+        "price": "$72.98",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 4 left in stock",
         "url": "https://www.amazon.com/dp/B0FR7JTZT5",
         "tabs": [
           "new_releases"
@@ -741,7 +755,22 @@
       }
     },
     "pendingNew": {},
-    "pendingRestock": {}
+    "pendingRestock": {
+      "B0H6H4PL4G": {
+        "item": {
+          "key": "B0H6H4PL4G",
+          "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
+          "price": "$224.97",
+          "available": true,
+          "lowStockNote": null,
+          "url": "https://www.amazon.com/dp/B0H6H4PL4G",
+          "tabs": [
+            "preorder"
+          ]
+        },
+        "firstSeenAt": 1787264325130
+      }
+    }
   },
   "bestbuy": {
     "items": {
@@ -780,6 +809,13 @@
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-assassins-creed-beyond-booster-box-24-packs/JJ8VP7QTVG/sku/6577585"
       },
+      "6588322": {
+        "key": "6588322",
+        "title": "Wizards of The Coast - Magic: The Gathering Duskmourn: House of Horror Bundle",
+        "price": "$49.99",
+        "available": false,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-duskmourn-house-of-horror-bundle/JJ8VP7QRGT/sku/6588322"
+      },
       "6588324": {
         "key": "6588324",
         "title": "Wizards of The Coast - Magic: The Gathering Duskmourn: House of Horror Collector Booster",
@@ -814,6 +850,13 @@
         "price": "$48.99",
         "available": false,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-vi-commander-deck-revival-trance/JJ8VP7HWC4/sku/6619415"
+      },
+      "6619448": {
+        "key": "6619448",
+        "title": "Wizards of The Coast - Magic: The Gathering Final Fantasy Play Booster Sleeve",
+        "price": "$6.99",
+        "available": true,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-play-booster-sleeve/JJ8VP7HLZ7/sku/6619448"
       },
       "6620417": {
         "key": "6620417",
@@ -967,25 +1010,55 @@
         },
         "firstSeenAt": 1787260742558
       },
-      "6588322": {
+      "6643175": {
         "item": {
-          "key": "6588322",
-          "title": "Wizards of The Coast - Magic: The Gathering Duskmourn: House of Horror Bundle",
-          "price": "$49.99",
+          "key": "6643175",
+          "title": "Wizards of The Coast - Magic: The Gathering Avatar: The Last Airbender Bundle",
+          "price": "$55.99",
           "available": false,
-          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-duskmourn-house-of-horror-bundle/JJ8VP7QRGT/sku/6588322"
+          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-avatar-the-last-airbender-bundle/JJ8VP7TR52/sku/6643175"
         },
-        "firstSeenAt": 1787260742558
+        "firstSeenAt": 1787264325131
       },
-      "6619448": {
+      "6643177": {
         "item": {
-          "key": "6619448",
-          "title": "Wizards of The Coast - Magic: The Gathering Final Fantasy Play Booster Sleeve",
-          "price": "$6.99",
+          "key": "6643177",
+          "title": "Wizards of The Coast - Magic: The Gathering Avatar: The Last Airbender Beginner Box",
+          "price": "$34.99",
           "available": true,
-          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-play-booster-sleeve/JJ8VP7HLZ7/sku/6619448"
+          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-avatar-the-last-airbender-beginner-box/JJ8VP7TQJK/sku/6643177"
         },
-        "firstSeenAt": 1787260742558
+        "firstSeenAt": 1787264325131
+      },
+      "6643180": {
+        "item": {
+          "key": "6643180",
+          "title": "Wizards of The Coast - Magic: The Gathering Avatar: The Last Airbender Jumpstart Booster 2 Pk",
+          "price": "$13.99",
+          "available": true,
+          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-avatar-the-last-airbender-jumpstart-booster-2-pk/JJ8VP7TQXK/sku/6643180"
+        },
+        "firstSeenAt": 1787264325131
+      },
+      "6648132": {
+        "item": {
+          "key": "6648132",
+          "title": "Wizards of The Coast - Magic: The Gathering Lorwyn Eclipsed Play Booster Sleeve",
+          "price": "$5.49",
+          "available": true,
+          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-lorwyn-eclipsed-play-booster-sleeve/JJ8VP7WQ52/sku/6648132"
+        },
+        "firstSeenAt": 1787264325131
+      },
+      "6669855": {
+        "item": {
+          "key": "6669855",
+          "title": "Wizards of The Coast - Magic: The Gathering Secrets of Strixhaven Codex Bundle",
+          "price": "$94.99",
+          "available": true,
+          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-secrets-of-strixhaven-codex-bundle/JJ8VP7KLV2/sku/6669855"
+        },
+        "firstSeenAt": 1787264325131
       },
       "6678185": {
         "item": {
@@ -996,6 +1069,26 @@
           "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-reality-fracture-draft-night/JJ8VP7ZR62/sku/6678185"
         },
         "firstSeenAt": 1787260742558
+      },
+      "6678190": {
+        "item": {
+          "key": "6678190",
+          "title": "Wizards of The Coast - Magic: The Gathering Reality Fracture - Bundle",
+          "price": "$57.99",
+          "available": true,
+          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-reality-fracture-bundle/JJ8VP7ZR93/sku/6678190"
+        },
+        "firstSeenAt": 1787264325131
+      },
+      "6686934": {
+        "item": {
+          "key": "6686934",
+          "title": "New! - Wizards of The Coast - Magic: The Gathering Star Trek Commander Deck - Federation Fleet",
+          "price": "$74.99",
+          "available": true,
+          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-commander-deck-federation-fleet/JJ8VP7ZT22/sku/6686934"
+        },
+        "firstSeenAt": 1787264325131
       }
     },
     "pendingRestock": {
