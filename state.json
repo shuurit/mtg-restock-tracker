@@ -293,7 +293,7 @@
     "B0GF4MXFPC": {
       "asin": "B0GF4MXFPC",
       "title": "Magic: The Gathering | Marvel Super Heroes Play Booster Box | 30 Packs | Collectible Trading Card Game",
-      "price": "$124.98",
+      "price": "$149.80",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -473,9 +473,9 @@
     "B0GFDD1RLS": {
       "asin": "B0GFDD1RLS",
       "title": "Magic: The Gathering Secrets of Strixhaven - Collector Booster Box (12 Packs)",
-      "price": "$591.41",
+      "price": "$576.92",
       "available": true,
-      "lowStockNote": "Only 7 left in stock",
+      "lowStockNote": "Only 2 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -525,7 +525,7 @@
       "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Silverquill Influence (100-Card Deck, Deck Box + Accessories)",
       "price": "$51.99",
       "available": true,
-      "lowStockNote": "Only 4 left in stock",
+      "lowStockNote": "Only 1 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -533,7 +533,7 @@
     "B0G87JBK84": {
       "asin": "B0G87JBK84",
       "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Prismari Artistry (100-Card Deck, Deck Box + Accessories)",
-      "price": "$41.97",
+      "price": "$41.62",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -545,7 +545,7 @@
       "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Witherbloom Pestilence (100-Card Deck, Deck Box + Accessories)",
       "price": "$48.00",
       "available": true,
-      "lowStockNote": null,
+      "lowStockNote": "Only 13 left in stock",
       "tabs": [
         "new_releases"
       ]
@@ -553,7 +553,7 @@
     "B0G887STC9": {
       "asin": "B0G887STC9",
       "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Lorehold Spirit (100-Card Deck, Deck Box + Accessories)",
-      "price": "$38.97",
+      "price": "$38.92",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -563,7 +563,7 @@
     "B0G874G6HD": {
       "asin": "B0G874G6HD",
       "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Quandrix Unlimited (100-Card Deck, Deck Box + Accessories)",
-      "price": "$41.65",
+      "price": "$40.95",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -672,5 +672,5 @@
     }
   },
   "pendingNew": {},
-  "lastChecked": "2026-08-20T16:16:35.694Z"
+  "lastChecked": "2026-08-20T17:16:36.783Z"
 }
