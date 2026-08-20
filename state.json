@@ -13,7 +13,7 @@
     "B0GXC89N66": {
       "asin": "B0GXC89N66",
       "title": "Magic: The Gathering | The Hobbit Collector Booster Box | 12 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-      "price": "$848.50",
+      "price": "$849.88",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -203,8 +203,8 @@
     "B0H6H4PL4G": {
       "asin": "B0H6H4PL4G",
       "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
-      "price": null,
-      "available": false,
+      "price": "$224.97",
+      "available": true,
       "lowStockNote": null,
       "tabs": [
         "preorder"
@@ -393,7 +393,7 @@
     "B0G86YW5XX": {
       "asin": "B0G86YW5XX",
       "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Avengers Assemble (100-Card Deck + Accessories)",
-      "price": "$63.41",
+      "price": "$63.91",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -483,7 +483,7 @@
     "B0G87BJ9F3": {
       "asin": "B0G87BJ9F3",
       "title": "Magic: The Gathering Secrets of Strixhaven Collector Booster (1 Pack of 15 Cards)",
-      "price": "$47.95",
+      "price": "$47.00",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -545,7 +545,7 @@
       "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Witherbloom Pestilence (100-Card Deck, Deck Box + Accessories)",
       "price": "$48.00",
       "available": true,
-      "lowStockNote": "Only 13 left in stock",
+      "lowStockNote": null,
       "tabs": [
         "new_releases"
       ]
@@ -672,5 +672,5 @@
     }
   },
   "pendingNew": {},
-  "lastChecked": "2026-08-20T17:16:36.783Z"
+  "lastChecked": "2026-08-20T18:16:55.686Z"
 }
