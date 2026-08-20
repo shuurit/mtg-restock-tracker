@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-20T19:18:46.574Z",
+  "lastChecked": "2026-08-20T19:38:11.026Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -579,7 +579,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Silverquill Influence (100-Card Deck, Deck Box + Accessories)",
         "price": "$51.99",
         "available": true,
-        "lowStockNote": "Only 5 left in stock",
+        "lowStockNote": "Only 4 left in stock",
         "url": "https://www.amazon.com/dp/B0G8742ZNG",
         "tabs": [
           "new_releases"
@@ -740,7 +740,8 @@
         ]
       }
     },
-    "pendingNew": {}
+    "pendingNew": {},
+    "pendingRestock": {}
   },
   "bestbuy": {
     "items": {
@@ -1009,6 +1010,7 @@
         },
         "firstSeenAt": 1787252948866
       }
-    }
+    },
+    "pendingRestock": {}
   }
 }
