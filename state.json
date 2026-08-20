@@ -13,7 +13,7 @@
     "B0GXC89N66": {
       "asin": "B0GXC89N66",
       "title": "Magic: The Gathering | The Hobbit Collector Booster Box | 12 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-      "price": "$849.85",
+      "price": "$848.50",
       "available": true,
       "lowStockNote": null,
       "tabs": [
@@ -603,9 +603,9 @@
     "B0FR7JTZT5": {
       "asin": "B0FR7JTZT5",
       "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Draft Night | Collectible Trading Card Game",
-      "price": "$72.98",
+      "price": "$85.00",
       "available": true,
-      "lowStockNote": "Only 2 left in stock",
+      "lowStockNote": null,
       "tabs": [
         "new_releases"
       ]
@@ -672,5 +672,5 @@
     }
   },
   "pendingNew": {},
-  "lastChecked": "2026-08-20T15:16:48.142Z"
+  "lastChecked": "2026-08-20T16:16:35.694Z"
 }
