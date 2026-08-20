@@ -7,7 +7,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "new_releases"
       ]
     },
@@ -38,7 +37,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "new_releases"
       ]
     },
@@ -79,7 +77,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "new_releases"
       ]
     },
@@ -90,7 +87,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
@@ -121,7 +117,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
@@ -152,7 +147,6 @@
       "available": false,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
@@ -163,7 +157,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
@@ -194,7 +187,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
@@ -245,7 +237,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
@@ -256,7 +247,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
@@ -277,7 +267,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "preorder"
       ]
     },
@@ -308,7 +297,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "new_releases"
       ]
     },
@@ -329,7 +317,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "new_releases"
       ]
     },
@@ -360,7 +347,6 @@
       "available": true,
       "lowStockNote": null,
       "tabs": [
-        "home",
         "new_releases"
       ]
     },
@@ -686,5 +672,5 @@
     }
   },
   "pendingNew": {},
-  "lastChecked": "2026-08-20T12:16:20.692Z"
+  "lastChecked": "2026-08-20T13:16:31.767Z"
 }
