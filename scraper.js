@@ -4,14 +4,21 @@ const path = require('path');
 
 // Amazon storefront "page" IDs, discovered by clicking each nav tab on the
 // MagicTheGathering storefront and reading window.location.
-const TABS = {
+const AMAZON_TABS = {
   home: 'https://www.amazon.com/stores/page/1C5A2505-C20D-44F5-B31D-E91265896FF4?ingress=2&store_ref=bl_ast_dp_brandlogo_sto&ref_=ast_bln',
   preorder: 'https://www.amazon.com/stores/page/444201D0-E247-4164-B254-C36E737E7C06?ingress=2&store_ref=bl_ast_dp_brandlogo_sto&ref_=ast_bln',
   new_releases: 'https://www.amazon.com/stores/page/82E3FD96-0B6B-4E1D-A980-BC528EF4EEC8?ingress=2&store_ref=bl_ast_dp_brandlogo_sto&ref_=ast_bln',
 };
 
+// Wizards of The Coast / Magic: The Gathering, filtered to items sold &
+// shipped by Best Buy itself (marketplace/third-party sellers excluded).
+const BESTBUY_SEARCH_BASE =
+  'https://www.bestbuy.com/site/searchpage.jsp?browsedCategory=pcmcat1604992984556&id=pcat17071&qp=brand_facet%3DBrand%7EWizards+of+The+Coast%5Ebbyonly_facet%3DSold+%26+shipped+by%7EBest+Buy&st=categoryid%24pcmcat1604992984556';
+const BESTBUY_MAX_PAGES = 20; // safety cap — real pagination end is detected from the page itself
+
 const STATE_PATH = path.join(__dirname, 'state.json');
 const DISCORD_WEBHOOK_URL = process.env.DISCORD_WEBHOOK_URL;
+const PENDING_TTL_MS = 24 * 60 * 60 * 1000;
 
 function loadState() {
   if (!fs.existsSync(STATE_PATH)) return null;
@@ -22,7 +29,36 @@ function saveState(state) {
   fs.writeFileSync(STATE_PATH, JSON.stringify(state, null, 2) + '\n');
 }
 
-async function extractTab(page, url) {
+async function postDiscord(content) {
+  if (!DISCORD_WEBHOOK_URL) {
+    console.log('No DISCORD_WEBHOOK_URL set, skipping Discord post:\n' + content);
+    return;
+  }
+  const res = await fetch(DISCORD_WEBHOOK_URL, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ content }),
+  });
+  if (!res.ok) {
+    console.error('Discord post failed', res.status, await res.text());
+  }
+}
+
+async function postLines(lines) {
+  let chunk = '';
+  for (const line of lines) {
+    if ((chunk + '\n' + line).length > 1900) {
+      await postDiscord(chunk);
+      chunk = '';
+    }
+    chunk += (chunk ? '\n' : '') + line;
+  }
+  if (chunk) await postDiscord(chunk);
+}
+
+// ---------- Amazon ----------
+
+async function extractAmazonTab(page, url) {
   await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 45000 });
   try {
     await page.waitForSelector('a[href*="/dp/"]', { timeout: 15000 });
@@ -91,11 +127,12 @@ async function extractTab(page, url) {
       const lowStock = flat.match(/only \d+ left in stock/i);
 
       out.push({
-        asin,
+        key: asin,
         title: title ? title.trim() : null,
         price,
         available: !!price && !unavailable,
         lowStockNote: lowStock ? lowStock[0] : null,
+        url: `https://www.amazon.com/dp/${asin}`,
       });
     }
     // Storefront carousels sometimes surface unrelated cross-sell ads
@@ -107,19 +144,166 @@ async function extractTab(page, url) {
   return { blocked: false, items };
 }
 
-async function postDiscord(content) {
-  if (!DISCORD_WEBHOOK_URL) {
-    console.log('No DISCORD_WEBHOOK_URL set, skipping Discord post:\n' + content);
-    return;
+async function scrapeAmazon(page) {
+  const currentItems = {};
+  for (const [tabName, url] of Object.entries(AMAZON_TABS)) {
+    try {
+      const { blocked, items } = await extractAmazonTab(page, url);
+      if (blocked) {
+        console.log(`Amazon tab ${tabName} looks CAPTCHA'd/blocked, skipping it this run.`);
+        continue;
+      }
+      for (const item of items) {
+        if (!currentItems[item.key]) {
+          currentItems[item.key] = { ...item, tabs: [tabName] };
+        } else {
+          currentItems[item.key].tabs.push(tabName);
+          if (!currentItems[item.key].price && item.price) currentItems[item.key].price = item.price;
+          currentItems[item.key].available = currentItems[item.key].available || item.available;
+        }
+      }
+    } catch (err) {
+      console.error(`Error scraping Amazon tab ${tabName}:`, err.message);
+    }
+    await page.waitForTimeout(1500 + Math.random() * 1500);
   }
-  const res = await fetch(DISCORD_WEBHOOK_URL, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ content }),
-  });
-  if (!res.ok) {
-    console.error('Discord post failed', res.status, await res.text());
+  return currentItems;
+}
+
+// ---------- Best Buy ----------
+
+async function scrapeBestBuy(page) {
+  const currentItems = {};
+
+  for (let cp = 1; cp <= BESTBUY_MAX_PAGES; cp++) {
+    const url = `${BESTBUY_SEARCH_BASE}&cp=${cp}`;
+    let result;
+    try {
+      await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 45000 });
+      await page.waitForTimeout(1800);
+
+      const bodyText = await page.evaluate(() => document.body.innerText);
+      if (/enter the characters you see|verify you are human|are you a robot|unusual traffic|access to this page has been denied/i.test(bodyText)) {
+        console.log(`Best Buy page ${cp} looks CAPTCHA'd/blocked, stopping pagination for this run.`);
+        break;
+      }
+
+      result = await page.evaluate(() => {
+        const tiles = Array.from(document.querySelectorAll('.product-list-item')).filter((li) =>
+          li.querySelector('a[href*="/product/"]')
+        );
+        const out = [];
+        for (const li of tiles) {
+          const a = li.querySelector('a[href*="/product/"]');
+          const m = a.href.match(/\/sku\/(\d+)/);
+          if (!m) continue;
+          const sku = m[1];
+          const rawText = li.innerText || '';
+          const title = (a.getAttribute('aria-label') || rawText.split('\n')[0] || '').trim();
+          const text = rawText.replace(/\s+/g, ' ').trim();
+          const priceMatch = text.match(/\$\s*[\d,]+\.\d{2}/);
+          const price = priceMatch ? priceMatch[0].replace(/\s+/g, '') : null;
+          const soldOut = /sold out/i.test(text);
+          out.push({
+            key: sku,
+            title: title || null,
+            price,
+            available: !!price && !soldOut,
+            url: a.href,
+          });
+        }
+
+        const pagEl = document.querySelector('[class*="pagination"]');
+        const pagText = pagEl ? pagEl.innerText : '';
+        const rangeMatch = pagText.match(/([\d,]+)\s*-\s*([\d,]+) of ([\d,]+) items/i);
+        let done = tiles.length === 0;
+        if (rangeMatch) {
+          const end = parseInt(rangeMatch[2].replace(/,/g, ''), 10);
+          const total = parseInt(rangeMatch[3].replace(/,/g, ''), 10);
+          if (end >= total) done = true;
+        }
+        return { items: out, done };
+      });
+    } catch (err) {
+      console.error(`Error scraping Best Buy page ${cp}:`, err.message);
+      break;
+    }
+
+    for (const item of result.items) {
+      if (!item.title || !/magic/i.test(item.title)) continue; // skip non-MTG WotC items / sponsored noise
+      currentItems[item.key] = item;
+    }
+
+    if (result.done) break;
+    await page.waitForTimeout(1200 + Math.random() * 1200);
   }
+
+  return currentItems;
+}
+
+// ---------- Diffing (shared between sources) ----------
+
+// A first sighting of an item is held as a "pending" candidate rather than
+// alerted immediately, and only promoted to a real NEW alert once seen
+// again on a later run. This guards against both sites' listing pages not
+// reliably serving the same product set on every request (carousel
+// rotation on Amazon, sponsored-slot churn on Best Buy) — a genuinely
+// unchanged item can otherwise look "new" for one run and then vanish.
+function diffSource(sourceLabel, currentItems, prevSource) {
+  const prevItems = (prevSource && prevSource.items) || {};
+  const prevPending = (prevSource && prevSource.pendingNew) || {};
+  const nextPending = {};
+  const now = Date.now();
+
+  const newItems = [];
+  const restocks = [];
+
+  for (const [key, item] of Object.entries(currentItems)) {
+    const prev = prevItems[key];
+    if (prev) {
+      if (!prev.available && item.available) restocks.push(item);
+      continue;
+    }
+    if (prevPending[key]) {
+      newItems.push(item);
+    } else {
+      nextPending[key] = { item, firstSeenAt: now };
+    }
+  }
+
+  for (const [key, pending] of Object.entries(prevPending)) {
+    if (currentItems[key]) continue; // already promoted or already confirmed above
+    if (now - pending.firstSeenAt < PENDING_TTL_MS) {
+      nextPending[key] = pending;
+    }
+  }
+
+  const lines = [];
+  for (const item of restocks) {
+    lines.push(`🔄 **RESTOCK** [${sourceLabel}]: ${item.title} — ${item.price || ''} ${item.url}`);
+  }
+  for (const item of newItems) {
+    lines.push(`🆕 **NEW** [${sourceLabel}]: ${item.title} — ${item.price || 'price n/a'} ${item.url}`);
+  }
+
+  const mergedItems = { ...prevItems, ...currentItems };
+  return { lines, nextState: { items: mergedItems, pendingNew: nextPending } };
+}
+
+// ---------- Main ----------
+
+function normalizePrevState(prevState) {
+  // Migrates the old Amazon-only state shape ({items, pendingNew,
+  // lastChecked}) into the new multi-source shape ({amazon, bestbuy,
+  // lastChecked}) so existing history isn't lost when Best Buy is added.
+  if (!prevState) return { amazon: null, bestbuy: null };
+  if (prevState.amazon || prevState.bestbuy) {
+    return { amazon: prevState.amazon || null, bestbuy: prevState.bestbuy || null };
+  }
+  if (prevState.items) {
+    return { amazon: { items: prevState.items, pendingNew: prevState.pendingNew || {} }, bestbuy: null };
+  }
+  return { amazon: null, bestbuy: null };
 }
 
 async function run() {
@@ -131,113 +315,49 @@ async function run() {
   });
   const page = await context.newPage();
 
-  const prevState = loadState();
-  const prevItems = prevState ? prevState.items || {} : {};
-  const currentItems = {};
+  const rawPrevState = loadState();
+  const { amazon: prevAmazon, bestbuy: prevBestBuy } = normalizePrevState(rawPrevState);
 
-  for (const [tabName, url] of Object.entries(TABS)) {
-    try {
-      const { blocked, items } = await extractTab(page, url);
-      if (blocked) {
-        console.log(`Tab ${tabName} looks CAPTCHA'd/blocked, skipping it this run.`);
-        continue;
-      }
-      for (const item of items) {
-        if (!currentItems[item.asin]) {
-          currentItems[item.asin] = { ...item, tabs: [tabName] };
-        } else {
-          currentItems[item.asin].tabs.push(tabName);
-          if (!currentItems[item.asin].price && item.price) currentItems[item.asin].price = item.price;
-          currentItems[item.asin].available = currentItems[item.asin].available || item.available;
-        }
-      }
-    } catch (err) {
-      console.error(`Error scraping tab ${tabName}:`, err.message);
-    }
-    await page.waitForTimeout(1500 + Math.random() * 1500);
-  }
+  const currentAmazon = await scrapeAmazon(page);
+  const currentBestBuy = await scrapeBestBuy(page);
 
   await browser.close();
 
-  if (Object.keys(currentItems).length === 0) {
-    console.log('No items extracted this run (likely fully blocked). Leaving state untouched.');
-    return;
-  }
-
-  if (!prevState) {
-    saveState({ items: currentItems, pendingNew: {}, lastChecked: new Date().toISOString() });
-    await postDiscord(
-      `🟢 MTG Amazon tracker is live — baseline captured, ${Object.keys(currentItems).length} SKUs seen across Home/Preorder/New Releases.`
-    );
-    console.log('Baseline captured.');
-    return;
-  }
-
-  // The storefront's carousels don't reliably serve the same product set on
-  // every request (rotation/personalization on Amazon's side, not just a
-  // rendering timing issue) — a brand-new ASIN can appear once, vanish, then
-  // reappear hours later with nothing having actually changed on Amazon.
-  // So a first sighting is held as a "pending" candidate rather than
-  // alerted immediately; it only gets promoted to a real NEW alert once
-  // seen again on a later run. Candidates that never get re-seen just age
-  // out silently after PENDING_TTL_MS.
-  const prevPending = prevState.pendingNew || {};
-  const nextPending = {};
-  const now = Date.now();
-  const PENDING_TTL_MS = 24 * 60 * 60 * 1000;
-
-  const newItems = [];
-  const restocks = [];
-
-  for (const [asin, item] of Object.entries(currentItems)) {
-    const prev = prevItems[asin];
-    if (prev) {
-      if (!prev.available && item.available) restocks.push(item);
-      continue;
-    }
-    if (prevPending[asin]) {
-      // seen as a candidate before, and seen again now — confirmed.
-      newItems.push(item);
-    } else {
-      // first-ever sighting — hold it, don't alert yet.
-      nextPending[asin] = { item, firstSeenAt: now };
-    }
-  }
-
-  // Carry forward candidates not re-confirmed this run, as long as they're
-  // not stale (they may just not have rendered on this particular pass).
-  for (const [asin, pending] of Object.entries(prevPending)) {
-    if (currentItems[asin]) continue; // already promoted or already confirmed above
-    if (now - pending.firstSeenAt < PENDING_TTL_MS) {
-      nextPending[asin] = pending;
-    }
-  }
-
   const lines = [];
-  for (const item of restocks) {
-    lines.push(`🔄 **RESTOCK**: ${item.title || item.asin} — ${item.price || ''} https://www.amazon.com/dp/${item.asin}`);
+  const newState = { lastChecked: new Date().toISOString() };
+
+  if (Object.keys(currentAmazon).length === 0) {
+    console.log('No Amazon items extracted this run (likely fully blocked) — keeping prior Amazon state.');
+    newState.amazon = prevAmazon || { items: {}, pendingNew: {} };
+  } else if (!prevAmazon) {
+    newState.amazon = { items: currentAmazon, pendingNew: {} };
+    lines.push(`🟢 [Amazon] tracker baseline captured — ${Object.keys(currentAmazon).length} SKUs.`);
+  } else {
+    const { lines: amazonLines, nextState } = diffSource('Amazon', currentAmazon, prevAmazon);
+    lines.push(...amazonLines);
+    newState.amazon = nextState;
   }
-  for (const item of newItems) {
-    lines.push(`🆕 **NEW**: ${item.title || item.asin} — ${item.price || 'price n/a'} https://www.amazon.com/dp/${item.asin}`);
+
+  if (Object.keys(currentBestBuy).length === 0) {
+    console.log('No Best Buy items extracted this run (likely fully blocked) — keeping prior Best Buy state.');
+    newState.bestbuy = prevBestBuy || { items: {}, pendingNew: {} };
+  } else if (!prevBestBuy) {
+    newState.bestbuy = { items: currentBestBuy, pendingNew: {} };
+    lines.push(`🟢 [Best Buy] tracker baseline captured — ${Object.keys(currentBestBuy).length} SKUs.`);
+  } else {
+    const { lines: bbLines, nextState } = diffSource('Best Buy', currentBestBuy, prevBestBuy);
+    lines.push(...bbLines);
+    newState.bestbuy = nextState;
   }
 
   if (lines.length > 0) {
-    let chunk = '';
-    for (const line of lines) {
-      if ((chunk + '\n' + line).length > 1900) {
-        await postDiscord(chunk);
-        chunk = '';
-      }
-      chunk += (chunk ? '\n' : '') + line;
-    }
-    if (chunk) await postDiscord(chunk);
-    console.log(`Posted ${lines.length} changes to Discord.`);
+    await postLines(lines);
+    console.log(`Posted ${lines.length} line(s) to Discord.`);
   } else {
     console.log('No changes detected.');
   }
 
-  const mergedItems = { ...prevItems, ...currentItems };
-  saveState({ items: mergedItems, pendingNew: nextPending, lastChecked: new Date().toISOString() });
+  saveState(newState);
 }
 
 run().catch((err) => {
