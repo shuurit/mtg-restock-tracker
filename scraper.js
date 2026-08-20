@@ -243,39 +243,68 @@ async function scrapeBestBuy(page) {
 
 // ---------- Diffing (shared between sources) ----------
 
-// A first sighting of an item is held as a "pending" candidate rather than
-// alerted immediately, and only promoted to a real NEW alert once seen
-// again on a later run. This guards against both sites' listing pages not
-// reliably serving the same product set on every request (carousel
-// rotation on Amazon, sponsored-slot churn on Best Buy) — a genuinely
-// unchanged item can otherwise look "new" for one run and then vanish.
+// A first sighting of a new item, or a first sighting of a known item
+// flipping unavailable -> available, is held as a "pending" candidate
+// rather than alerted immediately — it's only promoted to a real alert
+// once seen again on a later run. This guards against both sites' listing
+// pages not reliably serving identical data on every request (carousel
+// rotation on Amazon, sponsored-slot churn on Best Buy, single-page
+// render races on either) — a genuinely unchanged item can otherwise look
+// "new" or "restocked" for one run and then revert on the next. Going
+// available -> unavailable is applied immediately either way since it's
+// never alerted on.
 function diffSource(sourceLabel, currentItems, prevSource) {
   const prevItems = (prevSource && prevSource.items) || {};
-  const prevPending = (prevSource && prevSource.pendingNew) || {};
-  const nextPending = {};
+  const prevPendingNew = (prevSource && prevSource.pendingNew) || {};
+  const prevPendingRestock = (prevSource && prevSource.pendingRestock) || {};
+  const nextPendingNew = {};
+  const nextPendingRestock = {};
   const now = Date.now();
 
   const newItems = [];
   const restocks = [];
+  const mergedItems = { ...prevItems };
 
   for (const [key, item] of Object.entries(currentItems)) {
     const prev = prevItems[key];
-    if (prev) {
-      if (!prev.available && item.available) restocks.push(item);
+
+    if (!prev) {
+      // never confirmed as a known item before
+      if (prevPendingNew[key]) {
+        newItems.push(item);
+        mergedItems[key] = item;
+      } else {
+        nextPendingNew[key] = { item, firstSeenAt: now };
+        // stays out of mergedItems until confirmed on a later run
+      }
       continue;
     }
-    if (prevPending[key]) {
-      newItems.push(item);
+
+    if (prev.available || !item.available) {
+      // no restock-confirmation needed: either it was already available
+      // (just refresh its data), or it's still/newly unavailable (applied
+      // immediately, never alerted on).
+      mergedItems[key] = item;
+      continue;
+    }
+
+    // prev.available === false && item.available === true: potential restock
+    if (prevPendingRestock[key]) {
+      restocks.push(item);
+      mergedItems[key] = item; // now confirmed available
     } else {
-      nextPending[key] = { item, firstSeenAt: now };
+      nextPendingRestock[key] = { item, firstSeenAt: now };
+      mergedItems[key] = { ...item, available: false }; // not yet confirmed
     }
   }
 
-  for (const [key, pending] of Object.entries(prevPending)) {
-    if (currentItems[key]) continue; // already promoted or already confirmed above
-    if (now - pending.firstSeenAt < PENDING_TTL_MS) {
-      nextPending[key] = pending;
-    }
+  for (const [key, pending] of Object.entries(prevPendingNew)) {
+    if (currentItems[key]) continue; // already promoted or already re-pending above
+    if (now - pending.firstSeenAt < PENDING_TTL_MS) nextPendingNew[key] = pending;
+  }
+  for (const [key, pending] of Object.entries(prevPendingRestock)) {
+    if (currentItems[key]) continue;
+    if (now - pending.firstSeenAt < PENDING_TTL_MS) nextPendingRestock[key] = pending;
   }
 
   const lines = [];
@@ -286,8 +315,7 @@ function diffSource(sourceLabel, currentItems, prevSource) {
     lines.push(`🆕 **NEW** [${sourceLabel}]: ${item.title} — ${item.price || 'price n/a'} ${item.url}`);
   }
 
-  const mergedItems = { ...prevItems, ...currentItems };
-  return { lines, nextState: { items: mergedItems, pendingNew: nextPending } };
+  return { lines, nextState: { items: mergedItems, pendingNew: nextPendingNew, pendingRestock: nextPendingRestock } };
 }
 
 // ---------- Main ----------
