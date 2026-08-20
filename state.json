@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-20T19:38:11.026Z",
+  "lastChecked": "2026-08-20T20:18:53.525Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -665,9 +665,9 @@
       "B0FR7JTZT5": {
         "key": "B0FR7JTZT5",
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Draft Night | Collectible Trading Card Game",
-        "price": "$85.00",
+        "price": "$72.98",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 4 left in stock",
         "url": "https://www.amazon.com/dp/B0FR7JTZT5",
         "tabs": [
           "new_releases"
@@ -1009,6 +1009,16 @@
           "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-vi-commander-deck-revival-trance/JJ8VP7HWC4/sku/6619415"
         },
         "firstSeenAt": 1787252948866
+      },
+      "6648351": {
+        "item": {
+          "key": "6648351",
+          "title": "Wizards of The Coast - Magic: The Gathering Lorwyn Eclipsed Commander Deck - Blight Curse",
+          "price": "$41.99",
+          "available": true,
+          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-lorwyn-eclipsed-commander-deck-blight-curse/JJ8VP7K9P7/sku/6648351"
+        },
+        "firstSeenAt": 1787257133526
       }
     },
     "pendingRestock": {}
