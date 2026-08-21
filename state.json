@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-21T03:18:31.232Z",
+  "lastChecked": "2026-08-21T03:32:11.699Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -10,6 +10,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBJG9L",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -43,6 +44,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -87,6 +89,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS582CC",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -98,6 +101,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCHBRTC",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -131,6 +135,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -164,6 +169,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9JFZY",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -175,6 +181,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H2D3JF",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -208,6 +215,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H1XTK6",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -263,6 +271,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBW828",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -274,6 +283,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCH6X4K",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -296,6 +306,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC5T8LG",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -329,6 +340,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -351,6 +363,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G867CCWN",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -384,6 +397,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -579,7 +593,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Silverquill Influence (100-Card Deck, Deck Box + Accessories)",
         "price": "$51.99",
         "available": true,
-        "lowStockNote": "Only 7 left in stock",
+        "lowStockNote": "Only 5 left in stock",
         "url": "https://www.amazon.com/dp/B0G8742ZNG",
         "tabs": [
           "new_releases"
@@ -740,7 +754,6 @@
         ]
       }
     },
-    "pendingNew": {},
     "pendingRestock": {}
   },
   "bestbuy": {
@@ -835,6 +848,13 @@
         "price": "$47.99",
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-edge-of-eternities-commander-deck-counter-intelligence/JJ8VP7TYSG/sku/6620417"
+      },
+      "6621975": {
+        "key": "6621975",
+        "title": "Wizards of The Coast - Magic: The Gathering Marvel's Spider-Man Scene Box",
+        "price": "$41.99",
+        "available": true,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvels-spider-man-scene-box/JJ8VP7TR3J/sku/6621975"
       },
       "6621980": {
         "key": "6621980",
@@ -1059,68 +1079,6 @@
         "price": "$104.99",
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-beam-me-up-bundle/JJ8VP7ZYF7/sku/6686939"
-      }
-    },
-    "pendingNew": {
-      "6568460": {
-        "item": {
-          "key": "6568460",
-          "title": "Wizards of The Coast - Magic: The Gathering Fallout Commander Deck - Science!",
-          "price": "$59.99",
-          "available": true,
-          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-fallout-commander-deck-science/JJ8VP7R7YJ/sku/6568460"
-        },
-        "firstSeenAt": 1787260742558
-      },
-      "6621975": {
-        "item": {
-          "key": "6621975",
-          "title": "Wizards of The Coast - Magic: The Gathering Marvel's Spider-Man Scene Box",
-          "price": "$41.99",
-          "available": true,
-          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvels-spider-man-scene-box/JJ8VP7TR3J/sku/6621975"
-        },
-        "firstSeenAt": 1787282311232
-      },
-      "6643175": {
-        "item": {
-          "key": "6643175",
-          "title": "Wizards of The Coast - Magic: The Gathering Avatar: The Last Airbender Bundle",
-          "price": "$55.99",
-          "available": false,
-          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-avatar-the-last-airbender-bundle/JJ8VP7TR52/sku/6643175"
-        },
-        "firstSeenAt": 1787264325131
-      },
-      "6669855": {
-        "item": {
-          "key": "6669855",
-          "title": "Wizards of The Coast - Magic: The Gathering Secrets of Strixhaven Codex Bundle",
-          "price": "$94.99",
-          "available": true,
-          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-secrets-of-strixhaven-codex-bundle/JJ8VP7KLV2/sku/6669855"
-        },
-        "firstSeenAt": 1787264325131
-      },
-      "6669868": {
-        "item": {
-          "key": "6669868",
-          "title": "Wizards of The Coast - Magic: The Gathering Marvel Super Heroes Beginner Box",
-          "price": "$34.99",
-          "available": true,
-          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-beginner-box/JJ8VP7K8P9/sku/6669868"
-        },
-        "firstSeenAt": 1787271540824
-      },
-      "6669885": {
-        "item": {
-          "key": "6669885",
-          "title": "Wizards of The Coast - Magic: The Gathering Marvel Super Heroes Collector's Edition Commander Deck - The Fantastic Four",
-          "price": "$164.99",
-          "available": true,
-          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-collectors-edition-commander-deck-the-fantastic-four/JJ8VP7KSKL/sku/6669885"
-        },
-        "firstSeenAt": 1787267930220
       }
     },
     "pendingRestock": {}
