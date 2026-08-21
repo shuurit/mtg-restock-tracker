@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-21T17:18:54.517Z",
+  "lastChecked": "2026-08-21T18:18:27.549Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -164,7 +164,7 @@
       "B0GXC9JFZY": {
         "key": "B0GXC9JFZY",
         "title": "Magic: The Gathering Reality Fracture Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens",
-        "price": null,
+        "price": "$99.99",
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9JFZY",
@@ -233,7 +233,7 @@
       "B0H6H4PL4G": {
         "key": "B0H6H4PL4G",
         "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
-        "price": "$224.97",
+        "price": null,
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H4PL4G",
@@ -602,7 +602,7 @@
       "B0G87JBK84": {
         "key": "B0G87JBK84",
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Prismari Artistry (100-Card Deck, Deck Box + Accessories)",
-        "price": "$42.67",
+        "price": "$41.97",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87JBK84",
@@ -635,7 +635,7 @@
       "B0G874G6HD": {
         "key": "B0G874G6HD",
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Quandrix Unlimited (100-Card Deck, Deck Box + Accessories)",
-        "price": "$40.95",
+        "price": "$41.62",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G874G6HD",
@@ -679,7 +679,7 @@
       "B0FR7JTZT5": {
         "key": "B0FR7JTZT5",
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Draft Night | Collectible Trading Card Game",
-        "price": "$85.00",
+        "price": "$72.98",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0FR7JTZT5",
@@ -734,7 +734,7 @@
       "B0FR717633": {
         "key": "B0FR717633",
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Commander Deck - Turtle Power! | Collectible Trading Card Game",
-        "price": "$65.00",
+        "price": "$72.95",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0FR717633",
@@ -755,19 +755,20 @@
       }
     },
     "pendingRestock": {
-      "B0H6H4PL4G": {
+      "B0GXC9JFZY": {
         "item": {
-          "key": "B0H6H4PL4G",
-          "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
-          "price": "$224.97",
+          "key": "B0GXC9JFZY",
+          "title": "Magic: The Gathering Reality Fracture Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens",
+          "price": "$99.99",
           "available": true,
           "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0H6H4PL4G",
+          "url": "https://www.amazon.com/dp/B0GXC9JFZY",
           "tabs": [
+            "home",
             "preorder"
           ]
         },
-        "firstSeenAt": 1787332734518
+        "firstSeenAt": 1787336307549
       }
     }
   },
@@ -1067,6 +1068,13 @@
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-secrets-of-strixhaven-commander-deck-quandrix-unlimited/JJ8VP7KW9T/sku/6669860"
       },
+      "6669863": {
+        "key": "6669863",
+        "title": "Wizards of The Coast - Magic: The Gathering Marvel Super Heroes Commander Deck - Doom Prevails",
+        "price": "$77.99",
+        "available": true,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-commander-deck-doom-prevails/JJ8VP7KSL7/sku/6669863"
+      },
       "6669864": {
         "key": "6669864",
         "title": "Wizards of The Coast - Magic: The Gathering Marvel Super Heroes Collector's Edition Commander Deck - Wakanda Forever",
@@ -1136,6 +1144,13 @@
         "price": "$41.99",
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-hobbit-scene-box-1-scene-box-per-order-styles-may-vary/JJ8VP7KQLK/sku/6678102"
+      },
+      "6678109": {
+        "key": "6678109",
+        "title": "Wizards of The Coast - Magic: The Gathering - The Hobbit Draft Night",
+        "price": "$129.99",
+        "available": false,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-hobbit-draft-night/JJ8VP7KQG6/sku/6678109"
       },
       "6678112": {
         "key": "6678112",
