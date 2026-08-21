@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-21T20:19:14.722Z",
+  "lastChecked": "2026-08-21T21:18:08.616Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -762,7 +762,7 @@
         "key": "6539370",
         "title": "Wizards of The Coast - Magic: The Gathering The Lord of The Rings: Tales of Middle Earth Draft Booster Multipack",
         "price": "$15.99",
-        "available": false,
+        "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-lord-of-the-rings-tales-of-middle-earth-draft-booster-multipack/JJ8VP79CF6/sku/6539370"
       },
       "6550336": {
@@ -1233,19 +1233,15 @@
         "price": "$104.99",
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-beam-me-up-bundle/JJ8VP7ZYF7/sku/6686939"
+      },
+      "6686943": {
+        "key": "6686943",
+        "title": "New! - Wizards of The Coast - Magic: The Gathering Star Trek Collector's Edition Commander Deck - Federation Fleet",
+        "price": "$164.99",
+        "available": true,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-collectors-edition-commander-deck-federation-fleet/JJ8VP7ZHGY/sku/6686943"
       }
     },
-    "pendingRestock": {
-      "6539370": {
-        "item": {
-          "key": "6539370",
-          "title": "Wizards of The Coast - Magic: The Gathering The Lord of The Rings: Tales of Middle Earth Draft Booster Multipack",
-          "price": "$15.99",
-          "available": true,
-          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-lord-of-the-rings-tales-of-middle-earth-draft-booster-multipack/JJ8VP79CF6/sku/6539370"
-        },
-        "firstSeenAt": 1787343554723
-      }
-    }
+    "pendingRestock": {}
   }
 }
