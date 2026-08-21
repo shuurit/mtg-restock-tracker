@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-21T00:19:00.824Z",
+  "lastChecked": "2026-08-21T01:19:00.482Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -836,6 +836,13 @@
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-edge-of-eternities-commander-deck-counter-intelligence/JJ8VP7TYSG/sku/6620417"
       },
+      "6621980": {
+        "key": "6621980",
+        "title": "Wizards of The Coast - Magic: The Gathering Marvel's Spider-Man Play Booster Box (30 Packs)",
+        "price": "$189.99",
+        "available": true,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvels-spider-man-play-booster-box-30-packs/JJ8VP7T6HS/sku/6621980"
+      },
       "6643173": {
         "key": "6643173",
         "title": "Wizards of The Coast - Magic: The Gathering Avatar: The Last Airbender Play Booster Sleeve",
@@ -913,12 +920,26 @@
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-teenage-mutant-ninja-turtles-turtle-team-up/JJ8VP7WZ86/sku/6649559"
       },
+      "6649564": {
+        "key": "6649564",
+        "title": "Wizards of The Coast - Magic: The Gathering Teenage Mutant Ninja Turtles Pizza Bundle",
+        "price": "$99.99",
+        "available": true,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-teenage-mutant-ninja-turtles-pizza-bundle/JJ8VP7WWP6/sku/6649564"
+      },
       "6649565": {
         "key": "6649565",
         "title": "Wizards of The Coast - Magic: The Gathering Teenage Mutant Ninja Turtles Bundle",
         "price": "$55.99",
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-teenage-mutant-ninja-turtles-bundle/JJ8VP7WWYR/sku/6649565"
+      },
+      "6669825": {
+        "key": "6669825",
+        "title": "Wizards of The Coast - Magic: The Gathering Secrets of Strixhaven Play Booster Sleeve",
+        "price": "$5.49",
+        "available": true,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-secrets-of-strixhaven-play-booster-sleeve/JJ8VP7KGQV/sku/6669825"
       },
       "6669852": {
         "key": "6669852",
@@ -990,6 +1011,13 @@
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-reality-fracture-bundle/JJ8VP7ZR93/sku/6678190"
       },
+      "6678304": {
+        "key": "6678304",
+        "title": "Wizards of The Coast - Magic: The Gathering Reality Fracture - Commander Deck",
+        "price": "$49.99",
+        "available": true,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-reality-fracture-commander-deck/JJ8VP7ZRQ5/sku/6678304"
+      },
       "6686933": {
         "key": "6686933",
         "title": "New! - Wizards of The Coast - Magic: The Gathering Star Trek Collector's Edition Commander Deck - Klingon Fury",
@@ -1023,16 +1051,6 @@
         },
         "firstSeenAt": 1787260742558
       },
-      "6621980": {
-        "item": {
-          "key": "6621980",
-          "title": "Wizards of The Coast - Magic: The Gathering Marvel's Spider-Man Play Booster Box (30 Packs)",
-          "price": "$189.99",
-          "available": true,
-          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvels-spider-man-play-booster-box-30-packs/JJ8VP7T6HS/sku/6621980"
-        },
-        "firstSeenAt": 1787271540824
-      },
       "6643175": {
         "item": {
           "key": "6643175",
@@ -1043,25 +1061,15 @@
         },
         "firstSeenAt": 1787264325131
       },
-      "6649564": {
+      "6669823": {
         "item": {
-          "key": "6649564",
-          "title": "Wizards of The Coast - Magic: The Gathering Teenage Mutant Ninja Turtles Pizza Bundle",
-          "price": "$99.99",
+          "key": "6669823",
+          "title": "Wizards of The Coast - Magic: The Gathering Secrets of Strixhaven Play Booster Box (30 Packs)",
+          "price": "$149.99",
           "available": true,
-          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-teenage-mutant-ninja-turtles-pizza-bundle/JJ8VP7WWP6/sku/6649564"
+          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-secrets-of-strixhaven-play-booster-box-30-packs/JJ8VP7K8WP/sku/6669823"
         },
-        "firstSeenAt": 1787271540824
-      },
-      "6669825": {
-        "item": {
-          "key": "6669825",
-          "title": "Wizards of The Coast - Magic: The Gathering Secrets of Strixhaven Play Booster Sleeve",
-          "price": "$5.49",
-          "available": true,
-          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-secrets-of-strixhaven-play-booster-sleeve/JJ8VP7KGQV/sku/6669825"
-        },
-        "firstSeenAt": 1787267930220
+        "firstSeenAt": 1787275140483
       },
       "6669855": {
         "item": {
@@ -1093,28 +1101,17 @@
         },
         "firstSeenAt": 1787267930220
       },
-      "6678304": {
+      "6686927": {
         "item": {
-          "key": "6678304",
-          "title": "Wizards of The Coast - Magic: The Gathering Reality Fracture - Commander Deck",
-          "price": "$49.99",
+          "key": "6686927",
+          "title": "New! - Wizards of The Coast - Magic: The Gathering Star Trek Commander Deck - Klingon Fury",
+          "price": "$74.99",
           "available": true,
-          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-reality-fracture-commander-deck/JJ8VP7ZRQ5/sku/6678304"
+          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-commander-deck-klingon-fury/JJ8VP7ZT82/sku/6686927"
         },
-        "firstSeenAt": 1787271540824
+        "firstSeenAt": 1787275140483
       }
     },
-    "pendingRestock": {
-      "6539370": {
-        "item": {
-          "key": "6539370",
-          "title": "Wizards of The Coast - Magic: The Gathering The Lord of The Rings: Tales of Middle Earth Draft Booster Multipack",
-          "price": "$15.99",
-          "available": true,
-          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-lord-of-the-rings-tales-of-middle-earth-draft-booster-multipack/JJ8VP79CF6/sku/6539370"
-        },
-        "firstSeenAt": 1787260742558
-      }
-    }
+    "pendingRestock": {}
   }
 }
