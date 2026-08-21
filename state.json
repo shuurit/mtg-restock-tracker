@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-21T19:18:34.148Z",
+  "lastChecked": "2026-08-21T20:19:14.722Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -1235,6 +1235,17 @@
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-beam-me-up-bundle/JJ8VP7ZYF7/sku/6686939"
       }
     },
-    "pendingRestock": {}
+    "pendingRestock": {
+      "6539370": {
+        "item": {
+          "key": "6539370",
+          "title": "Wizards of The Coast - Magic: The Gathering The Lord of The Rings: Tales of Middle Earth Draft Booster Multipack",
+          "price": "$15.99",
+          "available": true,
+          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-lord-of-the-rings-tales-of-middle-earth-draft-booster-multipack/JJ8VP79CF6/sku/6539370"
+        },
+        "firstSeenAt": 1787343554723
+      }
+    }
   }
 }
