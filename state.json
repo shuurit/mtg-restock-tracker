@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-21T21:18:08.616Z",
+  "lastChecked": "2026-08-21T22:19:10.984Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -862,6 +862,13 @@
         "price": "$6.99",
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-play-booster-sleeve/JJ8VP7HLZ7/sku/6619448"
+      },
+      "6619451": {
+        "key": "6619451",
+        "title": "Wizards of The Coast - Magic: The Gathering Final Fantasy Play Booster Box (30 Packs)",
+        "price": "$184.99",
+        "available": false,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-play-booster-box-30-packs/JJ8VP7HL99/sku/6619451"
       },
       "6620417": {
         "key": "6620417",
