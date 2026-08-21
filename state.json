@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-21T03:32:11.699Z",
+  "lastChecked": "2026-08-21T04:19:14.174Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -10,7 +10,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBJG9L",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
@@ -44,7 +43,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
@@ -89,7 +87,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS582CC",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
@@ -340,7 +337,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
@@ -363,7 +359,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G867CCWN",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
@@ -397,7 +392,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
@@ -593,7 +587,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Silverquill Influence (100-Card Deck, Deck Box + Accessories)",
         "price": "$51.99",
         "available": true,
-        "lowStockNote": "Only 5 left in stock",
+        "lowStockNote": "Only 9 left in stock",
         "url": "https://www.amazon.com/dp/B0G8742ZNG",
         "tabs": [
           "new_releases"
@@ -681,7 +675,7 @@
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Draft Night | Collectible Trading Card Game",
         "price": "$72.98",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 3 left in stock",
         "url": "https://www.amazon.com/dp/B0FR7JTZT5",
         "tabs": [
           "new_releases"
@@ -954,6 +948,13 @@
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-teenage-mutant-ninja-turtles-bundle/JJ8VP7WWYR/sku/6649565"
       },
+      "6649569": {
+        "key": "6649569",
+        "title": "Wizards of The Coast - Magic: The Gathering Teenage Mutant Ninja Turtles Play Booster Sleeve",
+        "price": "$6.99",
+        "available": true,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-teenage-mutant-ninja-turtles-play-booster-sleeve/JJ8VP7WWGK/sku/6649569"
+      },
       "6669823": {
         "key": "6669823",
         "title": "Wizards of The Coast - Magic: The Gathering Secrets of Strixhaven Play Booster Box (30 Packs)",
@@ -1002,6 +1003,13 @@
         "price": "$77.99",
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-commander-deck-the-fantastic-four/JJ8VP7KSGJ/sku/6669873"
+      },
+      "6669878": {
+        "key": "6669878",
+        "title": "Wizards of The Coast - Magic: The Gathering Marvel Super Heroes Play Booster Sleeve",
+        "price": "$6.99",
+        "available": true,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-play-booster-sleeve/JJ8VP7KC7R/sku/6669878"
       },
       "6669883": {
         "key": "6669883",
@@ -1072,6 +1080,13 @@
         "price": "$74.99",
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-commander-deck-federation-fleet/JJ8VP7ZT22/sku/6686934"
+      },
+      "6686937": {
+        "key": "6686937",
+        "title": "New! - Wizards of The Coast - Magic: The Gathering Star Trek Play Booster Box (30 Packs)",
+        "price": "$199.99",
+        "available": true,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-play-booster-box-30-packs/JJ8VP7ZLHQ/sku/6686937"
       },
       "6686939": {
         "key": "6686939",
