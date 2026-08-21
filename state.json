@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-21T11:19:05.156Z",
+  "lastChecked": "2026-08-21T12:18:58.332Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -104,7 +104,7 @@
       "B0GXC667JV": {
         "key": "B0GXC667JV",
         "title": "Magic: The Gathering Reality Fracture Collector Booster Box | 12 Packs",
-        "price": "$323.88",
+        "price": null,
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC667JV",
@@ -236,7 +236,7 @@
       "B0H6GPSGC2": {
         "key": "B0H6GPSGC2",
         "title": "Magic: The Gathering | Star Trek Collector's Edition Commander Deck Bundle",
-        "price": "$639.96",
+        "price": null,
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6GPSGC2",
@@ -610,7 +610,7 @@
       "B0G887STC9": {
         "key": "B0G887STC9",
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Lorehold Spirit (100-Card Deck, Deck Box + Accessories)",
-        "price": "$38.92",
+        "price": "$38.97",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G887STC9",
@@ -665,9 +665,9 @@
       "B0FR7JTZT5": {
         "key": "B0FR7JTZT5",
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Draft Night | Collectible Trading Card Game",
-        "price": "$72.98",
+        "price": "$85.00",
         "available": true,
-        "lowStockNote": "Only 2 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0FR7JTZT5",
         "tabs": [
           "new_releases"
@@ -676,9 +676,9 @@
       "B0FR7KFXBB": {
         "key": "B0FR7KFXBB",
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Bundle | 9 Play Boosters, 30 Lands, Foil Alt-Art Promo Card + Exclusive Accessories | Collectible Trading Card Game",
-        "price": "$55.99",
+        "price": "$53.99",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0FR7KFXBB",
         "tabs": [
           "new_releases"
@@ -740,36 +740,7 @@
         ]
       }
     },
-    "pendingRestock": {
-      "B0GXC667JV": {
-        "item": {
-          "key": "B0GXC667JV",
-          "title": "Magic: The Gathering Reality Fracture Collector Booster Box | 12 Packs",
-          "price": "$323.88",
-          "available": true,
-          "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0GXC667JV",
-          "tabs": [
-            "preorder"
-          ]
-        },
-        "firstSeenAt": 1787311145156
-      },
-      "B0H6GPSGC2": {
-        "item": {
-          "key": "B0H6GPSGC2",
-          "title": "Magic: The Gathering | Star Trek Collector's Edition Commander Deck Bundle",
-          "price": "$639.96",
-          "available": true,
-          "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0H6GPSGC2",
-          "tabs": [
-            "preorder"
-          ]
-        },
-        "firstSeenAt": 1787311145156
-      }
-    }
+    "pendingRestock": {}
   },
   "bestbuy": {
     "items": {
