@@ -1,10 +1,11 @@
 # mtg-restock-tracker
 
 Checks Amazon and Best Buy for Magic: The Gathering (Wizards of The Coast)
-products once an hour and posts to Discord when it sees:
-
-- a **new** product (not seen in any previous run), or
-- a **restock** (a known product that flips from unavailable to available)
+products once an hour and posts to Discord on a **restock** — a
+previously-tracked product that flips from unavailable to available.
+Brand-new products are silently added to the tracked set the first time
+they're seen (whatever their availability), with no alert — this tracker
+is restock-only by design, not a "new product" feed.
 
 Sources tracked:
 
@@ -22,14 +23,20 @@ Best Buy SKU), reads the tile's own price/availability text, and diffs the
 result against `state.json`, which the workflow commits back to the repo
 after every run — so `git log -p state.json` doubles as a change history.
 
-A first sighting of a new product is held as a "pending candidate" rather
-than alerted immediately, and only promoted to a real 🆕 NEW alert once
-seen again on a later run (within 24h). Both sites' listing pages don't
-reliably serve the exact same product set on every request — Amazon's
-carousels rotate/lazy-load, Best Buy's result grid pads real matches with
-shifting sponsored slots — so a genuinely-unchanged item can otherwise
-look "new" for one run and vanish the next. Restocks alert immediately;
-that flakiness mode wasn't observed for already-known items.
+A restock (unavailable -> available on a product already being tracked)
+is held as a "pending candidate" rather than alerted immediately, and only
+promoted to a real 🔄 RESTOCK alert once seen again on a later run
+(within 24h). Both sites' listing pages don't reliably serve identical
+availability data on every request — Amazon's carousels rotate/lazy-load,
+Best Buy's result grid pads real matches with shifting sponsored slots,
+and either site can just misread a tile's text on a given page load — so
+a genuinely-still-out-of-stock item can otherwise look restocked for one
+run and revert on the next. (An earlier version of this tracker alerted
+immediately on restocks and also alerted on new products via the same
+two-sighting gate; a live false-positive restock — and the fact that new
+products aren't restocks and shouldn't page anyone — led to narrowing it
+down to just this.) Going available -> unavailable is applied immediately
+either way, since that direction is never alerted on.
 
 ## Availability signal per source
 
@@ -66,6 +73,6 @@ that flakiness mode wasn't observed for already-known items.
   browser session — if runs start getting blocked consistently, that's why.
 - Best Buy's per-page organic-item count fluctuates (sponsored slots churn
   independently of real inventory), which is exactly what the pending-
-  candidate confirmation step exists to absorb.
+  restock confirmation step exists to absorb.
 - Title text comes from the DOM (`aria-label` where present, otherwise the
   tile's first text line), not a stable product API.

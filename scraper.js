@@ -243,47 +243,32 @@ async function scrapeBestBuy(page) {
 
 // ---------- Diffing (shared between sources) ----------
 
-// A first sighting of a new item, or a first sighting of a known item
-// flipping unavailable -> available, is held as a "pending" candidate
-// rather than alerted immediately — it's only promoted to a real alert
-// once seen again on a later run. This guards against both sites' listing
-// pages not reliably serving identical data on every request (carousel
-// rotation on Amazon, sponsored-slot churn on Best Buy, single-page
-// render races on either) — a genuinely unchanged item can otherwise look
-// "new" or "restocked" for one run and then revert on the next. Going
+// Only restocks are alerted — a brand-new item we've never tracked before
+// is just silently added to the tracked set (whatever its availability
+// happens to be), no alert either way. A restock (unavailable ->
+// available on an item we already know) is held as a "pending" candidate
+// rather than alerted immediately, and only promoted to a real alert once
+// seen again on a later run — both sites' listing pages don't reliably
+// serve identical availability data on every request (single-page render
+// races, sponsored-slot churn), so a genuinely-still-out-of-stock item can
+// otherwise look restocked for one run and then revert on the next. Going
 // available -> unavailable is applied immediately either way since it's
 // never alerted on.
 function diffSource(sourceLabel, currentItems, prevSource) {
   const prevItems = (prevSource && prevSource.items) || {};
-  const prevPendingNew = (prevSource && prevSource.pendingNew) || {};
   const prevPendingRestock = (prevSource && prevSource.pendingRestock) || {};
-  const nextPendingNew = {};
   const nextPendingRestock = {};
   const now = Date.now();
 
-  const newItems = [];
   const restocks = [];
   const mergedItems = { ...prevItems };
 
   for (const [key, item] of Object.entries(currentItems)) {
     const prev = prevItems[key];
 
-    if (!prev) {
-      // never confirmed as a known item before
-      if (prevPendingNew[key]) {
-        newItems.push(item);
-        mergedItems[key] = item;
-      } else {
-        nextPendingNew[key] = { item, firstSeenAt: now };
-        // stays out of mergedItems until confirmed on a later run
-      }
-      continue;
-    }
-
-    if (prev.available || !item.available) {
-      // no restock-confirmation needed: either it was already available
-      // (just refresh its data), or it's still/newly unavailable (applied
-      // immediately, never alerted on).
+    if (!prev || prev.available || !item.available) {
+      // brand new to tracking, already available, or still/newly
+      // unavailable — recorded immediately, never alerted on.
       mergedItems[key] = item;
       continue;
     }
@@ -298,10 +283,6 @@ function diffSource(sourceLabel, currentItems, prevSource) {
     }
   }
 
-  for (const [key, pending] of Object.entries(prevPendingNew)) {
-    if (currentItems[key]) continue; // already promoted or already re-pending above
-    if (now - pending.firstSeenAt < PENDING_TTL_MS) nextPendingNew[key] = pending;
-  }
   for (const [key, pending] of Object.entries(prevPendingRestock)) {
     if (currentItems[key]) continue;
     if (now - pending.firstSeenAt < PENDING_TTL_MS) nextPendingRestock[key] = pending;
@@ -311,11 +292,8 @@ function diffSource(sourceLabel, currentItems, prevSource) {
   for (const item of restocks) {
     lines.push(`🔄 **RESTOCK** [${sourceLabel}]: ${item.title} — ${item.price || ''} ${item.url}`);
   }
-  for (const item of newItems) {
-    lines.push(`🆕 **NEW** [${sourceLabel}]: ${item.title} — ${item.price || 'price n/a'} ${item.url}`);
-  }
 
-  return { lines, nextState: { items: mergedItems, pendingNew: nextPendingNew, pendingRestock: nextPendingRestock } };
+  return { lines, nextState: { items: mergedItems, pendingRestock: nextPendingRestock } };
 }
 
 // ---------- Main ----------
@@ -329,7 +307,7 @@ function normalizePrevState(prevState) {
     return { amazon: prevState.amazon || null, bestbuy: prevState.bestbuy || null };
   }
   if (prevState.items) {
-    return { amazon: { items: prevState.items, pendingNew: prevState.pendingNew || {} }, bestbuy: null };
+    return { amazon: { items: prevState.items, pendingRestock: prevState.pendingRestock || {} }, bestbuy: null };
   }
   return { amazon: null, bestbuy: null };
 }
@@ -356,9 +334,9 @@ async function run() {
 
   if (Object.keys(currentAmazon).length === 0) {
     console.log('No Amazon items extracted this run (likely fully blocked) — keeping prior Amazon state.');
-    newState.amazon = prevAmazon || { items: {}, pendingNew: {} };
+    newState.amazon = prevAmazon || { items: {}, pendingRestock: {} };
   } else if (!prevAmazon) {
-    newState.amazon = { items: currentAmazon, pendingNew: {} };
+    newState.amazon = { items: currentAmazon, pendingRestock: {} };
     lines.push(`🟢 [Amazon] tracker baseline captured — ${Object.keys(currentAmazon).length} SKUs.`);
   } else {
     const { lines: amazonLines, nextState } = diffSource('Amazon', currentAmazon, prevAmazon);
@@ -368,9 +346,9 @@ async function run() {
 
   if (Object.keys(currentBestBuy).length === 0) {
     console.log('No Best Buy items extracted this run (likely fully blocked) — keeping prior Best Buy state.');
-    newState.bestbuy = prevBestBuy || { items: {}, pendingNew: {} };
+    newState.bestbuy = prevBestBuy || { items: {}, pendingRestock: {} };
   } else if (!prevBestBuy) {
-    newState.bestbuy = { items: currentBestBuy, pendingNew: {} };
+    newState.bestbuy = { items: currentBestBuy, pendingRestock: {} };
     lines.push(`🟢 [Best Buy] tracker baseline captured — ${Object.keys(currentBestBuy).length} SKUs.`);
   } else {
     const { lines: bbLines, nextState } = diffSource('Best Buy', currentBestBuy, prevBestBuy);
