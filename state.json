@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-21T14:19:12.682Z",
+  "lastChecked": "2026-08-21T15:19:22.834Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -16,7 +16,7 @@
       "B0GXC89N66": {
         "key": "B0GXC89N66",
         "title": "Magic: The Gathering | The Hobbit Collector Booster Box | 12 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-        "price": "$829.99",
+        "price": "$848.50",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC89N66",
@@ -579,7 +579,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Silverquill Influence (100-Card Deck, Deck Box + Accessories)",
         "price": "$51.99",
         "available": true,
-        "lowStockNote": "Only 6 left in stock",
+        "lowStockNote": "Only 5 left in stock",
         "url": "https://www.amazon.com/dp/B0G8742ZNG",
         "tabs": [
           "new_releases"
@@ -588,7 +588,7 @@
       "B0G87JBK84": {
         "key": "B0G87JBK84",
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Prismari Artistry (100-Card Deck, Deck Box + Accessories)",
-        "price": "$42.30",
+        "price": "$42.67",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87JBK84",
@@ -665,9 +665,9 @@
       "B0FR7JTZT5": {
         "key": "B0FR7JTZT5",
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Draft Night | Collectible Trading Card Game",
-        "price": "$72.98",
+        "price": "$85.00",
         "available": true,
-        "lowStockNote": "Only 2 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0FR7JTZT5",
         "tabs": [
           "new_releases"
@@ -1156,6 +1156,13 @@
         "price": "$74.99",
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-commander-deck-landing-party/JJ8VP7ZT2T/sku/6686930"
+      },
+      "6686932": {
+        "key": "6686932",
+        "title": "New! - Wizards of The Coast - Magic: The Gathering Star Trek Commander Deck - We Are The Borg",
+        "price": "$74.99",
+        "available": true,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-commander-deck-we-are-the-borg/JJ8VP7ZTGY/sku/6686932"
       },
       "6686933": {
         "key": "6686933",
