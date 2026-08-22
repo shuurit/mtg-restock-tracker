@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-22T22:18:29.339Z",
+  "lastChecked": "2026-08-22T23:18:23.996Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -39,7 +39,7 @@
       "B0GWSB7V4T": {
         "key": "B0GWSB7V4T",
         "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
-        "price": "$79.98",
+        "price": "$84.95",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
@@ -84,7 +84,7 @@
       "B0GWS582CC": {
         "key": "B0GWS582CC",
         "title": "Magic: The Gathering | The Hobbit Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens | Collectible Trading Card Game",
-        "price": "$174.90",
+        "price": "$139.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS582CC",
@@ -164,7 +164,7 @@
       "B0GXC9JFZY": {
         "key": "B0GXC9JFZY",
         "title": "Magic: The Gathering Reality Fracture Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens",
-        "price": null,
+        "price": "$99.99",
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9JFZY",
@@ -335,7 +335,7 @@
       "B0GF4MXFPC": {
         "key": "B0GF4MXFPC",
         "title": "Magic: The Gathering | Marvel Super Heroes Play Booster Box | 30 Packs | Collectible Trading Card Game",
-        "price": "$124.98",
+        "price": "$146.16",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
@@ -657,7 +657,7 @@
       "B0FR7K693P": {
         "key": "B0FR7K693P",
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Turtle Team-Up | Collectible Trading Card Game",
-        "price": "$41.41",
+        "price": "$34.95",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0FR7K693P",
@@ -754,7 +754,23 @@
         ]
       }
     },
-    "pendingRestock": {}
+    "pendingRestock": {
+      "B0GXC9JFZY": {
+        "item": {
+          "key": "B0GXC9JFZY",
+          "title": "Magic: The Gathering Reality Fracture Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens",
+          "price": "$99.99",
+          "available": true,
+          "lowStockNote": null,
+          "url": "https://www.amazon.com/dp/B0GXC9JFZY",
+          "tabs": [
+            "home",
+            "preorder"
+          ]
+        },
+        "firstSeenAt": 1787440703996
+      }
+    }
   },
   "bestbuy": {
     "items": {
@@ -1212,6 +1228,13 @@
         "price": "$41.99",
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-hobbit-scene-box-1-scene-box-per-order-styles-may-vary/JJ8VP7KQLK/sku/6678102"
+      },
+      "6678107": {
+        "key": "6678107",
+        "title": "Wizards of The Coast - Magic: The Gathering - The Hobbit Collector Booster Box (12 Packs)",
+        "price": "$449.99",
+        "available": false,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-hobbit-collector-booster-box-12-packs/JJ8VP7KQJ9/sku/6678107"
       },
       "6678109": {
         "key": "6678109",
