@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-22T05:18:45.049Z",
+  "lastChecked": "2026-08-22T06:18:58.947Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -38,7 +38,7 @@
       "B0GWSB7V4T": {
         "key": "B0GWSB7V4T",
         "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
-        "price": "$69.99",
+        "price": "$79.98",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
@@ -84,7 +84,7 @@
         "title": "Magic: The Gathering | The Hobbit Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens | Collectible Trading Card Game",
         "price": "$139.99",
         "available": true,
-        "lowStockNote": "Only 2 left in stock",
+        "lowStockNote": "Only 13 left in stock",
         "url": "https://www.amazon.com/dp/B0GWS582CC",
         "tabs": [
           "new_releases"
@@ -579,7 +579,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Silverquill Influence (100-Card Deck, Deck Box + Accessories)",
         "price": "$51.99",
         "available": true,
-        "lowStockNote": "Only 12 left in stock",
+        "lowStockNote": "Only 10 left in stock",
         "url": "https://www.amazon.com/dp/B0G8742ZNG",
         "tabs": [
           "new_releases"
@@ -665,7 +665,7 @@
       "B0FR7JTZT5": {
         "key": "B0FR7JTZT5",
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Draft Night | Collectible Trading Card Game",
-        "price": "$72.98",
+        "price": "$85.00",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0FR7JTZT5",
@@ -835,6 +835,13 @@
         "available": false,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-aetherdrift-play-booster-sleeve/JJ8VP7H5SR/sku/6612942"
       },
+      "6617575": {
+        "key": "6617575",
+        "title": "Wizards of The Coast - Magic: The Gathering Tarkir: Dragonstorm Play Booster Sleeve",
+        "price": "$5.49",
+        "available": true,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-tarkir-dragonstorm-play-booster-sleeve/JJ8VP7T7FY/sku/6617575"
+      },
       "6619413": {
         "key": "6619413",
         "title": "Wizards of The Coast - Magic: The Gathering Final Fantasy X Commander Deck - Counter Blitz",
@@ -904,6 +911,13 @@
         "price": "$5.49",
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-foundations-play-booster-sleeve/JJ8VP7QKLX/sku/6633401"
+      },
+      "6642414": {
+        "key": "6642414",
+        "title": "Wizards of The Coast - Magic: The Gathering Marvel's Spider-Man Bundle: Gift Edition",
+        "price": "$89.99",
+        "available": true,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvels-spider-man-bundle-gift-edition/JJ8VP7TRJH/sku/6642414"
       },
       "6643173": {
         "key": "6643173",
