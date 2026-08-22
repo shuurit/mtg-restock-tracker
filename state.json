@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-22T07:18:21.912Z",
+  "lastChecked": "2026-08-22T08:18:40.505Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -86,7 +86,7 @@
         "title": "Magic: The Gathering | The Hobbit Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens | Collectible Trading Card Game",
         "price": "$139.99",
         "available": true,
-        "lowStockNote": "Only 12 left in stock",
+        "lowStockNote": "Only 11 left in stock",
         "url": "https://www.amazon.com/dp/B0GWS582CC",
         "tabs": [
           "home",
@@ -290,7 +290,7 @@
       "B0GXCKJ5JH": {
         "key": "B0GXCKJ5JH",
         "title": "Magic: The Gathering Foundations Commander Deck - Wretched Ranks | 100-Card Deck + Accessories",
-        "price": "$29.99",
+        "price": "$54.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCKJ5JH",
@@ -593,7 +593,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Silverquill Influence (100-Card Deck, Deck Box + Accessories)",
         "price": "$51.99",
         "available": true,
-        "lowStockNote": "Only 10 left in stock",
+        "lowStockNote": "Only 9 left in stock",
         "url": "https://www.amazon.com/dp/B0G8742ZNG",
         "tabs": [
           "new_releases"
@@ -1037,6 +1037,13 @@
         "price": "$55.99",
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-teenage-mutant-ninja-turtles-bundle/JJ8VP7WWYR/sku/6649565"
+      },
+      "6649568": {
+        "key": "6649568",
+        "title": "Wizards of The Coast - Magic: The Gathering Teenage Mutant Ninja Turtles Tin (1 Tin per Order) - Styles May Vary",
+        "price": "$16.99",
+        "available": false,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-teenage-mutant-ninja-turtles-tin-1-tin-per-order-styles-may-vary/JJ8VP7WZGC/sku/6649568"
       },
       "6649569": {
         "key": "6649569",
