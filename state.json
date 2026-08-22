@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-22T04:17:22.191Z",
+  "lastChecked": "2026-08-22T05:18:45.049Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -524,7 +524,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven - Collector Booster Box (12 Packs)",
         "price": "$591.41",
         "available": true,
-        "lowStockNote": "Only 4 left in stock",
+        "lowStockNote": "Only 5 left in stock",
         "url": "https://www.amazon.com/dp/B0GFDD1RLS",
         "tabs": [
           "new_releases"
@@ -579,7 +579,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Silverquill Influence (100-Card Deck, Deck Box + Accessories)",
         "price": "$51.99",
         "available": true,
-        "lowStockNote": "Only 11 left in stock",
+        "lowStockNote": "Only 12 left in stock",
         "url": "https://www.amazon.com/dp/B0G8742ZNG",
         "tabs": [
           "new_releases"
@@ -665,7 +665,7 @@
       "B0FR7JTZT5": {
         "key": "B0FR7JTZT5",
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Draft Night | Collectible Trading Card Game",
-        "price": "$85.00",
+        "price": "$72.98",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0FR7JTZT5",
@@ -758,6 +758,13 @@
         "available": false,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-wilds-of-eldraine-set-booster-box-30-packs/JJ8VP76Z5Q/sku/6550336"
       },
+      "6568460": {
+        "key": "6568460",
+        "title": "Wizards of The Coast - Magic: The Gathering Fallout Commander Deck - Science!",
+        "price": "$59.99",
+        "available": true,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-fallout-commander-deck-science/JJ8VP7R7YJ/sku/6568460"
+      },
       "6568462": {
         "key": "6568462",
         "title": "Wizards of The Coast - Magic: The Gathering Fallout Commander Deck - Mutant Menace",
@@ -806,6 +813,13 @@
         "price": "$59.99",
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-foundations-starter-collection/JJ8VP7QKC2/sku/6593866"
+      },
+      "6593867": {
+        "key": "6593867",
+        "title": "Wizards of The Coast - Magic: The Gathering Foundations Play Booster Box - 36 Packs",
+        "price": "$174.99",
+        "available": true,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-foundations-play-booster-box-36-packs/JJ8VP7QW4V/sku/6593867"
       },
       "6593870": {
         "key": "6593870",
