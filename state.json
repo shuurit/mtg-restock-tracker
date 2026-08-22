@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-22T13:18:29.724Z",
+  "lastChecked": "2026-08-22T14:19:04.172Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -82,9 +82,9 @@
       "B0GWS582CC": {
         "key": "B0GWS582CC",
         "title": "Magic: The Gathering | The Hobbit Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens | Collectible Trading Card Game",
-        "price": "$139.99",
+        "price": "$174.95",
         "available": true,
-        "lowStockNote": "Only 7 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS582CC",
         "tabs": [
           "new_releases"
@@ -225,7 +225,7 @@
       "B0H6H4PL4G": {
         "key": "B0H6H4PL4G",
         "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
-        "price": null,
+        "price": "$224.97",
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H4PL4G",
@@ -720,7 +720,7 @@
       "B0FR717633": {
         "key": "B0FR717633",
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Commander Deck - Turtle Power! | Collectible Trading Card Game",
-        "price": "$72.95",
+        "price": "$65.00",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0FR717633",
@@ -740,7 +740,22 @@
         ]
       }
     },
-    "pendingRestock": {}
+    "pendingRestock": {
+      "B0H6H4PL4G": {
+        "item": {
+          "key": "B0H6H4PL4G",
+          "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
+          "price": "$224.97",
+          "available": true,
+          "lowStockNote": null,
+          "url": "https://www.amazon.com/dp/B0H6H4PL4G",
+          "tabs": [
+            "preorder"
+          ]
+        },
+        "firstSeenAt": 1787408344172
+      }
+    }
   },
   "bestbuy": {
     "items": {
