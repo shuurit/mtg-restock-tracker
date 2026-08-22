@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-22T01:18:40.758Z",
+  "lastChecked": "2026-08-22T02:18:26.534Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -40,7 +40,7 @@
         "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
         "price": "$69.99",
         "available": true,
-        "lowStockNote": "Only 14 left in stock",
+        "lowStockNote": "Only 4 left in stock",
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
         "tabs": [
           "new_releases"
@@ -84,7 +84,7 @@
         "title": "Magic: The Gathering | The Hobbit Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens | Collectible Trading Card Game",
         "price": "$139.99",
         "available": true,
-        "lowStockNote": "Only 9 left in stock",
+        "lowStockNote": "Only 8 left in stock",
         "url": "https://www.amazon.com/dp/B0GWS582CC",
         "tabs": [
           "new_releases"
@@ -522,9 +522,9 @@
       "B0GFDD1RLS": {
         "key": "B0GFDD1RLS",
         "title": "Magic: The Gathering Secrets of Strixhaven - Collector Booster Box (12 Packs)",
-        "price": "$591.41",
+        "price": "$585.62",
         "available": true,
-        "lowStockNote": "Only 5 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GFDD1RLS",
         "tabs": [
           "new_releases"
@@ -579,7 +579,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Silverquill Influence (100-Card Deck, Deck Box + Accessories)",
         "price": "$51.99",
         "available": true,
-        "lowStockNote": "Only 4 left in stock",
+        "lowStockNote": "Only 3 left in stock",
         "url": "https://www.amazon.com/dp/B0G8742ZNG",
         "tabs": [
           "new_releases"
@@ -1058,6 +1058,13 @@
         "price": "$164.99",
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-collectors-edition-commander-deck-wakanda-forever/JJ8VP7KSWY/sku/6669864"
+      },
+      "6669868": {
+        "key": "6669868",
+        "title": "Wizards of The Coast - Magic: The Gathering Marvel Super Heroes Beginner Box",
+        "price": "$34.99",
+        "available": true,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-beginner-box/JJ8VP7K8P9/sku/6669868"
       },
       "6669869": {
         "key": "6669869",
