@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-23T00:18:52.694Z",
+  "lastChecked": "2026-08-23T01:18:15.202Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -17,7 +17,7 @@
       "B0GXC89N66": {
         "key": "B0GXC89N66",
         "title": "Magic: The Gathering | The Hobbit Collector Booster Box | 12 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-        "price": "$848.45",
+        "price": "$839.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC89N66",
@@ -73,7 +73,7 @@
       "B0GWRZF6HC": {
         "key": "B0GWRZF6HC",
         "title": "Magic: The Gathering | The Hobbit Scene Box - Treasures of Smaug| 6 Foil Borderless Scene Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
-        "price": "$73.96",
+        "price": "$79.93",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWRZF6HC",
@@ -84,7 +84,7 @@
       "B0GWS582CC": {
         "key": "B0GWS582CC",
         "title": "Magic: The Gathering | The Hobbit Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens | Collectible Trading Card Game",
-        "price": "$139.99",
+        "price": "$174.90",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS582CC",
@@ -165,7 +165,7 @@
         "key": "B0GXC9JFZY",
         "title": "Magic: The Gathering Reality Fracture Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens",
         "price": "$99.99",
-        "available": false,
+        "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9JFZY",
         "tabs": [
@@ -335,7 +335,7 @@
       "B0GF4MXFPC": {
         "key": "B0GF4MXFPC",
         "title": "Magic: The Gathering | Marvel Super Heroes Play Booster Box | 30 Packs | Collectible Trading Card Game",
-        "price": "$146.16",
+        "price": "$148.95",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
@@ -415,7 +415,7 @@
       "B0GF4M5P4C": {
         "key": "B0GF4M5P4C",
         "title": "Magic: The Gathering | Marvel Super Heroes Jumpstart Booster Box | 24 Packs | 2-Player Card Game",
-        "price": "$126.99",
+        "price": "$119.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4M5P4C",
@@ -593,7 +593,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Silverquill Influence (100-Card Deck, Deck Box + Accessories)",
         "price": "$51.99",
         "available": true,
-        "lowStockNote": "Only 6 left in stock",
+        "lowStockNote": "Only 3 left in stock",
         "url": "https://www.amazon.com/dp/B0G8742ZNG",
         "tabs": [
           "new_releases"
@@ -754,23 +754,7 @@
         ]
       }
     },
-    "pendingRestock": {
-      "B0GXC9JFZY": {
-        "item": {
-          "key": "B0GXC9JFZY",
-          "title": "Magic: The Gathering Reality Fracture Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens",
-          "price": "$99.99",
-          "available": true,
-          "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0GXC9JFZY",
-          "tabs": [
-            "home",
-            "preorder"
-          ]
-        },
-        "firstSeenAt": 1787440703996
-      }
-    }
+    "pendingRestock": {}
   },
   "bestbuy": {
     "items": {
