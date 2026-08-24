@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-24T13:20:30.009Z",
+  "lastChecked": "2026-08-24T14:18:39.817Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -1032,6 +1032,13 @@
         "price": "$129.99",
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-teenage-mutant-ninja-turtles-draft-night/JJ8VP7WZLQ/sku/6649560"
+      },
+      "6649563": {
+        "key": "6649563",
+        "title": "Wizards of The Coast - Magic: The Gathering Teenage Mutant Ninja Turtles Commander Deck - Turtle Power!",
+        "price": "$69.99",
+        "available": true,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-teenage-mutant-ninja-turtles-commander-deck-turtle-power/JJ8VP7WWLQ/sku/6649563"
       },
       "6649564": {
         "key": "6649564",
