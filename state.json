@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-24T19:18:39.347Z",
+  "lastChecked": "2026-08-24T20:18:43.248Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -326,7 +326,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Play Booster Box | 30 Packs | Collectible Trading Card Game",
         "price": "$148.95",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 13 left in stock",
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
         "tabs": [
           "new_releases"
@@ -544,7 +544,7 @@
       "B0G866V9ZF": {
         "key": "B0G866V9ZF",
         "title": "Magic: The Gathering Secrets of Strixhaven - Bundle (9 Play Boosters, 30 Lands, 1 Alt-Art Card + Exclusive Accessories)",
-        "price": "$50.99",
+        "price": "$52.98",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G866V9ZF",
@@ -557,7 +557,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven - Codex Bundle (2 Collector Boosters, 6 Play Boosters, 2 Foil Promo Cards, 20 Foil Lands, 1 Spindown)",
         "price": "$154.44",
         "available": true,
-        "lowStockNote": "Only 14 left in stock",
+        "lowStockNote": "Only 12 left in stock",
         "url": "https://www.amazon.com/dp/B0G87VXM5G",
         "tabs": [
           "new_releases"
