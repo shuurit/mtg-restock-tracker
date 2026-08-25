@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-25T08:18:34.818Z",
+  "lastChecked": "2026-08-25T09:18:26.697Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -159,8 +159,8 @@
       "B0GXC9JFZY": {
         "key": "B0GXC9JFZY",
         "title": "Magic: The Gathering Reality Fracture Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens",
-        "price": "$99.99",
-        "available": true,
+        "price": null,
+        "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9JFZY",
         "tabs": [
@@ -524,7 +524,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven - Collector Booster Box (12 Packs)",
         "price": "$591.41",
         "available": true,
-        "lowStockNote": "Only 4 left in stock",
+        "lowStockNote": "Only 3 left in stock",
         "url": "https://www.amazon.com/dp/B0GFDD1RLS",
         "tabs": [
           "new_releases"
@@ -579,7 +579,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Silverquill Influence (100-Card Deck, Deck Box + Accessories)",
         "price": "$51.99",
         "available": true,
-        "lowStockNote": "Only 7 left in stock",
+        "lowStockNote": "Only 9 left in stock",
         "url": "https://www.amazon.com/dp/B0G8742ZNG",
         "tabs": [
           "new_releases"
@@ -599,9 +599,9 @@
       "B0G86Z17Y8": {
         "key": "B0G86Z17Y8",
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Witherbloom Pestilence (100-Card Deck, Deck Box + Accessories)",
-        "price": "$48.42",
+        "price": "$51.44",
         "available": true,
-        "lowStockNote": "Only 13 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G86Z17Y8",
         "tabs": [
           "new_releases"
@@ -709,7 +709,7 @@
       "B0FR6HPWJB": {
         "key": "B0FR6HPWJB",
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Collector Booster Single Pack (1 Pack) | Collectible Trading Card Game",
-        "price": "$47.36",
+        "price": "$47.00",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0FR6HPWJB",
@@ -1306,7 +1306,7 @@
       },
       "6686927": {
         "key": "6686927",
-        "title": "New! - Wizards of The Coast - Magic: The Gathering Star Trek Commander Deck - Klingon Fury",
+        "title": "Wizards of The Coast - Magic: The Gathering Star Trek Commander Deck - Klingon Fury",
         "price": "$74.99",
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-commander-deck-klingon-fury/JJ8VP7ZT82/sku/6686927"
@@ -1341,7 +1341,7 @@
       },
       "6686934": {
         "key": "6686934",
-        "title": "New! - Wizards of The Coast - Magic: The Gathering Star Trek Commander Deck - Federation Fleet",
+        "title": "Wizards of The Coast - Magic: The Gathering Star Trek Commander Deck - Federation Fleet",
         "price": "$74.99",
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-commander-deck-federation-fleet/JJ8VP7ZT22/sku/6686934"
