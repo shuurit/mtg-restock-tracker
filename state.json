@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-25T16:18:41.544Z",
+  "lastChecked": "2026-08-25T17:18:33.558Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -214,7 +214,7 @@
       "B0H6H8KS14": {
         "key": "B0H6H8KS14",
         "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
-        "price": null,
+        "price": "$99.99",
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H8KS14",
@@ -225,7 +225,7 @@
       "B0H6H4PL4G": {
         "key": "B0H6H4PL4G",
         "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
-        "price": "$224.97",
+        "price": null,
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H4PL4G",
@@ -390,7 +390,7 @@
       "B0G87RDQPV": {
         "key": "B0G87RDQPV",
         "title": "Magic: The Gathering | Marvel Super Heroes - Bundle: Gift Edition (Deluxe Bundle with 1 Collector Booster, 9 Play Boosters, 30 Lands, 1 Alt-Art Card + Exclusive Accessories)",
-        "price": "$98.95",
+        "price": "$97.87",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87RDQPV",
@@ -489,7 +489,7 @@
       "B0G87734WB": {
         "key": "B0G87734WB",
         "title": "Magic: The Gathering | Marvel Super Heroes Scene Box - Villains Unleashed | 6 Foil Borderless Scene Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
-        "price": "$33.40",
+        "price": "$29.45",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87734WB",
@@ -522,9 +522,9 @@
       "B0GFDD1RLS": {
         "key": "B0GFDD1RLS",
         "title": "Magic: The Gathering Secrets of Strixhaven - Collector Booster Box (12 Packs)",
-        "price": "$591.41",
+        "price": "$587.82",
         "available": true,
-        "lowStockNote": "Only 3 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GFDD1RLS",
         "tabs": [
           "new_releases"
@@ -599,7 +599,7 @@
       "B0G86Z17Y8": {
         "key": "B0G86Z17Y8",
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Witherbloom Pestilence (100-Card Deck, Deck Box + Accessories)",
-        "price": "$48.42",
+        "price": "$51.44",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G86Z17Y8",
@@ -741,19 +741,19 @@
       }
     },
     "pendingRestock": {
-      "B0H6H4PL4G": {
+      "B0H6H8KS14": {
         "item": {
-          "key": "B0H6H4PL4G",
-          "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
-          "price": "$224.97",
+          "key": "B0H6H8KS14",
+          "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
+          "price": "$99.99",
           "available": true,
           "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0H6H4PL4G",
+          "url": "https://www.amazon.com/dp/B0H6H8KS14",
           "tabs": [
             "preorder"
           ]
         },
-        "firstSeenAt": 1787674721544
+        "firstSeenAt": 1787678313558
       }
     }
   },
