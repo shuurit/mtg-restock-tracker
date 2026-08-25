@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-25T04:18:36.699Z",
+  "lastChecked": "2026-08-25T05:18:57.033Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -326,7 +326,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Play Booster Box | 30 Packs | Collectible Trading Card Game",
         "price": "$149.78",
         "available": true,
-        "lowStockNote": "Only 13 left in stock",
+        "lowStockNote": "Only 6 left in stock",
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
         "tabs": [
           "new_releases"
@@ -555,9 +555,9 @@
       "B0G87VXM5G": {
         "key": "B0G87VXM5G",
         "title": "Magic: The Gathering Secrets of Strixhaven - Codex Bundle (2 Collector Boosters, 6 Play Boosters, 2 Foil Promo Cards, 20 Foil Lands, 1 Spindown)",
-        "price": "$149.99",
+        "price": "$154.44",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 8 left in stock",
         "url": "https://www.amazon.com/dp/B0G87VXM5G",
         "tabs": [
           "new_releases"
@@ -579,7 +579,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Silverquill Influence (100-Card Deck, Deck Box + Accessories)",
         "price": "$51.99",
         "available": true,
-        "lowStockNote": "Only 6 left in stock",
+        "lowStockNote": "Only 5 left in stock",
         "url": "https://www.amazon.com/dp/B0G8742ZNG",
         "tabs": [
           "new_releases"
@@ -599,7 +599,7 @@
       "B0G86Z17Y8": {
         "key": "B0G86Z17Y8",
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Witherbloom Pestilence (100-Card Deck, Deck Box + Accessories)",
-        "price": "$48.42",
+        "price": "$51.44",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G86Z17Y8",
@@ -876,6 +876,13 @@
         "price": "$184.99",
         "available": false,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-play-booster-box-30-packs/JJ8VP7HL99/sku/6619451"
+      },
+      "6619452": {
+        "key": "6619452",
+        "title": "Wizards of The Coast - Magic: The Gathering Final Fantasy Bundle",
+        "price": "$69.99",
+        "available": true,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-bundle/JJ8VP7HLTR/sku/6619452"
       },
       "6620417": {
         "key": "6620417",
@@ -1306,7 +1313,7 @@
       },
       "6686930": {
         "key": "6686930",
-        "title": "New! - Wizards of The Coast - Magic: The Gathering Star Trek Commander Deck - Landing Party",
+        "title": "Wizards of The Coast - Magic: The Gathering Star Trek Commander Deck - Landing Party",
         "price": "$74.99",
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-commander-deck-landing-party/JJ8VP7ZT2T/sku/6686930"
@@ -1320,7 +1327,7 @@
       },
       "6686933": {
         "key": "6686933",
-        "title": "New! - Wizards of The Coast - Magic: The Gathering Star Trek Collector's Edition Commander Deck - Klingon Fury",
+        "title": "Wizards of The Coast - Magic: The Gathering Star Trek Collector's Edition Commander Deck - Klingon Fury",
         "price": "$164.99",
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-collectors-edition-commander-deck-klingon-fury/JJ8VP7ZHPT/sku/6686933"
@@ -1334,7 +1341,7 @@
       },
       "6686937": {
         "key": "6686937",
-        "title": "New! - Wizards of The Coast - Magic: The Gathering Star Trek Play Booster Box (30 Packs)",
+        "title": "Wizards of The Coast - Magic: The Gathering Star Trek Play Booster Box (30 Packs)",
         "price": "$199.99",
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-play-booster-box-30-packs/JJ8VP7ZLHQ/sku/6686937"
