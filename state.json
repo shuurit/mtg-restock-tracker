@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-25T19:17:35.122Z",
+  "lastChecked": "2026-08-25T20:18:48.838Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -1274,7 +1274,7 @@
         "key": "6678102",
         "title": "Wizards of The Coast - Magic: The Gathering - The Hobbit Scene Box (1 Scene Box per Order) - Styles May Vary",
         "price": "$41.99",
-        "available": false,
+        "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-hobbit-scene-box-1-scene-box-per-order-styles-may-vary/JJ8VP7KQLK/sku/6678102"
       },
       "6678107": {
@@ -1356,7 +1356,7 @@
       },
       "6686928": {
         "key": "6686928",
-        "title": "New! - Wizards of The Coast - Magic: The Gathering Star Trek Collector's Edition Commander Deck - Landing Party",
+        "title": "Wizards of The Coast - Magic: The Gathering Star Trek Collector's Edition Commander Deck - Landing Party",
         "price": "$164.99",
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-collectors-edition-commander-deck-landing-party/JJ8VP7ZHP2/sku/6686928"
@@ -1425,17 +1425,6 @@
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-collectors-edition-commander-deck-federation-fleet/JJ8VP7ZHGY/sku/6686943"
       }
     },
-    "pendingRestock": {
-      "6678102": {
-        "item": {
-          "key": "6678102",
-          "title": "Wizards of The Coast - Magic: The Gathering - The Hobbit Scene Box (1 Scene Box per Order) - Styles May Vary",
-          "price": "$41.99",
-          "available": true,
-          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-hobbit-scene-box-1-scene-box-per-order-styles-may-vary/JJ8VP7KQLK/sku/6678102"
-        },
-        "firstSeenAt": 1787685455123
-      }
-    }
+    "pendingRestock": {}
   }
 }
