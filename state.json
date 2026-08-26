@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-26T09:18:23.084Z",
+  "lastChecked": "2026-08-26T10:19:05.245Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -10,7 +10,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBJG9L",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
@@ -44,7 +43,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
@@ -89,7 +87,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS582CC",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
@@ -340,7 +337,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
@@ -363,7 +359,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G867CCWN",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
@@ -383,7 +378,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Collector Booster | 1 Pack of 15 Cards | Collectible Trading Card Game",
         "price": "$48.90",
         "available": true,
-        "lowStockNote": "Only 11 left in stock",
+        "lowStockNote": "Only 10 left in stock",
         "url": "https://www.amazon.com/dp/B0G8836V29",
         "tabs": [
           "new_releases"
@@ -397,7 +392,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
@@ -428,7 +422,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Collector’s Edition Commander Deck Bundle - Includes All 4 Surge Foil Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
         "price": "$594.98",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 2 left in stock",
         "url": "https://www.amazon.com/dp/B0GF44KXT4",
         "tabs": [
           "new_releases"
@@ -593,7 +587,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Silverquill Influence (100-Card Deck, Deck Box + Accessories)",
         "price": "$54.99",
         "available": true,
-        "lowStockNote": "Only 15 left in stock",
+        "lowStockNote": "Only 14 left in stock",
         "url": "https://www.amazon.com/dp/B0G8742ZNG",
         "tabs": [
           "new_releases"
@@ -679,7 +673,7 @@
       "B0FR7JTZT5": {
         "key": "B0FR7JTZT5",
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Draft Night | Collectible Trading Card Game",
-        "price": "$89.97",
+        "price": "$89.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0FR7JTZT5",
