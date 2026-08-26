@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-26T02:18:56.516Z",
+  "lastChecked": "2026-08-26T03:18:42.855Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -370,7 +370,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Collector Booster | 1 Pack of 15 Cards | Collectible Trading Card Game",
         "price": "$48.90",
         "available": true,
-        "lowStockNote": "Only 20 left in stock",
+        "lowStockNote": "Only 19 left in stock",
         "url": "https://www.amazon.com/dp/B0G8836V29",
         "tabs": [
           "new_releases"
@@ -601,7 +601,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Witherbloom Pestilence (100-Card Deck, Deck Box + Accessories)",
         "price": "$48.42",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 10 left in stock",
         "url": "https://www.amazon.com/dp/B0G86Z17Y8",
         "tabs": [
           "new_releases"
@@ -1212,6 +1212,13 @@
         "price": "$51.99",
         "available": false,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-secrets-of-strixhaven-commander-deck-silverquill-influence/JJ8VP7KTFW/sku/6669879"
+      },
+      "6669881": {
+        "key": "6669881",
+        "title": "Wizards of The Coast - Magic: The Gathering Marvel Super Heroes Scene Box (1 Scene Box per Order) - Styles May Vary",
+        "price": "$41.99",
+        "available": true,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-scene-box-1-scene-box-per-order-styles-may-vary/JJ8VP7K7V5/sku/6669881"
       },
       "6669882": {
         "key": "6669882",
