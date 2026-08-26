@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-26T21:19:22.175Z",
+  "lastChecked": "2026-08-26T22:19:28.799Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -27,8 +27,8 @@
       "B0GWS9J9VT": {
         "key": "B0GWS9J9VT",
         "title": "Magic: The Gathering | The Hobbit Collector Booster | 1 Pack (15 Cards) | Collectible Trading Card Game",
-        "price": "$82.95",
-        "available": false,
+        "price": "$84.95",
+        "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS9J9VT",
         "tabs": [
@@ -40,7 +40,7 @@
         "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
         "price": "$69.99",
         "available": true,
-        "lowStockNote": "Only 8 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
         "tabs": [
           "new_releases"
@@ -522,7 +522,7 @@
       "B0GFDD1RLS": {
         "key": "B0GFDD1RLS",
         "title": "Magic: The Gathering Secrets of Strixhaven - Collector Booster Box (12 Packs)",
-        "price": "$588.23",
+        "price": "$587.12",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GFDD1RLS",
@@ -557,7 +557,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven - Codex Bundle (2 Collector Boosters, 6 Play Boosters, 2 Foil Promo Cards, 20 Foil Lands, 1 Spindown)",
         "price": "$154.44",
         "available": true,
-        "lowStockNote": "Only 2 left in stock",
+        "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0G87VXM5G",
         "tabs": [
           "new_releases"
@@ -579,7 +579,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Silverquill Influence (100-Card Deck, Deck Box + Accessories)",
         "price": "$54.99",
         "available": true,
-        "lowStockNote": "Only 14 left in stock",
+        "lowStockNote": "Only 12 left in stock",
         "url": "https://www.amazon.com/dp/B0G8742ZNG",
         "tabs": [
           "new_releases"
@@ -722,7 +722,7 @@
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Commander Deck - Turtle Power! | Collectible Trading Card Game",
         "price": "$69.99",
         "available": true,
-        "lowStockNote": "Only 7 left in stock",
+        "lowStockNote": "Only 6 left in stock",
         "url": "https://www.amazon.com/dp/B0FR717633",
         "tabs": [
           "new_releases"
@@ -751,20 +751,6 @@
           "url": "https://www.amazon.com/dp/B0H6H8KS14",
           "tabs": [
             "preorder"
-          ]
-        },
-        "firstSeenAt": 1787779162175
-      },
-      "B0GWS9J9VT": {
-        "item": {
-          "key": "B0GWS9J9VT",
-          "title": "Magic: The Gathering | The Hobbit Collector Booster | 1 Pack (15 Cards) | Collectible Trading Card Game",
-          "price": "$82.95",
-          "available": true,
-          "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0GWS9J9VT",
-          "tabs": [
-            "new_releases"
           ]
         },
         "firstSeenAt": 1787779162175
