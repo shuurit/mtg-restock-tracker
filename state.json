@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-27T01:19:27.582Z",
+  "lastChecked": "2026-08-27T02:19:06.880Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -16,7 +16,7 @@
       "B0GXC89N66": {
         "key": "B0GXC89N66",
         "title": "Magic: The Gathering | The Hobbit Collector Booster Box | 12 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-        "price": "$879.94",
+        "price": "$859.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC89N66",
@@ -40,7 +40,7 @@
         "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
         "price": "$69.99",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
         "tabs": [
           "new_releases"
@@ -159,7 +159,7 @@
       "B0GXC9JFZY": {
         "key": "B0GXC9JFZY",
         "title": "Magic: The Gathering Reality Fracture Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens",
-        "price": "$99.99",
+        "price": null,
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9JFZY",
@@ -214,7 +214,7 @@
       "B0H6H8KS14": {
         "key": "B0H6H8KS14",
         "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
-        "price": "$99.99",
+        "price": null,
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H8KS14",
@@ -225,8 +225,8 @@
       "B0H6H4PL4G": {
         "key": "B0H6H4PL4G",
         "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
-        "price": "$224.97",
-        "available": true,
+        "price": null,
+        "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H4PL4G",
         "tabs": [
@@ -324,7 +324,7 @@
       "B0GF4MXFPC": {
         "key": "B0GF4MXFPC",
         "title": "Magic: The Gathering | Marvel Super Heroes Play Booster Box | 30 Packs | Collectible Trading Card Game",
-        "price": "$149.80",
+        "price": "$149.01",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
@@ -370,7 +370,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Collector Booster | 1 Pack of 15 Cards | Collectible Trading Card Game",
         "price": "$48.90",
         "available": true,
-        "lowStockNote": "Only 8 left in stock",
+        "lowStockNote": "Only 7 left in stock",
         "url": "https://www.amazon.com/dp/B0G8836V29",
         "tabs": [
           "new_releases"
@@ -511,7 +511,7 @@
       "B0G86Z91GX": {
         "key": "B0G86Z91GX",
         "title": "Magic: The Gathering Secrets of Strixhaven - Draft Night (1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Token Cards)",
-        "price": "$81.47",
+        "price": "$79.95",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G86Z91GX",
@@ -579,7 +579,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Silverquill Influence (100-Card Deck, Deck Box + Accessories)",
         "price": "$54.99",
         "available": true,
-        "lowStockNote": "Only 13 left in stock",
+        "lowStockNote": "Only 12 left in stock",
         "url": "https://www.amazon.com/dp/B0G8742ZNG",
         "tabs": [
           "new_releases"
@@ -599,7 +599,7 @@
       "B0G86Z17Y8": {
         "key": "B0G86Z17Y8",
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Witherbloom Pestilence (100-Card Deck, Deck Box + Accessories)",
-        "price": "$51.44",
+        "price": "$48.42",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G86Z17Y8",
@@ -678,7 +678,7 @@
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Bundle | 9 Play Boosters, 30 Lands, Foil Alt-Art Promo Card + Exclusive Accessories | Collectible Trading Card Game",
         "price": "$49.99",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0FR7KFXBB",
         "tabs": [
           "new_releases"
@@ -720,9 +720,9 @@
       "B0FR717633": {
         "key": "B0FR717633",
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Commander Deck - Turtle Power! | Collectible Trading Card Game",
-        "price": "$65.00",
+        "price": "$69.99",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": "Only 5 left in stock",
         "url": "https://www.amazon.com/dp/B0FR717633",
         "tabs": [
           "new_releases"
@@ -740,36 +740,7 @@
         ]
       }
     },
-    "pendingRestock": {
-      "B0GXC9JFZY": {
-        "item": {
-          "key": "B0GXC9JFZY",
-          "title": "Magic: The Gathering Reality Fracture Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens",
-          "price": "$99.99",
-          "available": true,
-          "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0GXC9JFZY",
-          "tabs": [
-            "preorder"
-          ]
-        },
-        "firstSeenAt": 1787793567582
-      },
-      "B0H6H8KS14": {
-        "item": {
-          "key": "B0H6H8KS14",
-          "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
-          "price": "$99.99",
-          "available": true,
-          "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0H6H8KS14",
-          "tabs": [
-            "preorder"
-          ]
-        },
-        "firstSeenAt": 1787793567582
-      }
-    }
+    "pendingRestock": {}
   },
   "bestbuy": {
     "items": {
