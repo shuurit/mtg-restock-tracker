@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-27T15:18:57.098Z",
+  "lastChecked": "2026-08-27T16:19:15.353Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -10,7 +10,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBJG9L",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
@@ -44,7 +43,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
@@ -89,7 +87,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS582CC",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
@@ -340,7 +337,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
@@ -363,7 +359,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G867CCWN",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
@@ -397,7 +392,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
@@ -525,7 +519,7 @@
       "B0G86Z91GX": {
         "key": "B0G86Z91GX",
         "title": "Magic: The Gathering Secrets of Strixhaven - Draft Night (1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Token Cards)",
-        "price": "$81.00",
+        "price": "$79.95",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G86Z91GX",
@@ -571,7 +565,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven - Codex Bundle (2 Collector Boosters, 6 Play Boosters, 2 Foil Promo Cards, 20 Foil Lands, 1 Spindown)",
         "price": "$154.44",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87VXM5G",
         "tabs": [
           "new_releases"
@@ -615,7 +609,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Witherbloom Pestilence (100-Card Deck, Deck Box + Accessories)",
         "price": "$48.42",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 4 left in stock",
         "url": "https://www.amazon.com/dp/B0G86Z17Y8",
         "tabs": [
           "new_releases"
