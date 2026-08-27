@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-27T06:19:11.235Z",
+  "lastChecked": "2026-08-27T07:19:22.732Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -1276,6 +1276,13 @@
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-hobbit-play-booster-box-30-packs/JJ8VP7KRVW/sku/6678110"
       },
+      "6678111": {
+        "key": "6678111",
+        "title": "Wizards of The Coast - Magic: The Gathering - The Hobbit Play Booster Sleeve",
+        "price": "$6.99",
+        "available": true,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-hobbit-play-booster-sleeve/JJ8VP7KQ7G/sku/6678111"
+      },
       "6678112": {
         "key": "6678112",
         "title": "Wizards of The Coast - Magic: The Gathering - The Hobbit Bundle",
@@ -1296,6 +1303,13 @@
         "price": "$57.99",
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-reality-fracture-bundle/JJ8VP7ZR93/sku/6678190"
+      },
+      "6678192": {
+        "key": "6678192",
+        "title": "Wizards of The Coast - Magic: The Gathering Reality Fracture - Collector Booster Box (12 Packs)",
+        "price": "$319.99",
+        "available": true,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-reality-fracture-collector-booster-box-12-packs/JJ8VP7ZRYS/sku/6678192"
       },
       "6678193": {
         "key": "6678193",
