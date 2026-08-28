@@ -1,11 +1,11 @@
 {
-  "lastChecked": "2026-08-28T06:19:02.665Z",
+  "lastChecked": "2026-08-28T07:19:20.522Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
         "key": "B0GXCBJG9L",
         "title": "Magic: The Gathering | The Hobbit Play Booster Box | 30 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-        "price": "$229.00",
+        "price": "$223.87",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBJG9L",
@@ -16,7 +16,7 @@
       "B0GXC89N66": {
         "key": "B0GXC89N66",
         "title": "Magic: The Gathering | The Hobbit Collector Booster Box | 12 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-        "price": "$879.93",
+        "price": "$849.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC89N66",
@@ -370,7 +370,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Collector Booster | 1 Pack of 15 Cards | Collectible Trading Card Game",
         "price": "$48.90",
         "available": true,
-        "lowStockNote": "Only 15 left in stock",
+        "lowStockNote": "Only 14 left in stock",
         "url": "https://www.amazon.com/dp/B0G8836V29",
         "tabs": [
           "new_releases"
@@ -511,7 +511,7 @@
       "B0G86Z91GX": {
         "key": "B0G86Z91GX",
         "title": "Magic: The Gathering Secrets of Strixhaven - Draft Night (1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Token Cards)",
-        "price": "$79.95",
+        "price": "$81.47",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G86Z91GX",
@@ -566,7 +566,7 @@
       "B0GFDRW65Q": {
         "key": "B0GFDRW65Q",
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck Bundle - Includes All 5 Decks (Silverquill Influence, Prismari Artistry, Witherbloom Pestilence, Lorehold Spirit, Quandrix Unlimited)",
-        "price": "$211.49",
+        "price": "$207.45",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GFDRW65Q",
@@ -621,7 +621,7 @@
       "B0G874G6HD": {
         "key": "B0G874G6HD",
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Quandrix Unlimited (100-Card Deck, Deck Box + Accessories)",
-        "price": "$42.06",
+        "price": "$41.38",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G874G6HD",
@@ -869,6 +869,13 @@
         "price": "$6.99",
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-play-booster-sleeve/JJ8VP7HLZ7/sku/6619448"
+      },
+      "6619449": {
+        "key": "6619449",
+        "title": "Wizards of The Coast - Magic: The Gathering Final Fantasy Collector Booster",
+        "price": "$39.99",
+        "available": false,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-collector-booster/JJ8VP7HL46/sku/6619449"
       },
       "6619451": {
         "key": "6619451",
