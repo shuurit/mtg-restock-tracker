@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-28T14:19:13.069Z",
+  "lastChecked": "2026-08-28T15:19:23.721Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -1357,7 +1357,7 @@
       },
       "6686924": {
         "key": "6686924",
-        "title": "New! - Wizards of The Coast - Magic: The Gathering Star Trek Collector Booster Box (12 Packs)",
+        "title": "Wizards of The Coast - Magic: The Gathering Star Trek Collector Booster Box (12 Packs)",
         "price": "$479.99",
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-collector-booster-box-12-packs/JJ8VP7ZYQC/sku/6686924"
@@ -1447,6 +1447,17 @@
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-collectors-edition-commander-deck-federation-fleet/JJ8VP7ZHGY/sku/6686943"
       }
     },
-    "pendingRestock": {}
+    "pendingRestock": {
+      "6669822": {
+        "item": {
+          "key": "6669822",
+          "title": "Wizards of The Coast - Magic: The Gathering Secrets of Strixhaven Collector Booster",
+          "price": "$29.99",
+          "available": true,
+          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-secrets-of-strixhaven-collector-booster/JJ8VP7KGZ5/sku/6669822"
+        },
+        "firstSeenAt": 1787930363722
+      }
+    }
   }
 }
