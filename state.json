@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-29T22:19:07.568Z",
+  "lastChecked": "2026-08-29T23:18:58.109Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -7,7 +7,7 @@
         "title": "Magic: The Gathering | The Hobbit Play Booster Box | 30 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
         "price": "$209.97",
         "available": true,
-        "lowStockNote": "Only 8 left in stock",
+        "lowStockNote": "Only 7 left in stock",
         "url": "https://www.amazon.com/dp/B0GXCBJG9L",
         "tabs": [
           "new_releases"
@@ -425,7 +425,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck Bundle - Includes All 4 Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
         "price": "$184.95",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 20 left in stock",
         "url": "https://www.amazon.com/dp/B0GF44MVBP",
         "tabs": [
           "new_releases"
@@ -511,9 +511,9 @@
       "B0G86Z91GX": {
         "key": "B0G86Z91GX",
         "title": "Magic: The Gathering Secrets of Strixhaven - Draft Night (1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Token Cards)",
-        "price": "$81.47",
+        "price": "$79.95",
         "available": true,
-        "lowStockNote": "Only 20 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G86Z91GX",
         "tabs": [
           "new_releases"
@@ -546,7 +546,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven - Bundle (9 Play Boosters, 30 Lands, 1 Alt-Art Card + Exclusive Accessories)",
         "price": "$48.48",
         "available": true,
-        "lowStockNote": "Only 6 left in stock",
+        "lowStockNote": "Only 5 left in stock",
         "url": "https://www.amazon.com/dp/B0G866V9ZF",
         "tabs": [
           "new_releases"
@@ -599,9 +599,9 @@
       "B0G86Z17Y8": {
         "key": "B0G86Z17Y8",
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Witherbloom Pestilence (100-Card Deck, Deck Box + Accessories)",
-        "price": "$51.44",
+        "price": "$48.42",
         "available": true,
-        "lowStockNote": "Only 15 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G86Z17Y8",
         "tabs": [
           "new_releases"
@@ -689,7 +689,7 @@
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Pizza Bundle | Collectible Trading Card Game",
         "price": "$98.98",
         "available": true,
-        "lowStockNote": "Only 5 left in stock",
+        "lowStockNote": "Only 4 left in stock",
         "url": "https://www.amazon.com/dp/B0FR7G52PN",
         "tabs": [
           "new_releases"
