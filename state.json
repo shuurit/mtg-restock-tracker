@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-31T15:19:05.839Z",
+  "lastChecked": "2026-08-31T16:19:02.135Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -165,7 +165,7 @@
       "B0GXC9JFZY": {
         "key": "B0GXC9JFZY",
         "title": "Magic: The Gathering Reality Fracture Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens",
-        "price": null,
+        "price": "$99.99",
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9JFZY",
@@ -222,7 +222,7 @@
       "B0H6H8KS14": {
         "key": "B0H6H8KS14",
         "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
-        "price": null,
+        "price": "$99.99",
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H8KS14",
@@ -392,7 +392,7 @@
       "B0G87CB5VB": {
         "key": "B0G87CB5VB",
         "title": "Magic: The Gathering | Marvel Super Heroes Bundle | Includes 9 Play Boosters, 30 Lands, 1 Foil Alt-Art Promo Card + Exclusive Accessories | Collectible Trading Card Game",
-        "price": "$59.01",
+        "price": "$56.29",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
@@ -426,9 +426,9 @@
       "B0GF44KXT4": {
         "key": "B0GF44KXT4",
         "title": "Magic: The Gathering | Marvel Super Heroes Collector’s Edition Commander Deck Bundle - Includes All 4 Surge Foil Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
-        "price": "$594.90",
+        "price": "$594.89",
         "available": true,
-        "lowStockNote": "Only 2 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF44KXT4",
         "tabs": [
           "new_releases"
@@ -437,7 +437,7 @@
       "B0GF44MVBP": {
         "key": "B0GF44MVBP",
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck Bundle - Includes All 4 Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
-        "price": "$184.95",
+        "price": "$184.94",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF44MVBP",
@@ -448,9 +448,9 @@
       "B0G86YW5XX": {
         "key": "B0G86YW5XX",
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Avengers Assemble (100-Card Deck + Accessories)",
-        "price": "$63.02",
+        "price": "$61.98",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 13 left in stock",
         "url": "https://www.amazon.com/dp/B0G86YW5XX",
         "tabs": [
           "new_releases"
@@ -459,7 +459,7 @@
       "B0G87FZZQQ": {
         "key": "B0G87FZZQQ",
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Wakanda Forever (100-Card Deck + Accessories)",
-        "price": "$49.99",
+        "price": "$49.45",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87FZZQQ",
@@ -470,7 +470,7 @@
       "B0G87CH7TH": {
         "key": "B0G87CH7TH",
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - The Fantastic Four (100-Card Deck + Accessories)",
-        "price": "$49.99",
+        "price": "$49.98",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CH7TH",
@@ -481,7 +481,7 @@
       "B0G87C83NR": {
         "key": "B0G87C83NR",
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Doom Prevails (100-Card Deck + Accessories)",
-        "price": "$64.99",
+        "price": "$64.98",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87C83NR",
@@ -516,7 +516,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven - Play Booster Box (30 Packs)",
         "price": "$134.95",
         "available": true,
-        "lowStockNote": "Only 5 left in stock",
+        "lowStockNote": "Only 4 left in stock",
         "url": "https://www.amazon.com/dp/B0GFDJ7GVL",
         "tabs": [
           "new_releases"
@@ -538,7 +538,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven - Collector Booster Box (12 Packs)",
         "price": "$599.00",
         "available": true,
-        "lowStockNote": "Only 2 left in stock",
+        "lowStockNote": "Only 3 left in stock",
         "url": "https://www.amazon.com/dp/B0GFDD1RLS",
         "tabs": [
           "new_releases"
@@ -558,9 +558,9 @@
       "B0G866V9ZF": {
         "key": "B0G866V9ZF",
         "title": "Magic: The Gathering Secrets of Strixhaven - Bundle (9 Play Boosters, 30 Lands, 1 Alt-Art Card + Exclusive Accessories)",
-        "price": "$49.88",
+        "price": "$51.00",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G866V9ZF",
         "tabs": [
           "new_releases"
@@ -602,7 +602,7 @@
       "B0G87JBK84": {
         "key": "B0G87JBK84",
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Prismari Artistry (100-Card Deck, Deck Box + Accessories)",
-        "price": "$43.22",
+        "price": "$42.70",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87JBK84",
@@ -613,7 +613,7 @@
       "B0G86Z17Y8": {
         "key": "B0G86Z17Y8",
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Witherbloom Pestilence (100-Card Deck, Deck Box + Accessories)",
-        "price": "$49.45",
+        "price": "$48.42",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G86Z17Y8",
@@ -624,7 +624,7 @@
       "B0G887STC9": {
         "key": "B0G887STC9",
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Lorehold Spirit (100-Card Deck, Deck Box + Accessories)",
-        "price": "$41.42",
+        "price": "$40.94",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G887STC9",
@@ -754,7 +754,36 @@
         ]
       }
     },
-    "pendingRestock": {}
+    "pendingRestock": {
+      "B0GXC9JFZY": {
+        "item": {
+          "key": "B0GXC9JFZY",
+          "title": "Magic: The Gathering Reality Fracture Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens",
+          "price": "$99.99",
+          "available": true,
+          "lowStockNote": null,
+          "url": "https://www.amazon.com/dp/B0GXC9JFZY",
+          "tabs": [
+            "preorder"
+          ]
+        },
+        "firstSeenAt": 1788193142135
+      },
+      "B0H6H8KS14": {
+        "item": {
+          "key": "B0H6H8KS14",
+          "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
+          "price": "$99.99",
+          "available": true,
+          "lowStockNote": null,
+          "url": "https://www.amazon.com/dp/B0H6H8KS14",
+          "tabs": [
+            "preorder"
+          ]
+        },
+        "firstSeenAt": 1788193142135
+      }
+    }
   },
   "bestbuy": {
     "items": {
