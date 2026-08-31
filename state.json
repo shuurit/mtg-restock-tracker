@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-31T19:19:13.290Z",
+  "lastChecked": "2026-08-31T20:18:12.990Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -10,6 +10,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBJG9L",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -18,7 +19,7 @@
         "title": "Magic: The Gathering | The Hobbit Collector Booster Box | 12 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
         "price": "$849.99",
         "available": true,
-        "lowStockNote": "Only 8 left in stock",
+        "lowStockNote": "Only 4 left in stock",
         "url": "https://www.amazon.com/dp/B0GXC89N66",
         "tabs": [
           "new_releases"
@@ -40,16 +41,17 @@
         "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
         "price": "$69.99",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
       "B0GWS8DC8C": {
         "key": "B0GWS8DC8C",
         "title": "Magic: The Gathering | The Hobbit Gift Bundle | Collectible Trading Card Game",
-        "price": "$241.94",
+        "price": "$241.92",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS8DC8C",
@@ -60,7 +62,7 @@
       "B0GWS4ZRT8": {
         "key": "B0GWS4ZRT8",
         "title": "Magic: The Gathering | The Hobbit Scene Box - Crack the Plates| 6 Foil Borderless Scene Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
-        "price": "$62.88",
+        "price": "$62.85",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS4ZRT8",
@@ -84,9 +86,10 @@
         "title": "Magic: The Gathering | The Hobbit Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens | Collectible Trading Card Game",
         "price": "$139.97",
         "available": true,
-        "lowStockNote": "Only 2 left in stock",
+        "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0GWS582CC",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -98,6 +101,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCHBRTC",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -131,6 +135,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -142,6 +147,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9W89R",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -175,6 +181,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H2D3JF",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -208,6 +215,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H1XTK6",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -263,6 +271,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBW828",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -274,6 +283,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCH6X4K",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -296,6 +306,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC5T8LG",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -329,6 +340,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -351,6 +363,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G867CCWN",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -384,6 +397,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -412,7 +426,7 @@
       "B0GF44KXT4": {
         "key": "B0GF44KXT4",
         "title": "Magic: The Gathering | Marvel Super Heroes Collector’s Edition Commander Deck Bundle - Includes All 4 Surge Foil Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
-        "price": "$594.82",
+        "price": "$594.79",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF44KXT4",
@@ -436,7 +450,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Avengers Assemble (100-Card Deck + Accessories)",
         "price": "$61.98",
         "available": true,
-        "lowStockNote": "Only 12 left in stock",
+        "lowStockNote": "Only 10 left in stock",
         "url": "https://www.amazon.com/dp/B0G86YW5XX",
         "tabs": [
           "new_releases"
@@ -511,7 +525,7 @@
       "B0G86Z91GX": {
         "key": "B0G86Z91GX",
         "title": "Magic: The Gathering Secrets of Strixhaven - Draft Night (1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Token Cards)",
-        "price": "$82.13",
+        "price": "$82.07",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G86Z91GX",
@@ -654,7 +668,7 @@
       "B0FR6W5K12": {
         "key": "B0FR6W5K12",
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Play Booster Box | 30 Packs | Collectible Trading Card Game",
-        "price": "$139.48",
+        "price": "$111.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0FR6W5K12",
