@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-31T13:17:31.698Z",
+  "lastChecked": "2026-08-31T14:18:35.451Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -7,7 +7,7 @@
         "title": "Magic: The Gathering | The Hobbit Play Booster Box | 30 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
         "price": "$229.00",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBJG9L",
         "tabs": [
           "home",
@@ -51,7 +51,7 @@
       "B0GWS8DC8C": {
         "key": "B0GWS8DC8C",
         "title": "Magic: The Gathering | The Hobbit Gift Bundle | Collectible Trading Card Game",
-        "price": "$241.95",
+        "price": "$241.94",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS8DC8C",
