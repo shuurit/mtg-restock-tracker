@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-31T04:17:58.749Z",
+  "lastChecked": "2026-08-31T05:19:10.710Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -7,17 +7,16 @@
         "title": "Magic: The Gathering | The Hobbit Play Booster Box | 30 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
         "price": "$229.00",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0GXCBJG9L",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
       "B0GXC89N66": {
         "key": "B0GXC89N66",
         "title": "Magic: The Gathering | The Hobbit Collector Booster Box | 12 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-        "price": "$849.99",
+        "price": "$849.98",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC89N66",
@@ -41,10 +40,9 @@
         "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
         "price": "$69.99",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 5 left in stock",
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
@@ -89,7 +87,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS582CC",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
@@ -335,12 +332,11 @@
       "B0GF4MXFPC": {
         "key": "B0GF4MXFPC",
         "title": "Magic: The Gathering | Marvel Super Heroes Play Booster Box | 30 Packs | Collectible Trading Card Game",
-        "price": "$149.78",
+        "price": "$149.01",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
@@ -363,7 +359,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G867CCWN",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
@@ -392,12 +387,11 @@
       "B0G87CB5VB": {
         "key": "B0G87CB5VB",
         "title": "Magic: The Gathering | Marvel Super Heroes Bundle | Includes 9 Play Boosters, 30 Lands, 1 Foil Alt-Art Promo Card + Exclusive Accessories | Collectible Trading Card Game",
-        "price": "$58.98",
+        "price": "$58.06",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
@@ -459,7 +453,7 @@
       "B0G87FZZQQ": {
         "key": "B0G87FZZQQ",
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Wakanda Forever (100-Card Deck + Accessories)",
-        "price": "$53.41",
+        "price": "$49.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87FZZQQ",
@@ -527,7 +521,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven - Draft Night (1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Token Cards)",
         "price": "$82.15",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G86Z91GX",
         "tabs": [
           "new_releases"
@@ -615,7 +609,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Witherbloom Pestilence (100-Card Deck, Deck Box + Accessories)",
         "price": "$51.44",
         "available": true,
-        "lowStockNote": "Only 3 left in stock",
+        "lowStockNote": "Only 2 left in stock",
         "url": "https://www.amazon.com/dp/B0G86Z17Y8",
         "tabs": [
           "new_releases"
@@ -992,7 +986,7 @@
       "6648134": {
         "key": "6648134",
         "title": "Wizards of The Coast - Magic: The Gathering Lorwyn Eclipsed 60-Card Theme Deck (1 Theme Deck per Order) - Styles May Vary",
-        "price": "$23.99",
+        "price": "$12.99",
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-lorwyn-eclipsed-60-card-theme-deck-1-theme-deck-per-order-styles-may-vary/JJ8VP7W6W9/sku/6648134"
       },
@@ -1034,7 +1028,7 @@
       "6649559": {
         "key": "6649559",
         "title": "Wizards of The Coast - Magic: The Gathering Teenage Mutant Ninja Turtles - Turtle Team-Up",
-        "price": "$49.99",
+        "price": "$29.99",
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-teenage-mutant-ninja-turtles-turtle-team-up/JJ8VP7WZ86/sku/6649559"
       },
@@ -1167,7 +1161,7 @@
       "6669865": {
         "key": "6669865",
         "title": "Wizards of The Coast - Magic: The Gathering Marvel Super Heroes Commander Deck - Wakanda Forever",
-        "price": "$77.99",
+        "price": "$49.99",
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-commander-deck-wakanda-forever/JJ8VP7KSCZ/sku/6669865"
       },
@@ -1209,7 +1203,7 @@
       "6669874": {
         "key": "6669874",
         "title": "Wizards of The Coast - Magic: The Gathering Marvel Super Heroes Bundle",
-        "price": "$69.99",
+        "price": "$49.99",
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-bundle/JJ8VP7KXQW/sku/6669874"
       },
@@ -1273,7 +1267,7 @@
         "key": "6678102",
         "title": "Wizards of The Coast - Magic: The Gathering - The Hobbit Scene Box (1 Scene Box per Order) - Styles May Vary",
         "price": "$41.99",
-        "available": false,
+        "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-hobbit-scene-box-1-scene-box-per-order-styles-may-vary/JJ8VP7KQLK/sku/6678102"
       },
       "6678107": {
@@ -1445,17 +1439,6 @@
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-collectors-edition-commander-deck-federation-fleet/JJ8VP7ZHGY/sku/6686943"
       }
     },
-    "pendingRestock": {
-      "6678102": {
-        "item": {
-          "key": "6678102",
-          "title": "Wizards of The Coast - Magic: The Gathering - The Hobbit Scene Box (1 Scene Box per Order) - Styles May Vary",
-          "price": "$41.99",
-          "available": true,
-          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-hobbit-scene-box-1-scene-box-per-order-styles-may-vary/JJ8VP7KQLK/sku/6678102"
-        },
-        "firstSeenAt": 1788149878749
-      }
-    }
+    "pendingRestock": {}
   }
 }
