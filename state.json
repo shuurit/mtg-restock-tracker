@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-31T09:18:57.484Z",
+  "lastChecked": "2026-08-31T10:18:54.512Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -414,7 +414,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Collector’s Edition Commander Deck Bundle - Includes All 4 Surge Foil Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
         "price": "$594.90",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 2 left in stock",
         "url": "https://www.amazon.com/dp/B0GF44KXT4",
         "tabs": [
           "new_releases"
@@ -689,7 +689,7 @@
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Pizza Bundle | Collectible Trading Card Game",
         "price": "$98.98",
         "available": true,
-        "lowStockNote": "Only 4 left in stock",
+        "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0FR7G52PN",
         "tabs": [
           "new_releases"
@@ -1188,7 +1188,7 @@
       "6669873": {
         "key": "6669873",
         "title": "Wizards of The Coast - Magic: The Gathering Marvel Super Heroes Commander Deck - The Fantastic Four",
-        "price": "$77.99",
+        "price": "$49.99",
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-commander-deck-the-fantastic-four/JJ8VP7KSGJ/sku/6669873"
       },
