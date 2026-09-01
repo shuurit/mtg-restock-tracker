@@ -1,16 +1,15 @@
 {
-  "lastChecked": "2026-09-01T14:17:45.260Z",
+  "lastChecked": "2026-09-01T15:18:12.535Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
         "key": "B0GXCBJG9L",
         "title": "Magic: The Gathering | The Hobbit Play Booster Box | 30 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-        "price": "$219.97",
+        "price": "$219.45",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBJG9L",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
@@ -41,10 +40,9 @@
         "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
         "price": "$69.99",
         "available": true,
-        "lowStockNote": "Only 12 left in stock",
+        "lowStockNote": "Only 13 left in stock",
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
@@ -84,24 +82,22 @@
       "B0GWS582CC": {
         "key": "B0GWS582CC",
         "title": "Magic: The Gathering | The Hobbit Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens | Collectible Trading Card Game",
-        "price": "$139.99",
+        "price": "$142.88",
         "available": true,
-        "lowStockNote": "Only 7 left in stock",
+        "lowStockNote": "Only 8 left in stock",
         "url": "https://www.amazon.com/dp/B0GWS582CC",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
       "B0GXCHBRTC": {
         "key": "B0GXCHBRTC",
         "title": "Magic: The Gathering Reality Fracture Play Booster Box | 30 Packs",
-        "price": "$139.99",
+        "price": null,
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCHBRTC",
         "tabs": [
-          "home",
           "preorder"
         ]
       },
@@ -135,7 +131,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
         "tabs": [
-          "home",
           "preorder"
         ]
       },
@@ -147,7 +142,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9W89R",
         "tabs": [
-          "home",
           "preorder"
         ]
       },
@@ -166,7 +160,7 @@
         "key": "B0GXC9JFZY",
         "title": "Magic: The Gathering Reality Fracture Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens",
         "price": "$99.99",
-        "available": false,
+        "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9JFZY",
         "tabs": [
@@ -181,7 +175,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H2D3JF",
         "tabs": [
-          "home",
           "preorder"
         ]
       },
@@ -215,7 +208,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H1XTK6",
         "tabs": [
-          "home",
           "preorder"
         ]
       },
@@ -233,7 +225,7 @@
       "B0H6H4PL4G": {
         "key": "B0H6H4PL4G",
         "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
-        "price": "$224.97",
+        "price": null,
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H4PL4G",
@@ -271,7 +263,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBW828",
         "tabs": [
-          "home",
           "preorder"
         ]
       },
@@ -283,7 +274,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCH6X4K",
         "tabs": [
-          "home",
           "preorder"
         ]
       },
@@ -306,7 +296,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC5T8LG",
         "tabs": [
-          "home",
           "preorder"
         ]
       },
@@ -340,7 +329,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
@@ -363,7 +351,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G867CCWN",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
@@ -397,7 +384,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
@@ -426,7 +412,7 @@
       "B0GF44KXT4": {
         "key": "B0GF44KXT4",
         "title": "Magic: The Gathering | Marvel Super Heroes Collector’s Edition Commander Deck Bundle - Includes All 4 Surge Foil Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
-        "price": "$594.40",
+        "price": "$594.36",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF44KXT4",
@@ -439,7 +425,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck Bundle - Includes All 4 Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
         "price": "$184.94",
         "available": true,
-        "lowStockNote": "Only 3 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF44MVBP",
         "tabs": [
           "new_releases"
@@ -459,7 +445,7 @@
       "B0G87FZZQQ": {
         "key": "B0G87FZZQQ",
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Wakanda Forever (100-Card Deck + Accessories)",
-        "price": "$49.45",
+        "price": "$49.98",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87FZZQQ",
@@ -481,9 +467,9 @@
       "B0G87C83NR": {
         "key": "B0G87C83NR",
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Doom Prevails (100-Card Deck + Accessories)",
-        "price": "$64.97",
+        "price": "$64.98",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0G87C83NR",
         "tabs": [
           "new_releases"
@@ -505,7 +491,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Scene Box - Villains Unleashed | 6 Foil Borderless Scene Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
         "price": "$33.40",
         "available": true,
-        "lowStockNote": "Only 15 left in stock",
+        "lowStockNote": "Only 16 left in stock",
         "url": "https://www.amazon.com/dp/B0G87734WB",
         "tabs": [
           "new_releases"
@@ -569,7 +555,7 @@
       "B0G87VXM5G": {
         "key": "B0G87VXM5G",
         "title": "Magic: The Gathering Secrets of Strixhaven - Codex Bundle (2 Collector Boosters, 6 Play Boosters, 2 Foil Promo Cards, 20 Foil Lands, 1 Spindown)",
-        "price": "$159.99",
+        "price": "$149.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87VXM5G",
@@ -624,9 +610,9 @@
       "B0G887STC9": {
         "key": "B0G887STC9",
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Lorehold Spirit (100-Card Deck, Deck Box + Accessories)",
-        "price": "$38.97",
+        "price": "$39.63",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G887STC9",
         "tabs": [
           "new_releases"
@@ -754,51 +740,7 @@
         ]
       }
     },
-    "pendingRestock": {
-      "B0GXCHBRTC": {
-        "item": {
-          "key": "B0GXCHBRTC",
-          "title": "Magic: The Gathering Reality Fracture Play Booster Box | 30 Packs",
-          "price": "$139.99",
-          "available": true,
-          "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0GXCHBRTC",
-          "tabs": [
-            "home",
-            "preorder"
-          ]
-        },
-        "firstSeenAt": 1788268628301
-      },
-      "B0GXC9JFZY": {
-        "item": {
-          "key": "B0GXC9JFZY",
-          "title": "Magic: The Gathering Reality Fracture Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens",
-          "price": "$99.99",
-          "available": true,
-          "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0GXC9JFZY",
-          "tabs": [
-            "preorder"
-          ]
-        },
-        "firstSeenAt": 1788268628301
-      },
-      "B0H6H4PL4G": {
-        "item": {
-          "key": "B0H6H4PL4G",
-          "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
-          "price": "$224.97",
-          "available": true,
-          "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0H6H4PL4G",
-          "tabs": [
-            "preorder"
-          ]
-        },
-        "firstSeenAt": 1788268628301
-      }
-    }
+    "pendingRestock": {}
   },
   "bestbuy": {
     "items": {
@@ -1510,6 +1452,17 @@
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-collectors-edition-commander-deck-federation-fleet/JJ8VP7ZHGY/sku/6686943"
       }
     },
-    "pendingRestock": {}
+    "pendingRestock": {
+      "6577591": {
+        "item": {
+          "key": "6577591",
+          "title": "Wizards of The Coast - Magic: The Gathering Bloomburrow Play Booster Box",
+          "price": "$174.99",
+          "available": true,
+          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-bloomburrow-play-booster-box/JJ8VP7QSPX/sku/6577591"
+        },
+        "firstSeenAt": 1788275892536
+      }
+    }
   }
 }
