@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-01T05:20:17.194Z",
+  "lastChecked": "2026-09-01T06:17:53.077Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -878,6 +878,13 @@
         "available": false,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-vi-commander-deck-revival-trance/JJ8VP7HWC4/sku/6619415"
       },
+      "6619445": {
+        "key": "6619445",
+        "title": "Wizards of The Coast - Magic: The Gathering Final Fantasy Starter Kit",
+        "price": "$19.99",
+        "available": true,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-starter-kit/JJ8VP7HL59/sku/6619445"
+      },
       "6619448": {
         "key": "6619448",
         "title": "Wizards of The Coast - Magic: The Gathering Final Fantasy Play Booster Sleeve",
@@ -1460,6 +1467,17 @@
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-collectors-edition-commander-deck-federation-fleet/JJ8VP7ZHGY/sku/6686943"
       }
     },
-    "pendingRestock": {}
+    "pendingRestock": {
+      "6678107": {
+        "item": {
+          "key": "6678107",
+          "title": "Wizards of The Coast - Magic: The Gathering - The Hobbit Collector Booster Box (12 Packs)",
+          "price": "$449.99",
+          "available": true,
+          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-hobbit-collector-booster-box-12-packs/JJ8VP7KQJ9/sku/6678107"
+        },
+        "firstSeenAt": 1788243473078
+      }
+    }
   }
 }
