@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-03T08:18:06.162Z",
+  "lastChecked": "2026-09-03T09:16:53.264Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -10,6 +10,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBJG9L",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -18,7 +19,7 @@
         "title": "Magic: The Gathering | The Hobbit Collector Booster Box | 12 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
         "price": "$799.99",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 15 left in stock",
         "url": "https://www.amazon.com/dp/B0GXC89N66",
         "tabs": [
           "new_releases"
@@ -43,6 +44,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -87,6 +89,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS582CC",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -337,6 +340,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -359,6 +363,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G867CCWN",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -392,13 +397,14 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
       "B0G87RDQPV": {
         "key": "B0G87RDQPV",
         "title": "Magic: The Gathering | Marvel Super Heroes - Bundle: Gift Edition (Deluxe Bundle with 1 Collector Booster, 9 Play Boosters, 30 Lands, 1 Alt-Art Card + Exclusive Accessories)",
-        "price": "$79.96",
+        "price": "$79.94",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87RDQPV",
@@ -420,7 +426,7 @@
       "B0GF44KXT4": {
         "key": "B0GF44KXT4",
         "title": "Magic: The Gathering | Marvel Super Heroes Collector’s Edition Commander Deck Bundle - Includes All 4 Surge Foil Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
-        "price": "$593.93",
+        "price": "$593.91",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF44KXT4",
@@ -475,7 +481,7 @@
       "B0G87C83NR": {
         "key": "B0G87C83NR",
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Doom Prevails (100-Card Deck + Accessories)",
-        "price": "$64.62",
+        "price": "$64.59",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87C83NR",
