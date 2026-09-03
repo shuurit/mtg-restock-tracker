@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-03T02:18:25.522Z",
+  "lastChecked": "2026-09-03T03:17:18.259Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -51,7 +51,7 @@
       "B0GWS8DC8C": {
         "key": "B0GWS8DC8C",
         "title": "Magic: The Gathering | The Hobbit Gift Bundle | Collectible Trading Card Game",
-        "price": "$199.98",
+        "price": "$199.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS8DC8C",
@@ -222,7 +222,7 @@
       "B0H6H8KS14": {
         "key": "B0H6H8KS14",
         "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
-        "price": "$99.99",
+        "price": null,
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H8KS14",
@@ -426,7 +426,7 @@
       "B0GF44KXT4": {
         "key": "B0GF44KXT4",
         "title": "Magic: The Gathering | Marvel Super Heroes Collector’s Edition Commander Deck Bundle - Includes All 4 Surge Foil Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
-        "price": "$594.08",
+        "price": "$594.06",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF44KXT4",
@@ -481,7 +481,7 @@
       "B0G87C83NR": {
         "key": "B0G87C83NR",
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Doom Prevails (100-Card Deck + Accessories)",
-        "price": "$64.77",
+        "price": "$64.74",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87C83NR",
@@ -560,7 +560,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven - Bundle (9 Play Boosters, 30 Lands, 1 Alt-Art Card + Exclusive Accessories)",
         "price": "$49.99",
         "available": true,
-        "lowStockNote": "Only 7 left in stock",
+        "lowStockNote": "Only 6 left in stock",
         "url": "https://www.amazon.com/dp/B0G866V9ZF",
         "tabs": [
           "new_releases"
@@ -754,22 +754,7 @@
         ]
       }
     },
-    "pendingRestock": {
-      "B0H6H8KS14": {
-        "item": {
-          "key": "B0H6H8KS14",
-          "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
-          "price": "$99.99",
-          "available": true,
-          "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0H6H8KS14",
-          "tabs": [
-            "preorder"
-          ]
-        },
-        "firstSeenAt": 1788401905522
-      }
-    }
+    "pendingRestock": {}
   },
   "bestbuy": {
     "items": {
