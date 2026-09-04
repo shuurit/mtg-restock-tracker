@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-04T22:17:05.216Z",
+  "lastChecked": "2026-09-04T23:17:18.651Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -38,9 +38,9 @@
       "B0GWSB7V4T": {
         "key": "B0GWSB7V4T",
         "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
-        "price": "$69.99",
+        "price": "$69.55",
         "available": true,
-        "lowStockNote": "Only 5 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
         "tabs": [
           "new_releases"
@@ -93,7 +93,7 @@
       "B0GXCHBRTC": {
         "key": "B0GXCHBRTC",
         "title": "Magic: The Gathering Reality Fracture Play Booster Box | 30 Packs",
-        "price": "$169.95",
+        "price": "$139.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCHBRTC",
@@ -335,7 +335,7 @@
       "B0G87JWX8L": {
         "key": "B0G87JWX8L",
         "title": "Magic: The Gathering | Marvel Super Heroes Beginner Box | 2-Player Card Game | Includes 2 Tutorial Decks, 8 Themed Half-Decks, 2 Playboards, 2 Spindowns, and More",
-        "price": "$27.26",
+        "price": "$28.94",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87JWX8L",
@@ -469,7 +469,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Doom Prevails (100-Card Deck + Accessories)",
         "price": "$64.95",
         "available": true,
-        "lowStockNote": "Only 8 left in stock",
+        "lowStockNote": "Only 7 left in stock",
         "url": "https://www.amazon.com/dp/B0G87C83NR",
         "tabs": [
           "new_releases"
@@ -522,9 +522,9 @@
       "B0GFDD1RLS": {
         "key": "B0GFDD1RLS",
         "title": "Magic: The Gathering Secrets of Strixhaven - Collector Booster Box (12 Packs)",
-        "price": "$599.00",
+        "price": "$599.99",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 2 left in stock",
         "url": "https://www.amazon.com/dp/B0GFDD1RLS",
         "tabs": [
           "new_releases"
@@ -610,7 +610,7 @@
       "B0G887STC9": {
         "key": "B0G887STC9",
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Lorehold Spirit (100-Card Deck, Deck Box + Accessories)",
-        "price": "$41.61",
+        "price": "$43.42",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G887STC9",
@@ -645,7 +645,7 @@
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Turtle Team-Up | Collectible Trading Card Game",
         "price": "$29.99",
         "available": true,
-        "lowStockNote": "Only 12 left in stock",
+        "lowStockNote": "Only 4 left in stock",
         "url": "https://www.amazon.com/dp/B0FR7K693P",
         "tabs": [
           "new_releases"
@@ -665,7 +665,7 @@
       "B0FR7JTZT5": {
         "key": "B0FR7JTZT5",
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Draft Night | Collectible Trading Card Game",
-        "price": "$89.97",
+        "price": "$85.00",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0FR7JTZT5",
