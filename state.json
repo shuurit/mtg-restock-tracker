@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-04T19:17:43.970Z",
+  "lastChecked": "2026-09-04T20:17:04.944Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -40,7 +40,7 @@
         "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
         "price": "$69.99",
         "available": true,
-        "lowStockNote": "Only 7 left in stock",
+        "lowStockNote": "Only 5 left in stock",
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
         "tabs": [
           "new_releases"
@@ -49,9 +49,9 @@
       "B0GWS8DC8C": {
         "key": "B0GWS8DC8C",
         "title": "Magic: The Gathering | The Hobbit Gift Bundle | Collectible Trading Card Game",
-        "price": "$189.99",
+        "price": "$184.61",
         "available": true,
-        "lowStockNote": "Only 2 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS8DC8C",
         "tabs": [
           "new_releases"
@@ -93,12 +93,11 @@
       "B0GXCHBRTC": {
         "key": "B0GXCHBRTC",
         "title": "Magic: The Gathering Reality Fracture Play Booster Box | 30 Packs",
-        "price": "$169.95",
+        "price": "$139.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCHBRTC",
         "tabs": [
-          "home",
           "preorder"
         ]
       },
@@ -132,7 +131,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
         "tabs": [
-          "home",
           "preorder"
         ]
       },
@@ -144,7 +142,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9W89R",
         "tabs": [
-          "home",
           "preorder"
         ]
       },
@@ -178,7 +175,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H2D3JF",
         "tabs": [
-          "home",
           "preorder"
         ]
       },
@@ -212,7 +208,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H1XTK6",
         "tabs": [
-          "home",
           "preorder"
         ]
       },
@@ -268,7 +263,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBW828",
         "tabs": [
-          "home",
           "preorder"
         ]
       },
@@ -280,7 +274,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCH6X4K",
         "tabs": [
-          "home",
           "preorder"
         ]
       },
@@ -303,7 +296,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC5T8LG",
         "tabs": [
-          "home",
           "preorder"
         ]
       },
@@ -398,7 +390,7 @@
       "B0G87RDQPV": {
         "key": "B0G87RDQPV",
         "title": "Magic: The Gathering | Marvel Super Heroes - Bundle: Gift Edition (Deluxe Bundle with 1 Collector Booster, 9 Play Boosters, 30 Lands, 1 Alt-Art Card + Exclusive Accessories)",
-        "price": "$79.99",
+        "price": "$79.98",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87RDQPV",
@@ -607,7 +599,7 @@
       "B0G86Z17Y8": {
         "key": "B0G86Z17Y8",
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Witherbloom Pestilence (100-Card Deck, Deck Box + Accessories)",
-        "price": "$52.95",
+        "price": "$48.42",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G86Z17Y8",
@@ -653,7 +645,7 @@
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Turtle Team-Up | Collectible Trading Card Game",
         "price": "$29.99",
         "available": true,
-        "lowStockNote": "Only 14 left in stock",
+        "lowStockNote": "Only 13 left in stock",
         "url": "https://www.amazon.com/dp/B0FR7K693P",
         "tabs": [
           "new_releases"
@@ -684,7 +676,7 @@
       "B0FR7KFXBB": {
         "key": "B0FR7KFXBB",
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Bundle | 9 Play Boosters, 30 Lands, Foil Alt-Art Promo Card + Exclusive Accessories | Collectible Trading Card Game",
-        "price": "$49.99",
+        "price": "$53.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0FR7KFXBB",
