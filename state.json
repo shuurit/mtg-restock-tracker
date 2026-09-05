@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-05T18:16:45.632Z",
+  "lastChecked": "2026-09-05T19:16:52.950Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -53,7 +53,7 @@
         "title": "Magic: The Gathering | The Hobbit Gift Bundle | Collectible Trading Card Game",
         "price": "$179.99",
         "available": true,
-        "lowStockNote": "Only 5 left in stock",
+        "lowStockNote": "Only 4 left in stock",
         "url": "https://www.amazon.com/dp/B0GWS8DC8C",
         "tabs": [
           "new_releases"
@@ -234,7 +234,7 @@
         "key": "B0H6H4PL4G",
         "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
         "price": "$224.97",
-        "available": false,
+        "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H4PL4G",
         "tabs": [
@@ -426,7 +426,7 @@
       "B0GF44KXT4": {
         "key": "B0GF44KXT4",
         "title": "Magic: The Gathering | Marvel Super Heroes Collector’s Edition Commander Deck Bundle - Includes All 4 Surge Foil Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
-        "price": "$593.02",
+        "price": "$593.00",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF44KXT4",
@@ -483,7 +483,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Doom Prevails (100-Card Deck + Accessories)",
         "price": "$64.94",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": "Only 2 left in stock",
         "url": "https://www.amazon.com/dp/B0G87C83NR",
         "tabs": [
           "new_releases"
@@ -754,22 +754,7 @@
         ]
       }
     },
-    "pendingRestock": {
-      "B0H6H4PL4G": {
-        "item": {
-          "key": "B0H6H4PL4G",
-          "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
-          "price": "$224.97",
-          "available": true,
-          "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0H6H4PL4G",
-          "tabs": [
-            "preorder"
-          ]
-        },
-        "firstSeenAt": 1788632205632
-      }
-    }
+    "pendingRestock": {}
   },
   "bestbuy": {
     "items": {
