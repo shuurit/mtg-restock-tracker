@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-09T07:17:03.617Z",
+  "lastChecked": "2026-09-09T08:17:11.603Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -28,7 +28,7 @@
       "B0GWS9J9VT": {
         "key": "B0GWS9J9VT",
         "title": "Magic: The Gathering | The Hobbit Collector Booster | 1 Pack (15 Cards) | Collectible Trading Card Game",
-        "price": "$79.93",
+        "price": "$81.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS9J9VT",
@@ -41,7 +41,7 @@
         "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
         "price": "$68.99",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 3 left in stock",
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
         "tabs": [
           "home",
@@ -370,7 +370,7 @@
       "B0GF44F4MG": {
         "key": "B0GF44F4MG",
         "title": "Magic: The Gathering | Marvel Super Heroes Collector Booster Box | 12 Packs | Collectible Trading Card Game",
-        "price": "$463.93",
+        "price": "$463.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF44F4MG",
@@ -404,7 +404,7 @@
       "B0G87RDQPV": {
         "key": "B0G87RDQPV",
         "title": "Magic: The Gathering | Marvel Super Heroes - Bundle: Gift Edition (Deluxe Bundle with 1 Collector Booster, 9 Play Boosters, 30 Lands, 1 Alt-Art Card + Exclusive Accessories)",
-        "price": "$79.95",
+        "price": "$79.92",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87RDQPV",
@@ -426,7 +426,7 @@
       "B0GF44KXT4": {
         "key": "B0GF44KXT4",
         "title": "Magic: The Gathering | Marvel Super Heroes Collector’s Edition Commander Deck Bundle - Includes All 4 Surge Foil Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
-        "price": "$588.47",
+        "price": "$588.45",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF44KXT4",
@@ -580,7 +580,7 @@
       "B0GFDRW65Q": {
         "key": "B0GFDRW65Q",
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck Bundle - Includes All 5 Decks (Silverquill Influence, Prismari Artistry, Witherbloom Pestilence, Lorehold Spirit, Quandrix Unlimited)",
-        "price": "$209.33",
+        "price": "$206.20",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GFDRW65Q",
