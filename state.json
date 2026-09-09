@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-09T15:17:05.435Z",
+  "lastChecked": "2026-09-09T16:17:09.035Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -10,7 +10,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBJG9L",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
@@ -28,7 +27,7 @@
       "B0GWS9J9VT": {
         "key": "B0GWS9J9VT",
         "title": "Magic: The Gathering | The Hobbit Collector Booster | 1 Pack (15 Cards) | Collectible Trading Card Game",
-        "price": "$79.91",
+        "price": "$79.88",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS9J9VT",
@@ -41,10 +40,9 @@
         "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
         "price": "$69.99",
         "available": true,
-        "lowStockNote": "Only 3 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
@@ -89,19 +87,17 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS582CC",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
       "B0GXCHBRTC": {
         "key": "B0GXCHBRTC",
         "title": "Magic: The Gathering Reality Fracture Play Booster Box | 30 Packs",
-        "price": "$139.99",
+        "price": "$169.95",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCHBRTC",
         "tabs": [
-          "home",
           "preorder"
         ]
       },
@@ -135,7 +131,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
         "tabs": [
-          "home",
           "preorder"
         ]
       },
@@ -147,7 +142,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9W89R",
         "tabs": [
-          "home",
           "preorder"
         ]
       },
@@ -181,7 +175,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H2D3JF",
         "tabs": [
-          "home",
           "preorder"
         ]
       },
@@ -215,7 +208,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H1XTK6",
         "tabs": [
-          "home",
           "preorder"
         ]
       },
@@ -233,7 +225,7 @@
       "B0H6H4PL4G": {
         "key": "B0H6H4PL4G",
         "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
-        "price": null,
+        "price": "$224.97",
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H4PL4G",
@@ -271,7 +263,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBW828",
         "tabs": [
-          "home",
           "preorder"
         ]
       },
@@ -283,7 +274,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCH6X4K",
         "tabs": [
-          "home",
           "preorder"
         ]
       },
@@ -306,7 +296,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC5T8LG",
         "tabs": [
-          "home",
           "preorder"
         ]
       },
@@ -335,19 +324,18 @@
       "B0GF4MXFPC": {
         "key": "B0GF4MXFPC",
         "title": "Magic: The Gathering | Marvel Super Heroes Play Booster Box | 30 Packs | Collectible Trading Card Game",
-        "price": "$148.95",
+        "price": "$148.93",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
       "B0G87JWX8L": {
         "key": "B0G87JWX8L",
         "title": "Magic: The Gathering | Marvel Super Heroes Beginner Box | 2-Player Card Game | Includes 2 Tutorial Decks, 8 Themed Half-Decks, 2 Playboards, 2 Spindowns, and More",
-        "price": "$26.96",
+        "price": "$26.89",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87JWX8L",
@@ -363,7 +351,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G867CCWN",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
@@ -397,14 +384,13 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
       "B0G87RDQPV": {
         "key": "B0G87RDQPV",
         "title": "Magic: The Gathering | Marvel Super Heroes - Bundle: Gift Edition (Deluxe Bundle with 1 Collector Booster, 9 Play Boosters, 30 Lands, 1 Alt-Art Card + Exclusive Accessories)",
-        "price": "$79.98",
+        "price": "$79.94",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87RDQPV",
@@ -426,7 +412,7 @@
       "B0GF44KXT4": {
         "key": "B0GF44KXT4",
         "title": "Magic: The Gathering | Marvel Super Heroes Collector’s Edition Commander Deck Bundle - Includes All 4 Surge Foil Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
-        "price": "$588.26",
+        "price": "$588.24",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF44KXT4",
@@ -461,7 +447,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Wakanda Forever (100-Card Deck + Accessories)",
         "price": "$49.45",
         "available": true,
-        "lowStockNote": "Only 6 left in stock",
+        "lowStockNote": "Only 5 left in stock",
         "url": "https://www.amazon.com/dp/B0G87FZZQQ",
         "tabs": [
           "new_releases"
@@ -569,9 +555,9 @@
       "B0G87VXM5G": {
         "key": "B0G87VXM5G",
         "title": "Magic: The Gathering Secrets of Strixhaven - Codex Bundle (2 Collector Boosters, 6 Play Boosters, 2 Foil Promo Cards, 20 Foil Lands, 1 Spindown)",
-        "price": "$159.99",
+        "price": "$149.99",
         "available": true,
-        "lowStockNote": "Only 20 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87VXM5G",
         "tabs": [
           "new_releases"
@@ -659,7 +645,7 @@
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Turtle Team-Up | Collectible Trading Card Game",
         "price": "$34.95",
         "available": true,
-        "lowStockNote": "Only 11 left in stock",
+        "lowStockNote": "Only 10 left in stock",
         "url": "https://www.amazon.com/dp/B0FR7K693P",
         "tabs": [
           "new_releases"
@@ -723,7 +709,7 @@
       "B0FR6HPWJB": {
         "key": "B0FR6HPWJB",
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Collector Booster Single Pack (1 Pack) | Collectible Trading Card Game",
-        "price": "$47.36",
+        "price": "$46.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0FR6HPWJB",
@@ -754,7 +740,22 @@
         ]
       }
     },
-    "pendingRestock": {}
+    "pendingRestock": {
+      "B0H6H4PL4G": {
+        "item": {
+          "key": "B0H6H4PL4G",
+          "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
+          "price": "$224.97",
+          "available": true,
+          "lowStockNote": null,
+          "url": "https://www.amazon.com/dp/B0H6H4PL4G",
+          "tabs": [
+            "preorder"
+          ]
+        },
+        "firstSeenAt": 1788970629035
+      }
+    }
   },
   "bestbuy": {
     "items": {
