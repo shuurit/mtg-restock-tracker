@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-12T00:17:39.819Z",
+  "lastChecked": "2026-09-12T01:18:53.001Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -10,14 +10,13 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBJG9L",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
       "B0GXC89N66": {
         "key": "B0GXC89N66",
         "title": "Magic: The Gathering | The Hobbit Collector Booster Box | 12 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-        "price": null,
+        "price": "$969.00",
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC89N66",
@@ -39,12 +38,11 @@
       "B0GWSB7V4T": {
         "key": "B0GWSB7V4T",
         "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
-        "price": "$69.39",
+        "price": "$68.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
@@ -86,22 +84,20 @@
         "title": "Magic: The Gathering | The Hobbit Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens | Collectible Trading Card Game",
         "price": "$139.99",
         "available": true,
-        "lowStockNote": "Only 8 left in stock",
+        "lowStockNote": "Only 6 left in stock",
         "url": "https://www.amazon.com/dp/B0GWS582CC",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
       "B0GXCHBRTC": {
         "key": "B0GXCHBRTC",
         "title": "Magic: The Gathering Reality Fracture Play Booster Box | 30 Packs",
-        "price": "$167.00",
+        "price": "$167.01",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCHBRTC",
         "tabs": [
-          "home",
           "preorder"
         ]
       },
@@ -135,7 +131,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
         "tabs": [
-          "home",
           "preorder"
         ]
       },
@@ -147,7 +142,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9W89R",
         "tabs": [
-          "home",
           "preorder"
         ]
       },
@@ -181,7 +175,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H2D3JF",
         "tabs": [
-          "home",
           "preorder"
         ]
       },
@@ -215,7 +208,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H1XTK6",
         "tabs": [
-          "home",
           "preorder"
         ]
       },
@@ -233,7 +225,7 @@
       "B0H6H4PL4G": {
         "key": "B0H6H4PL4G",
         "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
-        "price": null,
+        "price": "$224.97",
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H4PL4G",
@@ -271,7 +263,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBW828",
         "tabs": [
-          "home",
           "preorder"
         ]
       },
@@ -283,7 +274,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCH6X4K",
         "tabs": [
-          "home",
           "preorder"
         ]
       },
@@ -306,7 +296,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC5T8LG",
         "tabs": [
-          "home",
           "preorder"
         ]
       },
@@ -340,7 +329,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
@@ -363,7 +351,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G867CCWN",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
@@ -397,14 +384,13 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
         "tabs": [
-          "home",
           "new_releases"
         ]
       },
       "B0G87RDQPV": {
         "key": "B0G87RDQPV",
         "title": "Magic: The Gathering | Marvel Super Heroes - Bundle: Gift Edition (Deluxe Bundle with 1 Collector Booster, 9 Play Boosters, 30 Lands, 1 Alt-Art Card + Exclusive Accessories)",
-        "price": "$79.92",
+        "price": "$79.89",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87RDQPV",
@@ -426,7 +412,7 @@
       "B0GF44KXT4": {
         "key": "B0GF44KXT4",
         "title": "Magic: The Gathering | Marvel Super Heroes Collector’s Edition Commander Deck Bundle - Includes All 4 Surge Foil Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
-        "price": "$583.72",
+        "price": "$583.73",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF44KXT4",
@@ -754,7 +740,36 @@
         ]
       }
     },
-    "pendingRestock": {}
+    "pendingRestock": {
+      "B0H6H4PL4G": {
+        "item": {
+          "key": "B0H6H4PL4G",
+          "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
+          "price": "$224.97",
+          "available": true,
+          "lowStockNote": null,
+          "url": "https://www.amazon.com/dp/B0H6H4PL4G",
+          "tabs": [
+            "preorder"
+          ]
+        },
+        "firstSeenAt": 1789175933001
+      },
+      "B0GXC89N66": {
+        "item": {
+          "key": "B0GXC89N66",
+          "title": "Magic: The Gathering | The Hobbit Collector Booster Box | 12 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
+          "price": "$969.00",
+          "available": true,
+          "lowStockNote": null,
+          "url": "https://www.amazon.com/dp/B0GXC89N66",
+          "tabs": [
+            "new_releases"
+          ]
+        },
+        "firstSeenAt": 1789175933001
+      }
+    }
   },
   "bestbuy": {
     "items": {
@@ -841,6 +856,13 @@
         "price": "$10.49",
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-foundations-jumpstart-booster-2-pack/JJ8VP7QCKZ/sku/6593870"
+      },
+      "6604763": {
+        "key": "6604763",
+        "title": "Wizards of The Coast - Magic: The Gathering Innistrad Remastered Play Booster Sleeve",
+        "price": "$4.99",
+        "available": false,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-innistrad-remastered-play-booster-sleeve/JJ8VP7HGJW/sku/6604763"
       },
       "6612942": {
         "key": "6612942",
@@ -961,6 +983,13 @@
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-avatar-the-last-airbender-play-booster-sleeve/JJ8VP7TRT5/sku/6643173"
       },
+      "6643175": {
+        "key": "6643175",
+        "title": "Wizards of The Coast - Magic: The Gathering Avatar: The Last Airbender Bundle",
+        "price": "$55.99",
+        "available": false,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-avatar-the-last-airbender-bundle/JJ8VP7TR52/sku/6643175"
+      },
       "6643176": {
         "key": "6643176",
         "title": "Wizards of The Coast - Magic: The Gathering Avatar: The Last Airbender Scene Box (1 Scene Box per Order) - Styles May Vary",
@@ -981,6 +1010,13 @@
         "price": "$13.99",
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-avatar-the-last-airbender-jumpstart-booster-2-pk/JJ8VP7TQXK/sku/6643180"
+      },
+      "6643181": {
+        "key": "6643181",
+        "title": "Wizards of The Coast - Magic: The Gathering Avatar: The Last Airbender Collector Booster",
+        "price": "$39.99",
+        "available": false,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-avatar-the-last-airbender-collector-booster/JJ8VP7TRZQ/sku/6643181"
       },
       "6646021": {
         "key": "6646021",
@@ -1065,6 +1101,13 @@
         "price": "$129.99",
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-teenage-mutant-ninja-turtles-draft-night/JJ8VP7WZLQ/sku/6649560"
+      },
+      "6649562": {
+        "key": "6649562",
+        "title": "Wizards of The Coast - Magic: The Gathering Teenage Mutant Ninja Turtles Play Booster Box (30 Packs)",
+        "price": "$199.99",
+        "available": true,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-teenage-mutant-ninja-turtles-play-booster-box-30-packs/JJ8VP7WT4W/sku/6649562"
       },
       "6649563": {
         "key": "6649563",
