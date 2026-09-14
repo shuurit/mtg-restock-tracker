@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-14T17:17:34.986Z",
+  "lastChecked": "2026-09-14T18:17:40.435Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -1069,8 +1069,8 @@
       "6649560": {
         "key": "6649560",
         "title": "Wizards of The Coast - Magic: The Gathering Teenage Mutant Ninja Turtles Draft Night",
-        "price": "$129.99",
-        "available": true,
+        "price": null,
+        "available": false,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-teenage-mutant-ninja-turtles-draft-night/JJ8VP7WZLQ/sku/6649560"
       },
       "6649562": {
@@ -1279,7 +1279,7 @@
       "6669881": {
         "key": "6669881",
         "title": "Wizards of The Coast - Magic: The Gathering Marvel Super Heroes Scene Box (1 Scene Box per Order) - Styles May Vary",
-        "price": null,
+        "price": "$41.99",
         "available": false,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-scene-box-1-scene-box-per-order-styles-may-vary/JJ8VP7K7V5/sku/6669881"
       },
@@ -1494,6 +1494,17 @@
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-collectors-edition-commander-deck-federation-fleet/JJ8VP7ZHGY/sku/6686943"
       }
     },
-    "pendingRestock": {}
+    "pendingRestock": {
+      "6669881": {
+        "item": {
+          "key": "6669881",
+          "title": "Wizards of The Coast - Magic: The Gathering Marvel Super Heroes Scene Box (1 Scene Box per Order) - Styles May Vary",
+          "price": "$41.99",
+          "available": true,
+          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-scene-box-1-scene-box-per-order-styles-may-vary/JJ8VP7K7V5/sku/6669881"
+        },
+        "firstSeenAt": 1789409860436
+      }
+    }
   }
 }
