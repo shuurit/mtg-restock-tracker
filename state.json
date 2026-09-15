@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-15T19:17:20.258Z",
+  "lastChecked": "2026-09-15T20:17:42.841Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -880,8 +880,8 @@
       "6619448": {
         "key": "6619448",
         "title": "Wizards of The Coast - Magic: The Gathering Final Fantasy Play Booster Sleeve",
-        "price": "$6.99",
-        "available": true,
+        "price": null,
+        "available": false,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-play-booster-sleeve/JJ8VP7HLZ7/sku/6619448"
       },
       "6619449": {
