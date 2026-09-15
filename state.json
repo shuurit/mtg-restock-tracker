@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-15T04:18:02.329Z",
+  "lastChecked": "2026-09-15T05:17:54.379Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -992,8 +992,8 @@
       "6646021": {
         "key": "6646021",
         "title": "Wizards of The Coast - Magic: The Gathering Foundations Beginner Box",
-        "price": "$29.99",
-        "available": true,
+        "price": null,
+        "available": false,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-foundations-beginner-box/JJ8VP7QKLW/sku/6646021"
       },
       "6648132": {
@@ -1279,7 +1279,7 @@
       "6669881": {
         "key": "6669881",
         "title": "Wizards of The Coast - Magic: The Gathering Marvel Super Heroes Scene Box (1 Scene Box per Order) - Styles May Vary",
-        "price": "$41.99",
+        "price": null,
         "available": false,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-scene-box-1-scene-box-per-order-styles-may-vary/JJ8VP7K7V5/sku/6669881"
       },
@@ -1363,8 +1363,8 @@
       "6678185": {
         "key": "6678185",
         "title": "Wizards of The Coast - Magic: The Gathering Reality Fracture - Draft Night",
-        "price": "$99.99",
-        "available": true,
+        "price": null,
+        "available": false,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-reality-fracture-draft-night/JJ8VP7ZR62/sku/6678185"
       },
       "6678190": {
@@ -1398,8 +1398,8 @@
       "6678304": {
         "key": "6678304",
         "title": "Wizards of The Coast - Magic: The Gathering Reality Fracture - Commander Deck",
-        "price": "$49.99",
-        "available": true,
+        "price": null,
+        "available": false,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-reality-fracture-commander-deck/JJ8VP7ZRQ5/sku/6678304"
       },
       "6686924": {
@@ -1504,16 +1504,6 @@
           "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-teenage-mutant-ninja-turtles-turtle-team-up/JJ8VP7WZ86/sku/6649559"
         },
         "firstSeenAt": 1789435098985
-      },
-      "6669881": {
-        "item": {
-          "key": "6669881",
-          "title": "Wizards of The Coast - Magic: The Gathering Marvel Super Heroes Scene Box (1 Scene Box per Order) - Styles May Vary",
-          "price": "$41.99",
-          "available": true,
-          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-scene-box-1-scene-box-per-order-styles-may-vary/JJ8VP7K7V5/sku/6669881"
-        },
-        "firstSeenAt": 1789445882329
       }
     }
   }
