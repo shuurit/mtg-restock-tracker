@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-16T02:17:23.733Z",
+  "lastChecked": "2026-09-16T03:18:06.186Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -880,7 +880,7 @@
       "6619448": {
         "key": "6619448",
         "title": "Wizards of The Coast - Magic: The Gathering Final Fantasy Play Booster Sleeve",
-        "price": null,
+        "price": "$6.99",
         "available": false,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-play-booster-sleeve/JJ8VP7HLZ7/sku/6619448"
       },
@@ -936,7 +936,7 @@
       "6633401": {
         "key": "6633401",
         "title": "Wizards of The Coast - Magic: The Gathering Foundations Play Booster Sleeve",
-        "price": null,
+        "price": "$5.49",
         "available": false,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-foundations-play-booster-sleeve/JJ8VP7QKLX/sku/6633401"
       },
@@ -999,7 +999,7 @@
       "6648132": {
         "key": "6648132",
         "title": "Wizards of The Coast - Magic: The Gathering Lorwyn Eclipsed Play Booster Sleeve",
-        "price": null,
+        "price": "$5.49",
         "available": false,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-lorwyn-eclipsed-play-booster-sleeve/JJ8VP7WQ52/sku/6648132"
       },
@@ -1349,7 +1349,7 @@
       "6678111": {
         "key": "6678111",
         "title": "Wizards of The Coast - Magic: The Gathering - The Hobbit Play Booster Sleeve",
-        "price": null,
+        "price": "$6.99",
         "available": false,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-hobbit-play-booster-sleeve/JJ8VP7KQ7G/sku/6678111"
       },
@@ -1495,15 +1495,45 @@
       }
     },
     "pendingRestock": {
-      "6649559": {
+      "6619448": {
         "item": {
-          "key": "6649559",
-          "title": "Wizards of The Coast - Magic: The Gathering Teenage Mutant Ninja Turtles - Turtle Team-Up",
-          "price": "$49.99",
+          "key": "6619448",
+          "title": "Wizards of The Coast - Magic: The Gathering Final Fantasy Play Booster Sleeve",
+          "price": "$6.99",
           "available": true,
-          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-teenage-mutant-ninja-turtles-turtle-team-up/JJ8VP7WZ86/sku/6649559"
+          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-play-booster-sleeve/JJ8VP7HLZ7/sku/6619448"
         },
-        "firstSeenAt": 1789435098985
+        "firstSeenAt": 1789528686187
+      },
+      "6633401": {
+        "item": {
+          "key": "6633401",
+          "title": "Wizards of The Coast - Magic: The Gathering Foundations Play Booster Sleeve",
+          "price": "$5.49",
+          "available": true,
+          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-foundations-play-booster-sleeve/JJ8VP7QKLX/sku/6633401"
+        },
+        "firstSeenAt": 1789528686187
+      },
+      "6648132": {
+        "item": {
+          "key": "6648132",
+          "title": "Wizards of The Coast - Magic: The Gathering Lorwyn Eclipsed Play Booster Sleeve",
+          "price": "$5.49",
+          "available": true,
+          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-lorwyn-eclipsed-play-booster-sleeve/JJ8VP7WQ52/sku/6648132"
+        },
+        "firstSeenAt": 1789528686187
+      },
+      "6678111": {
+        "item": {
+          "key": "6678111",
+          "title": "Wizards of The Coast - Magic: The Gathering - The Hobbit Play Booster Sleeve",
+          "price": "$6.99",
+          "available": true,
+          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-hobbit-play-booster-sleeve/JJ8VP7KQ7G/sku/6678111"
+        },
+        "firstSeenAt": 1789528686187
       }
     }
   }
