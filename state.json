@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-16T03:18:06.186Z",
+  "lastChecked": "2026-09-16T04:17:01.293Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -82,7 +82,7 @@
       "B0GWS582CC": {
         "key": "B0GWS582CC",
         "title": "Magic: The Gathering | The Hobbit Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens | Collectible Trading Card Game",
-        "price": "$139.99",
+        "price": "$139.95",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS582CC",
@@ -104,7 +104,7 @@
       "B0GXC667JV": {
         "key": "B0GXC667JV",
         "title": "Magic: The Gathering Reality Fracture Collector Booster Box | 12 Packs",
-        "price": null,
+        "price": "$559.95",
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC667JV",
@@ -370,7 +370,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Collector Booster | 1 Pack of 15 Cards | Collectible Trading Card Game",
         "price": "$48.90",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 16 left in stock",
         "url": "https://www.amazon.com/dp/B0G8836V29",
         "tabs": [
           "new_releases"
@@ -392,7 +392,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes - Bundle: Gift Edition (Deluxe Bundle with 1 Collector Booster, 9 Play Boosters, 30 Lands, 1 Alt-Art Card + Exclusive Accessories)",
         "price": "$79.94",
         "available": true,
-        "lowStockNote": "Only 5 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87RDQPV",
         "tabs": [
           "new_releases"
@@ -491,7 +491,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Scene Box - Villains Unleashed | 6 Foil Borderless Scene Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
         "price": "$33.38",
         "available": true,
-        "lowStockNote": "Only 4 left in stock",
+        "lowStockNote": "Only 3 left in stock",
         "url": "https://www.amazon.com/dp/B0G87734WB",
         "tabs": [
           "new_releases"
@@ -513,7 +513,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven - Draft Night (1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Token Cards)",
         "price": "$89.97",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G86Z91GX",
         "tabs": [
           "new_releases"
@@ -579,7 +579,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Silverquill Influence (100-Card Deck, Deck Box + Accessories)",
         "price": "$54.99",
         "available": true,
-        "lowStockNote": "Only 4 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G8742ZNG",
         "tabs": [
           "new_releases"
@@ -720,7 +720,7 @@
       "B0FR717633": {
         "key": "B0FR717633",
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Commander Deck - Turtle Power! | Collectible Trading Card Game",
-        "price": "$85.89",
+        "price": "$85.87",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0FR717633",
@@ -740,7 +740,22 @@
         ]
       }
     },
-    "pendingRestock": {}
+    "pendingRestock": {
+      "B0GXC667JV": {
+        "item": {
+          "key": "B0GXC667JV",
+          "title": "Magic: The Gathering Reality Fracture Collector Booster Box | 12 Packs",
+          "price": "$559.95",
+          "available": true,
+          "lowStockNote": null,
+          "url": "https://www.amazon.com/dp/B0GXC667JV",
+          "tabs": [
+            "preorder"
+          ]
+        },
+        "firstSeenAt": 1789532221293
+      }
+    }
   },
   "bestbuy": {
     "items": {
