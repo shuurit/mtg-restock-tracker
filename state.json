@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-16T11:18:21.224Z",
+  "lastChecked": "2026-09-16T12:17:16.922Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -40,7 +40,7 @@
         "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
         "price": "$69.99",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": "Only 2 left in stock",
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
         "tabs": [
           "new_releases"
@@ -93,7 +93,7 @@
       "B0GXCHBRTC": {
         "key": "B0GXCHBRTC",
         "title": "Magic: The Gathering Reality Fracture Play Booster Box | 30 Packs",
-        "price": "$179.95",
+        "price": "$159.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCHBRTC",
@@ -126,7 +126,7 @@
       "B0GXC9SDV9": {
         "key": "B0GXC9SDV9",
         "title": "Magic: The Gathering Reality Fracture Commander Deck - Multiverse Reforged | 100-Card Deck + Accessories",
-        "price": "$52.95",
+        "price": "$49.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
@@ -225,7 +225,7 @@
       "B0H6H4PL4G": {
         "key": "B0H6H4PL4G",
         "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
-        "price": null,
+        "price": "$224.97",
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H4PL4G",
@@ -370,7 +370,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Collector Booster | 1 Pack of 15 Cards | Collectible Trading Card Game",
         "price": "$48.90",
         "available": true,
-        "lowStockNote": "Only 20 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G8836V29",
         "tabs": [
           "new_releases"
@@ -392,7 +392,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes - Bundle: Gift Edition (Deluxe Bundle with 1 Collector Booster, 9 Play Boosters, 30 Lands, 1 Alt-Art Card + Exclusive Accessories)",
         "price": "$79.94",
         "available": true,
-        "lowStockNote": "Only 9 left in stock",
+        "lowStockNote": "Only 7 left in stock",
         "url": "https://www.amazon.com/dp/B0G87RDQPV",
         "tabs": [
           "new_releases"
@@ -665,7 +665,7 @@
       "B0FR7JTZT5": {
         "key": "B0FR7JTZT5",
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Draft Night | Collectible Trading Card Game",
-        "price": "$89.99",
+        "price": "$89.97",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0FR7JTZT5",
@@ -741,6 +741,20 @@
       }
     },
     "pendingRestock": {
+      "B0H6H4PL4G": {
+        "item": {
+          "key": "B0H6H4PL4G",
+          "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
+          "price": "$224.97",
+          "available": true,
+          "lowStockNote": null,
+          "url": "https://www.amazon.com/dp/B0H6H4PL4G",
+          "tabs": [
+            "preorder"
+          ]
+        },
+        "firstSeenAt": 1789561036923
+      },
       "B0H6H5C3ZL": {
         "item": {
           "key": "B0H6H5C3ZL",
@@ -896,7 +910,7 @@
         "key": "6619448",
         "title": "Wizards of The Coast - Magic: The Gathering Final Fantasy Play Booster Sleeve",
         "price": "$6.99",
-        "available": false,
+        "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-play-booster-sleeve/JJ8VP7HLZ7/sku/6619448"
       },
       "6619449": {
@@ -952,7 +966,7 @@
         "key": "6633401",
         "title": "Wizards of The Coast - Magic: The Gathering Foundations Play Booster Sleeve",
         "price": "$5.49",
-        "available": false,
+        "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-foundations-play-booster-sleeve/JJ8VP7QKLX/sku/6633401"
       },
       "6642414": {
@@ -1386,7 +1400,7 @@
         "key": "6678111",
         "title": "Wizards of The Coast - Magic: The Gathering - The Hobbit Play Booster Sleeve",
         "price": "$6.99",
-        "available": false,
+        "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-hobbit-play-booster-sleeve/JJ8VP7KQ7G/sku/6678111"
       },
       "6678112": {
@@ -1531,26 +1545,6 @@
       }
     },
     "pendingRestock": {
-      "6619448": {
-        "item": {
-          "key": "6619448",
-          "title": "Wizards of The Coast - Magic: The Gathering Final Fantasy Play Booster Sleeve",
-          "price": "$6.99",
-          "available": true,
-          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-play-booster-sleeve/JJ8VP7HLZ7/sku/6619448"
-        },
-        "firstSeenAt": 1789557501224
-      },
-      "6633401": {
-        "item": {
-          "key": "6633401",
-          "title": "Wizards of The Coast - Magic: The Gathering Foundations Play Booster Sleeve",
-          "price": "$5.49",
-          "available": true,
-          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-foundations-play-booster-sleeve/JJ8VP7QKLX/sku/6633401"
-        },
-        "firstSeenAt": 1789557501224
-      },
       "6648132": {
         "item": {
           "key": "6648132",
@@ -1560,16 +1554,6 @@
           "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-lorwyn-eclipsed-play-booster-sleeve/JJ8VP7WQ52/sku/6648132"
         },
         "firstSeenAt": 1789528686187
-      },
-      "6678111": {
-        "item": {
-          "key": "6678111",
-          "title": "Wizards of The Coast - Magic: The Gathering - The Hobbit Play Booster Sleeve",
-          "price": "$6.99",
-          "available": true,
-          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-hobbit-play-booster-sleeve/JJ8VP7KQ7G/sku/6678111"
-        },
-        "firstSeenAt": 1789557501224
       }
     }
   }
