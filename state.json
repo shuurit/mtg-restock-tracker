@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-16T09:17:45.409Z",
+  "lastChecked": "2026-09-16T10:17:37.282Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -16,7 +16,7 @@
       "B0GXC89N66": {
         "key": "B0GXC89N66",
         "title": "Magic: The Gathering | The Hobbit Collector Booster Box | 12 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-        "price": "$979.98",
+        "price": "$990.00",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC89N66",
@@ -40,7 +40,7 @@
         "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
         "price": "$69.99",
         "available": true,
-        "lowStockNote": "Only 2 left in stock",
+        "lowStockNote": "Only 5 left in stock",
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
         "tabs": [
           "new_releases"
@@ -93,7 +93,7 @@
       "B0GXCHBRTC": {
         "key": "B0GXCHBRTC",
         "title": "Magic: The Gathering Reality Fracture Play Booster Box | 30 Packs",
-        "price": "$179.45",
+        "price": "$159.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCHBRTC",
@@ -104,7 +104,7 @@
       "B0GXC667JV": {
         "key": "B0GXC667JV",
         "title": "Magic: The Gathering Reality Fracture Collector Booster Box | 12 Packs",
-        "price": "$559.95",
+        "price": "$323.88",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC667JV",
@@ -126,7 +126,7 @@
       "B0GXC9SDV9": {
         "key": "B0GXC9SDV9",
         "title": "Magic: The Gathering Reality Fracture Commander Deck - Multiverse Reforged | 100-Card Deck + Accessories",
-        "price": "$52.95",
+        "price": "$49.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
@@ -137,7 +137,7 @@
       "B0GXC9W89R": {
         "key": "B0GXC9W89R",
         "title": "Magic: The Gathering Reality Fracture Bundle | Includes 9 Play Boosters, 30 Lands, 1 Foil Alt-Art Promo Card + Exclusive Accessories",
-        "price": "$57.99",
+        "price": "$69.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9W89R",
@@ -370,7 +370,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Collector Booster | 1 Pack of 15 Cards | Collectible Trading Card Game",
         "price": "$48.90",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 20 left in stock",
         "url": "https://www.amazon.com/dp/B0G8836V29",
         "tabs": [
           "new_releases"
@@ -392,7 +392,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes - Bundle: Gift Edition (Deluxe Bundle with 1 Collector Booster, 9 Play Boosters, 30 Lands, 1 Alt-Art Card + Exclusive Accessories)",
         "price": "$79.94",
         "available": true,
-        "lowStockNote": "Only 11 left in stock",
+        "lowStockNote": "Only 10 left in stock",
         "url": "https://www.amazon.com/dp/B0G87RDQPV",
         "tabs": [
           "new_releases"
@@ -566,7 +566,7 @@
       "B0GFDRW65Q": {
         "key": "B0GFDRW65Q",
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck Bundle - Includes All 5 Decks (Silverquill Influence, Prismari Artistry, Witherbloom Pestilence, Lorehold Spirit, Quandrix Unlimited)",
-        "price": "$213.34",
+        "price": "$213.33",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GFDRW65Q",
@@ -579,7 +579,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Silverquill Influence (100-Card Deck, Deck Box + Accessories)",
         "price": "$54.99",
         "available": true,
-        "lowStockNote": "Only 3 left in stock",
+        "lowStockNote": "Only 8 left in stock",
         "url": "https://www.amazon.com/dp/B0G8742ZNG",
         "tabs": [
           "new_releases"
@@ -665,7 +665,7 @@
       "B0FR7JTZT5": {
         "key": "B0FR7JTZT5",
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Draft Night | Collectible Trading Card Game",
-        "price": "$85.00",
+        "price": "$89.97",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0FR7JTZT5",
@@ -895,8 +895,8 @@
       "6619448": {
         "key": "6619448",
         "title": "Wizards of The Coast - Magic: The Gathering Final Fantasy Play Booster Sleeve",
-        "price": "$6.99",
-        "available": true,
+        "price": null,
+        "available": false,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-play-booster-sleeve/JJ8VP7HLZ7/sku/6619448"
       },
       "6619449": {
@@ -951,8 +951,8 @@
       "6633401": {
         "key": "6633401",
         "title": "Wizards of The Coast - Magic: The Gathering Foundations Play Booster Sleeve",
-        "price": "$5.49",
-        "available": true,
+        "price": null,
+        "available": false,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-foundations-play-booster-sleeve/JJ8VP7QKLX/sku/6633401"
       },
       "6642414": {
@@ -1347,6 +1347,13 @@
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-hobbit-scene-box-1-scene-box-per-order-styles-may-vary/JJ8VP7KQLK/sku/6678102"
       },
+      "6678103": {
+        "key": "6678103",
+        "title": "Wizards of The Coast - Magic: The Gathering - The Hobbit Collector Booster",
+        "price": "$41.99",
+        "available": true,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-hobbit-collector-booster/JJ8VP7KQ27/sku/6678103"
+      },
       "6678107": {
         "key": "6678107",
         "title": "Wizards of The Coast - Magic: The Gathering - The Hobbit Collector Booster Box (12 Packs)",
@@ -1371,8 +1378,8 @@
       "6678111": {
         "key": "6678111",
         "title": "Wizards of The Coast - Magic: The Gathering - The Hobbit Play Booster Sleeve",
-        "price": "$6.99",
-        "available": true,
+        "price": null,
+        "available": false,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-hobbit-play-booster-sleeve/JJ8VP7KQ7G/sku/6678111"
       },
       "6678112": {
@@ -1420,8 +1427,8 @@
       "6678304": {
         "key": "6678304",
         "title": "Wizards of The Coast - Magic: The Gathering Reality Fracture - Commander Deck",
-        "price": "$49.99",
-        "available": true,
+        "price": null,
+        "available": false,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-reality-fracture-commander-deck/JJ8VP7ZRQ5/sku/6678304"
       },
       "6686924": {
@@ -1526,6 +1533,16 @@
           "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-lorwyn-eclipsed-play-booster-sleeve/JJ8VP7WQ52/sku/6648132"
         },
         "firstSeenAt": 1789528686187
+      },
+      "6649559": {
+        "item": {
+          "key": "6649559",
+          "title": "Wizards of The Coast - Magic: The Gathering Teenage Mutant Ninja Turtles - Turtle Team-Up",
+          "price": "$49.99",
+          "available": true,
+          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-teenage-mutant-ninja-turtles-turtle-team-up/JJ8VP7WZ86/sku/6649559"
+        },
+        "firstSeenAt": 1789553857282
       }
     }
   }
