@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-16T14:17:12.989Z",
+  "lastChecked": "2026-09-16T15:17:41.178Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -895,8 +895,8 @@
       "6619448": {
         "key": "6619448",
         "title": "Wizards of The Coast - Magic: The Gathering Final Fantasy Play Booster Sleeve",
-        "price": "$6.99",
-        "available": true,
+        "price": null,
+        "available": false,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-play-booster-sleeve/JJ8VP7HLZ7/sku/6619448"
       },
       "6619449": {
@@ -951,8 +951,8 @@
       "6633401": {
         "key": "6633401",
         "title": "Wizards of The Coast - Magic: The Gathering Foundations Play Booster Sleeve",
-        "price": "$5.49",
-        "available": true,
+        "price": null,
+        "available": false,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-foundations-play-booster-sleeve/JJ8VP7QKLX/sku/6633401"
       },
       "6642414": {
@@ -1385,8 +1385,8 @@
       "6678111": {
         "key": "6678111",
         "title": "Wizards of The Coast - Magic: The Gathering - The Hobbit Play Booster Sleeve",
-        "price": "$6.99",
-        "available": true,
+        "price": null,
+        "available": false,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-hobbit-play-booster-sleeve/JJ8VP7KQ7G/sku/6678111"
       },
       "6678112": {
