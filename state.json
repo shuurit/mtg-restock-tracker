@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-17T06:17:26.911Z",
+  "lastChecked": "2026-09-17T07:17:29.520Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -40,7 +40,7 @@
         "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
         "price": "$69.99",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
         "tabs": [
           "new_releases"
@@ -49,7 +49,7 @@
       "B0GWS8DC8C": {
         "key": "B0GWS8DC8C",
         "title": "Magic: The Gathering | The Hobbit Gift Bundle | Collectible Trading Card Game",
-        "price": "$109.86",
+        "price": "$129.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS8DC8C",
@@ -159,7 +159,7 @@
       "B0GXC9JFZY": {
         "key": "B0GXC9JFZY",
         "title": "Magic: The Gathering Reality Fracture Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens",
-        "price": "$111.95",
+        "price": "$114.45",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9JFZY",
@@ -370,7 +370,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Collector Booster | 1 Pack of 15 Cards | Collectible Trading Card Game",
         "price": "$48.90",
         "available": true,
-        "lowStockNote": "Only 12 left in stock",
+        "lowStockNote": "Only 13 left in stock",
         "url": "https://www.amazon.com/dp/B0G8836V29",
         "tabs": [
           "new_releases"
@@ -392,7 +392,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes - Bundle: Gift Edition (Deluxe Bundle with 1 Collector Booster, 9 Play Boosters, 30 Lands, 1 Alt-Art Card + Exclusive Accessories)",
         "price": "$79.94",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0G87RDQPV",
         "tabs": [
           "new_releases"
@@ -412,7 +412,7 @@
       "B0GF44KXT4": {
         "key": "B0GF44KXT4",
         "title": "Magic: The Gathering | Marvel Super Heroes Collector’s Edition Commander Deck Bundle - Includes All 4 Surge Foil Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
-        "price": "$582.55",
+        "price": "$582.50",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF44KXT4",
@@ -588,7 +588,7 @@
       "B0G87JBK84": {
         "key": "B0G87JBK84",
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Prismari Artistry (100-Card Deck, Deck Box + Accessories)",
-        "price": "$43.35",
+        "price": "$43.43",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87JBK84",
@@ -599,9 +599,9 @@
       "B0G86Z17Y8": {
         "key": "B0G86Z17Y8",
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Witherbloom Pestilence (100-Card Deck, Deck Box + Accessories)",
-        "price": "$51.99",
+        "price": "$54.99",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G86Z17Y8",
         "tabs": [
           "new_releases"
@@ -621,7 +621,7 @@
       "B0G874G6HD": {
         "key": "B0G874G6HD",
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Quandrix Unlimited (100-Card Deck, Deck Box + Accessories)",
-        "price": "$42.26",
+        "price": "$40.98",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G874G6HD",
@@ -665,7 +665,7 @@
       "B0FR7JTZT5": {
         "key": "B0FR7JTZT5",
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Draft Night | Collectible Trading Card Game",
-        "price": "$79.90",
+        "price": "$89.97",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0FR7JTZT5",
@@ -711,7 +711,7 @@
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Collector Booster Single Pack (1 Pack) | Collectible Trading Card Game",
         "price": "$47.00",
         "available": true,
-        "lowStockNote": "Only 3 left in stock",
+        "lowStockNote": "Only 2 left in stock",
         "url": "https://www.amazon.com/dp/B0FR6HPWJB",
         "tabs": [
           "new_releases"
@@ -720,7 +720,7 @@
       "B0FR717633": {
         "key": "B0FR717633",
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Commander Deck - Turtle Power! | Collectible Trading Card Game",
-        "price": "$83.91",
+        "price": "$83.89",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0FR717633",
@@ -1384,8 +1384,8 @@
       "6678185": {
         "key": "6678185",
         "title": "Wizards of The Coast - Magic: The Gathering Reality Fracture - Draft Night",
-        "price": "$99.99",
-        "available": true,
+        "price": null,
+        "available": false,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-reality-fracture-draft-night/JJ8VP7ZR62/sku/6678185"
       },
       "6678190": {
