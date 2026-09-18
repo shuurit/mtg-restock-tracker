@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-18T16:17:26.159Z",
+  "lastChecked": "2026-09-18T17:17:58.661Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -10,6 +10,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBJG9L",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -43,6 +44,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -87,6 +89,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS582CC",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -98,6 +101,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCHBRTC",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -126,11 +130,12 @@
       "B0GXC9SDV9": {
         "key": "B0GXC9SDV9",
         "title": "Magic: The Gathering Reality Fracture Commander Deck - Multiverse Reforged | 100-Card Deck + Accessories",
-        "price": "$49.99",
+        "price": "$92.95",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -142,6 +147,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9W89R",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -175,6 +181,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H2D3JF",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -208,6 +215,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H1XTK6",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -263,6 +271,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBW828",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -274,6 +283,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCH6X4K",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -291,11 +301,12 @@
       "B0GXC5T8LG": {
         "key": "B0GXC5T8LG",
         "title": "Magic: The Gathering Foundations Commander Deck - Calling All Angels | 100-Card Deck + Accessories",
-        "price": "$29.99",
+        "price": "$34.45",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC5T8LG",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -329,6 +340,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -351,6 +363,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G867CCWN",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -384,6 +397,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -412,7 +426,7 @@
       "B0GF44KXT4": {
         "key": "B0GF44KXT4",
         "title": "Magic: The Gathering | Marvel Super Heroes Collector’s Edition Commander Deck Bundle - Includes All 4 Surge Foil Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
-        "price": "$581.94",
+        "price": "$581.92",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF44KXT4",
@@ -513,7 +527,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven - Draft Night (1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Token Cards)",
         "price": "$89.97",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 4 left in stock",
         "url": "https://www.amazon.com/dp/B0G86Z91GX",
         "tabs": [
           "new_releases"
@@ -535,7 +549,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven Collector Booster (1 Pack of 15 Cards)",
         "price": "$47.00",
         "available": true,
-        "lowStockNote": "Only 15 left in stock",
+        "lowStockNote": "Only 14 left in stock",
         "url": "https://www.amazon.com/dp/B0G87BJ9F3",
         "tabs": [
           "new_releases"
