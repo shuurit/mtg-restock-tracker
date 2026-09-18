@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-18T13:17:43.160Z",
+  "lastChecked": "2026-09-18T14:17:55.840Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -93,7 +93,7 @@
       "B0GXCHBRTC": {
         "key": "B0GXCHBRTC",
         "title": "Magic: The Gathering Reality Fracture Play Booster Box | 30 Packs",
-        "price": "$214.99",
+        "price": "$199.45",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCHBRTC",
@@ -258,7 +258,7 @@
       "B0GXCBW828": {
         "key": "B0GXCBW828",
         "title": "Magic: The Gathering Foundations Commander Deck Bundle - All 5 Decks (Calling All Angels, Keen Engineering, Wretched Ranks, Reign of Dragons, Tramplesaurus Rex)",
-        "price": "$149.84",
+        "price": "$149.81",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBW828",
@@ -291,7 +291,7 @@
       "B0GXC5T8LG": {
         "key": "B0GXC5T8LG",
         "title": "Magic: The Gathering Foundations Commander Deck - Calling All Angels | 100-Card Deck + Accessories",
-        "price": "$29.99",
+        "price": "$34.45",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC5T8LG",
@@ -390,7 +390,7 @@
       "B0G87RDQPV": {
         "key": "B0G87RDQPV",
         "title": "Magic: The Gathering | Marvel Super Heroes - Bundle: Gift Edition (Deluxe Bundle with 1 Collector Booster, 9 Play Boosters, 30 Lands, 1 Alt-Art Card + Exclusive Accessories)",
-        "price": "$79.92",
+        "price": "$79.89",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87RDQPV",
@@ -412,7 +412,7 @@
       "B0GF44KXT4": {
         "key": "B0GF44KXT4",
         "title": "Magic: The Gathering | Marvel Super Heroes Collector’s Edition Commander Deck Bundle - Includes All 4 Surge Foil Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
-        "price": "$582.02",
+        "price": "$581.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF44KXT4",
@@ -445,7 +445,7 @@
       "B0G87FZZQQ": {
         "key": "B0G87FZZQQ",
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Wakanda Forever (100-Card Deck + Accessories)",
-        "price": "$52.65",
+        "price": "$44.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87FZZQQ",
@@ -535,7 +535,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven Collector Booster (1 Pack of 15 Cards)",
         "price": "$47.00",
         "available": true,
-        "lowStockNote": "Only 17 left in stock",
+        "lowStockNote": "Only 16 left in stock",
         "url": "https://www.amazon.com/dp/B0G87BJ9F3",
         "tabs": [
           "new_releases"
@@ -546,7 +546,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven - Bundle (9 Play Boosters, 30 Lands, 1 Alt-Art Card + Exclusive Accessories)",
         "price": "$49.99",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G866V9ZF",
         "tabs": [
           "new_releases"
@@ -720,7 +720,7 @@
       "B0FR717633": {
         "key": "B0FR717633",
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Commander Deck - Turtle Power! | Collectible Trading Card Game",
-        "price": "$80.87",
+        "price": "$80.86",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0FR717633",
@@ -1070,7 +1070,7 @@
         "key": "6648351",
         "title": "Wizards of The Coast - Magic: The Gathering Lorwyn Eclipsed Commander Deck - Blight Curse",
         "price": "$19.99",
-        "available": true,
+        "available": false,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-lorwyn-eclipsed-commander-deck-blight-curse/JJ8VP7K9P7/sku/6648351"
       },
       "6649557": {
@@ -1406,7 +1406,7 @@
         "key": "6678185",
         "title": "Wizards of The Coast - Magic: The Gathering Reality Fracture - Draft Night",
         "price": "$99.99",
-        "available": false,
+        "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-reality-fracture-draft-night/JJ8VP7ZR62/sku/6678185"
       },
       "6678190": {
@@ -1441,7 +1441,7 @@
         "key": "6678304",
         "title": "Wizards of The Coast - Magic: The Gathering Reality Fracture - Commander Deck",
         "price": "$49.99",
-        "available": false,
+        "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-reality-fracture-commander-deck/JJ8VP7ZRQ5/sku/6678304"
       },
       "6686924": {
@@ -1556,26 +1556,6 @@
           "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-teenage-mutant-ninja-turtles-draft-night/JJ8VP7WZLQ/sku/6649560"
         },
         "firstSeenAt": 1789733885588
-      },
-      "6678185": {
-        "item": {
-          "key": "6678185",
-          "title": "Wizards of The Coast - Magic: The Gathering Reality Fracture - Draft Night",
-          "price": "$99.99",
-          "available": true,
-          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-reality-fracture-draft-night/JJ8VP7ZR62/sku/6678185"
-        },
-        "firstSeenAt": 1789737463160
-      },
-      "6678304": {
-        "item": {
-          "key": "6678304",
-          "title": "Wizards of The Coast - Magic: The Gathering Reality Fracture - Commander Deck",
-          "price": "$49.99",
-          "available": true,
-          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-reality-fracture-commander-deck/JJ8VP7ZRQ5/sku/6678304"
-        },
-        "firstSeenAt": 1789737463160
       }
     }
   }
