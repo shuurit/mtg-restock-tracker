@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-18T04:17:16.882Z",
+  "lastChecked": "2026-09-18T05:17:09.250Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -86,7 +86,7 @@
         "title": "Magic: The Gathering | The Hobbit Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens | Collectible Trading Card Game",
         "price": "$139.99",
         "available": true,
-        "lowStockNote": "Only 16 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS582CC",
         "tabs": [
           "home",
@@ -96,7 +96,7 @@
       "B0GXCHBRTC": {
         "key": "B0GXCHBRTC",
         "title": "Magic: The Gathering Reality Fracture Play Booster Box | 30 Packs",
-        "price": "$219.95",
+        "price": "$159.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCHBRTC",
@@ -130,8 +130,8 @@
       "B0GXC9SDV9": {
         "key": "B0GXC9SDV9",
         "title": "Magic: The Gathering Reality Fracture Commander Deck - Multiverse Reforged | 100-Card Deck + Accessories",
-        "price": "$89.99",
-        "available": true,
+        "price": null,
+        "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
         "tabs": [
@@ -406,7 +406,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes - Bundle: Gift Edition (Deluxe Bundle with 1 Collector Booster, 9 Play Boosters, 30 Lands, 1 Alt-Art Card + Exclusive Accessories)",
         "price": "$79.94",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87RDQPV",
         "tabs": [
           "new_releases"
@@ -470,7 +470,7 @@
       "B0G87CH7TH": {
         "key": "B0G87CH7TH",
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - The Fantastic Four (100-Card Deck + Accessories)",
-        "price": "$52.95",
+        "price": "$52.38",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CH7TH",
@@ -536,9 +536,9 @@
       "B0GFDD1RLS": {
         "key": "B0GFDD1RLS",
         "title": "Magic: The Gathering Secrets of Strixhaven - Collector Booster Box (12 Packs)",
-        "price": "$600.00",
+        "price": "$599.00",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GFDD1RLS",
         "tabs": [
           "new_releases"
@@ -725,7 +725,7 @@
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Collector Booster Single Pack (1 Pack) | Collectible Trading Card Game",
         "price": "$47.00",
         "available": true,
-        "lowStockNote": "Only 2 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0FR6HPWJB",
         "tabs": [
           "new_releases"
@@ -1406,7 +1406,7 @@
         "key": "6678185",
         "title": "Wizards of The Coast - Magic: The Gathering Reality Fracture - Draft Night",
         "price": "$99.99",
-        "available": false,
+        "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-reality-fracture-draft-night/JJ8VP7ZR62/sku/6678185"
       },
       "6678190": {
@@ -1441,7 +1441,7 @@
         "key": "6678304",
         "title": "Wizards of The Coast - Magic: The Gathering Reality Fracture - Commander Deck",
         "price": "$49.99",
-        "available": false,
+        "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-reality-fracture-commander-deck/JJ8VP7ZRQ5/sku/6678304"
       },
       "6686924": {
@@ -1546,26 +1546,6 @@
           "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-foundations-play-booster-sleeve/JJ8VP7QKLX/sku/6633401"
         },
         "firstSeenAt": 1789701421930
-      },
-      "6678185": {
-        "item": {
-          "key": "6678185",
-          "title": "Wizards of The Coast - Magic: The Gathering Reality Fracture - Draft Night",
-          "price": "$99.99",
-          "available": true,
-          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-reality-fracture-draft-night/JJ8VP7ZR62/sku/6678185"
-        },
-        "firstSeenAt": 1789705036883
-      },
-      "6678304": {
-        "item": {
-          "key": "6678304",
-          "title": "Wizards of The Coast - Magic: The Gathering Reality Fracture - Commander Deck",
-          "price": "$49.99",
-          "available": true,
-          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-reality-fracture-commander-deck/JJ8VP7ZRQ5/sku/6678304"
-        },
-        "firstSeenAt": 1789705036883
       }
     }
   }
