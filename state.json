@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-19T20:17:32.723Z",
+  "lastChecked": "2026-09-19T21:17:33.428Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -378,7 +378,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Collector Booster | 1 Pack of 15 Cards | Collectible Trading Card Game",
         "price": "$48.90",
         "available": true,
-        "lowStockNote": "Only 14 left in stock",
+        "lowStockNote": "Only 15 left in stock",
         "url": "https://www.amazon.com/dp/B0G8836V29",
         "tabs": [
           "new_releases"
@@ -519,9 +519,9 @@
       "B0G86Z91GX": {
         "key": "B0G86Z91GX",
         "title": "Magic: The Gathering Secrets of Strixhaven - Draft Night (1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Token Cards)",
-        "price": "$89.97",
+        "price": "$89.87",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0G86Z91GX",
         "tabs": [
           "new_releases"
@@ -543,7 +543,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven Collector Booster (1 Pack of 15 Cards)",
         "price": "$47.00",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 2 left in stock",
         "url": "https://www.amazon.com/dp/B0G87BJ9F3",
         "tabs": [
           "new_releases"
@@ -728,7 +728,7 @@
       "B0FR717633": {
         "key": "B0FR717633",
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Commander Deck - Turtle Power! | Collectible Trading Card Game",
-        "price": "$80.66",
+        "price": "$80.64",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0FR717633",
