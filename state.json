@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-21T23:17:30.832Z",
+  "lastChecked": "2026-09-22T00:19:06.115Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -807,6 +807,13 @@
         "available": false,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-modern-horizons-3-commander-deck-tricky-terrain/JJ8VP7QGP3/sku/6577596"
       },
+      "6582056": {
+        "key": "6582056",
+        "title": "Wizards of The Coast - Magic: The Gathering Bloomburrow Starter Kit",
+        "price": "$19.99",
+        "available": false,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-bloomburrow-starter-kit/JJ8VP7QSK5/sku/6582056"
+      },
       "6588322": {
         "key": "6588322",
         "title": "Wizards of The Coast - Magic: The Gathering Duskmourn: House of Horror Bundle",
@@ -925,6 +932,13 @@
         "price": "$47.99",
         "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-edge-of-eternities-commander-deck-counter-intelligence/JJ8VP7TYSG/sku/6620417"
+      },
+      "6620419": {
+        "key": "6620419",
+        "title": "Wizards of The Coast - Magic: The Gathering Edge of Eternities Bundle",
+        "price": "$57.99",
+        "available": false,
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-edge-of-eternities-bundle/JJ8VP7TLGQ/sku/6620419"
       },
       "6620423": {
         "key": "6620423",
