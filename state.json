@@ -1,11 +1,11 @@
 {
-  "lastChecked": "2026-09-23T20:17:36.227Z",
+  "lastChecked": "2026-09-23T21:17:52.819Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
         "key": "B0GXCBJG9L",
         "title": "Magic: The Gathering | The Hobbit Play Booster Box | 30 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-        "price": "$189.99",
+        "price": "$188.99",
         "available": true,
         "lowStockNote": "Only 2 left in stock",
         "url": "https://www.amazon.com/dp/B0GXCBJG9L",
@@ -27,7 +27,7 @@
       "B0GWS9J9VT": {
         "key": "B0GWS9J9VT",
         "title": "Magic: The Gathering | The Hobbit Collector Booster | 1 Pack (15 Cards) | Collectible Trading Card Game",
-        "price": "$84.49",
+        "price": "$84.46",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS9J9VT",
@@ -137,7 +137,7 @@
       "B0GXC9W89R": {
         "key": "B0GXC9W89R",
         "title": "Magic: The Gathering Reality Fracture Bundle | Includes 9 Play Boosters, 30 Lands, 1 Foil Alt-Art Promo Card + Exclusive Accessories",
-        "price": "$72.99",
+        "price": "$57.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9W89R",
@@ -148,7 +148,7 @@
       "B0GXCKVJ6W": {
         "key": "B0GXCKVJ6W",
         "title": "Magic: The Gathering Reality Fracture Secret Lair Bundle",
-        "price": "$199.95",
+        "price": "$199.00",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCKVJ6W",
@@ -214,7 +214,7 @@
       "B0H6H8KS14": {
         "key": "B0H6H8KS14",
         "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
-        "price": null,
+        "price": "$99.99",
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H8KS14",
@@ -403,7 +403,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Jumpstart Booster Box | 24 Packs | 2-Player Card Game",
         "price": "$119.99",
         "available": true,
-        "lowStockNote": "Only 8 left in stock",
+        "lowStockNote": "Only 2 left in stock",
         "url": "https://www.amazon.com/dp/B0GF4M5P4C",
         "tabs": [
           "new_releases"
@@ -412,7 +412,7 @@
       "B0GF44KXT4": {
         "key": "B0GF44KXT4",
         "title": "Magic: The Gathering | Marvel Super Heroes Collector’s Edition Commander Deck Bundle - Includes All 4 Surge Foil Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
-        "price": "$574.87",
+        "price": "$574.85",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF44KXT4",
@@ -524,7 +524,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven - Collector Booster Box (12 Packs)",
         "price": "$599.00",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 2 left in stock",
         "url": "https://www.amazon.com/dp/B0GFDD1RLS",
         "tabs": [
           "new_releases"
@@ -557,7 +557,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven - Codex Bundle (2 Collector Boosters, 6 Play Boosters, 2 Foil Promo Cards, 20 Foil Lands, 1 Spindown)",
         "price": "$179.89",
         "available": true,
-        "lowStockNote": "Only 8 left in stock",
+        "lowStockNote": "Only 7 left in stock",
         "url": "https://www.amazon.com/dp/B0G87VXM5G",
         "tabs": [
           "new_releases"
@@ -740,7 +740,22 @@
         ]
       }
     },
-    "pendingRestock": {}
+    "pendingRestock": {
+      "B0H6H8KS14": {
+        "item": {
+          "key": "B0H6H8KS14",
+          "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
+          "price": "$99.99",
+          "available": true,
+          "lowStockNote": null,
+          "url": "https://www.amazon.com/dp/B0H6H8KS14",
+          "tabs": [
+            "preorder"
+          ]
+        },
+        "firstSeenAt": 1790198272819
+      }
+    }
   },
   "bestbuy": {
     "items": {
