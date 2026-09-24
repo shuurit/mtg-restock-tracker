@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-24T03:18:44.410Z",
+  "lastChecked": "2026-09-24T04:17:39.360Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -27,7 +27,7 @@
       "B0GWS9J9VT": {
         "key": "B0GWS9J9VT",
         "title": "Magic: The Gathering | The Hobbit Collector Booster | 1 Pack (15 Cards) | Collectible Trading Card Game",
-        "price": "$84.32",
+        "price": "$84.29",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS9J9VT",
@@ -126,7 +126,7 @@
       "B0GXC9SDV9": {
         "key": "B0GXC9SDV9",
         "title": "Magic: The Gathering Reality Fracture Commander Deck - Multiverse Reforged | 100-Card Deck + Accessories",
-        "price": "$79.93",
+        "price": "$64.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
@@ -324,9 +324,9 @@
       "B0GF4MXFPC": {
         "key": "B0GF4MXFPC",
         "title": "Magic: The Gathering | Marvel Super Heroes Play Booster Box | 30 Packs | Collectible Trading Card Game",
-        "price": "$147.95",
+        "price": "$124.98",
         "available": true,
-        "lowStockNote": "Only 3 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
         "tabs": [
           "new_releases"
@@ -412,7 +412,7 @@
       "B0GF44KXT4": {
         "key": "B0GF44KXT4",
         "title": "Magic: The Gathering | Marvel Super Heroes Collector’s Edition Commander Deck Bundle - Includes All 4 Surge Foil Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
-        "price": "$574.71",
+        "price": "$574.69",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF44KXT4",
@@ -566,7 +566,7 @@
       "B0GFDRW65Q": {
         "key": "B0GFDRW65Q",
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck Bundle - Includes All 5 Decks (Silverquill Influence, Prismari Artistry, Witherbloom Pestilence, Lorehold Spirit, Quandrix Unlimited)",
-        "price": "$213.34",
+        "price": "$211.92",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GFDRW65Q",
