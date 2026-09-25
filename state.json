@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-25T00:17:48.811Z",
+  "lastChecked": "2026-09-25T01:17:57.815Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -84,7 +84,7 @@
         "title": "Magic: The Gathering | The Hobbit Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens | Collectible Trading Card Game",
         "price": "$139.99",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": "Only 2 left in stock",
         "url": "https://www.amazon.com/dp/B0GWS582CC",
         "tabs": [
           "new_releases"
@@ -412,7 +412,7 @@
       "B0GF44KXT4": {
         "key": "B0GF44KXT4",
         "title": "Magic: The Gathering | Marvel Super Heroes Collector’s Edition Commander Deck Bundle - Includes All 4 Surge Foil Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
-        "price": "$569.76",
+        "price": "$569.74",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF44KXT4",
@@ -566,7 +566,7 @@
       "B0GFDRW65Q": {
         "key": "B0GFDRW65Q",
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck Bundle - Includes All 5 Decks (Silverquill Influence, Prismari Artistry, Witherbloom Pestilence, Lorehold Spirit, Quandrix Unlimited)",
-        "price": "$211.92",
+        "price": "$214.80",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GFDRW65Q",
@@ -577,9 +577,9 @@
       "B0G8742ZNG": {
         "key": "B0G8742ZNG",
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Silverquill Influence (100-Card Deck, Deck Box + Accessories)",
-        "price": "$84.95",
+        "price": "$59.99",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0G8742ZNG",
         "tabs": [
           "new_releases"
@@ -588,7 +588,7 @@
       "B0G87JBK84": {
         "key": "B0G87JBK84",
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Prismari Artistry (100-Card Deck, Deck Box + Accessories)",
-        "price": "$44.13",
+        "price": "$44.01",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87JBK84",
@@ -601,7 +601,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Witherbloom Pestilence (100-Card Deck, Deck Box + Accessories)",
         "price": "$54.99",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0G86Z17Y8",
         "tabs": [
           "new_releases"
@@ -610,7 +610,7 @@
       "B0G887STC9": {
         "key": "B0G887STC9",
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Lorehold Spirit (100-Card Deck, Deck Box + Accessories)",
-        "price": "$44.86",
+        "price": "$44.92",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G887STC9",
@@ -720,7 +720,7 @@
       "B0FR717633": {
         "key": "B0FR717633",
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Commander Deck - Turtle Power! | Collectible Trading Card Game",
-        "price": "$82.95",
+        "price": "$74.45",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0FR717633",
