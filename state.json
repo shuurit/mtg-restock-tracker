@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-27T14:17:19.698Z",
+  "lastChecked": "2026-09-27T15:18:06.298Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -84,7 +84,7 @@
         "title": "Magic: The Gathering | The Hobbit Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens | Collectible Trading Card Game",
         "price": "$139.95",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0GWS582CC",
         "tabs": [
           "new_releases"
@@ -337,7 +337,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Beginner Box | 2-Player Card Game | Includes 2 Tutorial Decks, 8 Themed Half-Decks, 2 Playboards, 2 Spindowns, and More",
         "price": "$26.97",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 20 left in stock",
         "url": "https://www.amazon.com/dp/B0G87JWX8L",
         "tabs": [
           "new_releases"
@@ -370,7 +370,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Collector Booster | 1 Pack of 15 Cards | Collectible Trading Card Game",
         "price": "$44.99",
         "available": true,
-        "lowStockNote": "Only 12 left in stock",
+        "lowStockNote": "Only 15 left in stock",
         "url": "https://www.amazon.com/dp/B0G8836V29",
         "tabs": [
           "new_releases"
