@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-29T16:17:22.893Z",
+  "lastChecked": "2026-09-29T17:17:13.646Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -10,6 +10,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBJG9L",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -43,6 +44,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -84,20 +86,22 @@
         "title": "Magic: The Gathering | The Hobbit Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens | Collectible Trading Card Game",
         "price": "$139.99",
         "available": true,
-        "lowStockNote": "Only 15 left in stock",
+        "lowStockNote": "Only 11 left in stock",
         "url": "https://www.amazon.com/dp/B0GWS582CC",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
       "B0GXCHBRTC": {
         "key": "B0GXCHBRTC",
         "title": "Magic: The Gathering Reality Fracture Play Booster Box | 30 Packs",
-        "price": "$189.99",
+        "price": "$184.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCHBRTC",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -126,11 +130,12 @@
       "B0GXC9SDV9": {
         "key": "B0GXC9SDV9",
         "title": "Magic: The Gathering Reality Fracture Commander Deck - Multiverse Reforged | 100-Card Deck + Accessories",
-        "price": "$79.43",
+        "price": "$75.88",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -142,6 +147,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9W89R",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -175,6 +181,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H2D3JF",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -192,7 +199,7 @@
       "B0H6H2VXJB": {
         "key": "B0H6H2VXJB",
         "title": "Magic: The Gathering | Star Trek Collector Booster Box",
-        "price": "$455.88",
+        "price": null,
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H2VXJB",
@@ -208,6 +215,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H1XTK6",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -225,7 +233,7 @@
       "B0H6H4PL4G": {
         "key": "B0H6H4PL4G",
         "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
-        "price": null,
+        "price": "$224.97",
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H4PL4G",
@@ -263,6 +271,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBW828",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -274,6 +283,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCH6X4K",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -296,6 +306,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC5T8LG",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -329,6 +340,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -351,6 +363,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G867CCWN",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -384,6 +397,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -412,7 +426,7 @@
       "B0GF44KXT4": {
         "key": "B0GF44KXT4",
         "title": "Magic: The Gathering | Marvel Super Heroes Collector’s Edition Commander Deck Bundle - Includes All 4 Surge Foil Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
-        "price": "$568.24",
+        "price": "$568.22",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF44KXT4",
@@ -511,7 +525,7 @@
       "B0G86Z91GX": {
         "key": "B0G86Z91GX",
         "title": "Magic: The Gathering Secrets of Strixhaven - Draft Night (1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Token Cards)",
-        "price": "$89.94",
+        "price": "$89.92",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G86Z91GX",
@@ -645,7 +659,7 @@
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Turtle Team-Up | Collectible Trading Card Game",
         "price": "$39.99",
         "available": true,
-        "lowStockNote": "Only 6 left in stock",
+        "lowStockNote": "Only 3 left in stock",
         "url": "https://www.amazon.com/dp/B0FR7K693P",
         "tabs": [
           "new_releases"
@@ -741,19 +755,19 @@
       }
     },
     "pendingRestock": {
-      "B0H6H2VXJB": {
+      "B0H6H4PL4G": {
         "item": {
-          "key": "B0H6H2VXJB",
-          "title": "Magic: The Gathering | Star Trek Collector Booster Box",
-          "price": "$455.88",
+          "key": "B0H6H4PL4G",
+          "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
+          "price": "$224.97",
           "available": true,
           "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0H6H2VXJB",
+          "url": "https://www.amazon.com/dp/B0H6H4PL4G",
           "tabs": [
             "preorder"
           ]
         },
-        "firstSeenAt": 1790698642893
+        "firstSeenAt": 1790702233646
       }
     }
   },
