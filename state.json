@@ -1,11 +1,11 @@
 {
-  "lastChecked": "2026-10-02T16:19:08.189Z",
+  "lastChecked": "2026-10-02T17:18:48.043Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
         "key": "B0GXCBJG9L",
         "title": "Magic: The Gathering | The Hobbit Play Booster Box | 30 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-        "price": "$183.86",
+        "price": "$183.85",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBJG9L",
@@ -302,7 +302,7 @@
       "B0GXCBTVG4": {
         "key": "B0GXCBTVG4",
         "title": "Magic: The Gathering Foundations Commander Deck - Reign of Dragons | 100-Card Deck + Accessories",
-        "price": "$52.94",
+        "price": "$53.98",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBTVG4",
@@ -511,7 +511,7 @@
       "B0G86Z91GX": {
         "key": "B0G86Z91GX",
         "title": "Magic: The Gathering Secrets of Strixhaven - Draft Night (1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Token Cards)",
-        "price": "$89.94",
+        "price": "$89.93",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G86Z91GX",
@@ -555,9 +555,9 @@
       "B0G87VXM5G": {
         "key": "B0G87VXM5G",
         "title": "Magic: The Gathering Secrets of Strixhaven - Codex Bundle (2 Collector Boosters, 6 Play Boosters, 2 Foil Promo Cards, 20 Foil Lands, 1 Spindown)",
-        "price": "$159.00",
+        "price": "$160.55",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0G87VXM5G",
         "tabs": [
           "new_releases"
@@ -579,7 +579,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Silverquill Influence (100-Card Deck, Deck Box + Accessories)",
         "price": "$69.94",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G8742ZNG",
         "tabs": [
           "new_releases"
@@ -1171,7 +1171,7 @@
       "6669823": {
         "key": "6669823",
         "title": "Wizards of The Coast - Magic: The Gathering Secrets of Strixhaven Play Booster Box (30 Packs)",
-        "price": "$142.99",
+        "price": "$149.99",
         "available": false,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-secrets-of-strixhaven-play-booster-box-30-packs/JJ8VP7K8WP/sku/6669823"
       },
