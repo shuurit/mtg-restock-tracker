@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-02T22:19:19.281Z",
+  "lastChecked": "2026-10-02T23:19:22.135Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -104,7 +104,7 @@
       "B0GXC667JV": {
         "key": "B0GXC667JV",
         "title": "Magic: The Gathering Reality Fracture Collector Booster Box | 12 Packs",
-        "price": "$522.93",
+        "price": "$522.92",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC667JV",
@@ -313,7 +313,7 @@
       "B0GXC8T76T": {
         "key": "B0GXC8T76T",
         "title": "Magic: The Gathering Foundations Commander Deck - Tramplesaurus Rex | 100-Card Deck + Accessories",
-        "price": "$59.99",
+        "price": null,
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC8T76T",
@@ -370,7 +370,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Collector Booster | 1 Pack of 15 Cards | Collectible Trading Card Game",
         "price": "$44.99",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G8836V29",
         "tabs": [
           "new_releases"
@@ -381,7 +381,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Bundle | Includes 9 Play Boosters, 30 Lands, 1 Foil Alt-Art Promo Card + Exclusive Accessories | Collectible Trading Card Game",
         "price": "$51.39",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
         "tabs": [
           "new_releases"
@@ -511,7 +511,7 @@
       "B0G86Z91GX": {
         "key": "B0G86Z91GX",
         "title": "Magic: The Gathering Secrets of Strixhaven - Draft Night (1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Token Cards)",
-        "price": "$89.94",
+        "price": "$89.93",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G86Z91GX",
@@ -579,7 +579,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Silverquill Influence (100-Card Deck, Deck Box + Accessories)",
         "price": "$69.94",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G8742ZNG",
         "tabs": [
           "new_releases"
@@ -751,22 +751,7 @@
         ]
       }
     },
-    "pendingRestock": {
-      "B0GXC8T76T": {
-        "item": {
-          "key": "B0GXC8T76T",
-          "title": "Magic: The Gathering Foundations Commander Deck - Tramplesaurus Rex | 100-Card Deck + Accessories",
-          "price": "$59.99",
-          "available": true,
-          "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0GXC8T76T",
-          "tabs": [
-            "new_releases"
-          ]
-        },
-        "firstSeenAt": 1790979559281
-      }
-    }
+    "pendingRestock": {}
   },
   "bestbuy": {
     "items": {
