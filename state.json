@@ -1,15 +1,16 @@
 {
-  "lastChecked": "2026-10-03T13:19:36.089Z",
+  "lastChecked": "2026-10-03T14:19:12.779Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
         "key": "B0GXCBJG9L",
         "title": "Magic: The Gathering | The Hobbit Play Booster Box | 30 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-        "price": "$183.85",
+        "price": "$183.87",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBJG9L",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -43,6 +44,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -84,9 +86,10 @@
         "title": "Magic: The Gathering | The Hobbit Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens | Collectible Trading Card Game",
         "price": "$139.94",
         "available": true,
-        "lowStockNote": "Only 4 left in stock",
+        "lowStockNote": "Only 2 left in stock",
         "url": "https://www.amazon.com/dp/B0GWS582CC",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -98,6 +101,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCHBRTC",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -115,7 +119,7 @@
       "B0GXCC47X5": {
         "key": "B0GXCC47X5",
         "title": "Magic: The Gathering Reality Fracture Collector Booster | 1 Pack (15 Cards)",
-        "price": "$57.88",
+        "price": "$57.80",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCC47X5",
@@ -131,6 +135,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -142,6 +147,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9W89R",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -175,6 +181,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H2D3JF",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -208,14 +215,15 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H1XTK6",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
       "B0H6H8KS14": {
         "key": "B0H6H8KS14",
         "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
-        "price": "$159.99",
-        "available": true,
+        "price": null,
+        "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H8KS14",
         "tabs": [
@@ -225,7 +233,7 @@
       "B0H6H4PL4G": {
         "key": "B0H6H4PL4G",
         "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
-        "price": "$224.97",
+        "price": null,
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H4PL4G",
@@ -263,6 +271,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBW828",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -274,6 +283,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCH6X4K",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -296,6 +306,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC5T8LG",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -329,15 +340,16 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
       "B0G87JWX8L": {
         "key": "B0G87JWX8L",
         "title": "Magic: The Gathering | Marvel Super Heroes Beginner Box | 2-Player Card Game | Includes 2 Tutorial Decks, 8 Themed Half-Decks, 2 Playboards, 2 Spindowns, and More",
-        "price": "$28.95",
+        "price": "$26.99",
         "available": true,
-        "lowStockNote": "Only 15 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87JWX8L",
         "tabs": [
           "new_releases"
@@ -351,6 +363,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G867CCWN",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -379,11 +392,12 @@
       "B0G87CB5VB": {
         "key": "B0G87CB5VB",
         "title": "Magic: The Gathering | Marvel Super Heroes Bundle | Includes 9 Play Boosters, 30 Lands, 1 Foil Alt-Art Promo Card + Exclusive Accessories | Collectible Trading Card Game",
-        "price": "$51.39",
+        "price": "$51.13",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -513,7 +527,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven - Draft Night (1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Token Cards)",
         "price": "$89.94",
         "available": true,
-        "lowStockNote": "Only 17 left in stock",
+        "lowStockNote": "Only 18 left in stock",
         "url": "https://www.amazon.com/dp/B0G86Z91GX",
         "tabs": [
           "new_releases"
@@ -566,7 +580,7 @@
       "B0GFDRW65Q": {
         "key": "B0GFDRW65Q",
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck Bundle - Includes All 5 Decks (Silverquill Influence, Prismari Artistry, Witherbloom Pestilence, Lorehold Spirit, Quandrix Unlimited)",
-        "price": "$216.22",
+        "price": "$224.95",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GFDRW65Q",
@@ -751,22 +765,7 @@
         ]
       }
     },
-    "pendingRestock": {
-      "B0H6H4PL4G": {
-        "item": {
-          "key": "B0H6H4PL4G",
-          "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
-          "price": "$224.97",
-          "available": true,
-          "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0H6H4PL4G",
-          "tabs": [
-            "preorder"
-          ]
-        },
-        "firstSeenAt": 1791029947618
-      }
-    }
+    "pendingRestock": {}
   },
   "bestbuy": {
     "items": {
