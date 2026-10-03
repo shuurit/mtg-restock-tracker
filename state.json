@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-03T11:18:59.688Z",
+  "lastChecked": "2026-10-03T12:19:07.617Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -49,7 +49,7 @@
       "B0GWS8DC8C": {
         "key": "B0GWS8DC8C",
         "title": "Magic: The Gathering | The Hobbit Gift Bundle | Collectible Trading Card Game",
-        "price": "$109.86",
+        "price": "$119.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS8DC8C",
@@ -84,7 +84,7 @@
         "title": "Magic: The Gathering | The Hobbit Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens | Collectible Trading Card Game",
         "price": "$139.94",
         "available": true,
-        "lowStockNote": "Only 3 left in stock",
+        "lowStockNote": "Only 4 left in stock",
         "url": "https://www.amazon.com/dp/B0GWS582CC",
         "tabs": [
           "new_releases"
@@ -215,7 +215,7 @@
         "key": "B0H6H8KS14",
         "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
         "price": "$159.99",
-        "available": false,
+        "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H8KS14",
         "tabs": [
@@ -225,7 +225,7 @@
       "B0H6H4PL4G": {
         "key": "B0H6H4PL4G",
         "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
-        "price": null,
+        "price": "$224.97",
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H4PL4G",
@@ -335,9 +335,9 @@
       "B0G87JWX8L": {
         "key": "B0G87JWX8L",
         "title": "Magic: The Gathering | Marvel Super Heroes Beginner Box | 2-Player Card Game | Includes 2 Tutorial Decks, 8 Themed Half-Decks, 2 Playboards, 2 Spindowns, and More",
-        "price": "$26.99",
+        "price": "$28.95",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 15 left in stock",
         "url": "https://www.amazon.com/dp/B0G87JWX8L",
         "tabs": [
           "new_releases"
@@ -513,7 +513,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven - Draft Night (1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Token Cards)",
         "price": "$89.94",
         "available": true,
-        "lowStockNote": "Only 20 left in stock",
+        "lowStockNote": "Only 17 left in stock",
         "url": "https://www.amazon.com/dp/B0G86Z91GX",
         "tabs": [
           "new_releases"
@@ -546,7 +546,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven - Bundle (9 Play Boosters, 30 Lands, 1 Alt-Art Card + Exclusive Accessories)",
         "price": "$49.99",
         "available": true,
-        "lowStockNote": "Only 18 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G866V9ZF",
         "tabs": [
           "new_releases"
@@ -579,7 +579,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Silverquill Influence (100-Card Deck, Deck Box + Accessories)",
         "price": "$69.94",
         "available": true,
-        "lowStockNote": "Only 18 left in stock",
+        "lowStockNote": "Only 17 left in stock",
         "url": "https://www.amazon.com/dp/B0G8742ZNG",
         "tabs": [
           "new_releases"
@@ -752,19 +752,19 @@
       }
     },
     "pendingRestock": {
-      "B0H6H8KS14": {
+      "B0H6H4PL4G": {
         "item": {
-          "key": "B0H6H8KS14",
-          "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
-          "price": "$159.99",
+          "key": "B0H6H4PL4G",
+          "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
+          "price": "$224.97",
           "available": true,
           "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0H6H8KS14",
+          "url": "https://www.amazon.com/dp/B0H6H4PL4G",
           "tabs": [
             "preorder"
           ]
         },
-        "firstSeenAt": 1791026339688
+        "firstSeenAt": 1791029947618
       }
     }
   },
