@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-03T10:19:01.007Z",
+  "lastChecked": "2026-10-03T11:18:59.688Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -214,7 +214,7 @@
       "B0H6H8KS14": {
         "key": "B0H6H8KS14",
         "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
-        "price": null,
+        "price": "$159.99",
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H8KS14",
@@ -513,7 +513,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven - Draft Night (1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Token Cards)",
         "price": "$89.94",
         "available": true,
-        "lowStockNote": "Only 19 left in stock",
+        "lowStockNote": "Only 20 left in stock",
         "url": "https://www.amazon.com/dp/B0G86Z91GX",
         "tabs": [
           "new_releases"
@@ -546,7 +546,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven - Bundle (9 Play Boosters, 30 Lands, 1 Alt-Art Card + Exclusive Accessories)",
         "price": "$49.99",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 18 left in stock",
         "url": "https://www.amazon.com/dp/B0G866V9ZF",
         "tabs": [
           "new_releases"
@@ -579,7 +579,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Silverquill Influence (100-Card Deck, Deck Box + Accessories)",
         "price": "$69.94",
         "available": true,
-        "lowStockNote": "Only 17 left in stock",
+        "lowStockNote": "Only 18 left in stock",
         "url": "https://www.amazon.com/dp/B0G8742ZNG",
         "tabs": [
           "new_releases"
@@ -751,7 +751,22 @@
         ]
       }
     },
-    "pendingRestock": {}
+    "pendingRestock": {
+      "B0H6H8KS14": {
+        "item": {
+          "key": "B0H6H8KS14",
+          "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
+          "price": "$159.99",
+          "available": true,
+          "lowStockNote": null,
+          "url": "https://www.amazon.com/dp/B0H6H8KS14",
+          "tabs": [
+            "preorder"
+          ]
+        },
+        "firstSeenAt": 1791026339688
+      }
+    }
   },
   "bestbuy": {
     "items": {
