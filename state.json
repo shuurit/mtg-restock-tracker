@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-05T14:19:16.373Z",
+  "lastChecked": "2026-10-05T15:19:04.262Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -10,6 +10,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBJG9L",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -43,6 +44,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -87,6 +89,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS582CC",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -98,6 +101,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCHBRTC",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -131,6 +135,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -142,6 +147,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9W89R",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -175,6 +181,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H2D3JF",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -208,14 +215,15 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H1XTK6",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
       "B0H6H8KS14": {
         "key": "B0H6H8KS14",
         "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
-        "price": "$159.99",
-        "available": true,
+        "price": null,
+        "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H8KS14",
         "tabs": [
@@ -263,6 +271,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBW828",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -274,13 +283,14 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCH6X4K",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
       "B0GXCKJ5JH": {
         "key": "B0GXCKJ5JH",
         "title": "Magic: The Gathering Foundations Commander Deck - Wretched Ranks | 100-Card Deck + Accessories",
-        "price": "$59.00",
+        "price": "$49.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCKJ5JH",
@@ -296,6 +306,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC5T8LG",
         "tabs": [
+          "home",
           "preorder"
         ]
       },
@@ -329,6 +340,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
         "tabs": [
+          "home",
           "new_releases"
         ]
       },
@@ -351,7 +363,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G867CCWN",
         "tabs": [
-          "new_releases"
+          "home"
         ]
       },
       "B0GF44F4MG": {
@@ -384,7 +396,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
         "tabs": [
-          "new_releases"
+          "home"
         ]
       },
       "B0G87RDQPV": {
@@ -643,9 +655,9 @@
       "B0FR7K693P": {
         "key": "B0FR7K693P",
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Turtle Team-Up | Collectible Trading Card Game",
-        "price": "$33.99",
+        "price": "$39.99",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 20 left in stock",
         "url": "https://www.amazon.com/dp/B0FR7K693P",
         "tabs": [
           "new_releases"
@@ -665,7 +677,7 @@
       "B0FR7JTZT5": {
         "key": "B0FR7JTZT5",
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Draft Night | Collectible Trading Card Game",
-        "price": "$86.05",
+        "price": "$89.97",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0FR7JTZT5",
