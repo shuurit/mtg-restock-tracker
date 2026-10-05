@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-05T04:19:07.112Z",
+  "lastChecked": "2026-10-05T05:19:08.033Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -84,7 +84,7 @@
         "title": "Magic: The Gathering | The Hobbit Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens | Collectible Trading Card Game",
         "price": "$139.94",
         "available": true,
-        "lowStockNote": "Only 16 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS582CC",
         "tabs": [
           "new_releases"
@@ -98,7 +98,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCHBRTC",
         "tabs": [
-          "new_releases"
+          "preorder"
         ]
       },
       "B0GXC667JV": {
@@ -109,7 +109,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC667JV",
         "tabs": [
-          "new_releases"
+          "preorder"
         ]
       },
       "B0GXCC47X5": {
@@ -120,7 +120,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCC47X5",
         "tabs": [
-          "new_releases"
+          "preorder"
         ]
       },
       "B0GXC9SDV9": {
@@ -131,7 +131,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
         "tabs": [
-          "new_releases"
+          "preorder"
         ]
       },
       "B0GXC9W89R": {
@@ -142,7 +142,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9W89R",
         "tabs": [
-          "new_releases"
+          "preorder"
         ]
       },
       "B0GXCKVJ6W": {
@@ -153,7 +153,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCKVJ6W",
         "tabs": [
-          "new_releases"
+          "preorder"
         ]
       },
       "B0GXC9JFZY": {
@@ -164,7 +164,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9JFZY",
         "tabs": [
-          "new_releases"
+          "preorder"
         ]
       },
       "B0H6H2D3JF": {
@@ -263,7 +263,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBW828",
         "tabs": [
-          "new_releases"
+          "preorder"
         ]
       },
       "B0GXCH6X4K": {
@@ -274,7 +274,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCH6X4K",
         "tabs": [
-          "new_releases"
+          "preorder"
         ]
       },
       "B0GXCKJ5JH": {
@@ -285,7 +285,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCKJ5JH",
         "tabs": [
-          "new_releases"
+          "preorder"
         ]
       },
       "B0GXC5T8LG": {
@@ -296,7 +296,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC5T8LG",
         "tabs": [
-          "new_releases"
+          "preorder"
         ]
       },
       "B0GXCBTVG4": {
@@ -307,7 +307,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBTVG4",
         "tabs": [
-          "new_releases"
+          "preorder"
         ]
       },
       "B0GXC8T76T": {
@@ -318,7 +318,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC8T76T",
         "tabs": [
-          "new_releases"
+          "preorder"
         ]
       },
       "B0GF4MXFPC": {
@@ -379,7 +379,7 @@
       "B0G87CB5VB": {
         "key": "B0G87CB5VB",
         "title": "Magic: The Gathering | Marvel Super Heroes Bundle | Includes 9 Play Boosters, 30 Lands, 1 Foil Alt-Art Promo Card + Exclusive Accessories | Collectible Trading Card Game",
-        "price": "$51.13",
+        "price": "$50.36",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
@@ -511,9 +511,9 @@
       "B0G86Z91GX": {
         "key": "B0G86Z91GX",
         "title": "Magic: The Gathering Secrets of Strixhaven - Draft Night (1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Token Cards)",
-        "price": "$90.64",
+        "price": "$89.94",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0G86Z91GX",
         "tabs": [
           "new_releases"
@@ -522,9 +522,9 @@
       "B0GFDD1RLS": {
         "key": "B0GFDD1RLS",
         "title": "Magic: The Gathering Secrets of Strixhaven - Collector Booster Box (12 Packs)",
-        "price": "$599.00",
+        "price": "$584.62",
         "available": true,
-        "lowStockNote": "Only 17 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GFDD1RLS",
         "tabs": [
           "new_releases"
@@ -643,7 +643,7 @@
       "B0FR7K693P": {
         "key": "B0FR7K693P",
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Turtle Team-Up | Collectible Trading Card Game",
-        "price": "$39.99",
+        "price": "$33.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0FR7K693P",
@@ -709,9 +709,9 @@
       "B0FR6HPWJB": {
         "key": "B0FR6HPWJB",
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Collector Booster Single Pack (1 Pack) | Collectible Trading Card Game",
-        "price": "$46.99",
+        "price": "$47.00",
         "available": true,
-        "lowStockNote": "Only 20 left in stock",
+        "lowStockNote": "Only 2 left in stock",
         "url": "https://www.amazon.com/dp/B0FR6HPWJB",
         "tabs": [
           "new_releases"
@@ -720,7 +720,7 @@
       "B0FR717633": {
         "key": "B0FR717633",
         "title": "Magic: The Gathering | Teenage Mutant Ninja Turtles - Commander Deck - Turtle Power! | Collectible Trading Card Game",
-        "price": "$74.45",
+        "price": "$84.95",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0FR717633",
