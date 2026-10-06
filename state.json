@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-06T19:18:57.034Z",
+  "lastChecked": "2026-10-06T20:18:46.034Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -60,7 +60,7 @@
       "B0GWS4ZRT8": {
         "key": "B0GWS4ZRT8",
         "title": "Magic: The Gathering | The Hobbit Scene Box - Crack the Plates| 6 Foil Borderless Scene Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
-        "price": "$62.61",
+        "price": "$62.60",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS4ZRT8",
@@ -137,7 +137,7 @@
       "B0GXC9W89R": {
         "key": "B0GXC9W89R",
         "title": "Magic: The Gathering Reality Fracture Bundle | Includes 9 Play Boosters, 30 Lands, 1 Foil Alt-Art Promo Card + Exclusive Accessories",
-        "price": "$61.79",
+        "price": "$66.80",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9W89R",
@@ -214,7 +214,7 @@
       "B0H6H8KS14": {
         "key": "B0H6H8KS14",
         "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
-        "price": "$159.99",
+        "price": null,
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H8KS14",
@@ -236,7 +236,7 @@
       "B0H6GPSGC2": {
         "key": "B0H6GPSGC2",
         "title": "Magic: The Gathering | Star Trek Collector's Edition Commander Deck Bundle",
-        "price": "$639.96",
+        "price": null,
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6GPSGC2",
@@ -751,36 +751,7 @@
         ]
       }
     },
-    "pendingRestock": {
-      "B0H6H8KS14": {
-        "item": {
-          "key": "B0H6H8KS14",
-          "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
-          "price": "$159.99",
-          "available": true,
-          "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0H6H8KS14",
-          "tabs": [
-            "preorder"
-          ]
-        },
-        "firstSeenAt": 1791314337034
-      },
-      "B0H6GPSGC2": {
-        "item": {
-          "key": "B0H6GPSGC2",
-          "title": "Magic: The Gathering | Star Trek Collector's Edition Commander Deck Bundle",
-          "price": "$639.96",
-          "available": true,
-          "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0H6GPSGC2",
-          "tabs": [
-            "preorder"
-          ]
-        },
-        "firstSeenAt": 1791314337034
-      }
-    }
+    "pendingRestock": {}
   },
   "bestbuy": {
     "items": {
