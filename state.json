@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-07T06:19:16.324Z",
+  "lastChecked": "2026-10-07T07:18:57.137Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -181,7 +181,7 @@
       "B0H6H4TXPZ": {
         "key": "B0H6H4TXPZ",
         "title": "Magic: The Gathering | Star Trek Collector Booster",
-        "price": "$37.99",
+        "price": null,
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H4TXPZ",
@@ -215,7 +215,7 @@
         "key": "B0H6H8KS14",
         "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
         "price": "$159.99",
-        "available": false,
+        "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H8KS14",
         "tabs": [
@@ -379,7 +379,7 @@
       "B0G87CB5VB": {
         "key": "B0G87CB5VB",
         "title": "Magic: The Gathering | Marvel Super Heroes Bundle | Includes 9 Play Boosters, 30 Lands, 1 Foil Alt-Art Promo Card + Exclusive Accessories | Collectible Trading Card Game",
-        "price": "$53.88",
+        "price": "$54.38",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
@@ -751,36 +751,7 @@
         ]
       }
     },
-    "pendingRestock": {
-      "B0H6H4TXPZ": {
-        "item": {
-          "key": "B0H6H4TXPZ",
-          "title": "Magic: The Gathering | Star Trek Collector Booster",
-          "price": "$37.99",
-          "available": true,
-          "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0H6H4TXPZ",
-          "tabs": [
-            "preorder"
-          ]
-        },
-        "firstSeenAt": 1791353956324
-      },
-      "B0H6H8KS14": {
-        "item": {
-          "key": "B0H6H8KS14",
-          "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
-          "price": "$159.99",
-          "available": true,
-          "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0H6H8KS14",
-          "tabs": [
-            "preorder"
-          ]
-        },
-        "firstSeenAt": 1791353956324
-      }
-    }
+    "pendingRestock": {}
   },
   "bestbuy": {
     "items": {
