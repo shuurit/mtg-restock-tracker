@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-07T05:18:52.373Z",
+  "lastChecked": "2026-10-07T06:19:16.324Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -126,7 +126,7 @@
       "B0GXC9SDV9": {
         "key": "B0GXC9SDV9",
         "title": "Magic: The Gathering Reality Fracture Commander Deck - Multiverse Reforged | 100-Card Deck + Accessories",
-        "price": "$72.94",
+        "price": "$72.93",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
@@ -181,7 +181,7 @@
       "B0H6H4TXPZ": {
         "key": "B0H6H4TXPZ",
         "title": "Magic: The Gathering | Star Trek Collector Booster",
-        "price": null,
+        "price": "$37.99",
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H4TXPZ",
@@ -214,7 +214,7 @@
       "B0H6H8KS14": {
         "key": "B0H6H8KS14",
         "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
-        "price": null,
+        "price": "$159.99",
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H8KS14",
@@ -511,9 +511,9 @@
       "B0G86Z91GX": {
         "key": "B0G86Z91GX",
         "title": "Magic: The Gathering Secrets of Strixhaven - Draft Night (1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Token Cards)",
-        "price": "$90.64",
+        "price": "$89.99",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0G86Z91GX",
         "tabs": [
           "new_releases"
@@ -751,7 +751,36 @@
         ]
       }
     },
-    "pendingRestock": {}
+    "pendingRestock": {
+      "B0H6H4TXPZ": {
+        "item": {
+          "key": "B0H6H4TXPZ",
+          "title": "Magic: The Gathering | Star Trek Collector Booster",
+          "price": "$37.99",
+          "available": true,
+          "lowStockNote": null,
+          "url": "https://www.amazon.com/dp/B0H6H4TXPZ",
+          "tabs": [
+            "preorder"
+          ]
+        },
+        "firstSeenAt": 1791353956324
+      },
+      "B0H6H8KS14": {
+        "item": {
+          "key": "B0H6H8KS14",
+          "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
+          "price": "$159.99",
+          "available": true,
+          "lowStockNote": null,
+          "url": "https://www.amazon.com/dp/B0H6H8KS14",
+          "tabs": [
+            "preorder"
+          ]
+        },
+        "firstSeenAt": 1791353956324
+      }
+    }
   },
   "bestbuy": {
     "items": {
