@@ -1,11 +1,11 @@
 {
-  "lastChecked": "2026-10-08T09:19:24.921Z",
+  "lastChecked": "2026-10-08T10:18:59.100Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
         "key": "B0GXCBJG9L",
         "title": "Magic: The Gathering | The Hobbit Play Booster Box | 30 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-        "price": "$184.44",
+        "price": "$183.87",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBJG9L",
@@ -38,7 +38,7 @@
       "B0GWSB7V4T": {
         "key": "B0GWSB7V4T",
         "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
-        "price": "$74.79",
+        "price": "$58.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
@@ -60,7 +60,7 @@
       "B0GWS4ZRT8": {
         "key": "B0GWS4ZRT8",
         "title": "Magic: The Gathering | The Hobbit Scene Box - Crack the Plates| 6 Foil Borderless Scene Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
-        "price": "$62.71",
+        "price": "$62.70",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS4ZRT8",
@@ -71,7 +71,7 @@
       "B0GWRZF6HC": {
         "key": "B0GWRZF6HC",
         "title": "Magic: The Gathering | The Hobbit Box - Treasures of Smaug | 6 Foil Borderless Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
-        "price": "$78.95",
+        "price": "$78.94",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWRZF6HC",
@@ -258,7 +258,7 @@
       "B0GXCBW828": {
         "key": "B0GXCBW828",
         "title": "Magic: The Gathering Foundations Commander Deck Bundle - All 5 Decks (Calling All Angels, Keen Engineering, Wretched Ranks, Reign of Dragons, Tramplesaurus Rex)",
-        "price": "$269.93",
+        "price": "$214.80",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBW828",
@@ -280,7 +280,7 @@
       "B0GXCKJ5JH": {
         "key": "B0GXCKJ5JH",
         "title": "Magic: The Gathering Foundations Commander Deck - Wretched Ranks | 100-Card Deck + Accessories",
-        "price": "$49.95",
+        "price": "$35.44",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCKJ5JH",
@@ -291,7 +291,7 @@
       "B0GXC5T8LG": {
         "key": "B0GXC5T8LG",
         "title": "Magic: The Gathering Foundations Commander Deck - Calling All Angels | 100-Card Deck + Accessories",
-        "price": "$54.75",
+        "price": "$29.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC5T8LG",
@@ -302,7 +302,7 @@
       "B0GXCBTVG4": {
         "key": "B0GXCBTVG4",
         "title": "Magic: The Gathering Foundations Commander Deck - Reign of Dragons | 100-Card Deck + Accessories",
-        "price": "$53.95",
+        "price": "$35.44",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBTVG4",
@@ -313,7 +313,7 @@
       "B0GXC8T76T": {
         "key": "B0GXC8T76T",
         "title": "Magic: The Gathering Foundations Commander Deck - Tramplesaurus Rex | 100-Card Deck + Accessories",
-        "price": "$60.95",
+        "price": "$60.93",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC8T76T",
@@ -326,7 +326,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Play Booster Box | 30 Packs | Collectible Trading Card Game",
         "price": "$147.94",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 9 left in stock",
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
         "tabs": [
           "new_releases"
@@ -423,7 +423,7 @@
       "B0GF44MVBP": {
         "key": "B0GF44MVBP",
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck Bundle - Includes All 4 Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
-        "price": "$182.99",
+        "price": "$183.94",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF44MVBP",
@@ -511,7 +511,7 @@
       "B0G86Z91GX": {
         "key": "B0G86Z91GX",
         "title": "Magic: The Gathering Secrets of Strixhaven - Draft Night (1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Token Cards)",
-        "price": "$99.95",
+        "price": "$94.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G86Z91GX",
@@ -588,7 +588,7 @@
       "B0G87JBK84": {
         "key": "B0G87JBK84",
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Prismari Artistry (100-Card Deck, Deck Box + Accessories)",
-        "price": "$43.94",
+        "price": "$42.25",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87JBK84",
@@ -610,7 +610,7 @@
       "B0G887STC9": {
         "key": "B0G887STC9",
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Lorehold Spirit (100-Card Deck, Deck Box + Accessories)",
-        "price": "$44.83",
+        "price": "$44.80",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G887STC9",
