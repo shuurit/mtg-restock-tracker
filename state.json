@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-08T14:18:40.279Z",
+  "lastChecked": "2026-10-08T15:18:52.546Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -19,7 +19,7 @@
         "title": "Magic: The Gathering | The Hobbit Collector Booster Box | 12 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
         "price": "$889.00",
         "available": true,
-        "lowStockNote": "Only 4 left in stock",
+        "lowStockNote": "Only 5 left in stock",
         "url": "https://www.amazon.com/dp/B0GXC89N66",
         "tabs": [
           "new_releases"
@@ -130,7 +130,7 @@
       "B0GXC9SDV9": {
         "key": "B0GXC9SDV9",
         "title": "Magic: The Gathering Reality Fracture Commander Deck - Multiverse Reforged | 100-Card Deck + Accessories",
-        "price": "$69.95",
+        "price": "$72.25",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
@@ -222,7 +222,7 @@
       "B0H6H8KS14": {
         "key": "B0H6H8KS14",
         "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
-        "price": null,
+        "price": "$159.99",
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H8KS14",
@@ -765,7 +765,22 @@
         ]
       }
     },
-    "pendingRestock": {}
+    "pendingRestock": {
+      "B0H6H8KS14": {
+        "item": {
+          "key": "B0H6H8KS14",
+          "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
+          "price": "$159.99",
+          "available": true,
+          "lowStockNote": null,
+          "url": "https://www.amazon.com/dp/B0H6H8KS14",
+          "tabs": [
+            "preorder"
+          ]
+        },
+        "firstSeenAt": 1791472732546
+      }
+    }
   },
   "bestbuy": {
     "items": {
