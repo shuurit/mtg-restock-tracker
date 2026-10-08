@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-08T22:18:43.336Z",
+  "lastChecked": "2026-10-08T23:18:40.567Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -60,7 +60,7 @@
       "B0GWS4ZRT8": {
         "key": "B0GWS4ZRT8",
         "title": "Magic: The Gathering | The Hobbit Scene Box - Crack the Plates| 6 Foil Borderless Scene Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
-        "price": "$62.57",
+        "price": "$62.55",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS4ZRT8",
@@ -71,7 +71,7 @@
       "B0GWRZF6HC": {
         "key": "B0GWRZF6HC",
         "title": "Magic: The Gathering | The Hobbit Box - Treasures of Smaug | 6 Foil Borderless Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
-        "price": "$41.99",
+        "price": "$78.94",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWRZF6HC",
@@ -84,7 +84,7 @@
         "title": "Magic: The Gathering | The Hobbit Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens | Collectible Trading Card Game",
         "price": "$139.90",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 20 left in stock",
         "url": "https://www.amazon.com/dp/B0GWS582CC",
         "tabs": [
           "new_releases"
@@ -126,7 +126,7 @@
       "B0GXC9SDV9": {
         "key": "B0GXC9SDV9",
         "title": "Magic: The Gathering Reality Fracture Commander Deck - Multiverse Reforged | 100-Card Deck + Accessories",
-        "price": "$69.99",
+        "price": "$69.95",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
@@ -137,7 +137,7 @@
       "B0GXC9W89R": {
         "key": "B0GXC9W89R",
         "title": "Magic: The Gathering Reality Fracture Bundle | Includes 9 Play Boosters, 30 Lands, 1 Foil Alt-Art Promo Card + Exclusive Accessories",
-        "price": "$64.45",
+        "price": "$64.25",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9W89R",
@@ -511,7 +511,7 @@
       "B0G86Z91GX": {
         "key": "B0G86Z91GX",
         "title": "Magic: The Gathering Secrets of Strixhaven - Draft Night (1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Token Cards)",
-        "price": "$99.76",
+        "price": "$98.76",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G86Z91GX",
