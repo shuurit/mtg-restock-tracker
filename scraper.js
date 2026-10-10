@@ -243,9 +243,9 @@ async function scrapeBestBuy(page) {
 
 // ---------- Diffing (shared between sources) ----------
 
-// Only restocks are alerted — a brand-new item we've never tracked before
-// is just silently added to the tracked set (whatever its availability
-// happens to be), no alert either way. A restock (unavailable ->
+// By default a brand-new item we've never tracked before is just silently
+// added to the tracked set (whatever its availability happens to be), no
+// alert either way (see alertNew below). A restock (unavailable ->
 // available on an item we already know) is held as a "pending" candidate
 // rather than alerted immediately, and only promoted to a real alert once
 // seen again on a later run — both sites' listing pages don't reliably
@@ -254,32 +254,53 @@ async function scrapeBestBuy(page) {
 // otherwise look restocked for one run and then revert on the next. Going
 // available -> unavailable is applied immediately either way since it's
 // never alerted on.
-function diffSource(sourceLabel, currentItems, prevSource) {
+//
+// With alertNew (Amazon only), a never-before-seen item is also alerted
+// immediately — that's how a fresh preorder wave gets surfaced. It isn't
+// held for a second sighting: preorder drops are time-sensitive, and the
+// "looks new but isn't" failure mode only bites when the tracked set is
+// thin, which it no longer is after accumulating history.
+//
+// everAvailable distinguishes a true restock from a listing becoming
+// orderable for the first time (e.g. a preorder that was listed with no
+// price/buy box and then opens).
+function diffSource(sourceLabel, currentItems, prevSource, { alertNew = false } = {}) {
   const prevItems = (prevSource && prevSource.items) || {};
   const prevPendingRestock = (prevSource && prevSource.pendingRestock) || {};
   const nextPendingRestock = {};
   const now = Date.now();
 
+  const newItems = [];
   const restocks = [];
   const mergedItems = { ...prevItems };
 
   for (const [key, item] of Object.entries(currentItems)) {
     const prev = prevItems[key];
 
-    if (!prev || prev.available || !item.available) {
-      // brand new to tracking, already available, or still/newly
-      // unavailable — recorded immediately, never alerted on.
-      mergedItems[key] = item;
+    if (!prev) {
+      mergedItems[key] = { ...item, everAvailable: item.available };
+      if (alertNew) newItems.push(item);
+      continue;
+    }
+
+    // State written before everAvailable existed falls back to the last
+    // known availability.
+    const everAvailable = prev.everAvailable ?? prev.available;
+
+    if (prev.available || !item.available) {
+      // already available, or still/newly unavailable — recorded
+      // immediately, never alerted on.
+      mergedItems[key] = { ...item, everAvailable: everAvailable || item.available };
       continue;
     }
 
     // prev.available === false && item.available === true: potential restock
     if (prevPendingRestock[key]) {
-      restocks.push(item);
-      mergedItems[key] = item; // now confirmed available
+      restocks.push({ item, firstTime: !everAvailable });
+      mergedItems[key] = { ...item, everAvailable: true }; // now confirmed available
     } else {
       nextPendingRestock[key] = { item, firstSeenAt: now };
-      mergedItems[key] = { ...item, available: false }; // not yet confirmed
+      mergedItems[key] = { ...item, available: false, everAvailable }; // not yet confirmed
     }
   }
 
@@ -289,8 +310,13 @@ function diffSource(sourceLabel, currentItems, prevSource) {
   }
 
   const lines = [];
-  for (const item of restocks) {
-    lines.push(`🔄 **RESTOCK** [${sourceLabel}]: ${item.title} — ${item.price || ''} ${item.url}`);
+  for (const { item, firstTime } of restocks) {
+    const label = firstTime ? '🛒 **NOW ORDERABLE**' : '🔄 **RESTOCK**';
+    lines.push(`${label} [${sourceLabel}]: ${item.title} — ${item.price || ''} ${item.url}`);
+  }
+  for (const item of newItems) {
+    const status = item.available ? item.price : 'listed, not orderable yet';
+    lines.push(`🆕 **NEW** [${sourceLabel}]: ${item.title} — ${status} ${item.url}`);
   }
 
   return { lines, nextState: { items: mergedItems, pendingRestock: nextPendingRestock } };
@@ -339,7 +365,7 @@ async function run() {
     newState.amazon = { items: currentAmazon, pendingRestock: {} };
     lines.push(`🟢 [Amazon] tracker baseline captured — ${Object.keys(currentAmazon).length} SKUs.`);
   } else {
-    const { lines: amazonLines, nextState } = diffSource('Amazon', currentAmazon, prevAmazon);
+    const { lines: amazonLines, nextState } = diffSource('Amazon', currentAmazon, prevAmazon, { alertNew: true });
     lines.push(...amazonLines);
     newState.amazon = nextState;
   }

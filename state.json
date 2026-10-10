@@ -11,7 +11,8 @@
         "url": "https://www.amazon.com/dp/B0GXCBJG9L",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0GXC89N66": {
         "key": "B0GXC89N66",
@@ -22,7 +23,8 @@
         "url": "https://www.amazon.com/dp/B0GXC89N66",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0GWS9J9VT": {
         "key": "B0GWS9J9VT",
@@ -33,7 +35,8 @@
         "url": "https://www.amazon.com/dp/B0GWS9J9VT",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0GWSB7V4T": {
         "key": "B0GWSB7V4T",
@@ -44,7 +47,8 @@
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0GWS8DC8C": {
         "key": "B0GWS8DC8C",
@@ -55,7 +59,8 @@
         "url": "https://www.amazon.com/dp/B0GWS8DC8C",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0GWS4ZRT8": {
         "key": "B0GWS4ZRT8",
@@ -66,7 +71,8 @@
         "url": "https://www.amazon.com/dp/B0GWS4ZRT8",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0GWRZF6HC": {
         "key": "B0GWRZF6HC",
@@ -77,7 +83,8 @@
         "url": "https://www.amazon.com/dp/B0GWRZF6HC",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0GWS582CC": {
         "key": "B0GWS582CC",
@@ -88,7 +95,8 @@
         "url": "https://www.amazon.com/dp/B0GWS582CC",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0GXCHBRTC": {
         "key": "B0GXCHBRTC",
@@ -99,7 +107,8 @@
         "url": "https://www.amazon.com/dp/B0GXCHBRTC",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0GXC667JV": {
         "key": "B0GXC667JV",
@@ -110,7 +119,8 @@
         "url": "https://www.amazon.com/dp/B0GXC667JV",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0GXCC47X5": {
         "key": "B0GXCC47X5",
@@ -121,7 +131,8 @@
         "url": "https://www.amazon.com/dp/B0GXCC47X5",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0GXC9SDV9": {
         "key": "B0GXC9SDV9",
@@ -132,7 +143,8 @@
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0GXC9W89R": {
         "key": "B0GXC9W89R",
@@ -143,7 +155,8 @@
         "url": "https://www.amazon.com/dp/B0GXC9W89R",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0GXCKVJ6W": {
         "key": "B0GXCKVJ6W",
@@ -154,7 +167,8 @@
         "url": "https://www.amazon.com/dp/B0GXCKVJ6W",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0GXC9JFZY": {
         "key": "B0GXC9JFZY",
@@ -165,7 +179,8 @@
         "url": "https://www.amazon.com/dp/B0GXC9JFZY",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0H6H2D3JF": {
         "key": "B0H6H2D3JF",
@@ -176,7 +191,8 @@
         "url": "https://www.amazon.com/dp/B0H6H2D3JF",
         "tabs": [
           "preorder"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0H6H4TXPZ": {
         "key": "B0H6H4TXPZ",
@@ -187,7 +203,8 @@
         "url": "https://www.amazon.com/dp/B0H6H4TXPZ",
         "tabs": [
           "preorder"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0H6H2VXJB": {
         "key": "B0H6H2VXJB",
@@ -198,7 +215,8 @@
         "url": "https://www.amazon.com/dp/B0H6H2VXJB",
         "tabs": [
           "preorder"
-        ]
+        ],
+        "everAvailable": false
       },
       "B0H6H1XTK6": {
         "key": "B0H6H1XTK6",
@@ -209,7 +227,8 @@
         "url": "https://www.amazon.com/dp/B0H6H1XTK6",
         "tabs": [
           "preorder"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0H6H8KS14": {
         "key": "B0H6H8KS14",
@@ -220,7 +239,8 @@
         "url": "https://www.amazon.com/dp/B0H6H8KS14",
         "tabs": [
           "preorder"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0H6H4PL4G": {
         "key": "B0H6H4PL4G",
@@ -231,7 +251,8 @@
         "url": "https://www.amazon.com/dp/B0H6H4PL4G",
         "tabs": [
           "preorder"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0H6GPSGC2": {
         "key": "B0H6GPSGC2",
@@ -242,7 +263,8 @@
         "url": "https://www.amazon.com/dp/B0H6GPSGC2",
         "tabs": [
           "preorder"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0H6H4J3QF": {
         "key": "B0H6H4J3QF",
@@ -253,7 +275,8 @@
         "url": "https://www.amazon.com/dp/B0H6H4J3QF",
         "tabs": [
           "preorder"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0GXCBW828": {
         "key": "B0GXCBW828",
@@ -264,7 +287,8 @@
         "url": "https://www.amazon.com/dp/B0GXCBW828",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0GXCH6X4K": {
         "key": "B0GXCH6X4K",
@@ -275,7 +299,8 @@
         "url": "https://www.amazon.com/dp/B0GXCH6X4K",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0GXCKJ5JH": {
         "key": "B0GXCKJ5JH",
@@ -286,7 +311,8 @@
         "url": "https://www.amazon.com/dp/B0GXCKJ5JH",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0GXC5T8LG": {
         "key": "B0GXC5T8LG",
@@ -297,7 +323,8 @@
         "url": "https://www.amazon.com/dp/B0GXC5T8LG",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0GXCBTVG4": {
         "key": "B0GXCBTVG4",
@@ -308,7 +335,8 @@
         "url": "https://www.amazon.com/dp/B0GXCBTVG4",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0GXC8T76T": {
         "key": "B0GXC8T76T",
@@ -319,7 +347,8 @@
         "url": "https://www.amazon.com/dp/B0GXC8T76T",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0GF4MXFPC": {
         "key": "B0GF4MXFPC",
@@ -330,7 +359,8 @@
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0G87JWX8L": {
         "key": "B0G87JWX8L",
@@ -341,7 +371,8 @@
         "url": "https://www.amazon.com/dp/B0G87JWX8L",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0G867CCWN": {
         "key": "B0G867CCWN",
@@ -352,7 +383,8 @@
         "url": "https://www.amazon.com/dp/B0G867CCWN",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0GF44F4MG": {
         "key": "B0GF44F4MG",
@@ -363,7 +395,8 @@
         "url": "https://www.amazon.com/dp/B0GF44F4MG",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0G8836V29": {
         "key": "B0G8836V29",
@@ -374,7 +407,8 @@
         "url": "https://www.amazon.com/dp/B0G8836V29",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0G87CB5VB": {
         "key": "B0G87CB5VB",
@@ -385,7 +419,8 @@
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0G87RDQPV": {
         "key": "B0G87RDQPV",
@@ -396,7 +431,8 @@
         "url": "https://www.amazon.com/dp/B0G87RDQPV",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0GF4M5P4C": {
         "key": "B0GF4M5P4C",
@@ -407,7 +443,8 @@
         "url": "https://www.amazon.com/dp/B0GF4M5P4C",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0GF44KXT4": {
         "key": "B0GF44KXT4",
@@ -418,7 +455,8 @@
         "url": "https://www.amazon.com/dp/B0GF44KXT4",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0GF44MVBP": {
         "key": "B0GF44MVBP",
@@ -429,7 +467,8 @@
         "url": "https://www.amazon.com/dp/B0GF44MVBP",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0G86YW5XX": {
         "key": "B0G86YW5XX",
@@ -440,7 +479,8 @@
         "url": "https://www.amazon.com/dp/B0G86YW5XX",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0G87FZZQQ": {
         "key": "B0G87FZZQQ",
@@ -451,7 +491,8 @@
         "url": "https://www.amazon.com/dp/B0G87FZZQQ",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0G87CH7TH": {
         "key": "B0G87CH7TH",
@@ -462,7 +503,8 @@
         "url": "https://www.amazon.com/dp/B0G87CH7TH",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0G87C83NR": {
         "key": "B0G87C83NR",
@@ -473,7 +515,8 @@
         "url": "https://www.amazon.com/dp/B0G87C83NR",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0G89MWJMC": {
         "key": "B0G89MWJMC",
@@ -484,7 +527,8 @@
         "url": "https://www.amazon.com/dp/B0G89MWJMC",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0G87734WB": {
         "key": "B0G87734WB",
@@ -495,7 +539,8 @@
         "url": "https://www.amazon.com/dp/B0G87734WB",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0GFDJ7GVL": {
         "key": "B0GFDJ7GVL",
@@ -506,7 +551,8 @@
         "url": "https://www.amazon.com/dp/B0GFDJ7GVL",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0G86Z91GX": {
         "key": "B0G86Z91GX",
@@ -517,7 +563,8 @@
         "url": "https://www.amazon.com/dp/B0G86Z91GX",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0GFDD1RLS": {
         "key": "B0GFDD1RLS",
@@ -528,7 +575,8 @@
         "url": "https://www.amazon.com/dp/B0GFDD1RLS",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0G87BJ9F3": {
         "key": "B0G87BJ9F3",
@@ -539,7 +587,8 @@
         "url": "https://www.amazon.com/dp/B0G87BJ9F3",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0G866V9ZF": {
         "key": "B0G866V9ZF",
@@ -550,7 +599,8 @@
         "url": "https://www.amazon.com/dp/B0G866V9ZF",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0G87VXM5G": {
         "key": "B0G87VXM5G",
@@ -561,7 +611,8 @@
         "url": "https://www.amazon.com/dp/B0G87VXM5G",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0GFDRW65Q": {
         "key": "B0GFDRW65Q",
@@ -572,7 +623,8 @@
         "url": "https://www.amazon.com/dp/B0GFDRW65Q",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0G8742ZNG": {
         "key": "B0G8742ZNG",
@@ -583,7 +635,8 @@
         "url": "https://www.amazon.com/dp/B0G8742ZNG",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0G87JBK84": {
         "key": "B0G87JBK84",
@@ -594,7 +647,8 @@
         "url": "https://www.amazon.com/dp/B0G87JBK84",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0G86Z17Y8": {
         "key": "B0G86Z17Y8",
@@ -605,7 +659,8 @@
         "url": "https://www.amazon.com/dp/B0G86Z17Y8",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0G887STC9": {
         "key": "B0G887STC9",
@@ -616,7 +671,8 @@
         "url": "https://www.amazon.com/dp/B0G887STC9",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0G874G6HD": {
         "key": "B0G874G6HD",
@@ -627,7 +683,8 @@
         "url": "https://www.amazon.com/dp/B0G874G6HD",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0FKG7FYDF": {
         "key": "B0FKG7FYDF",
@@ -638,7 +695,8 @@
         "url": "https://www.amazon.com/dp/B0FKG7FYDF",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0FR7K693P": {
         "key": "B0FR7K693P",
@@ -649,7 +707,8 @@
         "url": "https://www.amazon.com/dp/B0FR7K693P",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0FR6W5K12": {
         "key": "B0FR6W5K12",
@@ -660,7 +719,8 @@
         "url": "https://www.amazon.com/dp/B0FR6W5K12",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0FR7JTZT5": {
         "key": "B0FR7JTZT5",
@@ -671,7 +731,8 @@
         "url": "https://www.amazon.com/dp/B0FR7JTZT5",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0FR7KFXBB": {
         "key": "B0FR7KFXBB",
@@ -682,7 +743,8 @@
         "url": "https://www.amazon.com/dp/B0FR7KFXBB",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0FR7G52PN": {
         "key": "B0FR7G52PN",
@@ -693,7 +755,8 @@
         "url": "https://www.amazon.com/dp/B0FR7G52PN",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0FR6HHZKB": {
         "key": "B0FR6HHZKB",
@@ -704,7 +767,8 @@
         "url": "https://www.amazon.com/dp/B0FR6HHZKB",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0FR6HPWJB": {
         "key": "B0FR6HPWJB",
@@ -715,7 +779,8 @@
         "url": "https://www.amazon.com/dp/B0FR6HPWJB",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0FR717633": {
         "key": "B0FR717633",
@@ -726,7 +791,8 @@
         "url": "https://www.amazon.com/dp/B0FR717633",
         "tabs": [
           "new_releases"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0H6H5C3ZL": {
         "key": "B0H6H5C3ZL",
@@ -737,7 +803,8 @@
         "url": "https://www.amazon.com/dp/B0H6H5C3ZL",
         "tabs": [
           "home"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0H6GZS4P6": {
         "key": "B0H6GZS4P6",
@@ -748,7 +815,8 @@
         "url": "https://www.amazon.com/dp/B0H6GZS4P6",
         "tabs": [
           "home"
-        ]
+        ],
+        "everAvailable": true
       },
       "B0HK5SVVTY": {
         "key": "B0HK5SVVTY",
@@ -759,7 +827,8 @@
         "url": "https://www.amazon.com/dp/B0HK5SVVTY",
         "tabs": [
           "preorder"
-        ]
+        ],
+        "everAvailable": false
       },
       "B0HK5QK6JM": {
         "key": "B0HK5QK6JM",
@@ -770,7 +839,8 @@
         "url": "https://www.amazon.com/dp/B0HK5QK6JM",
         "tabs": [
           "home"
-        ]
+        ],
+        "everAvailable": false
       },
       "B0HK5TJJR5": {
         "key": "B0HK5TJJR5",
@@ -781,7 +851,8 @@
         "url": "https://www.amazon.com/dp/B0HK5TJJR5",
         "tabs": [
           "preorder"
-        ]
+        ],
+        "everAvailable": false
       },
       "B0HK672FVM": {
         "key": "B0HK672FVM",
@@ -792,7 +863,8 @@
         "url": "https://www.amazon.com/dp/B0HK672FVM",
         "tabs": [
           "preorder"
-        ]
+        ],
+        "everAvailable": false
       },
       "B0HK6FB58S": {
         "key": "B0HK6FB58S",
@@ -803,7 +875,8 @@
         "url": "https://www.amazon.com/dp/B0HK6FB58S",
         "tabs": [
           "preorder"
-        ]
+        ],
+        "everAvailable": false
       },
       "B0HK5XBBPN": {
         "key": "B0HK5XBBPN",
@@ -814,7 +887,8 @@
         "url": "https://www.amazon.com/dp/B0HK5XBBPN",
         "tabs": [
           "preorder"
-        ]
+        ],
+        "everAvailable": false
       },
       "B0HK6BR6LM": {
         "key": "B0HK6BR6LM",
@@ -825,7 +899,8 @@
         "url": "https://www.amazon.com/dp/B0HK6BR6LM",
         "tabs": [
           "preorder"
-        ]
+        ],
+        "everAvailable": false
       },
       "B0HK5T2W1S": {
         "key": "B0HK5T2W1S",
@@ -836,7 +911,8 @@
         "url": "https://www.amazon.com/dp/B0HK5T2W1S",
         "tabs": [
           "preorder"
-        ]
+        ],
+        "everAvailable": false
       },
       "B0HK6BMDNT": {
         "key": "B0HK6BMDNT",
@@ -847,7 +923,8 @@
         "url": "https://www.amazon.com/dp/B0HK6BMDNT",
         "tabs": [
           "preorder"
-        ]
+        ],
+        "everAvailable": false
       },
       "B0HK5V3B9N": {
         "key": "B0HK5V3B9N",
@@ -858,7 +935,8 @@
         "url": "https://www.amazon.com/dp/B0HK5V3B9N",
         "tabs": [
           "preorder"
-        ]
+        ],
+        "everAvailable": false
       },
       "B0HK5GD26B": {
         "key": "B0HK5GD26B",
@@ -869,7 +947,8 @@
         "url": "https://www.amazon.com/dp/B0HK5GD26B",
         "tabs": [
           "preorder"
-        ]
+        ],
+        "everAvailable": false
       },
       "B0HK5SVVV4": {
         "key": "B0HK5SVVV4",
@@ -880,7 +959,8 @@
         "url": "https://www.amazon.com/dp/B0HK5SVVV4",
         "tabs": [
           "preorder"
-        ]
+        ],
+        "everAvailable": false
       }
     },
     "pendingRestock": {
@@ -907,812 +987,928 @@
         "title": "Wizards of The Coast - Magic: The Gathering The Lord of The Rings: Tales of Middle Earth Draft Booster Multipack",
         "price": "$15.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-lord-of-the-rings-tales-of-middle-earth-draft-booster-multipack/JJ8VP79CF6/sku/6539370"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-lord-of-the-rings-tales-of-middle-earth-draft-booster-multipack/JJ8VP79CF6/sku/6539370",
+        "everAvailable": true
       },
       "6550336": {
         "key": "6550336",
         "title": "Wizards of The Coast - Magic: The Gathering Wilds of Eldraine Set Booster Box (30 Packs)",
         "price": "$174.99",
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-wilds-of-eldraine-set-booster-box-30-packs/JJ8VP76Z5Q/sku/6550336"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-wilds-of-eldraine-set-booster-box-30-packs/JJ8VP76Z5Q/sku/6550336",
+        "everAvailable": false
       },
       "6568457": {
         "key": "6568457",
         "title": "Wizards of The Coast - Magic: The Gathering Fallout Commander Deck - Scrappy Survivors",
         "price": "$59.99",
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-fallout-commander-deck-scrappy-survivors/JJ8VP7R7L6/sku/6568457"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-fallout-commander-deck-scrappy-survivors/JJ8VP7R7L6/sku/6568457",
+        "everAvailable": false
       },
       "6568460": {
         "key": "6568460",
         "title": "Wizards of The Coast - Magic: The Gathering Fallout Commander Deck - Science!",
         "price": "$59.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-fallout-commander-deck-science/JJ8VP7R7YJ/sku/6568460"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-fallout-commander-deck-science/JJ8VP7R7YJ/sku/6568460",
+        "everAvailable": true
       },
       "6568462": {
         "key": "6568462",
         "title": "Wizards of The Coast - Magic: The Gathering Fallout Commander Deck - Mutant Menace",
         "price": "$59.99",
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-fallout-commander-deck-mutant-menace/JJ8VP7R7SZ/sku/6568462"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-fallout-commander-deck-mutant-menace/JJ8VP7R7SZ/sku/6568462",
+        "everAvailable": false
       },
       "6577580": {
         "key": "6577580",
         "title": "Wizards of The Coast - Magic: The Gathering Modern Horizons 3 Commander Deck - Graveyard Overdrive",
         "price": "$69.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-modern-horizons-3-commander-deck-graveyard-overdrive/JJ8VP7QGYH/sku/6577580"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-modern-horizons-3-commander-deck-graveyard-overdrive/JJ8VP7QGYH/sku/6577580",
+        "everAvailable": true
       },
       "6577585": {
         "key": "6577585",
         "title": "Wizards of The Coast - Magic: The Gathering Assassin’s Creed Beyond Booster Box - 24 Packs",
         "price": "$145.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-assassins-creed-beyond-booster-box-24-packs/JJ8VP7QTVG/sku/6577585"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-assassins-creed-beyond-booster-box-24-packs/JJ8VP7QTVG/sku/6577585",
+        "everAvailable": true
       },
       "6577591": {
         "key": "6577591",
         "title": "Wizards of The Coast - Magic: The Gathering Bloomburrow Play Booster Box",
         "price": "$174.99",
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-bloomburrow-play-booster-box/JJ8VP7QSPX/sku/6577591"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-bloomburrow-play-booster-box/JJ8VP7QSPX/sku/6577591",
+        "everAvailable": true
       },
       "6577596": {
         "key": "6577596",
         "title": "Wizards of The Coast - Magic: The Gathering Modern Horizons 3 Commander Deck - Tricky Terrain",
         "price": "$69.99",
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-modern-horizons-3-commander-deck-tricky-terrain/JJ8VP7QGP3/sku/6577596"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-modern-horizons-3-commander-deck-tricky-terrain/JJ8VP7QGP3/sku/6577596",
+        "everAvailable": false
       },
       "6582056": {
         "key": "6582056",
         "title": "Wizards of The Coast - Magic: The Gathering Bloomburrow Starter Kit",
         "price": "$19.99",
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-bloomburrow-starter-kit/JJ8VP7QSK5/sku/6582056"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-bloomburrow-starter-kit/JJ8VP7QSK5/sku/6582056",
+        "everAvailable": false
       },
       "6588322": {
         "key": "6588322",
         "title": "Wizards of The Coast - Magic: The Gathering Duskmourn: House of Horror Bundle",
         "price": "$49.99",
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-duskmourn-house-of-horror-bundle/JJ8VP7QRGT/sku/6588322"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-duskmourn-house-of-horror-bundle/JJ8VP7QRGT/sku/6588322",
+        "everAvailable": false
       },
       "6588324": {
         "key": "6588324",
         "title": "Wizards of The Coast - Magic: The Gathering Duskmourn: House of Horror Collector Booster",
         "price": "$26.99",
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-duskmourn-house-of-horror-collector-booster/JJ8VP7QRSF/sku/6588324"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-duskmourn-house-of-horror-collector-booster/JJ8VP7QRSF/sku/6588324",
+        "everAvailable": false
       },
       "6593866": {
         "key": "6593866",
         "title": "Wizards of The Coast - Magic: The Gathering Foundations Starter Collection",
         "price": "$59.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-foundations-starter-collection/JJ8VP7QKC2/sku/6593866"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-foundations-starter-collection/JJ8VP7QKC2/sku/6593866",
+        "everAvailable": true
       },
       "6593867": {
         "key": "6593867",
         "title": "Wizards of The Coast - Magic: The Gathering Foundations Play Booster Box - 36 Packs",
         "price": "$174.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-foundations-play-booster-box-36-packs/JJ8VP7QW4V/sku/6593867"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-foundations-play-booster-box-36-packs/JJ8VP7QW4V/sku/6593867",
+        "everAvailable": true
       },
       "6593870": {
         "key": "6593870",
         "title": "Wizards of The Coast - Magic: The Gathering Foundations Jumpstart Booster 2-Pack",
         "price": "$10.49",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-foundations-jumpstart-booster-2-pack/JJ8VP7QCKZ/sku/6593870"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-foundations-jumpstart-booster-2-pack/JJ8VP7QCKZ/sku/6593870",
+        "everAvailable": true
       },
       "6604763": {
         "key": "6604763",
         "title": "Wizards of The Coast - Magic: The Gathering Innistrad Remastered Play Booster Sleeve",
         "price": "$4.99",
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-innistrad-remastered-play-booster-sleeve/JJ8VP7HGJW/sku/6604763"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-innistrad-remastered-play-booster-sleeve/JJ8VP7HGJW/sku/6604763",
+        "everAvailable": false
       },
       "6612942": {
         "key": "6612942",
         "title": "Wizards of The Coast - Magic: The Gathering Aetherdrift Play Booster Sleeve",
         "price": "$4.99",
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-aetherdrift-play-booster-sleeve/JJ8VP7H5SR/sku/6612942"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-aetherdrift-play-booster-sleeve/JJ8VP7H5SR/sku/6612942",
+        "everAvailable": false
       },
       "6617575": {
         "key": "6617575",
         "title": "Wizards of The Coast - Magic: The Gathering Tarkir: Dragonstorm Play Booster Sleeve",
         "price": "$5.49",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-tarkir-dragonstorm-play-booster-sleeve/JJ8VP7T7FY/sku/6617575"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-tarkir-dragonstorm-play-booster-sleeve/JJ8VP7T7FY/sku/6617575",
+        "everAvailable": true
       },
       "6619413": {
         "key": "6619413",
         "title": "Wizards of The Coast - Magic: The Gathering Final Fantasy X Commander Deck - Counter Blitz",
         "price": "$48.99",
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-x-commander-deck-counter-blitz/JJ8VP7HWXY/sku/6619413"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-x-commander-deck-counter-blitz/JJ8VP7HWXY/sku/6619413",
+        "everAvailable": false
       },
       "6619414": {
         "key": "6619414",
         "title": "Wizards of The Coast - Magic: The Gathering Final Fantasy XIV Commander Deck - Scions & Spellcraft",
         "price": "$48.99",
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-xiv-commander-deck-scions-spellcraft/JJ8VP7HWXH/sku/6619414"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-xiv-commander-deck-scions-spellcraft/JJ8VP7HWXH/sku/6619414",
+        "everAvailable": false
       },
       "6619415": {
         "key": "6619415",
         "title": "Wizards of The Coast - Magic: The Gathering Final Fantasy VI Commander Deck - Revival Trance",
         "price": "$48.99",
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-vi-commander-deck-revival-trance/JJ8VP7HWC4/sku/6619415"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-vi-commander-deck-revival-trance/JJ8VP7HWC4/sku/6619415",
+        "everAvailable": false
       },
       "6619445": {
         "key": "6619445",
         "title": "Wizards of The Coast - Magic: The Gathering Final Fantasy Starter Kit",
         "price": "$19.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-starter-kit/JJ8VP7HL59/sku/6619445"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-starter-kit/JJ8VP7HL59/sku/6619445",
+        "everAvailable": true
       },
       "6619448": {
         "key": "6619448",
         "title": "Wizards of The Coast - Magic: The Gathering Final Fantasy Play Booster Sleeve",
         "price": null,
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-play-booster-sleeve/JJ8VP7HLZ7/sku/6619448"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-play-booster-sleeve/JJ8VP7HLZ7/sku/6619448",
+        "everAvailable": true
       },
       "6619449": {
         "key": "6619449",
         "title": "Wizards of The Coast - Magic: The Gathering Final Fantasy Collector Booster",
         "price": "$39.99",
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-collector-booster/JJ8VP7HL46/sku/6619449"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-collector-booster/JJ8VP7HL46/sku/6619449",
+        "everAvailable": false
       },
       "6619451": {
         "key": "6619451",
         "title": "Wizards of The Coast - Magic: The Gathering Final Fantasy Play Booster Box (30 Packs)",
         "price": "$184.99",
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-play-booster-box-30-packs/JJ8VP7HL99/sku/6619451"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-play-booster-box-30-packs/JJ8VP7HL99/sku/6619451",
+        "everAvailable": false
       },
       "6619452": {
         "key": "6619452",
         "title": "Wizards of The Coast - Magic: The Gathering Final Fantasy Bundle",
         "price": "$69.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-bundle/JJ8VP7HLTR/sku/6619452"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-bundle/JJ8VP7HLTR/sku/6619452",
+        "everAvailable": true
       },
       "6620417": {
         "key": "6620417",
         "title": "Wizards of The Coast - Magic: The Gathering Edge of Eternities Commander Deck - Counter Intelligence",
         "price": "$47.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-edge-of-eternities-commander-deck-counter-intelligence/JJ8VP7TYSG/sku/6620417"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-edge-of-eternities-commander-deck-counter-intelligence/JJ8VP7TYSG/sku/6620417",
+        "everAvailable": true
       },
       "6620419": {
         "key": "6620419",
         "title": "Wizards of The Coast - Magic: The Gathering Edge of Eternities Bundle",
         "price": "$57.99",
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-edge-of-eternities-bundle/JJ8VP7TLGQ/sku/6620419"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-edge-of-eternities-bundle/JJ8VP7TLGQ/sku/6620419",
+        "everAvailable": false
       },
       "6620423": {
         "key": "6620423",
         "title": "Wizards of The Coast - Magic: The Gathering Edge of Eternities Commander Deck - World Shaper",
         "price": "$47.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-edge-of-eternities-commander-deck-world-shaper/JJ8VP7TYPL/sku/6620423"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-edge-of-eternities-commander-deck-world-shaper/JJ8VP7TYPL/sku/6620423",
+        "everAvailable": true
       },
       "6621975": {
         "key": "6621975",
         "title": "Wizards of The Coast - Magic: The Gathering Marvel's Spider-Man Scene Box",
         "price": "$41.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvels-spider-man-scene-box/JJ8VP7TR3J/sku/6621975"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvels-spider-man-scene-box/JJ8VP7TR3J/sku/6621975",
+        "everAvailable": true
       },
       "6621976": {
         "key": "6621976",
         "title": "Wizards of The Coast - Magic: The Gathering Marvel's Spider-Man - Play Booster Sleeve",
         "price": "$6.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvels-spider-man-play-booster-sleeve/JJ8VP7T6TY/sku/6621976"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvels-spider-man-play-booster-sleeve/JJ8VP7T6TY/sku/6621976",
+        "everAvailable": true
       },
       "6621980": {
         "key": "6621980",
         "title": "Wizards of The Coast - Magic: The Gathering Marvel's Spider-Man Play Booster Box (30 Packs)",
         "price": "$189.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvels-spider-man-play-booster-box-30-packs/JJ8VP7T6HS/sku/6621980"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvels-spider-man-play-booster-box-30-packs/JJ8VP7T6HS/sku/6621980",
+        "everAvailable": true
       },
       "6633401": {
         "key": "6633401",
         "title": "Wizards of The Coast - Magic: The Gathering Foundations Play Booster Sleeve",
         "price": "$5.49",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-foundations-play-booster-sleeve/JJ8VP7QKLX/sku/6633401"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-foundations-play-booster-sleeve/JJ8VP7QKLX/sku/6633401",
+        "everAvailable": true
       },
       "6642414": {
         "key": "6642414",
         "title": "Wizards of The Coast - Magic: The Gathering Marvel's Spider-Man Bundle: Gift Edition",
         "price": "$89.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvels-spider-man-bundle-gift-edition/JJ8VP7TRJH/sku/6642414"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvels-spider-man-bundle-gift-edition/JJ8VP7TRJH/sku/6642414",
+        "everAvailable": true
       },
       "6643173": {
         "key": "6643173",
         "title": "Wizards of The Coast - Magic: The Gathering Avatar: The Last Airbender Play Booster Sleeve",
         "price": "$6.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-avatar-the-last-airbender-play-booster-sleeve/JJ8VP7TRT5/sku/6643173"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-avatar-the-last-airbender-play-booster-sleeve/JJ8VP7TRT5/sku/6643173",
+        "everAvailable": true
       },
       "6643175": {
         "key": "6643175",
         "title": "Wizards of The Coast - Magic: The Gathering Avatar: The Last Airbender Bundle",
         "price": "$55.99",
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-avatar-the-last-airbender-bundle/JJ8VP7TR52/sku/6643175"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-avatar-the-last-airbender-bundle/JJ8VP7TR52/sku/6643175",
+        "everAvailable": false
       },
       "6643176": {
         "key": "6643176",
         "title": "Wizards of The Coast - Magic: The Gathering Avatar: The Last Airbender Scene Box (1 Scene Box per Order) - Styles May Vary",
         "price": "$25.99",
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-avatar-the-last-airbender-scene-box-1-scene-box-per-order-styles-may-vary/JJ8VP7TQCQ/sku/6643176"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-avatar-the-last-airbender-scene-box-1-scene-box-per-order-styles-may-vary/JJ8VP7TQCQ/sku/6643176",
+        "everAvailable": false
       },
       "6643177": {
         "key": "6643177",
         "title": "Wizards of The Coast - Magic: The Gathering Avatar: The Last Airbender Beginner Box",
         "price": "$27.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-avatar-the-last-airbender-beginner-box/JJ8VP7TQJK/sku/6643177"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-avatar-the-last-airbender-beginner-box/JJ8VP7TQJK/sku/6643177",
+        "everAvailable": true
       },
       "6643180": {
         "key": "6643180",
         "title": "Wizards of The Coast - Magic: The Gathering Avatar: The Last Airbender Jumpstart Booster 2 Pk",
         "price": "$13.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-avatar-the-last-airbender-jumpstart-booster-2-pk/JJ8VP7TQXK/sku/6643180"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-avatar-the-last-airbender-jumpstart-booster-2-pk/JJ8VP7TQXK/sku/6643180",
+        "everAvailable": true
       },
       "6643181": {
         "key": "6643181",
         "title": "Wizards of The Coast - Magic: The Gathering Avatar: The Last Airbender Collector Booster",
         "price": "$39.99",
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-avatar-the-last-airbender-collector-booster/JJ8VP7TRZQ/sku/6643181"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-avatar-the-last-airbender-collector-booster/JJ8VP7TRZQ/sku/6643181",
+        "everAvailable": false
       },
       "6646021": {
         "key": "6646021",
         "title": "Wizards of The Coast - Magic: The Gathering Foundations Beginner Box",
         "price": "$29.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-foundations-beginner-box/JJ8VP7QKLW/sku/6646021"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-foundations-beginner-box/JJ8VP7QKLW/sku/6646021",
+        "everAvailable": true
       },
       "6648132": {
         "key": "6648132",
         "title": "Wizards of The Coast - Magic: The Gathering Lorwyn Eclipsed Play Booster Sleeve",
         "price": "$5.49",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-lorwyn-eclipsed-play-booster-sleeve/JJ8VP7WQ52/sku/6648132"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-lorwyn-eclipsed-play-booster-sleeve/JJ8VP7WQ52/sku/6648132",
+        "everAvailable": true
       },
       "6648134": {
         "key": "6648134",
         "title": "Wizards of The Coast - Magic: The Gathering Lorwyn Eclipsed 60-Card Theme Deck (1 Theme Deck per Order) - Styles May Vary",
         "price": "$23.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-lorwyn-eclipsed-60-card-theme-deck-1-theme-deck-per-order-styles-may-vary/JJ8VP7W6W9/sku/6648134"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-lorwyn-eclipsed-60-card-theme-deck-1-theme-deck-per-order-styles-may-vary/JJ8VP7W6W9/sku/6648134",
+        "everAvailable": true
       },
       "6648135": {
         "key": "6648135",
         "title": "Wizards of The Coast - Magic: The Gathering Lorwyn Eclipsed Play Booster Box (30 Packs)",
         "price": "$149.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-lorwyn-eclipsed-play-booster-box-30-packs/JJ8VP7W66G/sku/6648135"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-lorwyn-eclipsed-play-booster-box-30-packs/JJ8VP7W66G/sku/6648135",
+        "everAvailable": true
       },
       "6648136": {
         "key": "6648136",
         "title": "Wizards of The Coast - Magic: The Gathering Lorwyn Eclipsed Draft Night",
         "price": "$99.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-lorwyn-eclipsed-draft-night/JJ8VP7W6KS/sku/6648136"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-lorwyn-eclipsed-draft-night/JJ8VP7W6KS/sku/6648136",
+        "everAvailable": true
       },
       "6648140": {
         "key": "6648140",
         "title": "Wizards of The Coast - Magic: The Gathering Lorwyn Eclipsed Bundle",
         "price": "$46.99",
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-lorwyn-eclipsed-bundle/JJ8VP7WQCL/sku/6648140"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-lorwyn-eclipsed-bundle/JJ8VP7WQCL/sku/6648140",
+        "everAvailable": false
       },
       "6648316": {
         "key": "6648316",
         "title": "Wizards of The Coast - Magic: The Gathering Final Fantasy Chocobo Bundle",
         "price": "$109.99",
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-chocobo-bundle/JJ8VP7HLV8/sku/6648316"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-final-fantasy-chocobo-bundle/JJ8VP7HLV8/sku/6648316",
+        "everAvailable": false
       },
       "6648334": {
         "key": "6648334",
         "title": "Wizards of The Coast - Magic: The Gathering Lorwyn Eclipsed Commander Deck - Dance of the Elements",
         "price": "$41.99",
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-lorwyn-eclipsed-commander-deck-dance-of-the-elements/JJ8VP7K9YS/sku/6648334"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-lorwyn-eclipsed-commander-deck-dance-of-the-elements/JJ8VP7K9YS/sku/6648334",
+        "everAvailable": true
       },
       "6648351": {
         "key": "6648351",
         "title": "Wizards of The Coast - Magic: The Gathering Lorwyn Eclipsed Commander Deck - Blight Curse",
         "price": "$19.99",
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-lorwyn-eclipsed-commander-deck-blight-curse/JJ8VP7K9P7/sku/6648351"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-lorwyn-eclipsed-commander-deck-blight-curse/JJ8VP7K9P7/sku/6648351",
+        "everAvailable": true
       },
       "6649557": {
         "key": "6649557",
         "title": "Wizards of The Coast - Magic: The Gathering Teenage Mutant Ninja Turtles Collector Booster",
         "price": "$40.99",
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-teenage-mutant-ninja-turtles-collector-booster/JJ8VP7WWJH/sku/6649557"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-teenage-mutant-ninja-turtles-collector-booster/JJ8VP7WWJH/sku/6649557",
+        "everAvailable": false
       },
       "6649559": {
         "key": "6649559",
         "title": "Wizards of The Coast - Magic: The Gathering Teenage Mutant Ninja Turtles - Turtle Team-Up",
         "price": "$49.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-teenage-mutant-ninja-turtles-turtle-team-up/JJ8VP7WZ86/sku/6649559"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-teenage-mutant-ninja-turtles-turtle-team-up/JJ8VP7WZ86/sku/6649559",
+        "everAvailable": true
       },
       "6649560": {
         "key": "6649560",
         "title": "Wizards of The Coast - Magic: The Gathering Teenage Mutant Ninja Turtles Draft Night",
         "price": "$74.99",
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-teenage-mutant-ninja-turtles-draft-night/JJ8VP7WZLQ/sku/6649560"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-teenage-mutant-ninja-turtles-draft-night/JJ8VP7WZLQ/sku/6649560",
+        "everAvailable": true
       },
       "6649562": {
         "key": "6649562",
         "title": "Wizards of The Coast - Magic: The Gathering Teenage Mutant Ninja Turtles Play Booster Box (30 Packs)",
         "price": "$199.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-teenage-mutant-ninja-turtles-play-booster-box-30-packs/JJ8VP7WT4W/sku/6649562"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-teenage-mutant-ninja-turtles-play-booster-box-30-packs/JJ8VP7WT4W/sku/6649562",
+        "everAvailable": true
       },
       "6649563": {
         "key": "6649563",
         "title": "Wizards of The Coast - Magic: The Gathering Teenage Mutant Ninja Turtles Commander Deck - Turtle Power!",
         "price": "$49.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-teenage-mutant-ninja-turtles-commander-deck-turtle-power/JJ8VP7WWLQ/sku/6649563"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-teenage-mutant-ninja-turtles-commander-deck-turtle-power/JJ8VP7WWLQ/sku/6649563",
+        "everAvailable": true
       },
       "6649564": {
         "key": "6649564",
         "title": "Wizards of The Coast - Magic: The Gathering Teenage Mutant Ninja Turtles Pizza Bundle",
         "price": "$99.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-teenage-mutant-ninja-turtles-pizza-bundle/JJ8VP7WWP6/sku/6649564"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-teenage-mutant-ninja-turtles-pizza-bundle/JJ8VP7WWP6/sku/6649564",
+        "everAvailable": true
       },
       "6649565": {
         "key": "6649565",
         "title": "Wizards of The Coast - Magic: The Gathering Teenage Mutant Ninja Turtles Bundle",
         "price": "$55.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-teenage-mutant-ninja-turtles-bundle/JJ8VP7WWYR/sku/6649565"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-teenage-mutant-ninja-turtles-bundle/JJ8VP7WWYR/sku/6649565",
+        "everAvailable": true
       },
       "6649568": {
         "key": "6649568",
         "title": "Wizards of The Coast - Magic: The Gathering Teenage Mutant Ninja Turtles Tin (1 Tin per Order) - Styles May Vary",
         "price": "$16.99",
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-teenage-mutant-ninja-turtles-tin-1-tin-per-order-styles-may-vary/JJ8VP7WZGC/sku/6649568"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-teenage-mutant-ninja-turtles-tin-1-tin-per-order-styles-may-vary/JJ8VP7WZGC/sku/6649568",
+        "everAvailable": false
       },
       "6649569": {
         "key": "6649569",
         "title": "Wizards of The Coast - Magic: The Gathering Teenage Mutant Ninja Turtles Play Booster Sleeve",
         "price": "$6.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-teenage-mutant-ninja-turtles-play-booster-sleeve/JJ8VP7WWGK/sku/6649569"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-teenage-mutant-ninja-turtles-play-booster-sleeve/JJ8VP7WWGK/sku/6649569",
+        "everAvailable": true
       },
       "6669822": {
         "key": "6669822",
         "title": "Wizards of The Coast - Magic: The Gathering Secrets of Strixhaven Collector Booster",
         "price": "$29.99",
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-secrets-of-strixhaven-collector-booster/JJ8VP7KGZ5/sku/6669822"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-secrets-of-strixhaven-collector-booster/JJ8VP7KGZ5/sku/6669822",
+        "everAvailable": false
       },
       "6669823": {
         "key": "6669823",
         "title": "Wizards of The Coast - Magic: The Gathering Secrets of Strixhaven Play Booster Box (30 Packs)",
         "price": "$149.99",
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-secrets-of-strixhaven-play-booster-box-30-packs/JJ8VP7K8WP/sku/6669823"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-secrets-of-strixhaven-play-booster-box-30-packs/JJ8VP7K8WP/sku/6669823",
+        "everAvailable": true
       },
       "6669824": {
         "key": "6669824",
         "title": "Wizards of The Coast - Magic: The Gathering Secrets of Strixhaven Collector Booster Box (12 Packs)",
         "price": "$309.99",
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-secrets-of-strixhaven-collector-booster-box-12-packs/JJ8VP7KGW2/sku/6669824"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-secrets-of-strixhaven-collector-booster-box-12-packs/JJ8VP7KGW2/sku/6669824",
+        "everAvailable": false
       },
       "6669825": {
         "key": "6669825",
         "title": "Wizards of The Coast - Magic: The Gathering Secrets of Strixhaven Play Booster Sleeve",
         "price": "$5.49",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-secrets-of-strixhaven-play-booster-sleeve/JJ8VP7KGQV/sku/6669825"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-secrets-of-strixhaven-play-booster-sleeve/JJ8VP7KGQV/sku/6669825",
+        "everAvailable": true
       },
       "6669852": {
         "key": "6669852",
         "title": "Wizards of The Coast - Magic: The Gathering Marvel Super Heroes Draft Night",
         "price": "$129.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-draft-night/JJ8VP7KJ74/sku/6669852"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-draft-night/JJ8VP7KJ74/sku/6669852",
+        "everAvailable": true
       },
       "6669854": {
         "key": "6669854",
         "title": "Wizards of The Coast - Magic: The Gathering Secrets of Strixhaven Commander Deck - Prismari Artistry",
         "price": "$51.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-secrets-of-strixhaven-commander-deck-prismari-artistry/JJ8VP7KTVG/sku/6669854"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-secrets-of-strixhaven-commander-deck-prismari-artistry/JJ8VP7KTVG/sku/6669854",
+        "everAvailable": true
       },
       "6669855": {
         "key": "6669855",
         "title": "Wizards of The Coast - Magic: The Gathering Secrets of Strixhaven Codex Bundle",
         "price": "$94.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-secrets-of-strixhaven-codex-bundle/JJ8VP7KLV2/sku/6669855"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-secrets-of-strixhaven-codex-bundle/JJ8VP7KLV2/sku/6669855",
+        "everAvailable": true
       },
       "6669856": {
         "key": "6669856",
         "title": "Wizards of The Coast - Magic: The Gathering Secrets of Strixhaven Commander Deck - Witherbloom Pestilence",
         "price": "$51.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-secrets-of-strixhaven-commander-deck-witherbloom-pestilence/JJ8VP7KW78/sku/6669856"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-secrets-of-strixhaven-commander-deck-witherbloom-pestilence/JJ8VP7KW78/sku/6669856",
+        "everAvailable": true
       },
       "6669859": {
         "key": "6669859",
         "title": "Wizards of The Coast - Magic: The Gathering Marvel Super Heroes Collector Booster Box (12 Packs)",
         "price": "$449.99",
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-collector-booster-box-12-packs/JJ8VP7KC6G/sku/6669859"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-collector-booster-box-12-packs/JJ8VP7KC6G/sku/6669859",
+        "everAvailable": false
       },
       "6669860": {
         "key": "6669860",
         "title": "Wizards of The Coast - Magic: The Gathering Secrets of Strixhaven Commander Deck - Quandrix Unlimited",
         "price": "$51.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-secrets-of-strixhaven-commander-deck-quandrix-unlimited/JJ8VP7KW9T/sku/6669860"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-secrets-of-strixhaven-commander-deck-quandrix-unlimited/JJ8VP7KW9T/sku/6669860",
+        "everAvailable": true
       },
       "6669861": {
         "key": "6669861",
         "title": "Wizards of The Coast - Magic: The Gathering Marvel Super Heroes Bundle: Gift Edition",
         "price": "$74.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-bundle-gift-edition/JJ8VP7KXT3/sku/6669861"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-bundle-gift-edition/JJ8VP7KXT3/sku/6669861",
+        "everAvailable": true
       },
       "6669863": {
         "key": "6669863",
         "title": "Wizards of The Coast - Magic: The Gathering Marvel Super Heroes Commander Deck - Doom Prevails",
         "price": "$77.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-commander-deck-doom-prevails/JJ8VP7KSL7/sku/6669863"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-commander-deck-doom-prevails/JJ8VP7KSL7/sku/6669863",
+        "everAvailable": true
       },
       "6669864": {
         "key": "6669864",
         "title": "Wizards of The Coast - Magic: The Gathering Marvel Super Heroes Collector's Edition Commander Deck - Wakanda Forever",
         "price": "$164.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-collectors-edition-commander-deck-wakanda-forever/JJ8VP7KSWY/sku/6669864"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-collectors-edition-commander-deck-wakanda-forever/JJ8VP7KSWY/sku/6669864",
+        "everAvailable": true
       },
       "6669865": {
         "key": "6669865",
         "title": "Wizards of The Coast - Magic: The Gathering Marvel Super Heroes Commander Deck - Wakanda Forever",
         "price": "$77.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-commander-deck-wakanda-forever/JJ8VP7KSCZ/sku/6669865"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-commander-deck-wakanda-forever/JJ8VP7KSCZ/sku/6669865",
+        "everAvailable": true
       },
       "6669867": {
         "key": "6669867",
         "title": "Wizards of The Coast - Magic: The Gathering Marvel Super Heroes Collector's Edition Commander Deck - Doom Prevails",
         "price": "$164.99",
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-collectors-edition-commander-deck-doom-prevails/JJ8VP7KSK5/sku/6669867"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-collectors-edition-commander-deck-doom-prevails/JJ8VP7KSK5/sku/6669867",
+        "everAvailable": false
       },
       "6669868": {
         "key": "6669868",
         "title": "Wizards of The Coast - Magic: The Gathering Marvel Super Heroes Beginner Box",
         "price": "$34.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-beginner-box/JJ8VP7K8P9/sku/6669868"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-beginner-box/JJ8VP7K8P9/sku/6669868",
+        "everAvailable": true
       },
       "6669869": {
         "key": "6669869",
         "title": "Wizards of The Coast - Magic: The Gathering Secrets of Strixhaven Draft Night",
         "price": "$99.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-secrets-of-strixhaven-draft-night/JJ8VP7KY69/sku/6669869"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-secrets-of-strixhaven-draft-night/JJ8VP7KY69/sku/6669869",
+        "everAvailable": true
       },
       "6669870": {
         "key": "6669870",
         "title": "Wizards of The Coast - Magic: The Gathering Marvel Super Heroes Jumpstart Booster 2-Pack",
         "price": "$13.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-jumpstart-booster-2-pack/JJ8VP7KJYJ/sku/6669870"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-jumpstart-booster-2-pack/JJ8VP7KJYJ/sku/6669870",
+        "everAvailable": true
       },
       "6669872": {
         "key": "6669872",
         "title": "Wizards of The Coast - Magic: The Gathering Marvel Super Heroes Play Booster Box (30 Packs)",
         "price": "$189.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-play-booster-box-30-packs/JJ8VP7KJKP/sku/6669872"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-play-booster-box-30-packs/JJ8VP7KJKP/sku/6669872",
+        "everAvailable": true
       },
       "6669873": {
         "key": "6669873",
         "title": "Wizards of The Coast - Magic: The Gathering Marvel Super Heroes Commander Deck - The Fantastic Four",
         "price": "$39.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-commander-deck-the-fantastic-four/JJ8VP7KSGJ/sku/6669873"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-commander-deck-the-fantastic-four/JJ8VP7KSGJ/sku/6669873",
+        "everAvailable": true
       },
       "6669874": {
         "key": "6669874",
         "title": "Wizards of The Coast - Magic: The Gathering Marvel Super Heroes Bundle",
         "price": "$69.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-bundle/JJ8VP7KXQW/sku/6669874"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-bundle/JJ8VP7KXQW/sku/6669874",
+        "everAvailable": true
       },
       "6669876": {
         "key": "6669876",
         "title": "Wizards of The Coast - Magic: The Gathering Secrets of Strixhaven 60-Card Theme Deck (1 Theme Deck per Order) - Styles May Vary",
         "price": "$23.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-secrets-of-strixhaven-60-card-theme-deck-1-theme-deck-per-order-styles-may-vary/JJ8VP7KYSV/sku/6669876"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-secrets-of-strixhaven-60-card-theme-deck-1-theme-deck-per-order-styles-may-vary/JJ8VP7KYSV/sku/6669876",
+        "everAvailable": true
       },
       "6669877": {
         "key": "6669877",
         "title": "Wizards of The Coast - Magic: The Gathering Marvel Super Heroes Commander Deck - Avengers Assemble",
         "price": "$77.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-commander-deck-avengers-assemble/JJ8VP7KSJ4/sku/6669877"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-commander-deck-avengers-assemble/JJ8VP7KSJ4/sku/6669877",
+        "everAvailable": true
       },
       "6669878": {
         "key": "6669878",
         "title": "Wizards of The Coast - Magic: The Gathering Marvel Super Heroes Play Booster Sleeve",
         "price": "$6.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-play-booster-sleeve/JJ8VP7KC7R/sku/6669878"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-play-booster-sleeve/JJ8VP7KC7R/sku/6669878",
+        "everAvailable": true
       },
       "6669879": {
         "key": "6669879",
         "title": "Wizards of The Coast - Magic: The Gathering Secrets of Strixhaven Commander Deck - Silverquill Influence",
         "price": "$51.99",
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-secrets-of-strixhaven-commander-deck-silverquill-influence/JJ8VP7KTFW/sku/6669879"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-secrets-of-strixhaven-commander-deck-silverquill-influence/JJ8VP7KTFW/sku/6669879",
+        "everAvailable": true
       },
       "6669880": {
         "key": "6669880",
         "title": "Wizards of The Coast - Magic: The Gathering Marvel Super Heroes Collector's Edition Commander Deck - Avengers Assemble",
         "price": "$164.99",
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-collectors-edition-commander-deck-avengers-assemble/JJ8VP7KSTP/sku/6669880"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-collectors-edition-commander-deck-avengers-assemble/JJ8VP7KSTP/sku/6669880",
+        "everAvailable": false
       },
       "6669881": {
         "key": "6669881",
         "title": "Wizards of The Coast - Magic: The Gathering Marvel Super Heroes Scene Box (1 Scene Box per Order) - Styles May Vary",
         "price": "$41.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-scene-box-1-scene-box-per-order-styles-may-vary/JJ8VP7K7V5/sku/6669881"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-scene-box-1-scene-box-per-order-styles-may-vary/JJ8VP7K7V5/sku/6669881",
+        "everAvailable": true
       },
       "6669882": {
         "key": "6669882",
         "title": "Wizards of The Coast - Magic: The Gathering Secrets of Strixhaven Bundle",
         "price": "$57.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-secrets-of-strixhaven-bundle/JJ8VP7KLF3/sku/6669882"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-secrets-of-strixhaven-bundle/JJ8VP7KLF3/sku/6669882",
+        "everAvailable": true
       },
       "6669883": {
         "key": "6669883",
         "title": "Wizards of The Coast - Magic: The Gathering Secrets of Strixhaven Commander Deck - Lorehold Spirit",
         "price": "$51.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-secrets-of-strixhaven-commander-deck-lorehold-spirit/JJ8VP7KW7Z/sku/6669883"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-secrets-of-strixhaven-commander-deck-lorehold-spirit/JJ8VP7KW7Z/sku/6669883",
+        "everAvailable": true
       },
       "6669885": {
         "key": "6669885",
         "title": "Wizards of The Coast - Magic: The Gathering Marvel Super Heroes Collector's Edition Commander Deck - The Fantastic Four",
         "price": "$164.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-collectors-edition-commander-deck-the-fantastic-four/JJ8VP7KSKL/sku/6669885"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-marvel-super-heroes-collectors-edition-commander-deck-the-fantastic-four/JJ8VP7KSKL/sku/6669885",
+        "everAvailable": true
       },
       "6672167": {
         "key": "6672167",
         "title": "Wizards of The Coast - Magic: The Gathering: The Lord of the Rings: Tales of Middle-Earth Commander Deck (1 Commander Deck per Order) - Styles May Vary",
         "price": "$64.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-lord-of-the-rings-tales-of-middle-earth-commander-deck-1-commander-deck-per-order-styles-may-vary/JJ8VP792CK/sku/6672167"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-lord-of-the-rings-tales-of-middle-earth-commander-deck-1-commander-deck-per-order-styles-may-vary/JJ8VP792CK/sku/6672167",
+        "everAvailable": true
       },
       "6678101": {
         "key": "6678101",
         "title": "Wizards of The Coast - Magic: The Gathering - The Hobbit Gift Bundle",
         "price": "$89.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-hobbit-gift-bundle/JJ8VP7KQ2T/sku/6678101"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-hobbit-gift-bundle/JJ8VP7KQ2T/sku/6678101",
+        "everAvailable": true
       },
       "6678102": {
         "key": "6678102",
         "title": "Wizards of The Coast - Magic: The Gathering - The Hobbit Scene Box (1 Scene Box per Order) - Styles May Vary",
         "price": "$41.99",
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-hobbit-scene-box-1-scene-box-per-order-styles-may-vary/JJ8VP7KQLK/sku/6678102"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-hobbit-scene-box-1-scene-box-per-order-styles-may-vary/JJ8VP7KQLK/sku/6678102",
+        "everAvailable": true
       },
       "6678103": {
         "key": "6678103",
         "title": "Wizards of The Coast - Magic: The Gathering - The Hobbit Collector Booster",
         "price": "$41.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-hobbit-collector-booster/JJ8VP7KQ27/sku/6678103"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-hobbit-collector-booster/JJ8VP7KQ27/sku/6678103",
+        "everAvailable": true
       },
       "6678107": {
         "key": "6678107",
         "title": "Wizards of The Coast - Magic: The Gathering - The Hobbit Collector Booster Box (12 Packs)",
         "price": "$449.99",
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-hobbit-collector-booster-box-12-packs/JJ8VP7KQJ9/sku/6678107"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-hobbit-collector-booster-box-12-packs/JJ8VP7KQJ9/sku/6678107",
+        "everAvailable": false
       },
       "6678109": {
         "key": "6678109",
         "title": "Wizards of The Coast - Magic: The Gathering - The Hobbit Draft Night",
         "price": "$129.99",
         "available": false,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-hobbit-draft-night/JJ8VP7KQG6/sku/6678109"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-hobbit-draft-night/JJ8VP7KQG6/sku/6678109",
+        "everAvailable": false
       },
       "6678110": {
         "key": "6678110",
         "title": "Wizards of The Coast - Magic: The Gathering - The Hobbit Play Booster Box (30 Packs)",
         "price": "$189.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-hobbit-play-booster-box-30-packs/JJ8VP7KRVW/sku/6678110"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-hobbit-play-booster-box-30-packs/JJ8VP7KRVW/sku/6678110",
+        "everAvailable": true
       },
       "6678111": {
         "key": "6678111",
         "title": "Wizards of The Coast - Magic: The Gathering - The Hobbit Play Booster Sleeve",
         "price": "$6.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-hobbit-play-booster-sleeve/JJ8VP7KQ7G/sku/6678111"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-hobbit-play-booster-sleeve/JJ8VP7KQ7G/sku/6678111",
+        "everAvailable": true
       },
       "6678112": {
         "key": "6678112",
         "title": "Wizards of The Coast - Magic: The Gathering - The Hobbit Bundle",
         "price": "$69.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-hobbit-bundle/JJ8VP7KQXF/sku/6678112"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-the-hobbit-bundle/JJ8VP7KQXF/sku/6678112",
+        "everAvailable": true
       },
       "6678185": {
         "key": "6678185",
         "title": "Wizards of The Coast - Magic: The Gathering Reality Fracture - Draft Night",
         "price": "$99.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-reality-fracture-draft-night/JJ8VP7ZR62/sku/6678185"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-reality-fracture-draft-night/JJ8VP7ZR62/sku/6678185",
+        "everAvailable": true
       },
       "6678190": {
         "key": "6678190",
         "title": "Wizards of The Coast - Magic: The Gathering Reality Fracture - Bundle",
         "price": "$57.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-reality-fracture-bundle/JJ8VP7ZR93/sku/6678190"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-reality-fracture-bundle/JJ8VP7ZR93/sku/6678190",
+        "everAvailable": true
       },
       "6678191": {
         "key": "6678191",
         "title": "Wizards of The Coast - Magic: The Gathering Reality Fracture - Secret Lair Bundle",
         "price": "$94.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-reality-fracture-secret-lair-bundle/JJ8VP7ZRRC/sku/6678191"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-reality-fracture-secret-lair-bundle/JJ8VP7ZRRC/sku/6678191",
+        "everAvailable": true
       },
       "6678192": {
         "key": "6678192",
         "title": "Wizards of The Coast - Magic: The Gathering Reality Fracture - Collector Booster Box (12 Packs)",
         "price": "$319.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-reality-fracture-collector-booster-box-12-packs/JJ8VP7ZRYS/sku/6678192"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-reality-fracture-collector-booster-box-12-packs/JJ8VP7ZRYS/sku/6678192",
+        "everAvailable": true
       },
       "6678193": {
         "key": "6678193",
         "title": "Wizards of The Coast - Magic: The Gathering Reality Fracture - Play Booster Box (30 Packs)",
         "price": "$154.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-reality-fracture-play-booster-box-30-packs/JJ8VP7Z65T/sku/6678193"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-reality-fracture-play-booster-box-30-packs/JJ8VP7Z65T/sku/6678193",
+        "everAvailable": true
       },
       "6678304": {
         "key": "6678304",
         "title": "Wizards of The Coast - Magic: The Gathering Reality Fracture - Commander Deck",
         "price": "$49.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-reality-fracture-commander-deck/JJ8VP7ZRQ5/sku/6678304"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-reality-fracture-commander-deck/JJ8VP7ZRQ5/sku/6678304",
+        "everAvailable": true
       },
       "6686924": {
         "key": "6686924",
         "title": "Wizards of The Coast - Magic: The Gathering Star Trek Collector Booster Box (12 Packs)",
         "price": "$479.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-collector-booster-box-12-packs/JJ8VP7ZYQC/sku/6686924"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-collector-booster-box-12-packs/JJ8VP7ZYQC/sku/6686924",
+        "everAvailable": true
       },
       "6686926": {
         "key": "6686926",
         "title": "Wizards of The Coast - Magic: The Gathering Star Trek Bundle",
         "price": "$69.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-bundle/JJ8VP7ZYV6/sku/6686926"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-bundle/JJ8VP7ZYV6/sku/6686926",
+        "everAvailable": true
       },
       "6686927": {
         "key": "6686927",
         "title": "Wizards of The Coast - Magic: The Gathering Star Trek Commander Deck - Klingon Fury",
         "price": "$74.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-commander-deck-klingon-fury/JJ8VP7ZT82/sku/6686927"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-commander-deck-klingon-fury/JJ8VP7ZT82/sku/6686927",
+        "everAvailable": true
       },
       "6686928": {
         "key": "6686928",
         "title": "Wizards of The Coast - Magic: The Gathering Star Trek Collector's Edition Commander Deck - Landing Party",
         "price": "$164.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-collectors-edition-commander-deck-landing-party/JJ8VP7ZHP2/sku/6686928"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-collectors-edition-commander-deck-landing-party/JJ8VP7ZHP2/sku/6686928",
+        "everAvailable": true
       },
       "6686930": {
         "key": "6686930",
         "title": "Wizards of The Coast - Magic: The Gathering Star Trek Commander Deck - Landing Party",
         "price": "$74.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-commander-deck-landing-party/JJ8VP7ZT2T/sku/6686930"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-commander-deck-landing-party/JJ8VP7ZT2T/sku/6686930",
+        "everAvailable": true
       },
       "6686932": {
         "key": "6686932",
         "title": "Wizards of The Coast - Magic: The Gathering Star Trek Commander Deck - We Are The Borg",
         "price": "$74.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-commander-deck-we-are-the-borg/JJ8VP7ZTGY/sku/6686932"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-commander-deck-we-are-the-borg/JJ8VP7ZTGY/sku/6686932",
+        "everAvailable": true
       },
       "6686933": {
         "key": "6686933",
         "title": "Wizards of The Coast - Magic: The Gathering Star Trek Collector's Edition Commander Deck - Klingon Fury",
         "price": "$164.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-collectors-edition-commander-deck-klingon-fury/JJ8VP7ZHPT/sku/6686933"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-collectors-edition-commander-deck-klingon-fury/JJ8VP7ZHPT/sku/6686933",
+        "everAvailable": true
       },
       "6686934": {
         "key": "6686934",
         "title": "Wizards of The Coast - Magic: The Gathering Star Trek Commander Deck - Federation Fleet",
         "price": "$74.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-commander-deck-federation-fleet/JJ8VP7ZT22/sku/6686934"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-commander-deck-federation-fleet/JJ8VP7ZT22/sku/6686934",
+        "everAvailable": true
       },
       "6686937": {
         "key": "6686937",
         "title": "Wizards of The Coast - Magic: The Gathering Star Trek Play Booster Box (30 Packs)",
         "price": "$199.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-play-booster-box-30-packs/JJ8VP7ZLHQ/sku/6686937"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-play-booster-box-30-packs/JJ8VP7ZLHQ/sku/6686937",
+        "everAvailable": true
       },
       "6686939": {
         "key": "6686939",
         "title": "Wizards of The Coast - Magic: The Gathering Star Trek Beam Me Up Bundle",
         "price": "$104.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-beam-me-up-bundle/JJ8VP7ZYF7/sku/6686939"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-beam-me-up-bundle/JJ8VP7ZYF7/sku/6686939",
+        "everAvailable": true
       },
       "6686940": {
         "key": "6686940",
         "title": "Wizards of The Coast - Magic: The Gathering Star Trek Collector's Edition Commander Deck - We Are The Borg",
         "price": "$164.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-collectors-edition-commander-deck-we-are-the-borg/JJ8VP7ZHSQ/sku/6686940"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-collectors-edition-commander-deck-we-are-the-borg/JJ8VP7ZHSQ/sku/6686940",
+        "everAvailable": true
       },
       "6686942": {
         "key": "6686942",
         "title": "Wizards of The Coast - Magic: The Gathering Star Trek Draft Night",
         "price": "$124.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-draft-night/JJ8VP7Z6HR/sku/6686942"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-draft-night/JJ8VP7Z6HR/sku/6686942",
+        "everAvailable": true
       },
       "6686943": {
         "key": "6686943",
         "title": "Wizards of The Coast - Magic: The Gathering Star Trek Collector's Edition Commander Deck - Federation Fleet",
         "price": "$164.99",
         "available": true,
-        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-collectors-edition-commander-deck-federation-fleet/JJ8VP7ZHGY/sku/6686943"
+        "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-collectors-edition-commander-deck-federation-fleet/JJ8VP7ZHGY/sku/6686943",
+        "everAvailable": true
       }
     },
     "pendingRestock": {}

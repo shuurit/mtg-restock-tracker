@@ -1,11 +1,16 @@
 # mtg-restock-tracker
 
 Checks Amazon and Best Buy for Magic: The Gathering (Wizards of The Coast)
-products once an hour and posts to Discord on a **restock** — a
-previously-tracked product that flips from unavailable to available.
-Brand-new products are silently added to the tracked set the first time
-they're seen (whatever their availability), with no alert — this tracker
-is restock-only by design, not a "new product" feed.
+products once an hour and posts to Discord on:
+
+- 🔄 **RESTOCK** — a tracked product that was buyable before, went
+  unavailable, and is buyable again (both sources).
+- 🛒 **NOW ORDERABLE** — a tracked product that has never been buyable
+  becomes buyable for the first time, e.g. a preorder listing that went
+  up with no price and then opens (both sources).
+- 🆕 **NEW** — a product appears on the Amazon storefront that has never
+  been seen before, e.g. a new preorder wave (Amazon only; new Best Buy
+  listings are tracked silently).
 
 Sources tracked:
 
