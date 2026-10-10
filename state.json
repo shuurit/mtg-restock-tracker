@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-10T20:18:32.301Z",
+  "lastChecked": "2026-10-10T21:18:41.453Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -113,7 +113,7 @@
       "B0GXC667JV": {
         "key": "B0GXC667JV",
         "title": "Magic: The Gathering Reality Fracture Collector Booster Box | 12 Packs",
-        "price": "$499.74",
+        "price": "$499.45",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC667JV",
@@ -234,7 +234,7 @@
         "key": "B0H6H8KS14",
         "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
         "price": "$159.99",
-        "available": false,
+        "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H8KS14",
         "tabs": [
@@ -245,7 +245,7 @@
       "B0H6H4PL4G": {
         "key": "B0H6H4PL4G",
         "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
-        "price": null,
+        "price": "$224.97",
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H4PL4G",
@@ -353,9 +353,9 @@
       "B0GF4MXFPC": {
         "key": "B0GF4MXFPC",
         "title": "Magic: The Gathering | Marvel Super Heroes Play Booster Box | 30 Packs | Collectible Trading Card Game",
-        "price": "$124.98",
+        "price": "$148.50",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
         "tabs": [
           "new_releases"
@@ -365,9 +365,9 @@
       "B0G87JWX8L": {
         "key": "B0G87JWX8L",
         "title": "Magic: The Gathering | Marvel Super Heroes Beginner Box | 2-Player Card Game | Includes 2 Tutorial Decks, 8 Themed Half-Decks, 2 Playboards, 2 Spindowns, and More",
-        "price": "$26.95",
+        "price": "$26.99",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 12 left in stock",
         "url": "https://www.amazon.com/dp/B0G87JWX8L",
         "tabs": [
           "new_releases"
@@ -475,7 +475,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Avengers Assemble (100-Card Deck + Accessories)",
         "price": "$51.98",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 19 left in stock",
         "url": "https://www.amazon.com/dp/B0G86YW5XX",
         "tabs": [
           "new_releases"
@@ -521,7 +521,7 @@
       "B0G89MWJMC": {
         "key": "B0G89MWJMC",
         "title": "Magic: The Gathering | Marvel Super Heroes Scene Box - Heroes United | 6 Foil Borderless Scene Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
-        "price": "$29.95",
+        "price": "$29.93",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G89MWJMC",
@@ -964,19 +964,19 @@
       }
     },
     "pendingRestock": {
-      "B0H6H8KS14": {
+      "B0H6H4PL4G": {
         "item": {
-          "key": "B0H6H8KS14",
-          "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
-          "price": "$159.99",
+          "key": "B0H6H4PL4G",
+          "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
+          "price": "$224.97",
           "available": true,
           "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0H6H8KS14",
+          "url": "https://www.amazon.com/dp/B0H6H4PL4G",
           "tabs": [
             "preorder"
           ]
         },
-        "firstSeenAt": 1791663512302
+        "firstSeenAt": 1791667121453
       }
     }
   },
