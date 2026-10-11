@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-11T02:18:49.719Z",
+  "lastChecked": "2026-10-11T03:19:01.741Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -367,7 +367,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Beginner Box | 2-Player Card Game | Includes 2 Tutorial Decks, 8 Themed Half-Decks, 2 Playboards, 2 Spindowns, and More",
         "price": "$26.99",
         "available": true,
-        "lowStockNote": "Only 7 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87JWX8L",
         "tabs": [
           "new_releases"
@@ -475,7 +475,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Avengers Assemble (100-Card Deck + Accessories)",
         "price": "$51.98",
         "available": true,
-        "lowStockNote": "Only 14 left in stock",
+        "lowStockNote": "Only 12 left in stock",
         "url": "https://www.amazon.com/dp/B0G86YW5XX",
         "tabs": [
           "new_releases"
@@ -521,7 +521,7 @@
       "B0G89MWJMC": {
         "key": "B0G89MWJMC",
         "title": "Magic: The Gathering | Marvel Super Heroes Scene Box - Heroes United | 6 Foil Borderless Scene Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
-        "price": "$29.84",
+        "price": "$29.83",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G89MWJMC",
@@ -689,7 +689,7 @@
       "B0FKG7FYDF": {
         "key": "B0FKG7FYDF",
         "title": "Strixhaven: Omens of Chaos (Magic: The Gathering)",
-        "price": "$14.99",
+        "price": "$1.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0FKG7FYDF",
