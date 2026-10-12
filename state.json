@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-12T06:18:58.975Z",
+  "lastChecked": "2026-10-12T07:18:53.384Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -65,7 +65,7 @@
       "B0GWS4ZRT8": {
         "key": "B0GWS4ZRT8",
         "title": "Magic: The Gathering | The Hobbit Scene Box - Crack the Plates| 6 Foil Borderless Scene Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
-        "price": "$59.90",
+        "price": "$61.55",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS4ZRT8",
@@ -175,7 +175,7 @@
         "title": "Magic: The Gathering Reality Fracture Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens",
         "price": "$99.99",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 3 left in stock",
         "url": "https://www.amazon.com/dp/B0GXC9JFZY",
         "tabs": [
           "new_releases"
@@ -367,7 +367,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Beginner Box | 2-Player Card Game | Includes 2 Tutorial Decks, 8 Themed Half-Decks, 2 Playboards, 2 Spindowns, and More",
         "price": "$26.99",
         "available": true,
-        "lowStockNote": "Only 3 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87JWX8L",
         "tabs": [
           "new_releases"
@@ -473,7 +473,7 @@
       "B0G86YW5XX": {
         "key": "B0G86YW5XX",
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Avengers Assemble (100-Card Deck + Accessories)",
-        "price": "$54.88",
+        "price": "$54.86",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G86YW5XX",
