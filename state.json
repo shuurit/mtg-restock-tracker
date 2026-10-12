@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-12T14:18:47.987Z",
+  "lastChecked": "2026-10-12T15:18:52.881Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -581,9 +581,9 @@
       "B0G87BJ9F3": {
         "key": "B0G87BJ9F3",
         "title": "Magic: The Gathering Secrets of Strixhaven Collector Booster (1 Pack of 15 Cards)",
-        "price": "$47.00",
+        "price": "$59.75",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0G87BJ9F3",
         "tabs": [
           "new_releases"
@@ -689,7 +689,7 @@
       "B0FKG7FYDF": {
         "key": "B0FKG7FYDF",
         "title": "Strixhaven: Omens of Chaos (Magic: The Gathering)",
-        "price": "$1.99",
+        "price": "$14.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0FKG7FYDF",
