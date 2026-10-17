@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-17T14:18:58.255Z",
+  "lastChecked": "2026-10-17T15:19:20.050Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -29,9 +29,9 @@
       "B0GWS9J9VT": {
         "key": "B0GWS9J9VT",
         "title": "Magic: The Gathering | The Hobbit Collector Booster | 1 Pack (15 Cards) | Collectible Trading Card Game",
-        "price": "$78.97",
+        "price": "$79.90",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS9J9VT",
         "tabs": [
           "new_releases"
@@ -41,9 +41,9 @@
       "B0GWSB7V4T": {
         "key": "B0GWSB7V4T",
         "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
-        "price": "$72.23",
+        "price": "$59.99",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
         "tabs": [
           "new_releases"
@@ -65,7 +65,7 @@
       "B0GWS4ZRT8": {
         "key": "B0GWS4ZRT8",
         "title": "Magic: The Gathering | The Hobbit Scene Box - Crack the Plates| 6 Foil Borderless Scene Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
-        "price": "$60.09",
+        "price": "$60.05",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS4ZRT8",
@@ -77,9 +77,9 @@
       "B0GWRZF6HC": {
         "key": "B0GWRZF6HC",
         "title": "Magic: The Gathering | The Hobbit Box - Treasures of Smaug | 6 Foil Borderless Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
-        "price": "$75.38",
+        "price": "$75.35",
         "available": true,
-        "lowStockNote": "Only 4 left in stock",
+        "lowStockNote": "Only 12 left in stock",
         "url": "https://www.amazon.com/dp/B0GWRZF6HC",
         "tabs": [
           "new_releases"
@@ -91,7 +91,7 @@
         "title": "Magic: The Gathering | The Hobbit Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens | Collectible Trading Card Game",
         "price": "$139.93",
         "available": true,
-        "lowStockNote": "Only 8 left in stock",
+        "lowStockNote": "Only 7 left in stock",
         "url": "https://www.amazon.com/dp/B0GWS582CC",
         "tabs": [
           "new_releases"
@@ -137,7 +137,7 @@
       "B0GXC9SDV9": {
         "key": "B0GXC9SDV9",
         "title": "Magic: The Gathering Reality Fracture Commander Deck - Multiverse Reforged | 100-Card Deck + Accessories",
-        "price": "$62.86",
+        "price": "$49.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
@@ -449,7 +449,7 @@
       "B0GF44KXT4": {
         "key": "B0GF44KXT4",
         "title": "Magic: The Gathering | Marvel Super Heroes Collector’s Edition Commander Deck Bundle - Includes All 4 Surge Foil Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
-        "price": "$469.93",
+        "price": "$469.90",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF44KXT4",
@@ -509,7 +509,7 @@
       "B0G87C83NR": {
         "key": "B0G87C83NR",
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Doom Prevails (100-Card Deck + Accessories)",
-        "price": "$63.26",
+        "price": "$63.18",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87C83NR",
@@ -569,7 +569,7 @@
       "B0GFDD1RLS": {
         "key": "B0GFDD1RLS",
         "title": "Magic: The Gathering Secrets of Strixhaven - Collector Booster Box (12 Packs)",
-        "price": "$584.62",
+        "price": "$598.88",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GFDD1RLS",
