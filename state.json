@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-18T07:18:54.209Z",
+  "lastChecked": "2026-10-18T08:18:53.406Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -10,6 +10,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBJG9L",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -46,6 +47,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -77,9 +79,9 @@
       "B0GWRZF6HC": {
         "key": "B0GWRZF6HC",
         "title": "Magic: The Gathering | The Hobbit Box - Treasures of Smaug | 6 Foil Borderless Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
-        "price": "$74.91",
+        "price": "$74.88",
         "available": true,
-        "lowStockNote": "Only 10 left in stock",
+        "lowStockNote": "Only 8 left in stock",
         "url": "https://www.amazon.com/dp/B0GWRZF6HC",
         "tabs": [
           "new_releases"
@@ -94,6 +96,7 @@
         "lowStockNote": "Only 11 left in stock",
         "url": "https://www.amazon.com/dp/B0GWS582CC",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -106,6 +109,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCHBRTC",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -142,6 +146,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -154,6 +159,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9W89R",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -173,7 +179,7 @@
       "B0GXC9JFZY": {
         "key": "B0GXC9JFZY",
         "title": "Magic: The Gathering Reality Fracture Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens",
-        "price": "$99.99",
+        "price": "$99.94",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9JFZY",
@@ -190,6 +196,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H2D3JF",
         "tabs": [
+          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -226,6 +233,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H1XTK6",
         "tabs": [
+          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -282,10 +290,11 @@
         "key": "B0GXCBW828",
         "title": "Magic: The Gathering Foundations Commander Deck Bundle - All 5 Decks (Calling All Angels, Keen Engineering, Wretched Ranks, Reign of Dragons, Tramplesaurus Rex)",
         "price": "$149.95",
-        "available": false,
+        "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBW828",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -298,6 +307,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCH6X4K",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -322,6 +332,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC5T8LG",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -329,7 +340,7 @@
       "B0GXCBTVG4": {
         "key": "B0GXCBTVG4",
         "title": "Magic: The Gathering Foundations Commander Deck - Reign of Dragons | 100-Card Deck + Accessories",
-        "price": "$53.95",
+        "price": "$35.44",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBTVG4",
@@ -342,7 +353,7 @@
         "key": "B0GXC8T76T",
         "title": "Magic: The Gathering Foundations Commander Deck - Tramplesaurus Rex | 100-Card Deck + Accessories",
         "price": "$29.99",
-        "available": false,
+        "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC8T76T",
         "tabs": [
@@ -358,6 +369,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -382,6 +394,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G867CCWN",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -403,7 +416,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Collector Booster | 1 Pack of 15 Cards | Collectible Trading Card Game",
         "price": "$44.99",
         "available": true,
-        "lowStockNote": "Only 11 left in stock",
+        "lowStockNote": "Only 10 left in stock",
         "url": "https://www.amazon.com/dp/B0G8836V29",
         "tabs": [
           "new_releases"
@@ -418,6 +431,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -437,7 +451,7 @@
       "B0GF4M5P4C": {
         "key": "B0GF4M5P4C",
         "title": "Magic: The Gathering | Marvel Super Heroes Jumpstart Booster Box | 24 Packs | 2-Player Card Game",
-        "price": "$119.65",
+        "price": "$119.62",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4M5P4C",
@@ -509,7 +523,7 @@
       "B0G87C83NR": {
         "key": "B0G87C83NR",
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Doom Prevails (100-Card Deck + Accessories)",
-        "price": "$62.17",
+        "price": "$62.09",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87C83NR",
@@ -557,9 +571,9 @@
       "B0G86Z91GX": {
         "key": "B0G86Z91GX",
         "title": "Magic: The Gathering Secrets of Strixhaven - Draft Night (1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Token Cards)",
-        "price": "$89.98",
+        "price": "$99.76",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G86Z91GX",
         "tabs": [
           "new_releases"
@@ -821,11 +835,12 @@
       "B0HK5SVVTY": {
         "key": "B0HK5SVVTY",
         "title": "Magic: The Gathering | Marvel: Darkhold Destiny | Booster Display (30 Packs)",
-        "price": null,
+        "price": "$209.70",
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK5SVVTY",
         "tabs": [
+          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -845,11 +860,12 @@
       "B0HK5TJJR5": {
         "key": "B0HK5TJJR5",
         "title": "Magic: The Gathering | Marvel: Darkhold Destiny Collector’s Edition | Commander Deck Bundle (Includes All 4 Surge Foil Decks (Strange Academy, Gods of Asgard, Midnight Sons, Lords of Hel)",
-        "price": null,
+        "price": "$639.96",
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK5TJJR5",
         "tabs": [
+          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -917,11 +933,12 @@
       "B0HK6BMDNT": {
         "key": "B0HK6BMDNT",
         "title": "Magic: The Gathering | Marvel: Darkhold Destiny | Bundle (9 Booster Packs, 30 Lands, 1 Foil Mythic Promo Card + Exclusive Accessories)",
-        "price": null,
+        "price": "$69.99",
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK6BMDNT",
         "tabs": [
+          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -976,33 +993,50 @@
       }
     },
     "pendingRestock": {
-      "B0GXCBW828": {
+      "B0HK5SVVTY": {
         "item": {
-          "key": "B0GXCBW828",
-          "title": "Magic: The Gathering Foundations Commander Deck Bundle - All 5 Decks (Calling All Angels, Keen Engineering, Wretched Ranks, Reign of Dragons, Tramplesaurus Rex)",
-          "price": "$149.95",
+          "key": "B0HK5SVVTY",
+          "title": "Magic: The Gathering | Marvel: Darkhold Destiny | Booster Display (30 Packs)",
+          "price": "$209.70",
           "available": true,
           "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0GXCBW828",
+          "url": "https://www.amazon.com/dp/B0HK5SVVTY",
           "tabs": [
-            "new_releases"
+            "home",
+            "preorder"
           ]
         },
-        "firstSeenAt": 1792307934209
+        "firstSeenAt": 1792311533406
       },
-      "B0GXC8T76T": {
+      "B0HK6BMDNT": {
         "item": {
-          "key": "B0GXC8T76T",
-          "title": "Magic: The Gathering Foundations Commander Deck - Tramplesaurus Rex | 100-Card Deck + Accessories",
-          "price": "$29.99",
+          "key": "B0HK6BMDNT",
+          "title": "Magic: The Gathering | Marvel: Darkhold Destiny | Bundle (9 Booster Packs, 30 Lands, 1 Foil Mythic Promo Card + Exclusive Accessories)",
+          "price": "$69.99",
           "available": true,
           "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0GXC8T76T",
+          "url": "https://www.amazon.com/dp/B0HK6BMDNT",
           "tabs": [
-            "new_releases"
+            "home",
+            "preorder"
           ]
         },
-        "firstSeenAt": 1792307934209
+        "firstSeenAt": 1792311533406
+      },
+      "B0HK5TJJR5": {
+        "item": {
+          "key": "B0HK5TJJR5",
+          "title": "Magic: The Gathering | Marvel: Darkhold Destiny Collector’s Edition | Commander Deck Bundle (Includes All 4 Surge Foil Decks (Strange Academy, Gods of Asgard, Midnight Sons, Lords of Hel)",
+          "price": "$639.96",
+          "available": true,
+          "lowStockNote": null,
+          "url": "https://www.amazon.com/dp/B0HK5TJJR5",
+          "tabs": [
+            "home",
+            "preorder"
+          ]
+        },
+        "firstSeenAt": 1792311533406
       }
     }
   },
