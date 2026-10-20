@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-20T18:18:48.570Z",
+  "lastChecked": "2026-10-20T19:18:54.538Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -32,7 +32,7 @@
         "title": "Magic: The Gathering | The Hobbit Collector Booster | 1 Pack (15 Cards) | Collectible Trading Card Game",
         "price": "$78.95",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS9J9VT",
         "tabs": [
           "new_releases"
@@ -42,7 +42,7 @@
       "B0GWSB7V4T": {
         "key": "B0GWSB7V4T",
         "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
-        "price": "$72.25",
+        "price": "$59.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
@@ -216,7 +216,7 @@
       "B0H6H2VXJB": {
         "key": "B0H6H2VXJB",
         "title": "Magic: The Gathering | Star Trek Collector Booster Box",
-        "price": "$455.88",
+        "price": "$645.88",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H2VXJB",
@@ -228,7 +228,7 @@
       "B0H6H1XTK6": {
         "key": "B0H6H1XTK6",
         "title": "Magic: The Gathering | Star Trek Bundle",
-        "price": "$69.82",
+        "price": "$69.71",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H1XTK6",
@@ -241,7 +241,7 @@
       "B0H6H8KS14": {
         "key": "B0H6H8KS14",
         "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
-        "price": "$74.99",
+        "price": "$139.45",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H8KS14",
@@ -253,7 +253,7 @@
       "B0H6H4PL4G": {
         "key": "B0H6H4PL4G",
         "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
-        "price": "$224.97",
+        "price": "$288.88",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H4PL4G",
@@ -302,9 +302,9 @@
       "B0GXCH6X4K": {
         "key": "B0GXCH6X4K",
         "title": "Magic: The Gathering Foundations Commander Deck - Keen Engineering | 100-Card Deck + Accessories",
-        "price": "$42.07",
+        "price": "$39.97",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 7 left in stock",
         "url": "https://www.amazon.com/dp/B0GXCH6X4K",
         "tabs": [
           "home",
@@ -451,7 +451,7 @@
       "B0GF4M5P4C": {
         "key": "B0GF4M5P4C",
         "title": "Magic: The Gathering | Marvel Super Heroes Jumpstart Booster Box | 24 Packs | 2-Player Card Game",
-        "price": "$119.78",
+        "price": "$119.75",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4M5P4C",
@@ -487,7 +487,7 @@
       "B0G86YW5XX": {
         "key": "B0G86YW5XX",
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Avengers Assemble (100-Card Deck + Accessories)",
-        "price": "$54.84",
+        "price": "$54.43",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G86YW5XX",
@@ -523,7 +523,7 @@
       "B0G87C83NR": {
         "key": "B0G87C83NR",
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Doom Prevails (100-Card Deck + Accessories)",
-        "price": "$63.09",
+        "price": "$63.01",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87C83NR",
@@ -571,7 +571,7 @@
       "B0G86Z91GX": {
         "key": "B0G86Z91GX",
         "title": "Magic: The Gathering Secrets of Strixhaven - Draft Night (1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Token Cards)",
-        "price": "$89.94",
+        "price": "$99.76",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G86Z91GX",
