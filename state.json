@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-21T15:18:58.755Z",
+  "lastChecked": "2026-10-21T16:19:08.504Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -31,7 +31,7 @@
         "title": "Magic: The Gathering | The Hobbit Collector Booster | 1 Pack (15 Cards) | Collectible Trading Card Game",
         "price": "$79.90",
         "available": true,
-        "lowStockNote": "Only 17 left in stock",
+        "lowStockNote": "Only 15 left in stock",
         "url": "https://www.amazon.com/dp/B0GWS9J9VT",
         "tabs": [
           "new_releases"
@@ -233,7 +233,7 @@
       "B0H6H8KS14": {
         "key": "B0H6H8KS14",
         "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
-        "price": "$74.99",
+        "price": "$149.90",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H8KS14",
@@ -245,7 +245,7 @@
       "B0H6H4PL4G": {
         "key": "B0H6H4PL4G",
         "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
-        "price": "$289.99",
+        "price": "$224.97",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H4PL4G",
@@ -257,7 +257,7 @@
       "B0H6GPSGC2": {
         "key": "B0H6GPSGC2",
         "title": "Magic: The Gathering | Star Trek Collector's Edition Commander Deck Bundle",
-        "price": "$849.95",
+        "price": "$639.96",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6GPSGC2",
@@ -415,7 +415,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Bundle | Includes 9 Play Boosters, 30 Lands, 1 Foil Alt-Art Promo Card + Exclusive Accessories | Collectible Trading Card Game",
         "price": "$49.99",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 15 left in stock",
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
         "tabs": [
           "new_releases"
@@ -605,7 +605,7 @@
       "B0G87VXM5G": {
         "key": "B0G87VXM5G",
         "title": "Magic: The Gathering Secrets of Strixhaven - Codex Bundle (2 Collector Boosters, 6 Play Boosters, 2 Foil Promo Cards, 20 Foil Lands, 1 Spindown)",
-        "price": "$168.95",
+        "price": "$168.94",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87VXM5G",
