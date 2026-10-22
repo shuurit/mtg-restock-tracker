@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-22T04:18:53.647Z",
+  "lastChecked": "2026-10-22T05:18:55.085Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -245,7 +245,7 @@
       "B0H6H4PL4G": {
         "key": "B0H6H4PL4G",
         "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
-        "price": "$224.97",
+        "price": "$219.95",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H4PL4G",
@@ -473,7 +473,7 @@
       "B0G86YW5XX": {
         "key": "B0G86YW5XX",
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Avengers Assemble (100-Card Deck + Accessories)",
-        "price": "$54.35",
+        "price": "$53.91",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G86YW5XX",
@@ -499,7 +499,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - The Fantastic Four (100-Card Deck + Accessories)",
         "price": "$48.98",
         "available": true,
-        "lowStockNote": "Only 11 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CH7TH",
         "tabs": [
           "new_releases"
