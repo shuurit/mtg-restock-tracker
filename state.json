@@ -1,11 +1,11 @@
 {
-  "lastChecked": "2026-10-22T16:19:16.670Z",
+  "lastChecked": "2026-10-22T17:26:33.169Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
         "key": "B0GXCBJG9L",
         "title": "Magic: The Gathering | The Hobbit Play Booster Box | 30 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-        "price": "$161.93",
+        "price": "$157.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBJG9L",
@@ -29,7 +29,7 @@
       "B0GWS9J9VT": {
         "key": "B0GWS9J9VT",
         "title": "Magic: The Gathering | The Hobbit Collector Booster | 1 Pack (15 Cards) | Collectible Trading Card Game",
-        "price": "$78.25",
+        "price": "$77.63",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS9J9VT",
@@ -113,7 +113,7 @@
       "B0GXC667JV": {
         "key": "B0GXC667JV",
         "title": "Magic: The Gathering Reality Fracture Collector Booster Box | 12 Packs",
-        "price": "$459.76",
+        "price": "$459.74",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC667JV",
@@ -125,7 +125,7 @@
       "B0GXCC47X5": {
         "key": "B0GXCC47X5",
         "title": "Magic: The Gathering Reality Fracture Collector Booster | 1 Pack (15 Cards)",
-        "price": "$40.45",
+        "price": "$26.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCC47X5",
@@ -137,7 +137,7 @@
       "B0GXC9SDV9": {
         "key": "B0GXC9SDV9",
         "title": "Magic: The Gathering Reality Fracture Commander Deck - Multiverse Reforged | 100-Card Deck + Accessories",
-        "price": "$49.77",
+        "price": "$49.97",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
@@ -185,7 +185,7 @@
       "B0H6H2D3JF": {
         "key": "B0H6H2D3JF",
         "title": "Magic: The Gathering | Star Trek Play Booster Box",
-        "price": "$156.17",
+        "price": "$156.05",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H2D3JF",
@@ -473,7 +473,7 @@
       "B0G86YW5XX": {
         "key": "B0G86YW5XX",
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Avengers Assemble (100-Card Deck + Accessories)",
-        "price": "$53.62",
+        "price": "$54.84",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G86YW5XX",
@@ -499,7 +499,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - The Fantastic Four (100-Card Deck + Accessories)",
         "price": "$48.98",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 10 left in stock",
         "url": "https://www.amazon.com/dp/B0G87CH7TH",
         "tabs": [
           "new_releases"
@@ -569,9 +569,9 @@
       "B0GFDD1RLS": {
         "key": "B0GFDD1RLS",
         "title": "Magic: The Gathering Secrets of Strixhaven - Collector Booster Box (12 Packs)",
-        "price": "$584.62",
+        "price": "$598.88",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 2 left in stock",
         "url": "https://www.amazon.com/dp/B0GFDD1RLS",
         "tabs": [
           "new_releases"
@@ -641,7 +641,7 @@
       "B0G87JBK84": {
         "key": "B0G87JBK84",
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Prismari Artistry (100-Card Deck, Deck Box + Accessories)",
-        "price": "$41.97",
+        "price": "$43.87",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87JBK84",
@@ -1462,7 +1462,7 @@
       "6669823": {
         "key": "6669823",
         "title": "Wizards of The Coast - Magic: The Gathering Secrets of Strixhaven Play Booster Box (30 Packs)",
-        "price": "$149.99",
+        "price": "$136.99",
         "available": false,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-secrets-of-strixhaven-play-booster-box-30-packs/JJ8VP7K8WP/sku/6669823",
         "everAvailable": true
