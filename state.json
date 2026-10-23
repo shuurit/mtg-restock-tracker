@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-23T08:18:54.065Z",
+  "lastChecked": "2026-10-23T09:21:33.798Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -463,7 +463,7 @@
       "B0GF44KXT4": {
         "key": "B0GF44KXT4",
         "title": "Magic: The Gathering | Marvel Super Heroes Collector’s Edition Commander Deck Bundle - Includes All 4 Surge Foil Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
-        "price": "$473.74",
+        "price": "$491.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF44KXT4",
@@ -487,7 +487,7 @@
       "B0G86YW5XX": {
         "key": "B0G86YW5XX",
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Avengers Assemble (100-Card Deck + Accessories)",
-        "price": "$54.40",
+        "price": "$54.84",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G86YW5XX",
@@ -525,7 +525,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Doom Prevails (100-Card Deck + Accessories)",
         "price": "$61.58",
         "available": true,
-        "lowStockNote": "Only 14 left in stock",
+        "lowStockNote": "Only 13 left in stock",
         "url": "https://www.amazon.com/dp/B0G87C83NR",
         "tabs": [
           "new_releases"
@@ -621,7 +621,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven - Codex Bundle (2 Collector Boosters, 6 Play Boosters, 2 Foil Promo Cards, 20 Foil Lands, 1 Spindown)",
         "price": "$168.95",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 18 left in stock",
         "url": "https://www.amazon.com/dp/B0G87VXM5G",
         "tabs": [
           "new_releases"
@@ -836,7 +836,7 @@
         "key": "B0HK5SVVTY",
         "title": "Magic: The Gathering | Marvel: Darkhold Destiny | Booster Display (30 Packs)",
         "price": "$209.70",
-        "available": false,
+        "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK5SVVTY",
         "tabs": [
@@ -861,7 +861,7 @@
         "key": "B0HK5TJJR5",
         "title": "Magic: The Gathering | Marvel: Darkhold Destiny Collector’s Edition | Commander Deck Bundle (Includes All 4 Surge Foil Decks (Strange Academy, Gods of Asgard, Midnight Sons, Lords of Hel)",
         "price": "$639.96",
-        "available": false,
+        "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK5TJJR5",
         "tabs": [
@@ -934,7 +934,7 @@
         "key": "B0HK6BMDNT",
         "title": "Magic: The Gathering | Marvel: Darkhold Destiny | Bundle (9 Booster Packs, 30 Lands, 1 Foil Mythic Promo Card + Exclusive Accessories)",
         "price": "$69.99",
-        "available": false,
+        "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK6BMDNT",
         "tabs": [
@@ -992,53 +992,7 @@
         "everAvailable": false
       }
     },
-    "pendingRestock": {
-      "B0HK5SVVTY": {
-        "item": {
-          "key": "B0HK5SVVTY",
-          "title": "Magic: The Gathering | Marvel: Darkhold Destiny | Booster Display (30 Packs)",
-          "price": "$209.70",
-          "available": true,
-          "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0HK5SVVTY",
-          "tabs": [
-            "home",
-            "preorder"
-          ]
-        },
-        "firstSeenAt": 1792743534066
-      },
-      "B0HK6BMDNT": {
-        "item": {
-          "key": "B0HK6BMDNT",
-          "title": "Magic: The Gathering | Marvel: Darkhold Destiny | Bundle (9 Booster Packs, 30 Lands, 1 Foil Mythic Promo Card + Exclusive Accessories)",
-          "price": "$69.99",
-          "available": true,
-          "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0HK6BMDNT",
-          "tabs": [
-            "home",
-            "preorder"
-          ]
-        },
-        "firstSeenAt": 1792743534066
-      },
-      "B0HK5TJJR5": {
-        "item": {
-          "key": "B0HK5TJJR5",
-          "title": "Magic: The Gathering | Marvel: Darkhold Destiny Collector’s Edition | Commander Deck Bundle (Includes All 4 Surge Foil Decks (Strange Academy, Gods of Asgard, Midnight Sons, Lords of Hel)",
-          "price": "$639.96",
-          "available": true,
-          "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0HK5TJJR5",
-          "tabs": [
-            "home",
-            "preorder"
-          ]
-        },
-        "firstSeenAt": 1792743534066
-      }
-    }
+    "pendingRestock": {}
   },
   "bestbuy": {
     "items": {
