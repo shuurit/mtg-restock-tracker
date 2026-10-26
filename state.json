@@ -1,11 +1,11 @@
 {
-  "lastChecked": "2026-10-26T14:24:36.664Z",
+  "lastChecked": "2026-10-26T15:31:52.695Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
         "key": "B0GXCBJG9L",
         "title": "Magic: The Gathering | The Hobbit Play Booster Box | 30 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-        "price": "$164.36",
+        "price": "$164.33",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBJG9L",
@@ -209,7 +209,7 @@
       "B0H6H2VXJB": {
         "key": "B0H6H2VXJB",
         "title": "Magic: The Gathering | Star Trek Collector Booster Box",
-        "price": "$645.39",
+        "price": "$642.57",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H2VXJB",
@@ -233,7 +233,7 @@
       "B0H6H8KS14": {
         "key": "B0H6H8KS14",
         "title": "Magic: The Gathering | Star Trek Beam Me Up Bundle",
-        "price": "$74.99",
+        "price": "$139.45",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H8KS14",
@@ -367,7 +367,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Beginner Box | 2-Player Card Game | Includes 2 Tutorial Decks, 8 Themed Half-Decks, 2 Playboards, 2 Spindowns, and More",
         "price": "$26.99",
         "available": true,
-        "lowStockNote": "Only 18 left in stock",
+        "lowStockNote": "Only 19 left in stock",
         "url": "https://www.amazon.com/dp/B0G87JWX8L",
         "tabs": [
           "new_releases"
@@ -547,7 +547,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven - Play Booster Box (30 Packs)",
         "price": "$129.99",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 20 left in stock",
         "url": "https://www.amazon.com/dp/B0GFDJ7GVL",
         "tabs": [
           "new_releases"
