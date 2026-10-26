@@ -1,11 +1,11 @@
 {
-  "lastChecked": "2026-10-26T15:31:52.695Z",
+  "lastChecked": "2026-10-26T16:19:17.896Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
         "key": "B0GXCBJG9L",
         "title": "Magic: The Gathering | The Hobbit Play Booster Box | 30 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-        "price": "$164.33",
+        "price": "$164.31",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBJG9L",
@@ -43,7 +43,7 @@
         "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
         "price": "$59.96",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
         "tabs": [
           "new_releases"
@@ -367,7 +367,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Beginner Box | 2-Player Card Game | Includes 2 Tutorial Decks, 8 Themed Half-Decks, 2 Playboards, 2 Spindowns, and More",
         "price": "$26.99",
         "available": true,
-        "lowStockNote": "Only 19 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87JWX8L",
         "tabs": [
           "new_releases"
@@ -547,7 +547,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven - Play Booster Box (30 Packs)",
         "price": "$129.99",
         "available": true,
-        "lowStockNote": "Only 20 left in stock",
+        "lowStockNote": "Only 19 left in stock",
         "url": "https://www.amazon.com/dp/B0GFDJ7GVL",
         "tabs": [
           "new_releases"
@@ -631,7 +631,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Silverquill Influence (100-Card Deck, Deck Box + Accessories)",
         "price": "$83.90",
         "available": true,
-        "lowStockNote": "Only 12 left in stock",
+        "lowStockNote": "Only 11 left in stock",
         "url": "https://www.amazon.com/dp/B0G8742ZNG",
         "tabs": [
           "new_releases"
