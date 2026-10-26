@@ -1,11 +1,11 @@
 {
-  "lastChecked": "2026-10-26T18:19:28.508Z",
+  "lastChecked": "2026-10-26T19:18:47.517Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
         "key": "B0GXCBJG9L",
         "title": "Magic: The Gathering | The Hobbit Play Booster Box | 30 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-        "price": "$164.29",
+        "price": "$164.24",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBJG9L",
@@ -42,7 +42,7 @@
       "B0GWSB7V4T": {
         "key": "B0GWSB7V4T",
         "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
-        "price": "$59.96",
+        "price": "$59.97",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
@@ -117,7 +117,7 @@
       "B0GXC667JV": {
         "key": "B0GXC667JV",
         "title": "Magic: The Gathering Reality Fracture Collector Booster Box | 12 Packs",
-        "price": "$449.45",
+        "price": "$323.88",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC667JV",
@@ -342,7 +342,7 @@
         "title": "Magic: The Gathering Foundations Commander Deck - Reign of Dragons | 100-Card Deck + Accessories",
         "price": "$35.44",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 10 left in stock",
         "url": "https://www.amazon.com/dp/B0GXCBTVG4",
         "tabs": [
           "new_releases"
@@ -561,7 +561,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven - Play Booster Box (30 Packs)",
         "price": "$129.99",
         "available": true,
-        "lowStockNote": "Only 17 left in stock",
+        "lowStockNote": "Only 14 left in stock",
         "url": "https://www.amazon.com/dp/B0GFDJ7GVL",
         "tabs": [
           "new_releases"
@@ -631,7 +631,7 @@
       "B0GFDRW65Q": {
         "key": "B0GFDRW65Q",
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck Bundle - Includes All 5 Decks (Silverquill Influence, Prismari Artistry, Witherbloom Pestilence, Lorehold Spirit, Quandrix Unlimited)",
-        "price": "$238.25",
+        "price": "$235.71",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GFDRW65Q",
@@ -836,7 +836,7 @@
         "key": "B0HK5SVVTY",
         "title": "Magic: The Gathering | Marvel: Darkhold Destiny | Booster Display (30 Packs)",
         "price": "$209.70",
-        "available": false,
+        "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK5SVVTY",
         "tabs": [
@@ -861,7 +861,7 @@
         "key": "B0HK5TJJR5",
         "title": "Magic: The Gathering | Marvel: Darkhold Destiny Collector’s Edition | Commander Deck Bundle (Includes All 4 Surge Foil Decks (Strange Academy, Gods of Asgard, Midnight Sons, Lords of Hel)",
         "price": "$639.96",
-        "available": false,
+        "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK5TJJR5",
         "tabs": [
@@ -934,7 +934,7 @@
         "key": "B0HK6BMDNT",
         "title": "Magic: The Gathering | Marvel: Darkhold Destiny | Bundle (9 Booster Packs, 30 Lands, 1 Foil Mythic Promo Card + Exclusive Accessories)",
         "price": "$69.99",
-        "available": false,
+        "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK6BMDNT",
         "tabs": [
@@ -992,53 +992,7 @@
         "everAvailable": false
       }
     },
-    "pendingRestock": {
-      "B0HK5SVVTY": {
-        "item": {
-          "key": "B0HK5SVVTY",
-          "title": "Magic: The Gathering | Marvel: Darkhold Destiny | Booster Display (30 Packs)",
-          "price": "$209.70",
-          "available": true,
-          "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0HK5SVVTY",
-          "tabs": [
-            "home",
-            "preorder"
-          ]
-        },
-        "firstSeenAt": 1793035134249
-      },
-      "B0HK6BMDNT": {
-        "item": {
-          "key": "B0HK6BMDNT",
-          "title": "Magic: The Gathering | Marvel: Darkhold Destiny | Bundle (9 Booster Packs, 30 Lands, 1 Foil Mythic Promo Card + Exclusive Accessories)",
-          "price": "$69.99",
-          "available": true,
-          "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0HK6BMDNT",
-          "tabs": [
-            "home",
-            "preorder"
-          ]
-        },
-        "firstSeenAt": 1793035134249
-      },
-      "B0HK5TJJR5": {
-        "item": {
-          "key": "B0HK5TJJR5",
-          "title": "Magic: The Gathering | Marvel: Darkhold Destiny Collector’s Edition | Commander Deck Bundle (Includes All 4 Surge Foil Decks (Strange Academy, Gods of Asgard, Midnight Sons, Lords of Hel)",
-          "price": "$639.96",
-          "available": true,
-          "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0HK5TJJR5",
-          "tabs": [
-            "home",
-            "preorder"
-          ]
-        },
-        "firstSeenAt": 1793035134249
-      }
-    }
+    "pendingRestock": {}
   },
   "bestbuy": {
     "items": {
