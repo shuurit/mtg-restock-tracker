@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-28T18:18:50.010Z",
+  "lastChecked": "2026-10-28T19:19:10.260Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -41,7 +41,7 @@
       "B0GWSB7V4T": {
         "key": "B0GWSB7V4T",
         "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
-        "price": "$59.23",
+        "price": "$59.20",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
@@ -65,7 +65,7 @@
       "B0GWS4ZRT8": {
         "key": "B0GWS4ZRT8",
         "title": "Magic: The Gathering | The Hobbit Scene Box - Crack the Plates| 6 Foil Borderless Scene Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
-        "price": "$54.88",
+        "price": "$54.85",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS4ZRT8",
@@ -89,7 +89,7 @@
       "B0GWS582CC": {
         "key": "B0GWS582CC",
         "title": "Magic: The Gathering | The Hobbit Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens | Collectible Trading Card Game",
-        "price": "$139.18",
+        "price": "$139.15",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS582CC",
@@ -475,7 +475,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Avengers Assemble (100-Card Deck + Accessories)",
         "price": "$51.99",
         "available": true,
-        "lowStockNote": "Only 12 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G86YW5XX",
         "tabs": [
           "new_releases"
@@ -677,7 +677,7 @@
       "B0G874G6HD": {
         "key": "B0G874G6HD",
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Quandrix Unlimited (100-Card Deck, Deck Box + Accessories)",
-        "price": "$44.90",
+        "price": "$44.88",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G874G6HD",
