@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-28T13:18:52.176Z",
+  "lastChecked": "2026-10-28T14:19:14.312Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -41,9 +41,9 @@
       "B0GWSB7V4T": {
         "key": "B0GWSB7V4T",
         "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
-        "price": "$59.36",
+        "price": "$59.33",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
         "tabs": [
           "new_releases"
@@ -113,7 +113,7 @@
       "B0GXC667JV": {
         "key": "B0GXC667JV",
         "title": "Magic: The Gathering Reality Fracture Collector Booster Box | 12 Packs",
-        "price": "$323.88",
+        "price": "$449.44",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC667JV",
