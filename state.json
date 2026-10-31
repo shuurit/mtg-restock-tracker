@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-31T00:18:50.556Z",
+  "lastChecked": "2026-10-31T01:19:15.283Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -43,7 +43,7 @@
         "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
         "price": "$59.76",
         "available": true,
-        "lowStockNote": "Only 5 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
         "tabs": [
           "new_releases"
@@ -89,7 +89,7 @@
       "B0GWS582CC": {
         "key": "B0GWS582CC",
         "title": "Magic: The Gathering | The Hobbit Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens | Collectible Trading Card Game",
-        "price": "$137.88",
+        "price": "$137.85",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS582CC",
@@ -317,7 +317,7 @@
       "B0GXC5T8LG": {
         "key": "B0GXC5T8LG",
         "title": "Magic: The Gathering Foundations Commander Deck - Calling All Angels | 100-Card Deck + Accessories",
-        "price": "$29.99",
+        "price": "$44.45",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC5T8LG",
@@ -449,7 +449,7 @@
       "B0GF44KXT4": {
         "key": "B0GF44KXT4",
         "title": "Magic: The Gathering | Marvel Super Heroes Collector’s Edition Commander Deck Bundle - Includes All 4 Surge Foil Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
-        "price": "$516.16",
+        "price": "$516.14",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF44KXT4",
@@ -557,9 +557,9 @@
       "B0G86Z91GX": {
         "key": "B0G86Z91GX",
         "title": "Magic: The Gathering Secrets of Strixhaven - Draft Night (1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Token Cards)",
-        "price": "$99.73",
+        "price": "$89.99",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0G86Z91GX",
         "tabs": [
           "new_releases"
