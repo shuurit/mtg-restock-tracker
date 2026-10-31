@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-31T04:18:59.549Z",
+  "lastChecked": "2026-10-31T05:18:54.740Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -43,7 +43,7 @@
         "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
         "price": "$59.84",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
         "tabs": [
           "new_releases"
@@ -89,7 +89,7 @@
       "B0GWS582CC": {
         "key": "B0GWS582CC",
         "title": "Magic: The Gathering | The Hobbit Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens | Collectible Trading Card Game",
-        "price": "$137.78",
+        "price": "$137.75",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS582CC",
@@ -449,7 +449,7 @@
       "B0GF44KXT4": {
         "key": "B0GF44KXT4",
         "title": "Magic: The Gathering | Marvel Super Heroes Collector’s Edition Commander Deck Bundle - Includes All 4 Surge Foil Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
-        "price": "$516.06",
+        "price": "$516.28",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF44KXT4",
