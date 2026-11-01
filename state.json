@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-01T03:18:57.575Z",
+  "lastChecked": "2026-11-01T04:19:02.186Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -19,7 +19,7 @@
         "title": "Magic: The Gathering | The Hobbit Collector Booster Box | 12 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
         "price": "$749.99",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": "Only 2 left in stock",
         "url": "https://www.amazon.com/dp/B0GXC89N66",
         "tabs": [
           "new_releases"
@@ -55,7 +55,7 @@
         "title": "Magic: The Gathering | The Hobbit Gift Bundle | Collectible Trading Card Game",
         "price": "$93.99",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS8DC8C",
         "tabs": [
           "new_releases"
@@ -305,7 +305,7 @@
       "B0GXCKJ5JH": {
         "key": "B0GXCKJ5JH",
         "title": "Magic: The Gathering Foundations Commander Deck - Wretched Ranks | 100-Card Deck + Accessories",
-        "price": "$48.16",
+        "price": "$47.76",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCKJ5JH",
