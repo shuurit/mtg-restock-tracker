@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-02T16:19:15.066Z",
+  "lastChecked": "2026-11-02T17:19:18.460Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -1286,8 +1286,8 @@
       "6643177": {
         "key": "6643177",
         "title": "Wizards of The Coast - Magic: The Gathering Avatar: The Last Airbender Beginner Box",
-        "price": "$27.99",
-        "available": true,
+        "price": "$34.99",
+        "available": false,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-avatar-the-last-airbender-beginner-box/JJ8VP7TQJK/sku/6643177",
         "everAvailable": true
       },
