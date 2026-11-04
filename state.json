@@ -1,11 +1,11 @@
 {
-  "lastChecked": "2026-11-04T05:19:39.597Z",
+  "lastChecked": "2026-11-04T06:19:06.629Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
         "key": "B0GXCBJG9L",
         "title": "Magic: The Gathering | The Hobbit Play Booster Box | 30 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-        "price": "$144.99",
+        "price": "$151.19",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBJG9L",
@@ -17,9 +17,9 @@
       "B0GXC89N66": {
         "key": "B0GXC89N66",
         "title": "Magic: The Gathering | The Hobbit Collector Booster Box | 12 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-        "price": "$753.99",
+        "price": "$749.99",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0GXC89N66",
         "tabs": [
           "new_releases"
@@ -41,7 +41,7 @@
       "B0GWSB7V4T": {
         "key": "B0GWSB7V4T",
         "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
-        "price": "$68.04",
+        "price": "$69.98",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
@@ -113,7 +113,7 @@
       "B0GXC667JV": {
         "key": "B0GXC667JV",
         "title": "Magic: The Gathering Reality Fracture Collector Booster Box | 12 Packs",
-        "price": "$437.83",
+        "price": "$437.81",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC667JV",
@@ -173,7 +173,7 @@
       "B0GXC9JFZY": {
         "key": "B0GXC9JFZY",
         "title": "Magic: The Gathering Reality Fracture Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens",
-        "price": "$96.98",
+        "price": "$94.98",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9JFZY",
@@ -401,7 +401,7 @@
       "B0G8836V29": {
         "key": "B0G8836V29",
         "title": "Magic: The Gathering | Marvel Super Heroes Collector Booster | 1 Pack of 15 Cards | Collectible Trading Card Game",
-        "price": "$44.34",
+        "price": "$44.27",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G8836V29",
@@ -557,9 +557,9 @@
       "B0G86Z91GX": {
         "key": "B0G86Z91GX",
         "title": "Magic: The Gathering Secrets of Strixhaven - Draft Night (1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Token Cards)",
-        "price": "$89.99",
+        "price": "$99.73",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G86Z91GX",
         "tabs": [
           "new_releases"
