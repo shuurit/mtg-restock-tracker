@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-04T06:19:06.629Z",
+  "lastChecked": "2026-11-04T07:19:04.259Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -41,7 +41,7 @@
       "B0GWSB7V4T": {
         "key": "B0GWSB7V4T",
         "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
-        "price": "$69.98",
+        "price": "$67.87",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
@@ -197,7 +197,7 @@
       "B0H6H4TXPZ": {
         "key": "B0H6H4TXPZ",
         "title": "Magic: The Gathering | Star Trek Collector Booster",
-        "price": "$54.94",
+        "price": "$54.87",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H4TXPZ",
@@ -209,7 +209,7 @@
       "B0H6H2VXJB": {
         "key": "B0H6H2VXJB",
         "title": "Magic: The Gathering | Star Trek Collector Booster Box",
-        "price": "$601.00",
+        "price": "$589.97",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H2VXJB",
@@ -401,7 +401,7 @@
       "B0G8836V29": {
         "key": "B0G8836V29",
         "title": "Magic: The Gathering | Marvel Super Heroes Collector Booster | 1 Pack of 15 Cards | Collectible Trading Card Game",
-        "price": "$44.27",
+        "price": "$44.25",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G8836V29",
@@ -557,9 +557,9 @@
       "B0G86Z91GX": {
         "key": "B0G86Z91GX",
         "title": "Magic: The Gathering Secrets of Strixhaven - Draft Night (1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Token Cards)",
-        "price": "$99.73",
+        "price": "$89.99",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0G86Z91GX",
         "tabs": [
           "new_releases"
