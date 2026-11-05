@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-05T18:19:29.560Z",
+  "lastChecked": "2026-11-05T19:18:57.025Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -65,7 +65,7 @@
       "B0GWS4ZRT8": {
         "key": "B0GWS4ZRT8",
         "title": "Magic: The Gathering | The Hobbit Scene Box - Crack the Plates| 6 Foil Borderless Scene Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
-        "price": "$53.34",
+        "price": "$52.70",
         "available": true,
         "lowStockNote": "Only 16 left in stock",
         "url": "https://www.amazon.com/dp/B0GWS4ZRT8",
@@ -103,7 +103,7 @@
         "title": "Magic: The Gathering Reality Fracture Play Booster Box | 30 Packs",
         "price": "$128.45",
         "available": true,
-        "lowStockNote": "Only 10 left in stock",
+        "lowStockNote": "Only 6 left in stock",
         "url": "https://www.amazon.com/dp/B0GXCHBRTC",
         "tabs": [
           "new_releases"
@@ -137,7 +137,7 @@
       "B0GXC9SDV9": {
         "key": "B0GXC9SDV9",
         "title": "Magic: The Gathering Reality Fracture Commander Deck - Multiverse Reforged | 100-Card Deck + Accessories",
-        "price": "$49.62",
+        "price": "$50.63",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
@@ -149,7 +149,7 @@
       "B0GXC9W89R": {
         "key": "B0GXC9W89R",
         "title": "Magic: The Gathering Reality Fracture Bundle | Includes 9 Play Boosters, 30 Lands, 1 Foil Alt-Art Promo Card + Exclusive Accessories",
-        "price": "$45.66",
+        "price": "$44.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9W89R",
@@ -185,7 +185,7 @@
       "B0H6H2D3JF": {
         "key": "B0H6H2D3JF",
         "title": "Magic: The Gathering | Star Trek Play Booster Box",
-        "price": "$132.95",
+        "price": "$134.59",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H2D3JF",
@@ -379,7 +379,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes - Draft Night (1 Collector Booster, 12 Play Boosters, 90 Lands)",
         "price": "$88.20",
         "available": true,
-        "lowStockNote": "Only 15 left in stock",
+        "lowStockNote": "Only 14 left in stock",
         "url": "https://www.amazon.com/dp/B0G867CCWN",
         "tabs": [
           "new_releases"
@@ -403,7 +403,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Collector Booster | 1 Pack of 15 Cards | Collectible Trading Card Game",
         "price": "$43.95",
         "available": true,
-        "lowStockNote": "Only 17 left in stock",
+        "lowStockNote": "Only 16 left in stock",
         "url": "https://www.amazon.com/dp/B0G8836V29",
         "tabs": [
           "new_releases"
@@ -569,9 +569,9 @@
       "B0GFDD1RLS": {
         "key": "B0GFDD1RLS",
         "title": "Magic: The Gathering Secrets of Strixhaven - Collector Booster Box (12 Packs)",
-        "price": "$584.62",
+        "price": "$594.88",
         "available": true,
-        "lowStockNote": "Only 2 left in stock",
+        "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0GFDD1RLS",
         "tabs": [
           "new_releases"
@@ -605,9 +605,9 @@
       "B0G87VXM5G": {
         "key": "B0G87VXM5G",
         "title": "Magic: The Gathering Secrets of Strixhaven - Codex Bundle (2 Collector Boosters, 6 Play Boosters, 2 Foil Promo Cards, 20 Foil Lands, 1 Spindown)",
-        "price": "$144.99",
+        "price": "$168.10",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87VXM5G",
         "tabs": [
           "new_releases"
@@ -631,7 +631,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Silverquill Influence (100-Card Deck, Deck Box + Accessories)",
         "price": "$89.99",
         "available": true,
-        "lowStockNote": "Only 8 left in stock",
+        "lowStockNote": "Only 7 left in stock",
         "url": "https://www.amazon.com/dp/B0G8742ZNG",
         "tabs": [
           "new_releases"
@@ -1782,7 +1782,7 @@
       "6678191": {
         "key": "6678191",
         "title": "Wizards of The Coast - Magic: The Gathering Reality Fracture - Secret Lair Bundle",
-        "price": "$94.99",
+        "price": null,
         "available": false,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-reality-fracture-secret-lair-bundle/JJ8VP7ZRRC/sku/6678191",
         "everAvailable": true
