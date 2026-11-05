@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-05T21:18:54.712Z",
+  "lastChecked": "2026-11-05T22:19:14.831Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -113,7 +113,7 @@
       "B0GXC667JV": {
         "key": "B0GXC667JV",
         "title": "Magic: The Gathering Reality Fracture Collector Booster Box | 12 Packs",
-        "price": "$437.79",
+        "price": "$323.88",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC667JV",
@@ -162,7 +162,7 @@
         "key": "B0GXCKVJ6W",
         "title": "Magic: The Gathering Reality Fracture Secret Lair Bundle",
         "price": "$134.95",
-        "available": false,
+        "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCKVJ6W",
         "tabs": [
@@ -185,7 +185,7 @@
       "B0H6H2D3JF": {
         "key": "B0H6H2D3JF",
         "title": "Magic: The Gathering | Star Trek Play Booster Box",
-        "price": "$128.25",
+        "price": "$134.45",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H2D3JF",
@@ -403,7 +403,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Collector Booster | 1 Pack of 15 Cards | Collectible Trading Card Game",
         "price": "$43.95",
         "available": true,
-        "lowStockNote": "Only 16 left in stock",
+        "lowStockNote": "Only 15 left in stock",
         "url": "https://www.amazon.com/dp/B0G8836V29",
         "tabs": [
           "new_releases"
@@ -975,22 +975,7 @@
         "everAvailable": false
       }
     },
-    "pendingRestock": {
-      "B0GXCKVJ6W": {
-        "item": {
-          "key": "B0GXCKVJ6W",
-          "title": "Magic: The Gathering Reality Fracture Secret Lair Bundle",
-          "price": "$134.95",
-          "available": true,
-          "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0GXCKVJ6W",
-          "tabs": [
-            "new_releases"
-          ]
-        },
-        "firstSeenAt": 1793913534712
-      }
-    }
+    "pendingRestock": {}
   },
   "bestbuy": {
     "items": {
