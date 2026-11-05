@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-05T05:19:38.096Z",
+  "lastChecked": "2026-11-05T06:18:58.104Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -19,7 +19,7 @@
         "title": "Magic: The Gathering | The Hobbit Collector Booster Box | 12 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
         "price": "$749.99",
         "available": true,
-        "lowStockNote": "Only 6 left in stock",
+        "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0GXC89N66",
         "tabs": [
           "new_releases"
@@ -29,9 +29,9 @@
       "B0GWS9J9VT": {
         "key": "B0GWS9J9VT",
         "title": "Magic: The Gathering | The Hobbit Collector Booster | 1 Pack (15 Cards) | Collectible Trading Card Game",
-        "price": "$73.50",
+        "price": "$71.92",
         "available": true,
-        "lowStockNote": "Only 8 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS9J9VT",
         "tabs": [
           "new_releases"
@@ -43,7 +43,7 @@
         "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
         "price": "$59.83",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
         "tabs": [
           "new_releases"
@@ -103,7 +103,7 @@
         "title": "Magic: The Gathering Reality Fracture Play Booster Box | 30 Packs",
         "price": "$128.45",
         "available": true,
-        "lowStockNote": "Only 3 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCHBRTC",
         "tabs": [
           "new_releases"
@@ -151,7 +151,7 @@
         "title": "Magic: The Gathering Reality Fracture Bundle | Includes 9 Play Boosters, 30 Lands, 1 Foil Alt-Art Promo Card + Exclusive Accessories",
         "price": "$45.41",
         "available": true,
-        "lowStockNote": "Only 18 left in stock",
+        "lowStockNote": "Only 11 left in stock",
         "url": "https://www.amazon.com/dp/B0GXC9W89R",
         "tabs": [
           "new_releases"
@@ -245,7 +245,7 @@
       "B0H6H4PL4G": {
         "key": "B0H6H4PL4G",
         "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
-        "price": "$269.99",
+        "price": "$273.85",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H4PL4G",
@@ -403,7 +403,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Collector Booster | 1 Pack of 15 Cards | Collectible Trading Card Game",
         "price": "$43.95",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 20 left in stock",
         "url": "https://www.amazon.com/dp/B0G8836V29",
         "tabs": [
           "new_releases"
@@ -437,7 +437,7 @@
       "B0GF4M5P4C": {
         "key": "B0GF4M5P4C",
         "title": "Magic: The Gathering | Marvel Super Heroes Jumpstart Booster Box | 24 Packs | 2-Player Card Game",
-        "price": "$117.74",
+        "price": "$117.59",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4M5P4C",
@@ -533,7 +533,7 @@
       "B0G87734WB": {
         "key": "B0G87734WB",
         "title": "Magic: The Gathering | Marvel Super Heroes Scene Box - Villains Unleashed | 6 Foil Borderless Scene Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
-        "price": "$31.56",
+        "price": "$31.54",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87734WB",
@@ -545,7 +545,7 @@
       "B0GFDJ7GVL": {
         "key": "B0GFDJ7GVL",
         "title": "Magic: The Gathering Secrets of Strixhaven - Play Booster Box (30 Packs)",
-        "price": "$129.99",
+        "price": "$134.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GFDJ7GVL",
