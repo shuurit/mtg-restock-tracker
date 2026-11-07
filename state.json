@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-07T10:19:21.536Z",
+  "lastChecked": "2026-11-07T11:20:05.523Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -17,7 +17,7 @@
       "B0GXC89N66": {
         "key": "B0GXC89N66",
         "title": "Magic: The Gathering | The Hobbit Collector Booster Box | 12 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-        "price": "$755.99",
+        "price": "$749.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC89N66",
@@ -545,7 +545,7 @@
       "B0GFDJ7GVL": {
         "key": "B0GFDJ7GVL",
         "title": "Magic: The Gathering Secrets of Strixhaven - Play Booster Box (30 Packs)",
-        "price": "$130.00",
+        "price": "$134.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GFDJ7GVL",
@@ -605,9 +605,9 @@
       "B0G87VXM5G": {
         "key": "B0G87VXM5G",
         "title": "Magic: The Gathering Secrets of Strixhaven - Codex Bundle (2 Collector Boosters, 6 Play Boosters, 2 Foil Promo Cards, 20 Foil Lands, 1 Spindown)",
-        "price": "$167.95",
+        "price": "$168.19",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87VXM5G",
         "tabs": [
           "new_releases"
