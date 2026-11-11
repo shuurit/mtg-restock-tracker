@@ -1,11 +1,11 @@
 {
-  "lastChecked": "2026-11-11T18:18:55.053Z",
+  "lastChecked": "2026-11-11T19:19:09.653Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
         "key": "B0GXCBJG9L",
         "title": "Magic: The Gathering | The Hobbit Play Booster Box | 30 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-        "price": "$148.85",
+        "price": "$148.77",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBJG9L",
@@ -17,7 +17,7 @@
       "B0GXC89N66": {
         "key": "B0GXC89N66",
         "title": "Magic: The Gathering | The Hobbit Collector Booster Box | 12 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-        "price": "$745.98",
+        "price": "$745.90",
         "available": true,
         "lowStockNote": "Only 3 left in stock",
         "url": "https://www.amazon.com/dp/B0GXC89N66",
@@ -137,7 +137,7 @@
       "B0GXC9SDV9": {
         "key": "B0GXC9SDV9",
         "title": "Magic: The Gathering Reality Fracture Commander Deck - Multiverse Reforged | 100-Card Deck + Accessories",
-        "price": "$49.39",
+        "price": "$48.95",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
@@ -161,7 +161,7 @@
       "B0GXCKVJ6W": {
         "key": "B0GXCKVJ6W",
         "title": "Magic: The Gathering Reality Fracture Secret Lair Bundle",
-        "price": "$134.92",
+        "price": "$89.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCKVJ6W",
@@ -329,8 +329,8 @@
       "B0GXCBTVG4": {
         "key": "B0GXCBTVG4",
         "title": "Magic: The Gathering Foundations Commander Deck - Reign of Dragons | 100-Card Deck + Accessories",
-        "price": "$44.95",
-        "available": true,
+        "price": null,
+        "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBTVG4",
         "tabs": [
@@ -353,9 +353,9 @@
       "B0GF4MXFPC": {
         "key": "B0GF4MXFPC",
         "title": "Magic: The Gathering | Marvel Super Heroes Play Booster Box | 30 Packs | Collectible Trading Card Game",
-        "price": "$126.68",
+        "price": "$126.00",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
         "tabs": [
           "new_releases"
@@ -413,9 +413,9 @@
       "B0G87CB5VB": {
         "key": "B0G87CB5VB",
         "title": "Magic: The Gathering | Marvel Super Heroes Bundle | Includes 9 Play Boosters, 30 Lands, 1 Foil Alt-Art Promo Card + Exclusive Accessories | Collectible Trading Card Game",
-        "price": "$49.77",
+        "price": "$49.39",
         "available": true,
-        "lowStockNote": "Only 3 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
         "tabs": [
           "new_releases"
@@ -619,7 +619,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck Bundle - Includes All 5 Decks (Silverquill Influence, Prismari Artistry, Witherbloom Pestilence, Lorehold Spirit, Quandrix Unlimited)",
         "price": "$239.95",
         "available": true,
-        "lowStockNote": "Only 7 left in stock",
+        "lowStockNote": "Only 18 left in stock",
         "url": "https://www.amazon.com/dp/B0GFDRW65Q",
         "tabs": [
           "new_releases"
@@ -631,7 +631,7 @@
         "title": "Magic: The Gathering Secrets of Strixhaven Commander Deck - Silverquill Influence (100-Card Deck, Deck Box + Accessories)",
         "price": "$90.00",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G8742ZNG",
         "tabs": [
           "new_releases"
