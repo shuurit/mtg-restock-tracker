@@ -1,11 +1,11 @@
 {
-  "lastChecked": "2026-11-12T17:18:49.968Z",
+  "lastChecked": "2026-11-12T18:18:44.007Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
         "key": "B0GXCBJG9L",
         "title": "Magic: The Gathering | The Hobbit Play Booster Box | 30 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-        "price": "$148.61",
+        "price": "$148.56",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBJG9L",
@@ -417,7 +417,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Bundle | Includes 9 Play Boosters, 30 Lands, 1 Foil Alt-Art Promo Card + Exclusive Accessories | Collectible Trading Card Game",
         "price": "$49.77",
         "available": true,
-        "lowStockNote": "Only 4 left in stock",
+        "lowStockNote": "Only 3 left in stock",
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
         "tabs": [
           "home"
