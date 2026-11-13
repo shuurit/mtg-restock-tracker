@@ -1,11 +1,11 @@
 {
-  "lastChecked": "2026-11-13T19:18:54.053Z",
+  "lastChecked": "2026-11-13T20:19:18.365Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
         "key": "B0GXCBJG9L",
         "title": "Magic: The Gathering | The Hobbit Play Booster Box | 30 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-        "price": "$148.13",
+        "price": "$147.87",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBJG9L",
@@ -53,7 +53,7 @@
       "B0GWS8DC8C": {
         "key": "B0GWS8DC8C",
         "title": "Magic: The Gathering | The Hobbit Gift Bundle | Collectible Trading Card Game",
-        "price": "$94.45",
+        "price": "$94.43",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS8DC8C",
@@ -106,7 +106,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCHBRTC",
         "tabs": [
-          "home"
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -142,7 +142,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
         "tabs": [
-          "home"
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -154,14 +154,14 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9W89R",
         "tabs": [
-          "home"
+          "new_releases"
         ],
         "everAvailable": true
       },
       "B0GXCKVJ6W": {
         "key": "B0GXCKVJ6W",
         "title": "Magic: The Gathering Reality Fracture Secret Lair Bundle",
-        "price": "$109.97",
+        "price": "$124.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCKVJ6W",
@@ -190,7 +190,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H2D3JF",
         "tabs": [
-          "home"
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -226,7 +226,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H1XTK6",
         "tabs": [
-          "home"
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -250,7 +250,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H4PL4G",
         "tabs": [
-          "preorder"
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -286,7 +286,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBW828",
         "tabs": [
-          "home"
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -298,7 +298,7 @@
         "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0GXCH6X4K",
         "tabs": [
-          "home"
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -310,7 +310,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCKJ5JH",
         "tabs": [
-          "home"
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -358,7 +358,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
         "tabs": [
-          "home"
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -382,7 +382,7 @@
         "lowStockNote": "Only 4 left in stock",
         "url": "https://www.amazon.com/dp/B0G867CCWN",
         "tabs": [
-          "home"
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -391,7 +391,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Collector Booster Box | 12 Packs | Collectible Trading Card Game",
         "price": "$454.00",
         "available": true,
-        "lowStockNote": "Only 6 left in stock",
+        "lowStockNote": "Only 8 left in stock",
         "url": "https://www.amazon.com/dp/B0GF44F4MG",
         "tabs": [
           "new_releases"
@@ -418,7 +418,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
         "tabs": [
-          "home"
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -497,7 +497,7 @@
       "B0G87CH7TH": {
         "key": "B0G87CH7TH",
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - The Fantastic Four (100-Card Deck + Accessories)",
-        "price": "$49.63",
+        "price": "$38.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CH7TH",
@@ -797,12 +797,12 @@
       "B0H6H5C3ZL": {
         "key": "B0H6H5C3ZL",
         "title": "Magic: The Gathering | Star Trek Draft Night",
-        "price": "$139.99",
+        "price": "$94.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H5C3ZL",
         "tabs": [
-          "home"
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -822,11 +822,10 @@
         "key": "B0HK5SVVTY",
         "title": "Magic: The Gathering | Marvel: Darkhold Destiny | Booster Display (30 Packs)",
         "price": "$209.70",
-        "available": false,
+        "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK5SVVTY",
         "tabs": [
-          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -859,71 +858,70 @@
         "key": "B0HK672FVM",
         "title": "Magic: The Gathering | Marvel: Darkhold Destiny | Commander Deck Bundle (Includes All 4 Decks (Strange Academy, Gods of Asgard, Midnight Sons, Lords of Hel)",
         "price": "$299.96",
-        "available": false,
+        "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK672FVM",
         "tabs": [
           "preorder"
         ],
-        "everAvailable": false
+        "everAvailable": true
       },
       "B0HK6FB58S": {
         "key": "B0HK6FB58S",
         "title": "Magic: The Gathering | Marvel: Darkhold Destiny | Commander Deck - Strange Academy (100-Card Deck + Accessories)",
         "price": "$74.99",
-        "available": false,
+        "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK6FB58S",
         "tabs": [
           "preorder"
         ],
-        "everAvailable": false
+        "everAvailable": true
       },
       "B0HK5XBBPN": {
         "key": "B0HK5XBBPN",
         "title": "Magic: The Gathering | Marvel: Darkhold Destiny | Commander Deck - Gods of Asgard (100-Card Deck + Accessories)",
         "price": "$74.99",
-        "available": false,
+        "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK5XBBPN",
         "tabs": [
           "preorder"
         ],
-        "everAvailable": false
+        "everAvailable": true
       },
       "B0HK6BR6LM": {
         "key": "B0HK6BR6LM",
         "title": "Magic: The Gathering | Marvel: Darkhold Destiny | Commander Deck - Midnight Sons (100-Card Deck + Accessories)",
         "price": "$74.99",
-        "available": false,
+        "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK6BR6LM",
         "tabs": [
           "preorder"
         ],
-        "everAvailable": false
+        "everAvailable": true
       },
       "B0HK5T2W1S": {
         "key": "B0HK5T2W1S",
         "title": "Magic: The Gathering | Marvel: Darkhold Destiny | Commander Deck - Lords of Hel (100-Card Deck + Accessories)",
         "price": "$74.99",
-        "available": false,
+        "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK5T2W1S",
         "tabs": [
           "preorder"
         ],
-        "everAvailable": false
+        "everAvailable": true
       },
       "B0HK6BMDNT": {
         "key": "B0HK6BMDNT",
         "title": "Magic: The Gathering | Marvel: Darkhold Destiny | Bundle (9 Booster Packs, 30 Lands, 1 Foil Mythic Promo Card + Exclusive Accessories)",
         "price": "$69.99",
-        "available": false,
+        "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK6BMDNT",
         "tabs": [
-          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -944,13 +942,13 @@
         "key": "B0HK5GD26B",
         "title": "Magic: The Gathering | Marvel: Darkhold Destiny | Draft Night (1 Collector Booster, 12 Booster Packs, 90 Lands)",
         "price": "$129.99",
-        "available": false,
+        "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK5GD26B",
         "tabs": [
           "preorder"
         ],
-        "everAvailable": false
+        "everAvailable": true
       },
       "B0HK5SVVV4": {
         "key": "B0HK5SVVV4",
@@ -984,7 +982,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNTPPHD7",
         "tabs": [
-          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -997,7 +994,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNRHT397",
         "tabs": [
-          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -1010,7 +1006,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNR3ZXMR",
         "tabs": [
-          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -1074,39 +1069,57 @@
           "preorder"
         ],
         "everAvailable": true
+      },
+      "B0H6H5PT8N": {
+        "key": "B0H6H5PT8N",
+        "title": "Magic: The Gathering | Star Trek Commander Deck - Federation Fleet",
+        "price": "$60.36",
+        "available": true,
+        "lowStockNote": null,
+        "url": "https://www.amazon.com/dp/B0H6H5PT8N",
+        "tabs": [
+          "new_releases"
+        ],
+        "everAvailable": true
+      },
+      "B0H6GXL5PR": {
+        "key": "B0H6GXL5PR",
+        "title": "Magic: The Gathering | Star Trek Commander Deck - Landing Party",
+        "price": "$64.88",
+        "available": true,
+        "lowStockNote": null,
+        "url": "https://www.amazon.com/dp/B0H6GXL5PR",
+        "tabs": [
+          "new_releases"
+        ],
+        "everAvailable": true
+      },
+      "B0H6H7QSSD": {
+        "key": "B0H6H7QSSD",
+        "title": "Magic: The Gathering | Star Trek Commander Deck - Klingon Fury",
+        "price": "$55.99",
+        "available": true,
+        "lowStockNote": null,
+        "url": "https://www.amazon.com/dp/B0H6H7QSSD",
+        "tabs": [
+          "new_releases"
+        ],
+        "everAvailable": true
+      },
+      "B0H6GTL14Z": {
+        "key": "B0H6GTL14Z",
+        "title": "Magic: The Gathering | Star Trek Commander Deck - We are the Borg",
+        "price": "$73.92",
+        "available": true,
+        "lowStockNote": null,
+        "url": "https://www.amazon.com/dp/B0H6GTL14Z",
+        "tabs": [
+          "new_releases"
+        ],
+        "everAvailable": true
       }
     },
     "pendingRestock": {
-      "B0HK5SVVTY": {
-        "item": {
-          "key": "B0HK5SVVTY",
-          "title": "Magic: The Gathering | Marvel: Darkhold Destiny | Booster Display (30 Packs)",
-          "price": "$209.70",
-          "available": true,
-          "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0HK5SVVTY",
-          "tabs": [
-            "home",
-            "preorder"
-          ]
-        },
-        "firstSeenAt": 1794597534054
-      },
-      "B0HK6BMDNT": {
-        "item": {
-          "key": "B0HK6BMDNT",
-          "title": "Magic: The Gathering | Marvel: Darkhold Destiny | Bundle (9 Booster Packs, 30 Lands, 1 Foil Mythic Promo Card + Exclusive Accessories)",
-          "price": "$69.99",
-          "available": true,
-          "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0HK6BMDNT",
-          "tabs": [
-            "home",
-            "preorder"
-          ]
-        },
-        "firstSeenAt": 1794597534054
-      },
       "B0HK5TJJR5": {
         "item": {
           "key": "B0HK5TJJR5",
@@ -1117,90 +1130,6 @@
           "url": "https://www.amazon.com/dp/B0HK5TJJR5",
           "tabs": [
             "home"
-          ]
-        },
-        "firstSeenAt": 1794597534054
-      },
-      "B0HK672FVM": {
-        "item": {
-          "key": "B0HK672FVM",
-          "title": "Magic: The Gathering | Marvel: Darkhold Destiny | Commander Deck Bundle (Includes All 4 Decks (Strange Academy, Gods of Asgard, Midnight Sons, Lords of Hel)",
-          "price": "$299.96",
-          "available": true,
-          "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0HK672FVM",
-          "tabs": [
-            "preorder"
-          ]
-        },
-        "firstSeenAt": 1794597534054
-      },
-      "B0HK5GD26B": {
-        "item": {
-          "key": "B0HK5GD26B",
-          "title": "Magic: The Gathering | Marvel: Darkhold Destiny | Draft Night (1 Collector Booster, 12 Booster Packs, 90 Lands)",
-          "price": "$129.99",
-          "available": true,
-          "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0HK5GD26B",
-          "tabs": [
-            "preorder"
-          ]
-        },
-        "firstSeenAt": 1794597534054
-      },
-      "B0HK6FB58S": {
-        "item": {
-          "key": "B0HK6FB58S",
-          "title": "Magic: The Gathering | Marvel: Darkhold Destiny | Commander Deck - Strange Academy (100-Card Deck + Accessories)",
-          "price": "$74.99",
-          "available": true,
-          "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0HK6FB58S",
-          "tabs": [
-            "preorder"
-          ]
-        },
-        "firstSeenAt": 1794597534054
-      },
-      "B0HK5XBBPN": {
-        "item": {
-          "key": "B0HK5XBBPN",
-          "title": "Magic: The Gathering | Marvel: Darkhold Destiny | Commander Deck - Gods of Asgard (100-Card Deck + Accessories)",
-          "price": "$74.99",
-          "available": true,
-          "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0HK5XBBPN",
-          "tabs": [
-            "preorder"
-          ]
-        },
-        "firstSeenAt": 1794597534054
-      },
-      "B0HK5T2W1S": {
-        "item": {
-          "key": "B0HK5T2W1S",
-          "title": "Magic: The Gathering | Marvel: Darkhold Destiny | Commander Deck - Lords of Hel (100-Card Deck + Accessories)",
-          "price": "$74.99",
-          "available": true,
-          "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0HK5T2W1S",
-          "tabs": [
-            "preorder"
-          ]
-        },
-        "firstSeenAt": 1794597534054
-      },
-      "B0HK6BR6LM": {
-        "item": {
-          "key": "B0HK6BR6LM",
-          "title": "Magic: The Gathering | Marvel: Darkhold Destiny | Commander Deck - Midnight Sons (100-Card Deck + Accessories)",
-          "price": "$74.99",
-          "available": true,
-          "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0HK6BR6LM",
-          "tabs": [
-            "preorder"
           ]
         },
         "firstSeenAt": 1794597534054
