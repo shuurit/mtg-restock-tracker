@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-14T18:19:18.101Z",
+  "lastChecked": "2026-11-14T19:18:52.075Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -106,7 +106,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCHBRTC",
         "tabs": [
-          "new_releases"
+          "home"
         ],
         "everAvailable": true
       },
@@ -142,7 +142,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
         "tabs": [
-          "new_releases"
+          "home"
         ],
         "everAvailable": true
       },
@@ -154,7 +154,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9W89R",
         "tabs": [
-          "new_releases"
+          "home"
         ],
         "everAvailable": true
       },
@@ -190,7 +190,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H2D3JF",
         "tabs": [
-          "new_releases"
+          "home"
         ],
         "everAvailable": true
       },
@@ -226,7 +226,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H1XTK6",
         "tabs": [
-          "new_releases"
+          "home"
         ],
         "everAvailable": true
       },
@@ -286,7 +286,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBW828",
         "tabs": [
-          "new_releases"
+          "home"
         ],
         "everAvailable": true
       },
@@ -298,7 +298,7 @@
         "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0GXCH6X4K",
         "tabs": [
-          "new_releases"
+          "home"
         ],
         "everAvailable": true
       },
@@ -310,7 +310,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCKJ5JH",
         "tabs": [
-          "new_releases"
+          "home"
         ],
         "everAvailable": true
       },
@@ -358,7 +358,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
         "tabs": [
-          "new_releases"
+          "home"
         ],
         "everAvailable": true
       },
@@ -382,7 +382,7 @@
         "lowStockNote": "Only 2 left in stock",
         "url": "https://www.amazon.com/dp/B0G867CCWN",
         "tabs": [
-          "new_releases"
+          "home"
         ],
         "everAvailable": true
       },
@@ -418,7 +418,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
         "tabs": [
-          "new_releases"
+          "home"
         ],
         "everAvailable": true
       },
@@ -826,6 +826,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK5SVVTY",
         "tabs": [
+          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -922,6 +923,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK6BMDNT",
         "tabs": [
+          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -982,6 +984,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNTPPHD7",
         "tabs": [
+          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -994,6 +997,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNRHT397",
         "tabs": [
+          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -1006,6 +1010,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNR3ZXMR",
         "tabs": [
+          "home",
           "preorder"
         ],
         "everAvailable": true
