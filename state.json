@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-14T20:19:27.343Z",
+  "lastChecked": "2026-11-14T21:19:20.188Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -19,7 +19,7 @@
         "title": "Magic: The Gathering | The Hobbit Collector Booster Box | 12 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
         "price": "$699.99",
         "available": true,
-        "lowStockNote": "Only 2 left in stock",
+        "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0GXC89N66",
         "tabs": [
           "new_releases"
@@ -53,9 +53,9 @@
       "B0GWS8DC8C": {
         "key": "B0GWS8DC8C",
         "title": "Magic: The Gathering | The Hobbit Gift Bundle | Collectible Trading Card Game",
-        "price": "$94.45",
+        "price": "$94.43",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 11 left in stock",
         "url": "https://www.amazon.com/dp/B0GWS8DC8C",
         "tabs": [
           "new_releases"
@@ -106,7 +106,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCHBRTC",
         "tabs": [
-          "home"
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -142,7 +142,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
         "tabs": [
-          "home"
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -154,7 +154,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9W89R",
         "tabs": [
-          "home"
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -190,7 +190,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H2D3JF",
         "tabs": [
-          "home"
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -226,7 +226,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H1XTK6",
         "tabs": [
-          "home"
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -286,7 +286,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBW828",
         "tabs": [
-          "home"
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -298,7 +298,7 @@
         "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0GXCH6X4K",
         "tabs": [
-          "home"
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -310,14 +310,14 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCKJ5JH",
         "tabs": [
-          "home"
+          "new_releases"
         ],
         "everAvailable": true
       },
       "B0GXC5T8LG": {
         "key": "B0GXC5T8LG",
         "title": "Magic: The Gathering Foundations Commander Deck - Calling All Angels | 100-Card Deck + Accessories",
-        "price": null,
+        "price": "$44.95",
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC5T8LG",
@@ -358,7 +358,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
         "tabs": [
-          "home"
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -382,7 +382,7 @@
         "lowStockNote": "Only 2 left in stock",
         "url": "https://www.amazon.com/dp/B0G867CCWN",
         "tabs": [
-          "home"
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -418,7 +418,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
         "tabs": [
-          "home"
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -1078,7 +1078,7 @@
       "B0H6H5PT8N": {
         "key": "B0H6H5PT8N",
         "title": "Magic: The Gathering | Star Trek Commander Deck - Federation Fleet",
-        "price": "$63.01",
+        "price": "$61.84",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H5PT8N",
@@ -1090,7 +1090,7 @@
       "B0H6GXL5PR": {
         "key": "B0H6GXL5PR",
         "title": "Magic: The Gathering | Star Trek Commander Deck - Landing Party",
-        "price": "$64.87",
+        "price": "$64.45",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6GXL5PR",
@@ -1114,7 +1114,7 @@
       "B0H6GTL14Z": {
         "key": "B0H6GTL14Z",
         "title": "Magic: The Gathering | Star Trek Commander Deck - We are the Borg",
-        "price": "$74.00",
+        "price": "$73.94",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6GTL14Z",
@@ -1124,7 +1124,22 @@
         "everAvailable": true
       }
     },
-    "pendingRestock": {}
+    "pendingRestock": {
+      "B0GXC5T8LG": {
+        "item": {
+          "key": "B0GXC5T8LG",
+          "title": "Magic: The Gathering Foundations Commander Deck - Calling All Angels | 100-Card Deck + Accessories",
+          "price": "$44.95",
+          "available": true,
+          "lowStockNote": null,
+          "url": "https://www.amazon.com/dp/B0GXC5T8LG",
+          "tabs": [
+            "new_releases"
+          ]
+        },
+        "firstSeenAt": 1794691160188
+      }
+    }
   },
   "bestbuy": {
     "items": {
