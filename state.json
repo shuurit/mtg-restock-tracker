@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-14T08:17:05.567Z",
+  "lastChecked": "2026-11-14T09:19:05.015Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -17,9 +17,9 @@
       "B0GXC89N66": {
         "key": "B0GXC89N66",
         "title": "Magic: The Gathering | The Hobbit Collector Booster Box | 12 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-        "price": "$705.44",
+        "price": "$699.99",
         "available": true,
-        "lowStockNote": "Only 8 left in stock",
+        "lowStockNote": "Only 2 left in stock",
         "url": "https://www.amazon.com/dp/B0GXC89N66",
         "tabs": [
           "new_releases"
@@ -29,9 +29,9 @@
       "B0GWS9J9VT": {
         "key": "B0GWS9J9VT",
         "title": "Magic: The Gathering | The Hobbit Collector Booster | 1 Pack (15 Cards) | Collectible Trading Card Game",
-        "price": "$72.10",
+        "price": "$70.14",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0GWS9J9VT",
         "tabs": [
           "new_releases"
@@ -53,9 +53,9 @@
       "B0GWS8DC8C": {
         "key": "B0GWS8DC8C",
         "title": "Magic: The Gathering | The Hobbit Gift Bundle | Collectible Trading Card Game",
-        "price": "$94.45",
+        "price": "$94.43",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 4 left in stock",
         "url": "https://www.amazon.com/dp/B0GWS8DC8C",
         "tabs": [
           "new_releases"
@@ -161,7 +161,7 @@
       "B0GXCKVJ6W": {
         "key": "B0GXCKVJ6W",
         "title": "Magic: The Gathering Reality Fracture Secret Lair Bundle",
-        "price": "$109.97",
+        "price": "$124.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCKVJ6W",
@@ -377,7 +377,7 @@
       "B0G867CCWN": {
         "key": "B0G867CCWN",
         "title": "Magic: The Gathering | Marvel Super Heroes - Draft Night (1 Collector Booster, 12 Play Boosters, 90 Lands)",
-        "price": "$89.70",
+        "price": "$88.96",
         "available": true,
         "lowStockNote": "Only 2 left in stock",
         "url": "https://www.amazon.com/dp/B0G867CCWN",
@@ -1926,7 +1926,7 @@
       "6678191": {
         "key": "6678191",
         "title": "Wizards of The Coast - Magic: The Gathering Reality Fracture - Secret Lair Bundle",
-        "price": null,
+        "price": "$94.99",
         "available": false,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-reality-fracture-secret-lair-bundle/JJ8VP7ZRRC/sku/6678191",
         "everAvailable": true
