@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-15T16:18:54.879Z",
+  "lastChecked": "2026-11-15T17:18:46.677Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -17,7 +17,7 @@
       "B0GXC89N66": {
         "key": "B0GXC89N66",
         "title": "Magic: The Gathering | The Hobbit Collector Booster Box | 12 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-        "price": "$729.99",
+        "price": "$699.99",
         "available": true,
         "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0GXC89N66",
@@ -43,7 +43,7 @@
         "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
         "price": "$69.97",
         "available": true,
-        "lowStockNote": "Only 9 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
         "tabs": [
           "new_releases"
@@ -106,7 +106,8 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCHBRTC",
         "tabs": [
-          "home"
+          "home",
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -142,7 +143,8 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
         "tabs": [
-          "home"
+          "home",
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -154,7 +156,8 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9W89R",
         "tabs": [
-          "home"
+          "home",
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -190,7 +193,8 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H2D3JF",
         "tabs": [
-          "home"
+          "home",
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -226,7 +230,8 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H1XTK6",
         "tabs": [
-          "home"
+          "home",
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -245,7 +250,7 @@
       "B0H6H4PL4G": {
         "key": "B0H6H4PL4G",
         "title": "Magic: The Gathering | Star Trek Commander Deck Bundle",
-        "price": "$197.98",
+        "price": "$199.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H4PL4G",
@@ -286,7 +291,8 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBW828",
         "tabs": [
-          "home"
+          "home",
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -298,7 +304,8 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCH6X4K",
         "tabs": [
-          "home"
+          "home",
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -310,7 +317,8 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCKJ5JH",
         "tabs": [
-          "home"
+          "home",
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -358,6 +366,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -382,6 +391,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G867CCWN",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -418,6 +428,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -1078,9 +1089,9 @@
       "B0H6H5PT8N": {
         "key": "B0H6H5PT8N",
         "title": "Magic: The Gathering | Star Trek Commander Deck - Federation Fleet",
-        "price": "$63.01",
+        "price": "$63.97",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 5 left in stock",
         "url": "https://www.amazon.com/dp/B0H6H5PT8N",
         "tabs": [
           "new_releases"
