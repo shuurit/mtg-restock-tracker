@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-15T18:18:31.274Z",
+  "lastChecked": "2026-11-15T19:19:20.418Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -7,7 +7,7 @@
         "title": "Magic: The Gathering | The Hobbit Play Booster Box | 30 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
         "price": "$148.24",
         "available": true,
-        "lowStockNote": "Only 20 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBJG9L",
         "tabs": [
           "new_releases"
@@ -43,7 +43,7 @@
         "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
         "price": "$69.97",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 7 left in stock",
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
         "tabs": [
           "new_releases"
@@ -163,7 +163,7 @@
         "title": "Magic: The Gathering Reality Fracture Secret Lair Bundle",
         "price": "$109.97",
         "available": true,
-        "lowStockNote": "Only 4 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCKVJ6W",
         "tabs": [
           "new_releases"
@@ -389,7 +389,7 @@
       "B0GF44F4MG": {
         "key": "B0GF44F4MG",
         "title": "Magic: The Gathering | Marvel Super Heroes Collector Booster Box | 12 Packs | Collectible Trading Card Game",
-        "price": "$453.98",
+        "price": "$453.96",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF44F4MG",
@@ -1075,7 +1075,7 @@
         "title": "Magic: The Gathering | Star Trek Commander Deck - Federation Fleet",
         "price": "$63.97",
         "available": true,
-        "lowStockNote": "Only 2 left in stock",
+        "lowStockNote": "Only 4 left in stock",
         "url": "https://www.amazon.com/dp/B0H6H5PT8N",
         "tabs": [
           "new_releases"
@@ -1085,7 +1085,7 @@
       "B0H6GXL5PR": {
         "key": "B0H6GXL5PR",
         "title": "Magic: The Gathering | Star Trek Commander Deck - Landing Party",
-        "price": "$63.00",
+        "price": "$62.00",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6GXL5PR",
@@ -2030,8 +2030,8 @@
       "6686939": {
         "key": "6686939",
         "title": "Wizards of The Coast - Magic: The Gathering Star Trek Beam Me Up Bundle",
-        "price": "$104.99",
-        "available": true,
+        "price": null,
+        "available": false,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-beam-me-up-bundle/JJ8VP7ZYF7/sku/6686939",
         "everAvailable": true
       },
