@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-15T14:18:54.875Z",
+  "lastChecked": "2026-11-15T15:19:36.535Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -1958,7 +1958,7 @@
       "6686924": {
         "key": "6686924",
         "title": "Wizards of The Coast - Magic: The Gathering Star Trek Collector Booster Box (12 Packs)",
-        "price": null,
+        "price": "$479.99",
         "available": false,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-collector-booster-box-12-packs/JJ8VP7ZYQC/sku/6686924",
         "everAvailable": true
@@ -2084,6 +2084,17 @@
         "everAvailable": true
       }
     },
-    "pendingRestock": {}
+    "pendingRestock": {
+      "6686924": {
+        "item": {
+          "key": "6686924",
+          "title": "Wizards of The Coast - Magic: The Gathering Star Trek Collector Booster Box (12 Packs)",
+          "price": "$479.99",
+          "available": true,
+          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-collector-booster-box-12-packs/JJ8VP7ZYQC/sku/6686924"
+        },
+        "firstSeenAt": 1794755976536
+      }
+    }
   }
 }
