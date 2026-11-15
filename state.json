@@ -1,11 +1,11 @@
 {
-  "lastChecked": "2026-11-15T00:19:01.304Z",
+  "lastChecked": "2026-11-15T01:18:58.083Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
         "key": "B0GXCBJG9L",
         "title": "Magic: The Gathering | The Hobbit Play Booster Box | 30 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-        "price": "$148.40",
+        "price": "$148.24",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBJG9L",
@@ -17,9 +17,9 @@
       "B0GXC89N66": {
         "key": "B0GXC89N66",
         "title": "Magic: The Gathering | The Hobbit Collector Booster Box | 12 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-        "price": "$699.99",
+        "price": "$455.88",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC89N66",
         "tabs": [
           "new_releases"
@@ -41,7 +41,7 @@
       "B0GWSB7V4T": {
         "key": "B0GWSB7V4T",
         "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
-        "price": "$69.97",
+        "price": "$59.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
@@ -53,7 +53,7 @@
       "B0GWS8DC8C": {
         "key": "B0GWS8DC8C",
         "title": "Magic: The Gathering | The Hobbit Gift Bundle | Collectible Trading Card Game",
-        "price": "$94.45",
+        "price": "$94.43",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS8DC8C",
@@ -106,6 +106,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCHBRTC",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -142,6 +143,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -154,6 +156,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9W89R",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -190,6 +193,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H2D3JF",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -226,6 +230,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H1XTK6",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -286,6 +291,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBW828",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -293,11 +299,12 @@
       "B0GXCH6X4K": {
         "key": "B0GXCH6X4K",
         "title": "Magic: The Gathering Foundations Commander Deck - Keen Engineering | 100-Card Deck + Accessories",
-        "price": "$39.97",
+        "price": "$39.95",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCH6X4K",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -310,6 +317,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCKJ5JH",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -358,6 +366,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -382,6 +391,7 @@
         "lowStockNote": "Only 2 left in stock",
         "url": "https://www.amazon.com/dp/B0G867CCWN",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -418,6 +428,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -449,7 +460,7 @@
       "B0GF44KXT4": {
         "key": "B0GF44KXT4",
         "title": "Magic: The Gathering | Marvel Super Heroes Collector’s Edition Commander Deck Bundle - Includes All 4 Surge Foil Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
-        "price": "$424.04",
+        "price": "$381.64",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF44KXT4",
@@ -826,6 +837,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK5SVVTY",
         "tabs": [
+          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -922,6 +934,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK6BMDNT",
         "tabs": [
+          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -982,6 +995,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNTPPHD7",
         "tabs": [
+          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -994,6 +1008,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNRHT397",
         "tabs": [
+          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -1006,6 +1021,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNR3ZXMR",
         "tabs": [
+          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -1109,7 +1125,7 @@
       "B0H6GTL14Z": {
         "key": "B0H6GTL14Z",
         "title": "Magic: The Gathering | Star Trek Commander Deck - We are the Borg",
-        "price": "$73.94",
+        "price": "$74.00",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6GTL14Z",
