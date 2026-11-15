@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-15T07:18:59.642Z",
+  "lastChecked": "2026-11-15T08:18:49.303Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -53,7 +53,7 @@
       "B0GWS8DC8C": {
         "key": "B0GWS8DC8C",
         "title": "Magic: The Gathering | The Hobbit Gift Bundle | Collectible Trading Card Game",
-        "price": "$87.99",
+        "price": "$93.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS8DC8C",
@@ -106,6 +106,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCHBRTC",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -142,6 +143,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -154,6 +156,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9W89R",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -190,6 +193,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H2D3JF",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -226,6 +230,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H1XTK6",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -286,6 +291,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBW828",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -298,6 +304,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCH6X4K",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -310,6 +317,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCKJ5JH",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -358,6 +366,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -377,11 +386,12 @@
       "B0G867CCWN": {
         "key": "B0G867CCWN",
         "title": "Magic: The Gathering | Marvel Super Heroes - Draft Night (1 Collector Booster, 12 Play Boosters, 90 Lands)",
-        "price": "$89.95",
+        "price": "$89.79",
         "available": true,
         "lowStockNote": "Only 2 left in stock",
         "url": "https://www.amazon.com/dp/B0G867CCWN",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -418,6 +428,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -425,9 +436,9 @@
       "B0G87RDQPV": {
         "key": "B0G87RDQPV",
         "title": "Magic: The Gathering | Marvel Super Heroes - Bundle: Gift Edition (Deluxe Bundle with 1 Collector Booster, 9 Play Boosters, 30 Lands, 1 Alt-Art Card + Exclusive Accessories)",
-        "price": "$79.85",
+        "price": "$79.62",
         "available": true,
-        "lowStockNote": "Only 9 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87RDQPV",
         "tabs": [
           "new_releases"
@@ -826,6 +837,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK5SVVTY",
         "tabs": [
+          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -922,6 +934,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK6BMDNT",
         "tabs": [
+          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -982,6 +995,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNTPPHD7",
         "tabs": [
+          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -994,6 +1008,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNRHT397",
         "tabs": [
+          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -1006,6 +1021,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNR3ZXMR",
         "tabs": [
+          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -1085,7 +1101,7 @@
       "B0H6GXL5PR": {
         "key": "B0H6GXL5PR",
         "title": "Magic: The Gathering | Star Trek Commander Deck - Landing Party",
-        "price": "$63.94",
+        "price": "$63.43",
         "available": true,
         "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0H6GXL5PR",
@@ -1109,7 +1125,7 @@
       "B0H6GTL14Z": {
         "key": "B0H6GTL14Z",
         "title": "Magic: The Gathering | Star Trek Commander Deck - We are the Borg",
-        "price": "$73.94",
+        "price": "$74.00",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6GTL14Z",
