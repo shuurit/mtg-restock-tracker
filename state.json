@@ -1,11 +1,11 @@
 {
-  "lastChecked": "2026-11-16T20:19:33.478Z",
+  "lastChecked": "2026-11-16T21:18:52.673Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
         "key": "B0GXCBJG9L",
         "title": "Magic: The Gathering | The Hobbit Play Booster Box | 30 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-        "price": "$146.95",
+        "price": "$146.83",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBJG9L",
@@ -43,7 +43,7 @@
         "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
         "price": "$69.97",
         "available": true,
-        "lowStockNote": "Only 6 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
         "tabs": [
           "new_releases"
@@ -106,6 +106,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCHBRTC",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -142,6 +143,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -154,6 +156,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9W89R",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -185,11 +188,12 @@
       "B0H6H2D3JF": {
         "key": "B0H6H2D3JF",
         "title": "Magic: The Gathering | Star Trek Play Booster Box",
-        "price": "$120.91",
+        "price": "$104.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H2D3JF",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -226,6 +230,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H1XTK6",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -286,6 +291,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBW828",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -298,6 +304,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCH6X4K",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -310,6 +317,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCKJ5JH",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -341,8 +349,8 @@
       "B0GXC8T76T": {
         "key": "B0GXC8T76T",
         "title": "Magic: The Gathering Foundations Commander Deck - Tramplesaurus Rex | 100-Card Deck + Accessories",
-        "price": "$29.99",
-        "available": true,
+        "price": null,
+        "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC8T76T",
         "tabs": [
@@ -358,6 +366,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -382,6 +391,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G867CCWN",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -418,6 +428,7 @@
         "lowStockNote": "Only 4 left in stock",
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -499,7 +510,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - The Fantastic Four (100-Card Deck + Accessories)",
         "price": "$49.63",
         "available": true,
-        "lowStockNote": "Only 2 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CH7TH",
         "tabs": [
           "new_releases"
@@ -826,6 +837,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK5SVVTY",
         "tabs": [
+          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -922,6 +934,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK6BMDNT",
         "tabs": [
+          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -982,6 +995,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNTPPHD7",
         "tabs": [
+          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -994,6 +1008,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNRHT397",
         "tabs": [
+          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -1006,6 +1021,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNR3ZXMR",
         "tabs": [
+          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -1097,7 +1113,7 @@
       "B0H6H7QSSD": {
         "key": "B0H6H7QSSD",
         "title": "Magic: The Gathering | Star Trek Commander Deck - Klingon Fury",
-        "price": "$55.99",
+        "price": "$52.60",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H7QSSD",
@@ -1109,7 +1125,7 @@
       "B0H6GTL14Z": {
         "key": "B0H6GTL14Z",
         "title": "Magic: The Gathering | Star Trek Commander Deck - We are the Borg",
-        "price": "$73.57",
+        "price": "$73.51",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6GTL14Z",
@@ -2031,7 +2047,7 @@
         "key": "6686939",
         "title": "Wizards of The Coast - Magic: The Gathering Star Trek Beam Me Up Bundle",
         "price": "$104.99",
-        "available": false,
+        "available": true,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-beam-me-up-bundle/JJ8VP7ZYF7/sku/6686939",
         "everAvailable": true
       },
@@ -2084,17 +2100,6 @@
         "everAvailable": true
       }
     },
-    "pendingRestock": {
-      "6686939": {
-        "item": {
-          "key": "6686939",
-          "title": "Wizards of The Coast - Magic: The Gathering Star Trek Beam Me Up Bundle",
-          "price": "$104.99",
-          "available": true,
-          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-beam-me-up-bundle/JJ8VP7ZYF7/sku/6686939"
-        },
-        "firstSeenAt": 1794860373479
-      }
-    }
+    "pendingRestock": {}
   }
 }
