@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-16T07:19:18.497Z",
+  "lastChecked": "2026-11-16T08:19:16.666Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -53,7 +53,7 @@
       "B0GWS8DC8C": {
         "key": "B0GWS8DC8C",
         "title": "Magic: The Gathering | The Hobbit Gift Bundle | Collectible Trading Card Game",
-        "price": "$87.99",
+        "price": "$93.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS8DC8C",
@@ -413,9 +413,9 @@
       "B0G87CB5VB": {
         "key": "B0G87CB5VB",
         "title": "Magic: The Gathering | Marvel Super Heroes Bundle | Includes 9 Play Boosters, 30 Lands, 1 Foil Alt-Art Promo Card + Exclusive Accessories | Collectible Trading Card Game",
-        "price": "$44.99",
+        "price": "$49.77",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 7 left in stock",
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
         "tabs": [
           "new_releases"
@@ -437,7 +437,7 @@
       "B0GF4M5P4C": {
         "key": "B0GF4M5P4C",
         "title": "Magic: The Gathering | Marvel Super Heroes Jumpstart Booster Box | 24 Packs | 2-Player Card Game",
-        "price": "$114.00",
+        "price": "$104.90",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4M5P4C",
@@ -497,9 +497,9 @@
       "B0G87CH7TH": {
         "key": "B0G87CH7TH",
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - The Fantastic Four (100-Card Deck + Accessories)",
-        "price": "$38.99",
+        "price": "$39.99",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 9 left in stock",
         "url": "https://www.amazon.com/dp/B0G87CH7TH",
         "tabs": [
           "new_releases"
@@ -509,7 +509,7 @@
       "B0G87C83NR": {
         "key": "B0G87C83NR",
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - Doom Prevails (100-Card Deck + Accessories)",
-        "price": "$59.99",
+        "price": "$62.96",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87C83NR",
@@ -1109,7 +1109,7 @@
       "B0H6GTL14Z": {
         "key": "B0H6GTL14Z",
         "title": "Magic: The Gathering | Star Trek Commander Deck - We are the Borg",
-        "price": "$73.94",
+        "price": "$74.00",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6GTL14Z",
