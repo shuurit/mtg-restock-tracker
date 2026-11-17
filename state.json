@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-17T17:18:37.049Z",
+  "lastChecked": "2026-11-17T18:19:12.144Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -317,9 +317,9 @@
       "B0GXC5T8LG": {
         "key": "B0GXC5T8LG",
         "title": "Magic: The Gathering Foundations Commander Deck - Calling All Angels | 100-Card Deck + Accessories",
-        "price": null,
+        "price": "$29.99",
         "available": false,
-        "lowStockNote": null,
+        "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0GXC5T8LG",
         "tabs": [
           "new_releases"
@@ -1109,7 +1109,7 @@
       "B0H6GTL14Z": {
         "key": "B0H6GTL14Z",
         "title": "Magic: The Gathering | Star Trek Commander Deck - We are the Borg",
-        "price": "$72.30",
+        "price": "$72.24",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6GTL14Z",
@@ -1119,7 +1119,22 @@
         "everAvailable": true
       }
     },
-    "pendingRestock": {}
+    "pendingRestock": {
+      "B0GXC5T8LG": {
+        "item": {
+          "key": "B0GXC5T8LG",
+          "title": "Magic: The Gathering Foundations Commander Deck - Calling All Angels | 100-Card Deck + Accessories",
+          "price": "$29.99",
+          "available": true,
+          "lowStockNote": "Only 1 left in stock",
+          "url": "https://www.amazon.com/dp/B0GXC5T8LG",
+          "tabs": [
+            "new_releases"
+          ]
+        },
+        "firstSeenAt": 1794939552144
+      }
+    }
   },
   "bestbuy": {
     "items": {
@@ -2084,6 +2099,17 @@
         "everAvailable": true
       }
     },
-    "pendingRestock": {}
+    "pendingRestock": {
+      "6686924": {
+        "item": {
+          "key": "6686924",
+          "title": "Wizards of The Coast - Magic: The Gathering Star Trek Collector Booster Box (12 Packs)",
+          "price": "$479.99",
+          "available": true,
+          "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-collector-booster-box-12-packs/JJ8VP7ZYQC/sku/6686924"
+        },
+        "firstSeenAt": 1794939552145
+      }
+    }
   }
 }
