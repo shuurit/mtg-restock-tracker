@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-17T03:19:15.980Z",
+  "lastChecked": "2026-11-17T04:19:00.013Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -53,7 +53,7 @@
       "B0GWS8DC8C": {
         "key": "B0GWS8DC8C",
         "title": "Magic: The Gathering | The Hobbit Gift Bundle | Collectible Trading Card Game",
-        "price": "$87.99",
+        "price": "$93.98",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS8DC8C",
@@ -106,6 +106,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCHBRTC",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -137,11 +138,12 @@
       "B0GXC9SDV9": {
         "key": "B0GXC9SDV9",
         "title": "Magic: The Gathering Reality Fracture Commander Deck - Multiverse Reforged | 100-Card Deck + Accessories",
-        "price": "$49.23",
+        "price": "$49.39",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -154,6 +156,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9W89R",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -161,7 +164,7 @@
       "B0GXCKVJ6W": {
         "key": "B0GXCKVJ6W",
         "title": "Magic: The Gathering Reality Fracture Secret Lair Bundle",
-        "price": "$109.95",
+        "price": "$134.95",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCKVJ6W",
@@ -185,11 +188,12 @@
       "B0H6H2D3JF": {
         "key": "B0H6H2D3JF",
         "title": "Magic: The Gathering | Star Trek Play Booster Box",
-        "price": "$104.99",
+        "price": "$120.91",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H2D3JF",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -226,6 +230,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H1XTK6",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -286,6 +291,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBW828",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -298,6 +304,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCH6X4K",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -310,6 +317,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCKJ5JH",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -358,6 +366,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -382,6 +391,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G867CCWN",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -418,6 +428,7 @@
         "lowStockNote": "Only 12 left in stock",
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
         "tabs": [
+          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -497,7 +508,7 @@
       "B0G87CH7TH": {
         "key": "B0G87CH7TH",
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - The Fantastic Four (100-Card Deck + Accessories)",
-        "price": "$52.94",
+        "price": "$51.97",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CH7TH",
@@ -809,7 +820,7 @@
       "B0H6GZS4P6": {
         "key": "B0H6GZS4P6",
         "title": "Magic: The Gathering | Star Trek Scene Box - Divergent Timeline",
-        "price": "$41.95",
+        "price": "$41.75",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6GZS4P6",
@@ -826,6 +837,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK5SVVTY",
         "tabs": [
+          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -922,6 +934,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK6BMDNT",
         "tabs": [
+          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -982,6 +995,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNTPPHD7",
         "tabs": [
+          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -994,6 +1008,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNRHT397",
         "tabs": [
+          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -1006,6 +1021,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNR3ZXMR",
         "tabs": [
+          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -1109,7 +1125,7 @@
       "B0H6GTL14Z": {
         "key": "B0H6GTL14Z",
         "title": "Magic: The Gathering | Star Trek Commander Deck - We are the Borg",
-        "price": "$73.15",
+        "price": "$73.10",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6GTL14Z",
@@ -2030,8 +2046,8 @@
       "6686939": {
         "key": "6686939",
         "title": "Wizards of The Coast - Magic: The Gathering Star Trek Beam Me Up Bundle",
-        "price": "$104.99",
-        "available": true,
+        "price": null,
+        "available": false,
         "url": "https://www.bestbuy.com/product/wizards-of-the-coast-magic-the-gathering-star-trek-beam-me-up-bundle/JJ8VP7ZYF7/sku/6686939",
         "everAvailable": true
       },
