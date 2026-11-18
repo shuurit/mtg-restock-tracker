@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-18T03:19:10.140Z",
+  "lastChecked": "2026-11-18T04:21:36.841Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -137,7 +137,7 @@
       "B0GXC9SDV9": {
         "key": "B0GXC9SDV9",
         "title": "Magic: The Gathering Reality Fracture Commander Deck - Multiverse Reforged | 100-Card Deck + Accessories",
-        "price": "$48.95",
+        "price": "$48.35",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
@@ -149,7 +149,7 @@
       "B0GXC9W89R": {
         "key": "B0GXC9W89R",
         "title": "Magic: The Gathering Reality Fracture Bundle | Includes 9 Play Boosters, 30 Lands, 1 Foil Alt-Art Promo Card + Exclusive Accessories",
-        "price": "$51.14",
+        "price": "$50.58",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9W89R",
@@ -415,7 +415,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Bundle | Includes 9 Play Boosters, 30 Lands, 1 Foil Alt-Art Promo Card + Exclusive Accessories | Collectible Trading Card Game",
         "price": "$49.99",
         "available": true,
-        "lowStockNote": "Only 4 left in stock",
+        "lowStockNote": "Only 13 left in stock",
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
         "tabs": [
           "home"
@@ -826,8 +826,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK5SVVTY",
         "tabs": [
-          "home",
-          "preorder"
+          "home"
         ],
         "everAvailable": true
       },
@@ -923,8 +922,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK6BMDNT",
         "tabs": [
-          "home",
-          "preorder"
+          "home"
         ],
         "everAvailable": true
       },
@@ -984,8 +982,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNTPPHD7",
         "tabs": [
-          "home",
-          "preorder"
+          "home"
         ],
         "everAvailable": true
       },
@@ -997,8 +994,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNRHT397",
         "tabs": [
-          "home",
-          "preorder"
+          "home"
         ],
         "everAvailable": true
       },
@@ -1010,8 +1006,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNR3ZXMR",
         "tabs": [
-          "home",
-          "preorder"
+          "home"
         ],
         "everAvailable": true
       },
