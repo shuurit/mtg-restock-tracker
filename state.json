@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-19T02:18:57.224Z",
+  "lastChecked": "2026-11-19T03:19:23.997Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -55,7 +55,7 @@
         "title": "Magic: The Gathering | The Hobbit Gift Bundle | Collectible Trading Card Game",
         "price": "$87.95",
         "available": true,
-        "lowStockNote": "Only 15 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS8DC8C",
         "tabs": [
           "new_releases"
@@ -113,7 +113,7 @@
       "B0GXC667JV": {
         "key": "B0GXC667JV",
         "title": "Magic: The Gathering Reality Fracture Collector Booster Box | 12 Packs",
-        "price": "$419.91",
+        "price": "$419.90",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC667JV",
@@ -318,7 +318,7 @@
         "key": "B0GXC5T8LG",
         "title": "Magic: The Gathering Foundations Commander Deck - Calling All Angels | 100-Card Deck + Accessories",
         "price": "$44.95",
-        "available": false,
+        "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC5T8LG",
         "tabs": [
@@ -389,7 +389,7 @@
       "B0GF44F4MG": {
         "key": "B0GF44F4MG",
         "title": "Magic: The Gathering | Marvel Super Heroes Collector Booster Box | 12 Packs | Collectible Trading Card Game",
-        "price": "$452.50",
+        "price": "$451.95",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF44F4MG",
@@ -415,7 +415,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Bundle | Includes 9 Play Boosters, 30 Lands, 1 Foil Alt-Art Promo Card + Exclusive Accessories | Collectible Trading Card Game",
         "price": "$50.32",
         "available": true,
-        "lowStockNote": "Only 9 left in stock",
+        "lowStockNote": "Only 8 left in stock",
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
         "tabs": [
           "new_releases"
@@ -1119,22 +1119,7 @@
         "everAvailable": true
       }
     },
-    "pendingRestock": {
-      "B0GXC5T8LG": {
-        "item": {
-          "key": "B0GXC5T8LG",
-          "title": "Magic: The Gathering Foundations Commander Deck - Calling All Angels | 100-Card Deck + Accessories",
-          "price": "$44.95",
-          "available": true,
-          "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0GXC5T8LG",
-          "tabs": [
-            "new_releases"
-          ]
-        },
-        "firstSeenAt": 1795054737224
-      }
-    }
+    "pendingRestock": {}
   },
   "bestbuy": {
     "items": {
