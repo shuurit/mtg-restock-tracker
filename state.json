@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-20T04:19:37.408Z",
+  "lastChecked": "2026-11-20T05:18:52.793Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -17,9 +17,9 @@
       "B0GXC89N66": {
         "key": "B0GXC89N66",
         "title": "Magic: The Gathering | The Hobbit Collector Booster Box | 12 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-        "price": "$699.75",
+        "price": "$699.00",
         "available": true,
-        "lowStockNote": "Only 4 left in stock",
+        "lowStockNote": "Only 5 left in stock",
         "url": "https://www.amazon.com/dp/B0GXC89N66",
         "tabs": [
           "new_releases"
@@ -77,7 +77,7 @@
       "B0GWRZF6HC": {
         "key": "B0GWRZF6HC",
         "title": "Magic: The Gathering | The Hobbit Box - Treasures of Smaug | 6 Foil Borderless Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
-        "price": "$57.88",
+        "price": "$57.86",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWRZF6HC",
@@ -89,9 +89,9 @@
       "B0GWS582CC": {
         "key": "B0GWS582CC",
         "title": "Magic: The Gathering | The Hobbit Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens | Collectible Trading Card Game",
-        "price": "$138.64",
+        "price": "$138.60",
         "available": true,
-        "lowStockNote": "Only 8 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS582CC",
         "tabs": [
           "new_releases"
@@ -106,7 +106,8 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCHBRTC",
         "tabs": [
-          "home"
+          "home",
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -137,12 +138,13 @@
       "B0GXC9SDV9": {
         "key": "B0GXC9SDV9",
         "title": "Magic: The Gathering Reality Fracture Commander Deck - Multiverse Reforged | 100-Card Deck + Accessories",
-        "price": "$47.65",
+        "price": "$46.33",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
         "tabs": [
-          "home"
+          "home",
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -154,7 +156,8 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9W89R",
         "tabs": [
-          "home"
+          "home",
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -190,7 +193,8 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H2D3JF",
         "tabs": [
-          "home"
+          "home",
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -226,7 +230,8 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H1XTK6",
         "tabs": [
-          "home"
+          "home",
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -286,7 +291,8 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBW828",
         "tabs": [
-          "home"
+          "home",
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -298,7 +304,8 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCH6X4K",
         "tabs": [
-          "home"
+          "home",
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -310,7 +317,8 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCKJ5JH",
         "tabs": [
-          "home"
+          "home",
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -358,7 +366,8 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
         "tabs": [
-          "home"
+          "home",
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -382,14 +391,15 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G867CCWN",
         "tabs": [
-          "home"
+          "home",
+          "new_releases"
         ],
         "everAvailable": true
       },
       "B0GF44F4MG": {
         "key": "B0GF44F4MG",
         "title": "Magic: The Gathering | Marvel Super Heroes Collector Booster Box | 12 Packs | Collectible Trading Card Game",
-        "price": "$452.50",
+        "price": "$451.95",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF44F4MG",
@@ -418,7 +428,8 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
         "tabs": [
-          "home"
+          "home",
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -826,7 +837,8 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK5SVVTY",
         "tabs": [
-          "home"
+          "home",
+          "preorder"
         ],
         "everAvailable": true
       },
@@ -922,7 +934,8 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK6BMDNT",
         "tabs": [
-          "home"
+          "home",
+          "preorder"
         ],
         "everAvailable": true
       },
@@ -982,7 +995,8 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNTPPHD7",
         "tabs": [
-          "home"
+          "home",
+          "preorder"
         ],
         "everAvailable": true
       },
@@ -994,7 +1008,8 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNRHT397",
         "tabs": [
-          "home"
+          "home",
+          "preorder"
         ],
         "everAvailable": true
       },
@@ -1006,7 +1021,8 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNR3ZXMR",
         "tabs": [
-          "home"
+          "home",
+          "preorder"
         ],
         "everAvailable": true
       },
@@ -1109,7 +1125,7 @@
       "B0H6GTL14Z": {
         "key": "B0H6GTL14Z",
         "title": "Magic: The Gathering | Star Trek Commander Deck - We are the Borg",
-        "price": "$69.71",
+        "price": "$72.10",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6GTL14Z",
