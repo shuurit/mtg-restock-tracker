@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-20T08:19:06.076Z",
+  "lastChecked": "2026-11-20T09:19:10.153Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -17,9 +17,9 @@
       "B0GXC89N66": {
         "key": "B0GXC89N66",
         "title": "Magic: The Gathering | The Hobbit Collector Booster Box | 12 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-        "price": "$699.75",
+        "price": "$455.88",
         "available": true,
-        "lowStockNote": "Only 3 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC89N66",
         "tabs": [
           "new_releases"
@@ -53,7 +53,7 @@
       "B0GWS8DC8C": {
         "key": "B0GWS8DC8C",
         "title": "Magic: The Gathering | The Hobbit Gift Bundle | Collectible Trading Card Game",
-        "price": "$93.99",
+        "price": "$87.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS8DC8C",
@@ -365,7 +365,7 @@
       "B0G87JWX8L": {
         "key": "B0G87JWX8L",
         "title": "Magic: The Gathering | Marvel Super Heroes Beginner Box | 2-Player Card Game | Includes 2 Tutorial Decks, 8 Themed Half-Decks, 2 Playboards, 2 Spindowns, and More",
-        "price": "$24.49",
+        "price": "$24.13",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87JWX8L",
@@ -389,7 +389,7 @@
       "B0GF44F4MG": {
         "key": "B0GF44F4MG",
         "title": "Magic: The Gathering | Marvel Super Heroes Collector Booster Box | 12 Packs | Collectible Trading Card Game",
-        "price": "$451.93",
+        "price": "$452.50",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF44F4MG",
@@ -425,7 +425,7 @@
       "B0G87RDQPV": {
         "key": "B0G87RDQPV",
         "title": "Magic: The Gathering | Marvel Super Heroes - Bundle: Gift Edition (Deluxe Bundle with 1 Collector Booster, 9 Play Boosters, 30 Lands, 1 Alt-Art Card + Exclusive Accessories)",
-        "price": "$89.90",
+        "price": "$79.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87RDQPV",
