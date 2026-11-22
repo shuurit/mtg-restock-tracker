@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-22T01:19:14.122Z",
+  "lastChecked": "2026-11-22T02:19:22.490Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -79,7 +79,7 @@
         "title": "Magic: The Gathering | The Hobbit Box - Treasures of Smaug | 6 Foil Borderless Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
         "price": "$57.86",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 7 left in stock",
         "url": "https://www.amazon.com/dp/B0GWRZF6HC",
         "tabs": [
           "new_releases"
@@ -499,7 +499,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - The Fantastic Four (100-Card Deck + Accessories)",
         "price": "$38.99",
         "available": true,
-        "lowStockNote": "Only 11 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CH7TH",
         "tabs": [
           "new_releases"
