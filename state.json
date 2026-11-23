@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-22T23:19:18.525Z",
+  "lastChecked": "2026-11-23T00:19:09.467Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -29,7 +29,7 @@
       "B0GWS9J9VT": {
         "key": "B0GWS9J9VT",
         "title": "Magic: The Gathering | The Hobbit Collector Booster | 1 Pack (15 Cards) | Collectible Trading Card Game",
-        "price": "$72.10",
+        "price": "$72.08",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS9J9VT",
@@ -53,7 +53,7 @@
       "B0GWS8DC8C": {
         "key": "B0GWS8DC8C",
         "title": "Magic: The Gathering | The Hobbit Gift Bundle | Collectible Trading Card Game",
-        "price": "$93.99",
+        "price": "$87.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS8DC8C",
@@ -79,7 +79,7 @@
         "title": "Magic: The Gathering | The Hobbit Box - Treasures of Smaug | 6 Foil Borderless Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
         "price": "$57.53",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWRZF6HC",
         "tabs": [
           "new_releases"
@@ -427,7 +427,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes - Bundle: Gift Edition (Deluxe Bundle with 1 Collector Booster, 9 Play Boosters, 30 Lands, 1 Alt-Art Card + Exclusive Accessories)",
         "price": "$83.13",
         "available": true,
-        "lowStockNote": "Only 6 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87RDQPV",
         "tabs": [
           "new_releases"
@@ -533,9 +533,9 @@
       "B0G87734WB": {
         "key": "B0G87734WB",
         "title": "Magic: The Gathering | Marvel Super Heroes Scene Box - Villains Unleashed | 6 Foil Borderless Scene Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
-        "price": "$30.00",
+        "price": "$29.99",
         "available": true,
-        "lowStockNote": "Only 6 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87734WB",
         "tabs": [
           "new_releases"
