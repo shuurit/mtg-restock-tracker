@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-23T03:19:07.273Z",
+  "lastChecked": "2026-11-23T04:19:25.494Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -29,7 +29,7 @@
       "B0GWS9J9VT": {
         "key": "B0GWS9J9VT",
         "title": "Magic: The Gathering | The Hobbit Collector Booster | 1 Pack (15 Cards) | Collectible Trading Card Game",
-        "price": "$72.00",
+        "price": "$71.98",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS9J9VT",
@@ -41,7 +41,7 @@
       "B0GWSB7V4T": {
         "key": "B0GWSB7V4T",
         "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
-        "price": "$69.97",
+        "price": "$59.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
@@ -53,7 +53,7 @@
       "B0GWS8DC8C": {
         "key": "B0GWS8DC8C",
         "title": "Magic: The Gathering | The Hobbit Gift Bundle | Collectible Trading Card Game",
-        "price": "$93.99",
+        "price": "$87.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS8DC8C",
@@ -103,7 +103,7 @@
         "title": "Magic: The Gathering Reality Fracture Play Booster Box | 30 Packs",
         "price": "$129.33",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 6 left in stock",
         "url": "https://www.amazon.com/dp/B0GXCHBRTC",
         "tabs": [
           "new_releases"
@@ -425,9 +425,9 @@
       "B0G87RDQPV": {
         "key": "B0G87RDQPV",
         "title": "Magic: The Gathering | Marvel Super Heroes - Bundle: Gift Edition (Deluxe Bundle with 1 Collector Booster, 9 Play Boosters, 30 Lands, 1 Alt-Art Card + Exclusive Accessories)",
-        "price": "$89.89",
+        "price": "$83.13",
         "available": true,
-        "lowStockNote": "Only 8 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87RDQPV",
         "tabs": [
           "new_releases"
@@ -1109,7 +1109,7 @@
       "B0H6GTL14Z": {
         "key": "B0H6GTL14Z",
         "title": "Magic: The Gathering | Star Trek Commander Deck - We are the Borg",
-        "price": "$72.10",
+        "price": "$72.04",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6GTL14Z",
