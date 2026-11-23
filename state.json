@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-23T01:19:08.034Z",
+  "lastChecked": "2026-11-23T02:19:11.005Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -29,7 +29,7 @@
       "B0GWS9J9VT": {
         "key": "B0GWS9J9VT",
         "title": "Magic: The Gathering | The Hobbit Collector Booster | 1 Pack (15 Cards) | Collectible Trading Card Game",
-        "price": "$72.10",
+        "price": "$72.00",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS9J9VT",
@@ -41,7 +41,7 @@
       "B0GWSB7V4T": {
         "key": "B0GWSB7V4T",
         "title": "Magic: The Gathering | The Hobbit Bundle | Collectible Trading Card Game",
-        "price": "$69.95",
+        "price": "$69.97",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWSB7V4T",
@@ -77,7 +77,7 @@
       "B0GWRZF6HC": {
         "key": "B0GWRZF6HC",
         "title": "Magic: The Gathering | The Hobbit Box - Treasures of Smaug | 6 Foil Borderless Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
-        "price": "$57.53",
+        "price": "$57.88",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWRZF6HC",
@@ -161,7 +161,7 @@
       "B0GXCKVJ6W": {
         "key": "B0GXCKVJ6W",
         "title": "Magic: The Gathering Reality Fracture Secret Lair Bundle",
-        "price": "$124.96",
+        "price": "$113.13",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCKVJ6W",
@@ -221,7 +221,7 @@
       "B0H6H1XTK6": {
         "key": "B0H6H1XTK6",
         "title": "Magic: The Gathering | Star Trek Bundle",
-        "price": "$56.99",
+        "price": "$56.98",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H1XTK6",
@@ -379,7 +379,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes - Draft Night (1 Collector Booster, 12 Play Boosters, 90 Lands)",
         "price": "$87.00",
         "available": true,
-        "lowStockNote": "Only 18 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G867CCWN",
         "tabs": [
           "new_releases"
@@ -427,7 +427,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes - Bundle: Gift Edition (Deluxe Bundle with 1 Collector Booster, 9 Play Boosters, 30 Lands, 1 Alt-Art Card + Exclusive Accessories)",
         "price": "$89.89",
         "available": true,
-        "lowStockNote": "Only 7 left in stock",
+        "lowStockNote": "Only 8 left in stock",
         "url": "https://www.amazon.com/dp/B0G87RDQPV",
         "tabs": [
           "new_releases"
@@ -463,7 +463,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck Bundle - Includes All 4 Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
         "price": "$173.94",
         "available": true,
-        "lowStockNote": "Only 11 left in stock",
+        "lowStockNote": "Only 16 left in stock",
         "url": "https://www.amazon.com/dp/B0GF44MVBP",
         "tabs": [
           "new_releases"
@@ -1013,8 +1013,8 @@
       "B0HNV3M7YV": {
         "key": "B0HNV3M7YV",
         "title": "Magic: The Gathering Nauctis: The Sunken Realm Commander Deck Bundle | Includes All 4 Decks (Merfolk Regiment, Terrors of the Abyss, Blood in the Water, Seal the Deal)",
-        "price": "$199.96",
-        "available": true,
+        "price": null,
+        "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNV3M7YV",
         "tabs": [
@@ -1087,7 +1087,7 @@
         "title": "Magic: The Gathering | Star Trek Commander Deck - Landing Party",
         "price": "$64.87",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0H6GXL5PR",
         "tabs": [
           "new_releases"
