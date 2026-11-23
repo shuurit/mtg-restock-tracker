@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-23T06:19:26.990Z",
+  "lastChecked": "2026-11-23T07:19:33.603Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -101,7 +101,7 @@
       "B0GXCHBRTC": {
         "key": "B0GXCHBRTC",
         "title": "Magic: The Gathering Reality Fracture Play Booster Box | 30 Packs",
-        "price": "$129.33",
+        "price": "$127.80",
         "available": true,
         "lowStockNote": "Only 6 left in stock",
         "url": "https://www.amazon.com/dp/B0GXCHBRTC",
@@ -377,7 +377,7 @@
       "B0G867CCWN": {
         "key": "B0G867CCWN",
         "title": "Magic: The Gathering | Marvel Super Heroes - Draft Night (1 Collector Booster, 12 Play Boosters, 90 Lands)",
-        "price": "$87.00",
+        "price": "$89.57",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G867CCWN",
@@ -826,8 +826,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK5SVVTY",
         "tabs": [
-          "home",
-          "preorder"
+          "home"
         ],
         "everAvailable": true
       },
@@ -923,8 +922,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK6BMDNT",
         "tabs": [
-          "home",
-          "preorder"
+          "home"
         ],
         "everAvailable": true
       },
@@ -984,8 +982,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNTPPHD7",
         "tabs": [
-          "home",
-          "preorder"
+          "home"
         ],
         "everAvailable": true
       },
@@ -997,8 +994,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNRHT397",
         "tabs": [
-          "home",
-          "preorder"
+          "home"
         ],
         "everAvailable": true
       },
@@ -1010,8 +1006,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNR3ZXMR",
         "tabs": [
-          "home",
-          "preorder"
+          "home"
         ],
         "everAvailable": true
       },
