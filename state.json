@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-24T00:19:02.873Z",
+  "lastChecked": "2026-11-24T01:19:03.857Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -149,7 +149,7 @@
       "B0GXC9W89R": {
         "key": "B0GXC9W89R",
         "title": "Magic: The Gathering Reality Fracture Bundle | Includes 9 Play Boosters, 30 Lands, 1 Foil Alt-Art Promo Card + Exclusive Accessories",
-        "price": "$51.54",
+        "price": "$50.56",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9W89R",
@@ -1013,7 +1013,7 @@
       "B0HNV3M7YV": {
         "key": "B0HNV3M7YV",
         "title": "Magic: The Gathering Nauctis: The Sunken Realm Commander Deck Bundle | Includes All 4 Decks (Merfolk Regiment, Terrors of the Abyss, Blood in the Water, Seal the Deal)",
-        "price": null,
+        "price": "$199.96",
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNV3M7YV",
@@ -1111,7 +1111,7 @@
         "title": "Magic: The Gathering | Star Trek Commander Deck - We are the Borg",
         "price": "$72.10",
         "available": true,
-        "lowStockNote": "Only 10 left in stock",
+        "lowStockNote": "Only 5 left in stock",
         "url": "https://www.amazon.com/dp/B0H6GTL14Z",
         "tabs": [
           "new_releases"
@@ -1119,7 +1119,22 @@
         "everAvailable": true
       }
     },
-    "pendingRestock": {}
+    "pendingRestock": {
+      "B0HNV3M7YV": {
+        "item": {
+          "key": "B0HNV3M7YV",
+          "title": "Magic: The Gathering Nauctis: The Sunken Realm Commander Deck Bundle | Includes All 4 Decks (Merfolk Regiment, Terrors of the Abyss, Blood in the Water, Seal the Deal)",
+          "price": "$199.96",
+          "available": true,
+          "lowStockNote": null,
+          "url": "https://www.amazon.com/dp/B0HNV3M7YV",
+          "tabs": [
+            "preorder"
+          ]
+        },
+        "firstSeenAt": 1795483143858
+      }
+    }
   },
   "bestbuy": {
     "items": {
