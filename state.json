@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-24T21:18:53.762Z",
+  "lastChecked": "2026-11-24T22:19:10.191Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -106,8 +106,7 @@
         "lowStockNote": "Only 4 left in stock",
         "url": "https://www.amazon.com/dp/B0GXCHBRTC",
         "tabs": [
-          "home",
-          "new_releases"
+          "home"
         ],
         "everAvailable": true
       },
@@ -143,21 +142,19 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
         "tabs": [
-          "home",
-          "new_releases"
+          "home"
         ],
         "everAvailable": true
       },
       "B0GXC9W89R": {
         "key": "B0GXC9W89R",
         "title": "Magic: The Gathering Reality Fracture Bundle | Includes 9 Play Boosters, 30 Lands, 1 Foil Alt-Art Promo Card + Exclusive Accessories",
-        "price": "$49.38",
+        "price": "$49.34",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9W89R",
         "tabs": [
-          "home",
-          "new_releases"
+          "home"
         ],
         "everAvailable": true
       },
@@ -193,8 +190,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H2D3JF",
         "tabs": [
-          "home",
-          "new_releases"
+          "home"
         ],
         "everAvailable": true
       },
@@ -230,8 +226,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H1XTK6",
         "tabs": [
-          "home",
-          "new_releases"
+          "home"
         ],
         "everAvailable": true
       },
@@ -291,8 +286,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBW828",
         "tabs": [
-          "home",
-          "new_releases"
+          "home"
         ],
         "everAvailable": true
       },
@@ -304,8 +298,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCH6X4K",
         "tabs": [
-          "home",
-          "new_releases"
+          "home"
         ],
         "everAvailable": true
       },
@@ -317,8 +310,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCKJ5JH",
         "tabs": [
-          "home",
-          "new_releases"
+          "home"
         ],
         "everAvailable": true
       },
@@ -366,8 +358,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
         "tabs": [
-          "home",
-          "new_releases"
+          "home"
         ],
         "everAvailable": true
       },
@@ -391,8 +382,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G867CCWN",
         "tabs": [
-          "home",
-          "new_releases"
+          "home"
         ],
         "everAvailable": true
       },
@@ -428,8 +418,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
         "tabs": [
-          "home",
-          "new_releases"
+          "home"
         ],
         "everAvailable": true
       },
@@ -1029,7 +1018,7 @@
       "B0HNV3M7YV": {
         "key": "B0HNV3M7YV",
         "title": "Magic: The Gathering Nauctis: The Sunken Realm Commander Deck Bundle | Includes All 4 Decks (Merfolk Regiment, Terrors of the Abyss, Blood in the Water, Seal the Deal)",
-        "price": "$199.96",
+        "price": null,
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNV3M7YV",
@@ -1135,22 +1124,7 @@
         "everAvailable": true
       }
     },
-    "pendingRestock": {
-      "B0HNV3M7YV": {
-        "item": {
-          "key": "B0HNV3M7YV",
-          "title": "Magic: The Gathering Nauctis: The Sunken Realm Commander Deck Bundle | Includes All 4 Decks (Merfolk Regiment, Terrors of the Abyss, Blood in the Water, Seal the Deal)",
-          "price": "$199.96",
-          "available": true,
-          "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0HNV3M7YV",
-          "tabs": [
-            "preorder"
-          ]
-        },
-        "firstSeenAt": 1795555133762
-      }
-    }
+    "pendingRestock": {}
   },
   "bestbuy": {
     "items": {
