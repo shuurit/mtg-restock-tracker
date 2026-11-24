@@ -1,11 +1,11 @@
 {
-  "lastChecked": "2026-11-24T06:19:06.120Z",
+  "lastChecked": "2026-11-24T07:19:10.254Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
         "key": "B0GXCBJG9L",
         "title": "Magic: The Gathering | The Hobbit Play Booster Box | 30 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-        "price": "$145.42",
+        "price": "$145.44",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBJG9L",
@@ -17,9 +17,9 @@
       "B0GXC89N66": {
         "key": "B0GXC89N66",
         "title": "Magic: The Gathering | The Hobbit Collector Booster Box | 12 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
-        "price": "$455.88",
+        "price": "$698.00",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 5 left in stock",
         "url": "https://www.amazon.com/dp/B0GXC89N66",
         "tabs": [
           "new_releases"
@@ -29,7 +29,7 @@
       "B0GWS9J9VT": {
         "key": "B0GWS9J9VT",
         "title": "Magic: The Gathering | The Hobbit Collector Booster | 1 Pack (15 Cards) | Collectible Trading Card Game",
-        "price": "$70.85",
+        "price": "$70.87",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS9J9VT",
@@ -53,7 +53,7 @@
       "B0GWS8DC8C": {
         "key": "B0GWS8DC8C",
         "title": "Magic: The Gathering | The Hobbit Gift Bundle | Collectible Trading Card Game",
-        "price": "$94.43",
+        "price": "$94.45",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS8DC8C",
@@ -106,7 +106,7 @@
         "lowStockNote": "Only 2 left in stock",
         "url": "https://www.amazon.com/dp/B0GXCHBRTC",
         "tabs": [
-          "home"
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -142,7 +142,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
         "tabs": [
-          "home"
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -154,7 +154,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9W89R",
         "tabs": [
-          "home"
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -190,7 +190,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H2D3JF",
         "tabs": [
-          "home"
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -226,7 +226,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H1XTK6",
         "tabs": [
-          "home"
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -286,7 +286,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBW828",
         "tabs": [
-          "home"
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -298,7 +298,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCH6X4K",
         "tabs": [
-          "home"
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -310,7 +310,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCKJ5JH",
         "tabs": [
-          "home"
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -353,12 +353,12 @@
       "B0GF4MXFPC": {
         "key": "B0GF4MXFPC",
         "title": "Magic: The Gathering | Marvel Super Heroes Play Booster Box | 30 Packs | Collectible Trading Card Game",
-        "price": "$125.03",
+        "price": "$124.81",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
         "tabs": [
-          "home"
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -382,7 +382,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G867CCWN",
         "tabs": [
-          "home"
+          "new_releases"
         ],
         "everAvailable": true
       },
@@ -418,16 +418,16 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
         "tabs": [
-          "home"
+          "new_releases"
         ],
         "everAvailable": true
       },
       "B0G87RDQPV": {
         "key": "B0G87RDQPV",
         "title": "Magic: The Gathering | Marvel Super Heroes - Bundle: Gift Edition (Deluxe Bundle with 1 Collector Booster, 9 Play Boosters, 30 Lands, 1 Alt-Art Card + Exclusive Accessories)",
-        "price": "$83.13",
+        "price": "$87.28",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 6 left in stock",
         "url": "https://www.amazon.com/dp/B0G87RDQPV",
         "tabs": [
           "new_releases"
@@ -523,7 +523,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Scene Box - Heroes United | 6 Foil Borderless Scene Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
         "price": "$26.15",
         "available": true,
-        "lowStockNote": "Only 19 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G89MWJMC",
         "tabs": [
           "new_releases"
@@ -826,7 +826,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK5SVVTY",
         "tabs": [
-          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -923,7 +922,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK6BMDNT",
         "tabs": [
-          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -984,7 +982,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNTPPHD7",
         "tabs": [
-          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -997,7 +994,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNRHT397",
         "tabs": [
-          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -1010,7 +1006,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNR3ZXMR",
         "tabs": [
-          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -1018,7 +1013,7 @@
       "B0HNV3M7YV": {
         "key": "B0HNV3M7YV",
         "title": "Magic: The Gathering Nauctis: The Sunken Realm Commander Deck Bundle | Includes All 4 Decks (Merfolk Regiment, Terrors of the Abyss, Blood in the Water, Seal the Deal)",
-        "price": "$199.96",
+        "price": null,
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNV3M7YV",
@@ -1124,22 +1119,7 @@
         "everAvailable": true
       }
     },
-    "pendingRestock": {
-      "B0HNV3M7YV": {
-        "item": {
-          "key": "B0HNV3M7YV",
-          "title": "Magic: The Gathering Nauctis: The Sunken Realm Commander Deck Bundle | Includes All 4 Decks (Merfolk Regiment, Terrors of the Abyss, Blood in the Water, Seal the Deal)",
-          "price": "$199.96",
-          "available": true,
-          "lowStockNote": null,
-          "url": "https://www.amazon.com/dp/B0HNV3M7YV",
-          "tabs": [
-            "preorder"
-          ]
-        },
-        "firstSeenAt": 1795501146121
-      }
-    }
+    "pendingRestock": {}
   },
   "bestbuy": {
     "items": {
