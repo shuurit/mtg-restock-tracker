@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-23T23:19:19.825Z",
+  "lastChecked": "2026-11-24T00:19:02.873Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -463,7 +463,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck Bundle - Includes All 4 Decks (Avengers Assemble, Wakanda Forever, The Fantastic Four, Doom Prevails)",
         "price": "$168.00",
         "available": true,
-        "lowStockNote": "Only 12 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF44MVBP",
         "tabs": [
           "new_releases"
@@ -521,9 +521,9 @@
       "B0G89MWJMC": {
         "key": "B0G89MWJMC",
         "title": "Magic: The Gathering | Marvel Super Heroes Scene Box - Heroes United | 6 Foil Borderless Scene Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
-        "price": "$26.15",
+        "price": "$25.99",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0G89MWJMC",
         "tabs": [
           "new_releases"
@@ -826,7 +826,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK5SVVTY",
         "tabs": [
-          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -923,7 +922,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK6BMDNT",
         "tabs": [
-          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -984,7 +982,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNTPPHD7",
         "tabs": [
-          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -997,7 +994,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNRHT397",
         "tabs": [
-          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -1010,7 +1006,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNR3ZXMR",
         "tabs": [
-          "home",
           "preorder"
         ],
         "everAvailable": true
@@ -1116,7 +1111,7 @@
         "title": "Magic: The Gathering | Star Trek Commander Deck - We are the Borg",
         "price": "$72.10",
         "available": true,
-        "lowStockNote": "Only 14 left in stock",
+        "lowStockNote": "Only 10 left in stock",
         "url": "https://www.amazon.com/dp/B0H6GTL14Z",
         "tabs": [
           "new_releases"
