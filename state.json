@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-25T02:19:22.629Z",
+  "lastChecked": "2026-11-25T03:19:07.379Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -89,7 +89,7 @@
       "B0GWS582CC": {
         "key": "B0GWS582CC",
         "title": "Magic: The Gathering | The Hobbit Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens | Collectible Trading Card Game",
-        "price": "$137.00",
+        "price": "$135.00",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GWS582CC",
@@ -137,7 +137,7 @@
       "B0GXC9SDV9": {
         "key": "B0GXC9SDV9",
         "title": "Magic: The Gathering Reality Fracture Commander Deck - Multiverse Reforged | 100-Card Deck + Accessories",
-        "price": "$44.97",
+        "price": "$44.80",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
@@ -427,7 +427,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes - Bundle: Gift Edition (Deluxe Bundle with 1 Collector Booster, 9 Play Boosters, 30 Lands, 1 Alt-Art Card + Exclusive Accessories)",
         "price": "$83.13",
         "available": true,
-        "lowStockNote": "Only 4 left in stock",
+        "lowStockNote": "Only 1 left in stock",
         "url": "https://www.amazon.com/dp/B0G87RDQPV",
         "tabs": [
           "new_releases"
@@ -523,7 +523,7 @@
         "title": "Magic: The Gathering | Marvel Super Heroes Scene Box - Heroes United | 6 Foil Borderless Scene Cards, 6 Art Cards, 3 Play Boosters + Display Easel",
         "price": "$26.15",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 16 left in stock",
         "url": "https://www.amazon.com/dp/B0G89MWJMC",
         "tabs": [
           "new_releases"
@@ -1013,7 +1013,7 @@
       "B0HNV3M7YV": {
         "key": "B0HNV3M7YV",
         "title": "Magic: The Gathering Nauctis: The Sunken Realm Commander Deck Bundle | Includes All 4 Decks (Merfolk Regiment, Terrors of the Abyss, Blood in the Water, Seal the Deal)",
-        "price": null,
+        "price": "$199.96",
         "available": false,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNV3M7YV",
@@ -1119,7 +1119,22 @@
         "everAvailable": true
       }
     },
-    "pendingRestock": {}
+    "pendingRestock": {
+      "B0HNV3M7YV": {
+        "item": {
+          "key": "B0HNV3M7YV",
+          "title": "Magic: The Gathering Nauctis: The Sunken Realm Commander Deck Bundle | Includes All 4 Decks (Merfolk Regiment, Terrors of the Abyss, Blood in the Water, Seal the Deal)",
+          "price": "$199.96",
+          "available": true,
+          "lowStockNote": null,
+          "url": "https://www.amazon.com/dp/B0HNV3M7YV",
+          "tabs": [
+            "preorder"
+          ]
+        },
+        "firstSeenAt": 1795576747379
+      }
+    }
   },
   "bestbuy": {
     "items": {
