@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-26T15:19:41.822Z",
+  "lastChecked": "2026-11-26T16:19:14.290Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -101,7 +101,7 @@
       "B0GXCHBRTC": {
         "key": "B0GXCHBRTC",
         "title": "Magic: The Gathering Reality Fracture Play Booster Box | 30 Packs",
-        "price": "$121.45",
+        "price": "$119.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCHBRTC",
@@ -221,7 +221,7 @@
       "B0H6H1XTK6": {
         "key": "B0H6H1XTK6",
         "title": "Magic: The Gathering | Star Trek Bundle",
-        "price": "$56.98",
+        "price": "$58.33",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H1XTK6",
@@ -826,8 +826,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK5SVVTY",
         "tabs": [
-          "home",
-          "preorder"
+          "home"
         ],
         "everAvailable": true
       },
@@ -923,8 +922,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HK6BMDNT",
         "tabs": [
-          "home",
-          "preorder"
+          "home"
         ],
         "everAvailable": true
       },
@@ -984,8 +982,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNTPPHD7",
         "tabs": [
-          "home",
-          "preorder"
+          "home"
         ],
         "everAvailable": true
       },
@@ -997,8 +994,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNRHT397",
         "tabs": [
-          "home",
-          "preorder"
+          "home"
         ],
         "everAvailable": true
       },
@@ -1010,8 +1006,7 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0HNR3ZXMR",
         "tabs": [
-          "home",
-          "preorder"
+          "home"
         ],
         "everAvailable": true
       },
