@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-28T10:19:24.340Z",
+  "lastChecked": "2026-11-28T11:19:14.664Z",
   "amazon": {
     "items": {
       "B0GXCBJG9L": {
@@ -101,12 +101,11 @@
       "B0GXCHBRTC": {
         "key": "B0GXCHBRTC",
         "title": "Magic: The Gathering Reality Fracture Play Booster Box | 30 Packs",
-        "price": "$125.28",
+        "price": "$128.51",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCHBRTC",
         "tabs": [
-          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -114,7 +113,7 @@
       "B0GXC667JV": {
         "key": "B0GXC667JV",
         "title": "Magic: The Gathering Reality Fracture Collector Booster Box | 12 Packs",
-        "price": "$414.03",
+        "price": "$413.99",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC667JV",
@@ -143,7 +142,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9SDV9",
         "tabs": [
-          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -156,7 +154,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXC9W89R",
         "tabs": [
-          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -178,7 +175,7 @@
         "title": "Magic: The Gathering Reality Fracture Draft Night | 1 Collector Booster, 12 Play Boosters, 90 Lands, 10 Tokens",
         "price": "$87.95",
         "available": true,
-        "lowStockNote": null,
+        "lowStockNote": "Only 13 left in stock",
         "url": "https://www.amazon.com/dp/B0GXC9JFZY",
         "tabs": [
           "new_releases"
@@ -190,10 +187,9 @@
         "title": "Magic: The Gathering | Star Trek Play Booster Box",
         "price": "$115.29",
         "available": true,
-        "lowStockNote": "Only 19 left in stock",
+        "lowStockNote": "Only 12 left in stock",
         "url": "https://www.amazon.com/dp/B0H6H2D3JF",
         "tabs": [
-          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -230,7 +226,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H1XTK6",
         "tabs": [
-          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -291,7 +286,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCBW828",
         "tabs": [
-          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -304,7 +298,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCH6X4K",
         "tabs": [
-          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -317,7 +310,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GXCKJ5JH",
         "tabs": [
-          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -366,7 +358,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0GF4MXFPC",
         "tabs": [
-          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -391,7 +382,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G867CCWN",
         "tabs": [
-          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -428,7 +418,6 @@
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87CB5VB",
         "tabs": [
-          "home",
           "new_releases"
         ],
         "everAvailable": true
@@ -436,9 +425,9 @@
       "B0G87RDQPV": {
         "key": "B0G87RDQPV",
         "title": "Magic: The Gathering | Marvel Super Heroes - Bundle: Gift Edition (Deluxe Bundle with 1 Collector Booster, 9 Play Boosters, 30 Lands, 1 Alt-Art Card + Exclusive Accessories)",
-        "price": "$83.13",
+        "price": "$88.88",
         "available": true,
-        "lowStockNote": "Only 1 left in stock",
+        "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0G87RDQPV",
         "tabs": [
           "new_releases"
@@ -1089,7 +1078,7 @@
       "B0H6H5PT8N": {
         "key": "B0H6H5PT8N",
         "title": "Magic: The Gathering | Star Trek Commander Deck - Federation Fleet",
-        "price": "$54.00",
+        "price": "$52.92",
         "available": true,
         "lowStockNote": null,
         "url": "https://www.amazon.com/dp/B0H6H5PT8N",
